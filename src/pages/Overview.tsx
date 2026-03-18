@@ -15,6 +15,26 @@ export function Overview() {
 	const [topics, setTopics] = useState<Topic[]>([]);
 	const [trends, setTrends] = useState<TrendDataPoint[]>([]);
 
+	const getResultVariant = (result: string) => {
+		if (result === "angenommen") {
+			return "default";
+		}
+		if (result === "abgelehnt") {
+			return "destructive";
+		}
+		return "secondary";
+	};
+
+	const getResultClass = (result: string) => {
+		if (result === "angenommen") {
+			return "bg-green-600 hover:bg-green-700 text-white border-transparent";
+		}
+		if (result === "vertagt") {
+			return "bg-yellow-500 hover:bg-yellow-600 text-white border-transparent";
+		}
+		return "";
+	};
+
 	useEffect(() => {
 		fetch("/data/sessions.json")
 			.then((r) => r.json())
@@ -54,7 +74,7 @@ export function Overview() {
 					Ausschuss für Digitalisierung und Datenschutz
 				</h2>
 				<p className="text-lg text-muted-foreground max-w-2xl">
-					19. Wahlperiode • Berliner Abgeordnetenhaus
+					Berliner Abgeordnetenhaus
 					<br />
 					Zusammenfassung der Diskussionen, Themen und Parteipositionen auf
 					Basis offizieller Protokolle.
@@ -98,7 +118,9 @@ export function Overview() {
 			</div>
 
 			<section className="space-y-4">
-				<h3 className="text-xl font-bold">Themen-Trends</h3>
+				<h3 className="text-xl font-bold">
+					Themen-Trends (Vorkommen pro Monat)
+				</h3>
 				<TrendChart data={trends} />
 			</section>
 
@@ -137,20 +159,8 @@ export function Overview() {
 										</td>
 										<td className="px-4 py-3 align-top whitespace-nowrap">
 											<Badge
-												variant={
-													d.result === "angenommen"
-														? "default"
-														: d.result === "abgelehnt"
-															? "destructive"
-															: "secondary"
-												}
-												className={
-													d.result === "angenommen"
-														? "bg-green-600 hover:bg-green-700 text-white border-transparent"
-														: d.result === "vertagt"
-															? "bg-yellow-500 hover:bg-yellow-600 text-white border-transparent"
-															: ""
-												}
+												variant={getResultVariant(d.result)}
+												className={getResultClass(d.result)}
 											>
 												{d.result}
 											</Badge>

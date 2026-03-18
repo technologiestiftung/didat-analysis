@@ -4,7 +4,6 @@ import { PartyPositions } from "../components/PartyPositions";
 import {
 	Card,
 	CardContent,
-	CardDescription,
 	CardHeader,
 	CardTitle,
 } from "../components/ui/card";
@@ -96,17 +95,13 @@ export function Topics() {
 											<CardTitle className="text-xl mb-1">
 												{topic.name}
 											</CardTitle>
-											<CardDescription>
-												Diskutiert in {topic.sessionIds.length} Sitzung
-												{topic.sessionIds.length !== 1 && "en"}
-											</CardDescription>
 										</div>
 									</div>
 								</CardHeader>
 								<CardContent className="p-0">
 									<div className="p-6">
 										<h4 className="font-semibold mb-4 text-sm text-muted-foreground uppercase tracking-wider">
-											Positionen im Zeitverlauf
+											Positionen
 										</h4>
 										<PartyPositions
 											positions={topicPositions}

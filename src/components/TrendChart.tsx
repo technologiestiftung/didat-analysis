@@ -34,7 +34,7 @@ export function TrendChart({ data }: TrendChartProps) {
 
 	// 2. Transform flat data into wide format: [{ date: "2025-01", "KI": 5, "Smart City": 2 }, ...]
 	const chartData = dates.map((date) => {
-		const point: any = { date };
+		const point: Record<string, string | number> = { date };
 		categories.forEach((cat) => {
 			const match = data.find((d) => d.date === date && d.category === cat);
 			point[safeKey(cat)] = match ? match.count : 0;

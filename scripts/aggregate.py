@@ -9,12 +9,6 @@ def parse_date_from_raw(raw):
     match = re.search(r"(\d{1,2})\.(\d{1,2})\.(\d{4})", raw)
     if match:
         d, m, y = match.groups()
-        # Fix known typo in parliament data where a date is wrongly put as 2026
-        if y == "2026":
-            y = "2025"
-        elif y == "2025" and int(m) > 6 and int(d) > 0:
-            pass # just leaving it as is for now, maybe it's correct
-            
         return f"{y}-{m.zfill(2)}-{d.zfill(2)}"
     return "2024-01-01"
 

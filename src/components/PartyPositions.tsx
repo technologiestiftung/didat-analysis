@@ -27,8 +27,28 @@ const partyColors: Record<string, string> = {
 const stanceIcons: Record<string, string> = {
 	pro: "👍",
 	contra: "👎",
-	neutral: "➖",
-	"keine Aussage": "❓",
+	neutral: "-",
+	"keine Aussage": "-",
+};
+
+const getResultVariant = (result: string) => {
+	if (result === "angenommen") {
+		return "default";
+	}
+	if (result === "abgelehnt") {
+		return "destructive";
+	}
+	return "secondary";
+};
+
+const getResultClass = (result: string) => {
+	if (result === "angenommen") {
+		return "bg-green-600 hover:bg-green-700 text-white border-transparent";
+	}
+	if (result === "vertagt") {
+		return "bg-yellow-500 hover:bg-yellow-600 text-white border-transparent";
+	}
+	return "";
 };
 
 export function PartyPositions({
@@ -60,7 +80,7 @@ export function PartyPositions({
 								<div className="flex flex-col items-center gap-1">
 									<span
 										className={`w-3 h-3 rounded-full ${partyColors[party] || "bg-gray-400"}`}
-									></span>
+									/>
 									{party}
 								</div>
 							</th>
@@ -95,7 +115,10 @@ export function PartyPositions({
 											>
 												{pos ? (
 													<div className="flex flex-col items-center gap-2 group relative">
-														<span className="text-lg" title={pos.stance}>
+														<span
+															className={`text-lg ${["neutral", "keine Aussage"].includes(pos.stance) ? "text-muted-foreground/50" : ""}`}
+															title={pos.stance}
+														>
 															{stanceIcons[pos.stance] || "•"}
 														</span>
 														{pos.quote && (
@@ -105,7 +128,9 @@ export function PartyPositions({
 														)}
 													</div>
 												) : (
-													<span className="text-muted-foreground/30">-</span>
+													<span className="text-lg text-muted-foreground/50">
+														-
+													</span>
 												)}
 											</td>
 										);
@@ -139,20 +164,8 @@ export function PartyPositions({
 																		<p className="text-sm mb-2">{d.text}</p>
 																		<div className="flex items-center justify-between">
 																			<Badge
-																				variant={
-																					d.result === "angenommen"
-																						? "default"
-																						: d.result === "abgelehnt"
-																							? "destructive"
-																							: "secondary"
-																				}
-																				className={
-																					d.result === "angenommen"
-																						? "bg-green-600 hover:bg-green-700 text-white border-transparent"
-																						: d.result === "vertagt"
-																							? "bg-yellow-500 hover:bg-yellow-600 text-white border-transparent"
-																							: ""
-																				}
+																				variant={getResultVariant(d.result)}
+																				className={getResultClass(d.result)}
 																			>
 																				{d.result}
 																			</Badge>

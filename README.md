@@ -1,122 +1,80 @@
-![](https://img.shields.io/badge/Built%20with%20%E2%9D%A4%EF%B8%8F-at%20Technologiestiftung%20Berlin-blue)
+# DiDat Analyse - Ausschuss für Digitalisierung und Datenschutz
 
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+Diese Web-App bietet eine interaktive Analyse und Übersicht über die Sitzungsprotokolle und Diskussionen des Berliner Ausschusses für Digitalisierung und Datenschutz (Wahlperiode 2025 - 2026).
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-0-orange.svg?style=flat-square)](#contributors-)
+Die App analysiert vollautomatisiert (mittels NLP/LLM) offizielle Beschlussprotokolle, kategorisiert die diskutierten Themen, leitet Themen-Trends über die Zeit ab und extrahiert detailliert die geäußerten Positionen der einzelnen Parteien (SPD, CDU, Grüne, FDP, Linke, AfD) zu den jeweiligen Fachbereichen.
 
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
+## Hauptfunktionen
 
-# {template-vite-react}
+- **Übersicht (Dashboard):** Auf einen Blick die Anzahl der Sitzungen, gefassten Beschlüsse und diskutierten Themen. Eine Trend-Grafik visualisiert die thematische Entwicklung über die Monate.
+- **Themen & Parteipositionen:** Alle diskutierten Themen sind in handliche Kategorien (z.B. _E-Government_, _KI_, _Cybersicherheit_) gruppiert. Man kann zu jedem Thema nachlesen, welche Partei sich wie (pro, contra, neutral) positioniert hat, inklusive der wichtigsten Zitate aus dem Originalprotokoll.
+- **Sitzungen:** Eine chronologische Liste aller verarbeiteten Sitzungen. Ein Klick öffnet ein Detail-Panel mit den konkreten Beschlüssen (inklusive Abstimmungsergebnissen) und verlinkt direkt auf die PDF-Originaldokumente des Berliner Parlaments.
 
-## TODO (after you generated the repo)
+## Technische Architektur
 
-- [ ] Review the content of the README.md and adjust to your liking
-- [ ] Read the README.md till the end and adjust the content licensing,
-      logos, etc (I know you stopped at tbd...)
-- [ ] Adjust the file [.github/CODEOWNERS](./.github/CODEOWNERS)
-- [ ] Adjust the files under [.github/ISSUE_TEMPLATE](./.github/ISSUE_TEMPLATE)
-- [ ] If you need unit, 2e2, a11y tests, or releases, you can enable them in this file: [pipeline.yml](.github/workflows/pipeline.yml)
-- [ ] If you use staging and main branches use this template for [.github/renovate.json](./.github/renovate.json)
+Dieses Projekt besteht aus zwei Hauptkomponenten:
 
-```json
-{
-	"$schema": "https://docs.renovatebot.com/renovate-schema.json",
-	"extends": ["github>technologiestiftung/renovate-config"],
-	"baseBranches": ["staging"]
-}
-```
+1.  **Python Data-Pipeline (`scripts/`):**
+    Lädt die Rohdokumente vom Parlament herunter, extrahiert die Texte aus den PDFs und lässt eine Large Language Model (Gemini 2.5 Pro) die komplexen Textanalysen durchführen. Anschließend werden die Daten aggregiert und für das Frontend als fertige JSON-Dateien (`public/data/*.json`) abgelegt.
+2.  **React/Vite Frontend (`src/`):**
+    Eine schlanke, leichtgewichtige Single Page Application (SPA), die ohne Laufzeit-Backend auskommt. Alle berechneten JSON-Daten werden direkt im Frontend gerendert und gefiltert. Die UI basiert auf Tailwind CSS und Shadcn.
 
-- [ ] Do you want to honor all kinds of contributions? Use [all-contributors](https://allcontributors.org/)
+### Data-Pipeline ausführen
+
+Um neue Sitzungen vom Berliner Parlament hinzuzufügen, muss die Daten-Pipeline erneut ausgeführt werden.
+
+Voraussetzungen:
+
+- Python 3.9+ installiert
+- `.venv` anlegen und Pakete installieren: `python3 -m venv .venv && source .venv/bin/activate && pip install -r requirements.txt`
+- Installiere Playwright-Browser: `playwright install chromium`
+- Lege eine `.env` Datei mit deinem Gemini API Key an (`GEMINI_API_KEY="dein-key"`)
+
+Führe dann die komplette Pipeline aus:
 
 ```bash
-npx all-contributors-cli check
-npx all-contributors-cli add ff6347 doc
+# Lade virtuelle Umgebung
+source .venv/bin/activate
+source .env
+
+# 1. Neue Dokumente scrapend
+python scripts/scrape_docs.py
+
+# 2. PDFs laden und Text extrahieren
+python scripts/parse_pdfs.py
+
+# 3. KI-Analyse durchführen (Achtung: Dies sendet Daten an die API und kann mehrere Minuten dauern)
+python scripts/analyze.py
+
+# 4. Daten für das Frontend aggregieren
+python scripts/aggregate.py
 ```
 
-You can use it on GitHub just by commenting on PRs and issues:
+## Installation und Entwicklung Frontend
 
-```plain
-@all-contributors please add @ff6347 for infrastructure, tests and code
+Das Frontend ist mit [Vite](https://vitejs.dev/), [React](https://reactjs.org/) und [Tailwind CSS](https://tailwindcss.com/) gebaut.
+
+Abhängigkeiten installieren:
+
+```bash
+pnpm install
 ```
 
-- [ ] Add your project description
-- [ ] Get fancy shields at https://shields.io
+Lokalen Entwicklungsserver starten:
 
-## Prerequisites
+```bash
+pnpm run dev
+```
 
-tbd...
+Die App ist dann unter `http://localhost:5173` erreichbar.
 
-## Installation
+Für das Produktions-Build:
 
-tbd...
-
-## Usage or Deployment
-
-tbd...
-
-## Development
-
-tbd...
-
-## Tests
-
-tbd...
-
-## Contributing
-
-Before you create a pull request, write an issue so we can discuss your changes.
-
-## Contributors
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-  </tr>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
-
-## Content Licensing
-
-Texts and content available as [CC BY](https://creativecommons.org/licenses/by/3.0/de/).
-
-Illustrations by {MARIA_MUSTERFRAU}, all rights reserved.
+```bash
+pnpm run build
+```
 
 ## Credits
 
-<table>
-  <tr>
-    <td>
-      Made by <a href="https://citylab-berlin.org/de/start/">
-        <br />
-        <br />
-        <img width="200" src="https://logos.citylab-berlin.org/logo-citylab-color.svg" alt="Link to the CityLAB Berlin website" />
-      </a>
-    </td>
-    <td>
-      A project by <a href="https://www.technologiestiftung-berlin.de/">
-        <br />
-        <br />
-        <img width="150" src="https://logos.citylab-berlin.org/logo-technologiestiftung-berlin-de.svg" alt="Link to the Technologiestiftung Berlin website" />
-      </a>
-    </td>
-    <td>
-      Supported by <a href="https://www.berlin.de/rbmskzl/">
-        <br />
-        <br />
-        <img width="80" src="https://logos.citylab-berlin.org/logo-berlin-senatskanzelei-de.svg" alt="Link to the Senate Chancellery of Berlin"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-## Related Projects
+Basierend auf dem Vite-React-Template der [Technologiestiftung Berlin](https://github.com/technologiestiftung/template-vite-react).
+Illustrationen und Design-System: Shadcn, Tailwind CSS, Lucide.

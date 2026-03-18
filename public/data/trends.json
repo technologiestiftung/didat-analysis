@@ -1,8 +1,53 @@
 [
   {
-    "date": "2025-02",
+    "date": "2026-03",
     "category": "Datenschutz & Informationsfreiheit",
-    "count": 3
+    "count": 2
+  },
+  {
+    "date": "2026-03",
+    "category": "Cybersicherheit",
+    "count": 1
+  },
+  {
+    "date": "2026-03",
+    "category": "IT-Infrastruktur & ITDZ",
+    "count": 1
+  },
+  {
+    "date": "2026-02",
+    "category": "Datenschutz & Informationsfreiheit",
+    "count": 2
+  },
+  {
+    "date": "2026-02",
+    "category": "IT-Infrastruktur & ITDZ",
+    "count": 2
+  },
+  {
+    "date": "2026-02",
+    "category": "Künstliche Intelligenz (KI)",
+    "count": 1
+  },
+  {
+    "date": "2026-02",
+    "category": "Digitale Bürgerdienste (E-Government)",
+    "count": 1
+  },
+  {
+    "date": "2026-01",
+    "category": "Digitale Bürgerdienste (E-Government)",
+    "count": 4
+  },
+  {
+    "date": "2026-01",
+    "category": "IT-Infrastruktur & ITDZ",
+    "count": 1
+  },
+  {
+    "date": "2026-01",
+    "category": "Open Data & Open Source",
+    "count": 1
   },
   {
     "date": "2025-12",
@@ -32,12 +77,12 @@
   {
     "date": "2025-11",
     "category": "Digitale Bürgerdienste (E-Government)",
-    "count": 6
+    "count": 5
   },
   {
     "date": "2025-11",
     "category": "Verwaltungsreform & Haushalt",
-    "count": 1
+    "count": 2
   },
   {
     "date": "2025-11",
@@ -46,7 +91,7 @@
   },
   {
     "date": "2025-10",
-    "category": "Datenschutz & Informationsfreiheit",
+    "category": "Cybersicherheit",
     "count": 1
   },
   {
@@ -57,11 +102,6 @@
   {
     "date": "2025-10",
     "category": "IT-Infrastruktur & ITDZ",
-    "count": 1
-  },
-  {
-    "date": "2025-10",
-    "category": "Digitale Bürgerdienste (E-Government)",
     "count": 1
   },
   {
@@ -100,11 +140,6 @@
     "count": 1
   },
   {
-    "date": "2025-07",
-    "category": "Datenschutz & Informationsfreiheit",
-    "count": 1
-  },
-  {
     "date": "2025-06",
     "category": "Open Data & Open Source",
     "count": 2
@@ -126,11 +161,6 @@
   },
   {
     "date": "2025-05",
-    "category": "Digitale Bürgerdienste (E-Government)",
-    "count": 1
-  },
-  {
-    "date": "2025-05",
     "category": "Cybersicherheit",
     "count": 2
   },
@@ -142,101 +172,11 @@
   {
     "date": "2025-05",
     "category": "IT-Infrastruktur & ITDZ",
-    "count": 1
+    "count": 2
   },
   {
     "date": "2025-05",
     "category": "Open Data & Open Source",
-    "count": 1
-  },
-  {
-    "date": "2025-04",
-    "category": "Verwaltungsreform & Haushalt",
-    "count": 1
-  },
-  {
-    "date": "2025-04",
-    "category": "Digitale Bürgerdienste (E-Government)",
-    "count": 2
-  },
-  {
-    "date": "2025-04",
-    "category": "Datenschutz & Informationsfreiheit",
-    "count": 1
-  },
-  {
-    "date": "2025-03",
-    "category": "Datenschutz & Informationsfreiheit",
-    "count": 3
-  },
-  {
-    "date": "2025-03",
-    "category": "Digitale Bürgerdienste (E-Government)",
-    "count": 2
-  },
-  {
-    "date": "2025-03",
-    "category": "IT-Infrastruktur & ITDZ",
-    "count": 1
-  },
-  {
-    "date": "2025-02",
-    "category": "Verwaltungsreform & Haushalt",
-    "count": 3
-  },
-  {
-    "date": "2025-02",
-    "category": "IT-Infrastruktur & ITDZ",
-    "count": 2
-  },
-  {
-    "date": "2025-02",
-    "category": "Open Data & Open Source",
-    "count": 2
-  },
-  {
-    "date": "2025-01",
-    "category": "Digitale Bürgerdienste (E-Government)",
-    "count": 3
-  },
-  {
-    "date": "2025-01",
-    "category": "Verwaltungsreform & Haushalt",
-    "count": 1
-  },
-  {
-    "date": "2025-01",
-    "category": "Künstliche Intelligenz (KI)",
-    "count": 1
-  },
-  {
-    "date": "2025-01",
-    "category": "Datenschutz & Informationsfreiheit",
-    "count": 1
-  },
-  {
-    "date": "2025-01",
-    "category": "IT-Infrastruktur & ITDZ",
-    "count": 1
-  },
-  {
-    "date": "2024-12",
-    "category": "Digitale Bürgerdienste (E-Government)",
-    "count": 2
-  },
-  {
-    "date": "2024-12",
-    "category": "Datenschutz & Informationsfreiheit",
-    "count": 1
-  },
-  {
-    "date": "2024-12",
-    "category": "Verwaltungsreform & Haushalt",
-    "count": 3
-  },
-  {
-    "date": "2024-12",
-    "category": "IT-Infrastruktur & ITDZ",
     "count": 1
   }
 ]

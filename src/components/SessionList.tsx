@@ -22,6 +22,20 @@ export interface SessionListProps {
 }
 
 export function SessionList({ sessions }: SessionListProps) {
+	const getResultVariant = (result: string) => {
+		if (result === "angenommen") {return "default";}
+		if (result === "abgelehnt") {return "destructive";}
+		return "secondary";
+	};
+
+	const getResultClass = (result: string) => {
+		if (result === "angenommen")
+			{return "bg-green-600 hover:bg-green-700 text-white border-transparent";}
+		if (result === "vertagt")
+			{return "bg-yellow-500 hover:bg-yellow-600 text-white border-transparent";}
+		return "";
+	};
+
 	return (
 		<div className="border border-border rounded-lg bg-card overflow-hidden">
 			<Table>
@@ -87,20 +101,8 @@ export function SessionList({ sessions }: SessionListProps) {
 																<p className="text-sm mb-2">{d.text}</p>
 																<div className="flex items-center justify-between">
 																	<Badge
-																		variant={
-																			d.result === "angenommen"
-																				? "default"
-																				: d.result === "abgelehnt"
-																					? "destructive"
-																					: "secondary"
-																		}
-																		className={
-																			d.result === "angenommen"
-																				? "bg-green-600 hover:bg-green-700 text-white border-transparent"
-																				: d.result === "vertagt"
-																					? "bg-yellow-500 hover:bg-yellow-600 text-white border-transparent"
-																					: ""
-																		}
+																		variant={getResultVariant(d.result)}
+																		className={getResultClass(d.result)}
 																	>
 																		{d.result}
 																	</Badge>
