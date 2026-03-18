@@ -1,0 +1,1399 @@
+[
+  {
+    "session_raw": "69\t23.03.2026\t\nEinladung mit Tagesordnung [229 kB]\n\t\n0151\nDrucksache 19/2999\nGesetz zur Änderung des Berliner Datenschutzgesetzes und\nRechtsvorschriften\nHierzu: Anhörung\n…  Mehr",
+    "analysis": {
+      "topics": [
+        {
+          "name": "Änderung des Berliner Datenschutzgesetzes",
+          "category": "Datenschutz & Informationsfreiheit",
+          "summary": "Der Ausschuss plant die Beratung und Beschlussfassung über eine dringliche Vorlage zur Änderung des Berliner Datenschutzgesetzes und weiterer Rechtsvorschriften. Zu diesem Tagesordnungspunkt ist eine Anhörung vorgesehen."
+        }
+      ],
+      "decisions": [],
+      "partyPositions": []
+    }
+  },
+  {
+    "session_raw": "68\t09.03.2026\t\nEinladung mit Tagesordnung [238 kB]\n\t\n0150\nIT-Sicherheit auch in Marzahn-Hellersdorf? Was ist nach Veröffentlichung\nMängelliste des Rechnungshofberichts passiert? Wie geht’s weiter?\n(auf Antrag der Fraktion Bündnis 90/Die Grünen)\n…  Mehr\n0151\nDrucksache 19/2999\nGesetz zur Änderung des Berliner Datenschutzgesetzes und\nRechtsvorschriften\nHierzu: Anhörung\n…  Mehr\n0152\nVorstellung der Multi-Cloud-Strategie\n(auf Antrag der Fraktion der CDU\nder Fraktion der SPD)\n…  Mehr",
+    "analysis": {
+      "topics": [
+        {
+          "name": "Änderung des Berliner Datenschutzgesetzes",
+          "category": "Datenschutz & Informationsfreiheit",
+          "summary": "Der Ausschuss befasst sich mit einer dringlichen Vorlage zur Änderung des Berliner Datenschutzgesetzes. Eine Beschlussfassung zu diesem Gesetzentwurf ist auf der Tagesordnung vorgesehen."
+        },
+        {
+          "name": "IT-Sicherheit in Marzahn-Hellersdorf",
+          "category": "Cybersicherheit",
+          "summary": "Auf Antrag der Fraktion Bündnis 90/Die Grünen wird die IT-Sicherheit im Bezirk Marzahn-Hellersdorf besprochen. Hintergrund ist ein Mängelbericht des Rechnungshofs, dessen Konsequenzen und das weitere Vorgehen erörtert werden sollen."
+        },
+        {
+          "name": "Vorstellung der Multi-Cloud-Strategie",
+          "category": "IT-Infrastruktur & ITDZ",
+          "summary": "Auf gemeinsamen Antrag der Fraktionen von CDU und SPD wird die Multi-Cloud-Strategie für die Berliner Verwaltung vorgestellt. Die Strategie ist ein zentraler Baustein für die zukünftige IT-Infrastruktur des Landes."
+        }
+      ],
+      "decisions": [],
+      "partyPositions": [
+        {
+          "party": "Grüne",
+          "topic": "IT-Sicherheit in Marzahn-Hellersdorf",
+          "stance": "neutral",
+          "quote": null
+        },
+        {
+          "party": "CDU",
+          "topic": "Vorstellung der Multi-Cloud-Strategie",
+          "stance": "neutral",
+          "quote": null
+        },
+        {
+          "party": "SPD",
+          "topic": "Vorstellung der Multi-Cloud-Strategie",
+          "stance": "neutral",
+          "quote": null
+        }
+      ]
+    }
+  },
+  {
+    "session_raw": "67\t23.02.2026\t\nEinladung mit Tagesordnung [248 kB]\nBeschlussprotokoll [320 kB]\n\t\n0048\nDrucksache 19/1014\nBerliner Transparenzgesetz\nHierzu: Anhörung\n0149\nDrucksache 19/2884\nStellungnahme des Senats zum Bericht der Berliner\nfür Datenschutz und Informationsfreiheit für das Jahr 2024\n…  Mehr",
+    "analysis": {
+      "topics": [
+        {
+          "name": "Stellungnahme zum Datenschutzbericht 2024",
+          "category": "Datenschutz & Informationsfreiheit",
+          "summary": "Der Ausschuss hat die Stellungnahme des Senats zum Jahresbericht 2024 der Berliner Beauftragten für Datenschutz und Informationsfreiheit beraten. Schwerpunkte der Diskussion waren der Datenschutz bei Digitalisierungsvorhaben, die Bearbeitung von IFG-Anträgen und der unrechtmäßige Einsatz von Gesichtserkennungssystemen."
+        },
+        {
+          "name": "Antrag für ein Berliner Transparenzgesetz",
+          "category": "Datenschutz & Informationsfreiheit",
+          "summary": "Ein von den Fraktionen Bündnis 90/Die Grünen und Die Linke eingebrachter Antrag zur Einführung eines Transparenzgesetzes wurde diskutiert. Nach der Aussprache wurde der Antrag von der Mehrheit des Ausschusses abgelehnt."
+        }
+      ],
+      "decisions": [
+        {
+          "text": "Stellungnahme des Senats zum Bericht der Berliner Beauftragten für Datenschutz und Informationsfreiheit für das Jahr 2024 (Drucksache 19/2884)",
+          "result": "zur Kenntnis genommen"
+        },
+        {
+          "text": "Antrag der Fraktion Bündnis 90/Die Grünen und der Fraktion Die Linke - Berliner Transparenzgesetz (Drucksache 19/1014)",
+          "result": "abgelehnt"
+        }
+      ],
+      "partyPositions": [
+        {
+          "party": "Grüne",
+          "topic": "Antrag für ein Berliner Transparenzgesetz",
+          "stance": "pro",
+          "quote": null
+        },
+        {
+          "party": "Linke",
+          "topic": "Antrag für ein Berliner Transparenzgesetz",
+          "stance": "pro",
+          "quote": null
+        },
+        {
+          "party": "CDU",
+          "topic": "Antrag für ein Berliner Transparenzgesetz",
+          "stance": "contra",
+          "quote": null
+        },
+        {
+          "party": "SPD",
+          "topic": "Antrag für ein Berliner Transparenzgesetz",
+          "stance": "contra",
+          "quote": null
+        },
+        {
+          "party": "AfD",
+          "topic": "Antrag für ein Berliner Transparenzgesetz",
+          "stance": "contra",
+          "quote": null
+        }
+      ]
+    }
+  },
+  {
+    "session_raw": "66\t09.02.2026\t\nEinladung mit Tagesordnung [239 kB]\nBeschlussprotokoll [324 kB]\n\t\n0136\nDrucksache 19/2629\nVerwaltung stärken, Service verbessern: Ein Beirat für\nNutzerfreundlichkeit\n…  Mehr\n0146\nNeue IT-Bestands- und Planungsübersicht - endlich ein Instrument\ngesamtstädtischen Steuerung?\n(auf Antrag der Fraktion Bündnis 90/Die Grünen)\n…  Mehr\n0148\nKI-Software für einfachere Behördensprache - Vorstellung des Einsatzes\nSUMM AI in der Berliner Verwaltung\n(auf Antrag der Fraktion der CDU und der Fraktion der SPD)\n…  Mehr",
+    "analysis": {
+      "topics": [
+        {
+          "name": "Zahlungsrückstände Senatskanzlei beim ITDZ",
+          "category": "IT-Infrastruktur & ITDZ",
+          "summary": "Im Rahmen der Aktuellen Viertelstunde wurde eine Anfrage zu Zahlungsrückständen der Senatskanzlei gegenüber dem ITDZ Berlin gestellt. Die Staatssekretärin begründete dies mit der hohen Prüfungssorgfalt bei komplexen IT-Projekten und nicht mit einem generellen Zahlungsverzug."
+        },
+        {
+          "name": "Einsatz von KI für Behördensprache",
+          "category": "Künstliche Intelligenz (KI)",
+          "summary": "Auf Antrag von CDU und SPD wurde der Einsatz der KI-Software SUMM AI in der Berliner Verwaltung vorgestellt. Ziel ist es, Behördensprache zu vereinfachen und die Kommunikation mit den Bürgern zu verbessern, die Besprechung wurde jedoch vertagt."
+        },
+        {
+          "name": "Beirat für digitale Nutzerfreundlichkeit",
+          "category": "Digitale Bürgerdienste (E-Government)",
+          "summary": "Die Fraktion Bündnis 90/Die Grünen beantragte die Einrichtung eines Beirats für digitale Nutzerfreundlichkeit. Dieser sollte die Verwaltung stärken und den digitalen Service für Bürgerinnen und Bürger verbessern, der Antrag wurde jedoch mehrheitlich abgelehnt."
+        },
+        {
+          "name": "Neue IT-Bestands- und Planungsübersicht",
+          "category": "IT-Infrastruktur & ITDZ",
+          "summary": "Die Fraktion Bündnis 90/Die Grünen initiierte eine Besprechung über eine neue IT-Bestands- und Planungsübersicht. Es wurde diskutiert, ob dieses Instrument eine effektive gesamtstädtische Steuerung der IT-Landschaft ermöglichen kann."
+        }
+      ],
+      "decisions": [
+        {
+          "text": "Antrag (Drs. 19/2629) zur Einrichtung eines Beirats für digitale Nutzerfreundlichkeit.",
+          "result": "abgelehnt"
+        },
+        {
+          "text": "Besprechung zum Einsatz von KI-Software für einfachere Behördensprache (SUMM AI).",
+          "result": "vertagt"
+        },
+        {
+          "text": "Besprechung zur neuen IT-Bestands- und Planungsübersicht zur gesamtstädtischen Steuerung.",
+          "result": "vertagt"
+        }
+      ],
+      "partyPositions": [
+        {
+          "party": "CDU",
+          "topic": "Einsatz von KI für Behördensprache",
+          "stance": "pro",
+          "quote": null
+        },
+        {
+          "party": "SPD",
+          "topic": "Einsatz von KI für Behördensprache",
+          "stance": "pro",
+          "quote": null
+        },
+        {
+          "party": "Grüne",
+          "topic": "Beirat für digitale Nutzerfreundlichkeit",
+          "stance": "pro",
+          "quote": null
+        },
+        {
+          "party": "CDU",
+          "topic": "Beirat für digitale Nutzerfreundlichkeit",
+          "stance": "contra",
+          "quote": null
+        },
+        {
+          "party": "SPD",
+          "topic": "Beirat für digitale Nutzerfreundlichkeit",
+          "stance": "contra",
+          "quote": null
+        },
+        {
+          "party": "AfD",
+          "topic": "Beirat für digitale Nutzerfreundlichkeit",
+          "stance": "contra",
+          "quote": null
+        },
+        {
+          "party": "Linke",
+          "topic": "Beirat für digitale Nutzerfreundlichkeit",
+          "stance": "neutral",
+          "quote": null
+        },
+        {
+          "party": "Grüne",
+          "topic": "Neue IT-Bestands- und Planungsübersicht",
+          "stance": "pro",
+          "quote": null
+        },
+        {
+          "party": "CDU",
+          "topic": "Zahlungsrückstände Senatskanzlei beim ITDZ",
+          "stance": "neutral",
+          "quote": null
+        }
+      ]
+    }
+  },
+  {
+    "session_raw": "65\t26.01.2026\t\nEinladung mit Tagesordnung [229 kB]\n1. Mitteilung zur Einladung [228 kB]\nBeschlussprotokoll [532 kB]\n\t\n0140\nDrucksache 19/2743\nEuropäischen Bezahldienst jetzt berlinweit umsetzen!\n0145\nDrucksache 19/2823\nGesetz zur Änderung des E-Government-Gesetzes Berlin, des\nund des Berliner Datenschutzgesetzes\n…  Mehr\n0147\nSachstand Einführung der OZG-Leistung „rote Karte“ mit Bezahlfunktion\nAntrag der Fraktion Bündnis 90/Die Grünen)\n…  Mehr",
+    "analysis": {
+      "topics": [
+        {
+          "name": "Änderung E-Government- und Datenschutzgesetz",
+          "category": "Digitale Bürgerdienste (E-Government)",
+          "summary": "Der Ausschuss beriet eine Gesetzesvorlage zur Änderung des E-Government-Gesetzes, des Rechnungshofgesetzes und des Berliner Datenschutzgesetzes. Nach einer Begründung durch die Senatskanzlei und einer Stellungnahme der Berliner Datenschutzbeauftragten wurde die Vorlage angenommen."
+        },
+        {
+          "name": "Einführung des europäischen Bezahldienstes Wero",
+          "category": "Digitale Bürgerdienste (E-Government)",
+          "summary": "Ein Antrag der Grünen zur berlinweiten Umsetzung des europäischen Bezahldienstes Wero wurde diskutiert. CDU und SPD brachten einen Änderungsantrag ein, der die Umsetzung an die technische Machbarkeit knüpft, welcher angenommen wurde, bevor der geänderte Gesamtantrag ebenfalls beschlossen wurde."
+        },
+        {
+          "name": "Sachstand OZG-Leistung 'rote Karte'",
+          "category": "Digitale Bürgerdienste (E-Government)",
+          "summary": "Auf Antrag der Fraktion Bündnis 90/Die Grünen wurde der Sachstand zur Einführung der OZG-Leistung 'rote Karte' mit Bezahlfunktion besprochen. Nach einer Stellungnahme der Staatssekretärin wurde der Tagesordnungspunkt abgeschlossen."
+        }
+      ],
+      "decisions": [
+        {
+          "text": "Annahme der Vorlage zur Änderung des E-Government-Gesetzes, des Rechnungshofgesetzes und des Berliner Datenschutzgesetzes (Drs. 19/2823).",
+          "result": "angenommen"
+        },
+        {
+          "text": "Annahme des Änderungsantrags von CDU und SPD zum Antrag 'Europäischen Bezahldienst jetzt berlinweit umsetzen!' (Drs. 19/2743).",
+          "result": "angenommen"
+        },
+        {
+          "text": "Annahme des geänderten Antrags 'Europäischen Bezahldienst berlinweit umsetzen!' (Drs. 19/2743).",
+          "result": "angenommen"
+        }
+      ],
+      "partyPositions": [
+        {
+          "party": "CDU",
+          "topic": "Änderung E-Government- und Datenschutzgesetz",
+          "stance": "pro",
+          "quote": null
+        },
+        {
+          "party": "SPD",
+          "topic": "Änderung E-Government- und Datenschutzgesetz",
+          "stance": "pro",
+          "quote": null
+        },
+        {
+          "party": "Grüne",
+          "topic": "Änderung E-Government- und Datenschutzgesetz",
+          "stance": "pro",
+          "quote": null
+        },
+        {
+          "party": "Linke",
+          "topic": "Änderung E-Government- und Datenschutzgesetz",
+          "stance": "pro",
+          "quote": null
+        },
+        {
+          "party": "AfD",
+          "topic": "Änderung E-Government- und Datenschutzgesetz",
+          "stance": "neutral",
+          "quote": null
+        },
+        {
+          "party": "CDU",
+          "topic": "Einführung des europäischen Bezahldienstes Wero",
+          "stance": "pro",
+          "quote": "Die Koalitionsfraktionen unterstützen das Ziel, die digitale Souveränität Berlins voranzubringen."
+        },
+        {
+          "party": "SPD",
+          "topic": "Einführung des europäischen Bezahldienstes Wero",
+          "stance": "pro",
+          "quote": "Die Koalitionsfraktionen unterstützen das Ziel, die digitale Souveränität Berlins voranzubringen."
+        },
+        {
+          "party": "Grüne",
+          "topic": "Einführung des europäischen Bezahldienstes Wero",
+          "stance": "pro",
+          "quote": null
+        },
+        {
+          "party": "Linke",
+          "topic": "Einführung des europäischen Bezahldienstes Wero",
+          "stance": "pro",
+          "quote": null
+        },
+        {
+          "party": "AfD",
+          "topic": "Einführung des europäischen Bezahldienstes Wero",
+          "stance": "neutral",
+          "quote": null
+        }
+      ]
+    }
+  },
+  {
+    "session_raw": "64\t12.01.2026\t\nEinladung mit Tagesordnung [231 kB]\nBeschlussprotokoll [387 kB]\n\t\n0140\nDrucksache 19/2743\nEuropäischen Bezahldienst jetzt berlinweit umsetzen!\n0143\nOpen-Source-Strategie – Papiertiger oder Weg zu mehr digitaler\nAntrag der Fraktion Bündnis 90/Die Grünen)\n…  Mehr\n0144\nOpenSource Strategie\n(auf Antrag der Fraktion der CDU und\nFraktion der SPD)\n…  Mehr",
+    "analysis": {
+      "topics": [
+        {
+          "name": "Netzredundanz und Notfallkommunikation",
+          "category": "IT-Infrastruktur & ITDZ",
+          "summary": "Im Rahmen der Aktuellen Viertelstunde wurden Fragen zur Zuständigkeit für die Notfallkommunikation im Katastrophenfall (Projekt Kiezbox 2.0) gestellt. Zudem wurde die Redundanz des Berliner Landesnetzes erörtert, um Ausfälle zu vermeiden."
+        },
+        {
+          "name": "Open-Source-Strategie des Landes Berlin",
+          "category": "Open Data & Open Source",
+          "summary": "Auf Antrag der Grünen sowie der Koalitionsfraktionen CDU und SPD wurde die Open-Source-Strategie des Landes besprochen. Staatssekretärin Klement sicherte zu, das Strategiepapier dem Ausschuss zur Verfügung zu stellen und zu veröffentlichen."
+        },
+        {
+          "name": "Umsetzung eines europäischen Bezahldienstes",
+          "category": "Digitale Bürgerdienste (E-Government)",
+          "summary": "Die Fraktion Bündnis 90/Die Grünen brachte einen Antrag zur berlinweiten Umsetzung eines europäischen Bezahldienstes ein. Nach einer Aussprache wurde die weitere Behandlung des Antrags vertagt."
+        }
+      ],
+      "decisions": [
+        {
+          "text": "Antrag der Fraktion Bündnis 90/Die Grünen - Drucksache 19/2743: Europäischen Bezahldienst jetzt berlinweit umsetzen!",
+          "result": "vertagt"
+        }
+      ],
+      "partyPositions": [
+        {
+          "party": "Grüne",
+          "topic": "Open-Source-Strategie des Landes Berlin",
+          "stance": "pro",
+          "quote": null
+        },
+        {
+          "party": "CDU",
+          "topic": "Open-Source-Strategie des Landes Berlin",
+          "stance": "pro",
+          "quote": null
+        },
+        {
+          "party": "SPD",
+          "topic": "Open-Source-Strategie des Landes Berlin",
+          "stance": "pro",
+          "quote": null
+        },
+        {
+          "party": "Grüne",
+          "topic": "Umsetzung eines europäischen Bezahldienstes",
+          "stance": "pro",
+          "quote": null
+        },
+        {
+          "party": "Linke",
+          "topic": "Netzredundanz und Notfallkommunikation",
+          "stance": "neutral",
+          "quote": null
+        }
+      ]
+    }
+  },
+  {
+    "session_raw": "63\t15.12.2025\t\nEinladung mit Tagesordnung [239 kB]\nBeschlussprotokoll [182 kB]\n\t\n0138\nEingabe zum Thema \"Neufassung des IFG (Transparenzgesetz)\" Pet. Nr.\ndes Petitionsausschusses nach § 4 Abs. 5 PetG\n…  Mehr\n0141\nDokumentenausgabebox, digitale Dienstleistungen & Co – Lage in\nBerliner Bürgerämtern\n(auf Antrag der Fraktion der CDU und der Fraktion der SPD)\n…  Mehr\n0142\nBericht zur Umsetzung von Mehrsprachigkeit auf berlin.de\n(auf Antrag\nFraktion der CDU und der Fraktion der SPD)\n…  Mehr",
+    "analysis": {
+      "topics": [
+        {
+          "name": "Mangelhafte Software für Gewerbeanmeldungen",
+          "category": "Digitale Bürgerdienste (E-Government)",
+          "summary": "Die Fraktion Bündnis 90/Die Grünen thematisierte Probleme mit einer neuen Software zur Gewerbeanmeldung. Berichten zufolge ist diese so mangelhaft, dass tausende Anmeldungen nicht bearbeitet werden können."
+        },
+        {
+          "name": "Liquiditätssituation des ITDZ Berlin",
+          "category": "IT-Infrastruktur & ITDZ",
+          "summary": "Auf Anfrage der CDU-Fraktion wurde die Liquiditätssituation des IT-Dienstleistungszentrums Berlin (ITDZ) erörtert. Nachfragen von SPD und Linke betrafen mögliche Gesetzeskollisionen bei der Preisgestaltung und unbezahlte Kosten für den Betrieb der 115-Hotline."
+        },
+        {
+          "name": "Mehrsprachigkeit auf berlin.de",
+          "category": "Digitale Bürgerdienste (E-Government)",
+          "summary": "Auf Antrag von CDU und SPD wurde der Stand der Umsetzung von Mehrsprachigkeit auf dem Landesportal berlin.de besprochen. Die Staatssekretärin nahm Stellung und beantwortete Fragen der Ausschussmitglieder."
+        },
+        {
+          "name": "Digitale Dienste in Bürgerämtern",
+          "category": "Digitale Bürgerdienste (E-Government)",
+          "summary": "Der Ausschuss befasste sich mit der Lage in den Berliner Bürgerämtern, insbesondere mit digitalen Dienstleistungen wie der Dokumentenausgabebox. Ein Thema war auch die drohende Einschränkung von Online-Diensten durch die verspätete Einführung des Bezahlstandards 'XBezahldienste'."
+        },
+        {
+          "name": "Petition Neufassung IFG (Transparenzgesetz)",
+          "category": "Datenschutz & Informationsfreiheit",
+          "summary": "Der Ausschuss behandelte eine Petition zur Neufassung des Informationsfreiheitsgesetzes (IFG) bzw. zur Schaffung eines Transparenzgesetzes. Die Beratung fand in nichtöffentlicher Sitzung statt."
+        }
+      ],
+      "decisions": [
+        {
+          "text": "Die Besprechung zur Umsetzung von Mehrsprachigkeit auf berlin.de wird abgeschlossen.",
+          "result": "zur Kenntnis genommen"
+        },
+        {
+          "text": "Die Besprechung zur Lage in den Berliner Bürgerämtern wird abgeschlossen.",
+          "result": "zur Kenntnis genommen"
+        }
+      ],
+      "partyPositions": [
+        {
+          "party": "Grüne",
+          "topic": "Mangelhafte Software für Gewerbeanmeldungen",
+          "stance": "contra",
+          "quote": "...neue Software zur Gewerbeanmeldung so mangelhaft ist, dass Tausende von Anmeldungen nicht bearbeitet werden können?"
+        },
+        {
+          "party": "CDU",
+          "topic": "Liquiditätssituation des ITDZ Berlin",
+          "stance": "neutral",
+          "quote": "Ist das ITDZ überhaupt insolvenzfähig und wie bewertet der Senat... die Liquiditätssituation des ITDZ Berlin?"
+        },
+        {
+          "party": "SPD",
+          "topic": "Liquiditätssituation des ITDZ Berlin",
+          "stance": "neutral",
+          "quote": null
+        },
+        {
+          "party": "Linke",
+          "topic": "Liquiditätssituation des ITDZ Berlin",
+          "stance": "neutral",
+          "quote": null
+        },
+        {
+          "party": "CDU",
+          "topic": "Mehrsprachigkeit auf berlin.de",
+          "stance": "pro",
+          "quote": null
+        },
+        {
+          "party": "SPD",
+          "topic": "Mehrsprachigkeit auf berlin.de",
+          "stance": "pro",
+          "quote": null
+        },
+        {
+          "party": "CDU",
+          "topic": "Digitale Dienste in Bürgerämtern",
+          "stance": "pro",
+          "quote": null
+        },
+        {
+          "party": "SPD",
+          "topic": "Digitale Dienste in Bürgerämtern",
+          "stance": "pro",
+          "quote": null
+        },
+        {
+          "party": "Grüne",
+          "topic": "Digitale Dienste in Bürgerämtern",
+          "stance": "contra",
+          "quote": "ob es ab Anfang Januar Einschränkungen bei den Online-Dienstleistungen geben werde"
+        }
+      ]
+    }
+  },
+  {
+    "session_raw": "62\t01.12.2025\t\nEinladung mit Tagesordnung [241 kB]\nBeschlussprotokoll [313 kB]\n\t\n0092\nWindows 11 - Stand der Umstellung\n(auf Antrag der\nBündnis 90/Die Grünen)\n…  Mehr\n0139\nSachstand zu KI-Bots im Land Berlin\n(auf Antrag der\nder CDU und der Fraktion der SPD)\n…  Mehr",
+    "analysis": {
+      "topics": [
+        {
+          "name": "Verwaltungsvorschrift Landesorganisationsgesetz",
+          "category": "Verwaltungsreform & Haushalt",
+          "summary": "In der Aktuellen Viertelstunde wurde auf Anfrage der Linksfraktion der Stand einer Verwaltungsvorschrift zum Landesorganisationsgesetz thematisiert. Staatssekretärin Klement beantwortete die Frage, ob diese rechtzeitig zum Inkrafttreten des Gesetzes am 1. Januar 2026 vorliegen werde."
+        },
+        {
+          "name": "Sachstand zu KI-Bots im Land Berlin",
+          "category": "Künstliche Intelligenz (KI)",
+          "summary": "Auf Antrag von CDU und SPD wurde der Einsatz von KI-Bots in der Berliner Verwaltung besprochen. Vertreter der Senatskanzlei und des CityLAB Berlin berichteten über den aktuellen Stand und sagten zu, Informationen zum Stromverbrauch des KI-Assistenten BärGPT nachzuliefern."
+        },
+        {
+          "name": "Windows 11 – Stand der Umstellung",
+          "category": "IT-Infrastruktur & ITDZ",
+          "summary": "Auf Antrag der Fraktion Bündnis 90/Die Grünen wurde der Fortschritt der Umstellung auf das Betriebssystem Windows 11 in der Verwaltung erörtert. Staatssekretärin Klement sagte zu, im Januar 2026 Zahlen zu den noch nicht umgestellten Geräten vorzulegen."
+        }
+      ],
+      "decisions": [
+        {
+          "text": "Abschluss der Besprechung zum Sachstand zu KI-Bots im Land Berlin.",
+          "result": "zur Kenntnis genommen"
+        },
+        {
+          "text": "Abschluss der Besprechung zum Stand der Umstellung auf Windows 11.",
+          "result": "zur Kenntnis genommen"
+        }
+      ],
+      "partyPositions": [
+        {
+          "party": "Linke",
+          "topic": "Verwaltungsvorschrift Landesorganisationsgesetz",
+          "stance": "neutral",
+          "quote": "ob die ... Verwaltungsvorschrift ... bis zum Inkrafttreten des Gesetzes am 1. Januar 2026 vorliegen werde"
+        },
+        {
+          "party": "CDU",
+          "topic": "Sachstand zu KI-Bots im Land Berlin",
+          "stance": "pro",
+          "quote": null
+        },
+        {
+          "party": "SPD",
+          "topic": "Sachstand zu KI-Bots im Land Berlin",
+          "stance": "pro",
+          "quote": null
+        },
+        {
+          "party": "Grüne",
+          "topic": "Windows 11 – Stand der Umstellung",
+          "stance": "neutral",
+          "quote": null
+        }
+      ]
+    }
+  },
+  {
+    "session_raw": "61\t17.11.2025\t\nEinladung mit Tagesordnung [241 kB]\nBeschlussprotokoll [326 kB]\n\t\n0090\nOnlinezugangsgesetz 2.0 - Folgen für Berlin\n(auf Antrag der\nBündnis 90/Die Grünen)\n…  Mehr\n0137\nDrucksache 19/2719\nGesetz zum NOOTS-Staatsvertrag",
+    "analysis": {
+      "topics": [
+        {
+          "name": "Aktuelle Fragen zur Digitalisierung",
+          "category": "Digitale Bürgerdienste (E-Government)",
+          "summary": "In der Aktuellen Viertelstunde wurden Fragen zu digitalen Bürgerdiensten, terminfreien Besuchen in Bürgerämtern (CDU) und der Finanzierung des Digitalhaushalts aus Bundesmitteln (Grüne) gestellt. Die Staatssekretärin beantwortete die Anfragen."
+        },
+        {
+          "name": "Gesetz zum NOOTS-Staatsvertrag",
+          "category": "Digitale Bürgerdienste (E-Government)",
+          "summary": "Der Ausschuss beriet über das Gesetz zum Staatsvertrag über die Nachnutzung von Online-Diensten (NOOTS). Nach Stellungnahmen von Senat und Datenschutzbeauftragter wurde die Vorlage beschlossen."
+        },
+        {
+          "name": "Folgen des Onlinezugangsgesetz 2.0",
+          "category": "Digitale Bürgerdienste (E-Government)",
+          "summary": "Auf Antrag der Fraktion Bündnis 90/Die Grünen besprach der Ausschuss die Konsequenzen des neuen Onlinezugangsgesetzes (OZG 2.0) für Berlin. Senat und Datenschutzbeauftragte gaben dazu einleitende Stellungnahmen ab."
+        }
+      ],
+      "decisions": [
+        {
+          "text": "Annahme der Vorlage zum Gesetz zum NOOTS-Staatsvertrag (Drucksache 19/2719).",
+          "result": "angenommen"
+        }
+      ],
+      "partyPositions": [
+        {
+          "party": "CDU",
+          "topic": "Gesetz zum NOOTS-Staatsvertrag",
+          "stance": "pro",
+          "quote": null
+        },
+        {
+          "party": "SPD",
+          "topic": "Gesetz zum NOOTS-Staatsvertrag",
+          "stance": "pro",
+          "quote": null
+        },
+        {
+          "party": "Grüne",
+          "topic": "Gesetz zum NOOTS-Staatsvertrag",
+          "stance": "pro",
+          "quote": null
+        },
+        {
+          "party": "Linke",
+          "topic": "Gesetz zum NOOTS-Staatsvertrag",
+          "stance": "neutral",
+          "quote": null
+        },
+        {
+          "party": "AfD",
+          "topic": "Gesetz zum NOOTS-Staatsvertrag",
+          "stance": "neutral",
+          "quote": null
+        },
+        {
+          "party": "Grüne",
+          "topic": "Folgen des Onlinezugangsgesetz 2.0",
+          "stance": "neutral",
+          "quote": null
+        }
+      ]
+    }
+  },
+  {
+    "session_raw": "60\t03.11.2025\t\nEinladung mit Tagesordnung [247 kB]\nBeschlussprotokoll [328 kB]\n\t\n0093\nStatus der digitalen Barrierefreiheit in Berlin\n(auf Antrag der\nder CDU und der Fraktion der SPD)\n…  Mehr\n0126\nDas Ende der WLAN-Initiative des Senats: Wer kann\nweitemachen?\n(auf Antrag der Fraktion Bündnis 90/Die Grünen und der Fraktion Die Linke)\n…  Mehr\n0133\nVorstellung des Digitalisierungsdashboards\n(auf Antrag der Fraktion der CDU\nder Fraktion der SPD)\n…  Mehr\n0136\nDrucksache 19/2629\nVerwaltung stärken, Service verbessern: Ein Beirat für\nNutzerfreundlichkeit\n…  Mehr",
+    "analysis": {
+      "topics": [
+        {
+          "name": "Vorstellung des Digitalisierungsdashboards",
+          "category": "Verwaltungsreform & Haushalt",
+          "summary": "Auf Antrag von CDU und SPD wurde das Digitalisierungsdashboard vorgestellt und besprochen. Nach einer einleitenden Stellungnahme der Staatssekretärin und einer Aussprache wurde der Punkt einvernehmlich abgeschlossen."
+        },
+        {
+          "name": "Ende der WLAN-Initiative des Senats",
+          "category": "IT-Infrastruktur & ITDZ",
+          "summary": "Auf Antrag von Grünen und Linken wurde das Ende der öffentlichen WLAN-Initiative des Senats und mögliche Nachfolgelösungen diskutiert. Die Staatssekretärin nahm Stellung und beantwortete Fragen der Abgeordneten."
+        },
+        {
+          "name": "Status der digitalen Barrierefreiheit",
+          "category": "Digitale Bürgerdienste (E-Government)",
+          "summary": "Der Ausschuss befasste sich auf Antrag von CDU und SPD mit dem aktuellen Stand der digitalen Barrierefreiheit in Berlin. Nach einer Aussprache mit der Senatskanzlei wurde der Besprechungspunkt abgeschlossen."
+        },
+        {
+          "name": "Beirat für digitale Nutzerfreundlichkeit",
+          "category": "Digitale Bürgerdienste (E-Government)",
+          "summary": "Die Fraktion Bündnis 90/Die Grünen stellte ihren Antrag zur Einrichtung eines Beirats für digitale Nutzerfreundlichkeit vor, um Verwaltungsservices zu verbessern. Die Entscheidung über den Antrag wurde nach der Debatte vertagt."
+        },
+        {
+          "name": "Bericht aus der Senatskanzlei",
+          "category": "Verwaltungsreform & Haushalt",
+          "summary": "Die Staatssekretärin und Chief Digital Officer des Landes Berlin berichtete über aktuelle Vorgänge aus der Senatskanzlei. Anschließend beantwortete sie Fragen der Ausschussmitglieder."
+        }
+      ],
+      "decisions": [
+        {
+          "text": "Besprechung: Vorstellung des Digitalisierungsdashboards",
+          "result": "zur Kenntnis genommen"
+        },
+        {
+          "text": "Besprechung: Das Ende der WLAN-Initiative des Senats",
+          "result": "zur Kenntnis genommen"
+        },
+        {
+          "text": "Besprechung: Status der digitalen Barrierefreiheit in Berlin",
+          "result": "zur Kenntnis genommen"
+        },
+        {
+          "text": "Antrag Drucksache 19/2629: Ein Beirat für digitale Nutzerfreundlichkeit",
+          "result": "vertagt"
+        }
+      ],
+      "partyPositions": [
+        {
+          "party": "CDU",
+          "topic": "Vorstellung des Digitalisierungsdashboards",
+          "stance": "pro"
+        },
+        {
+          "party": "SPD",
+          "topic": "Vorstellung des Digitalisierungsdashboards",
+          "stance": "pro"
+        },
+        {
+          "party": "Grüne",
+          "topic": "Ende der WLAN-Initiative des Senats",
+          "stance": "pro"
+        },
+        {
+          "party": "Linke",
+          "topic": "Ende der WLAN-Initiative des Senats",
+          "stance": "pro"
+        },
+        {
+          "party": "CDU",
+          "topic": "Status der digitalen Barrierefreiheit",
+          "stance": "pro"
+        },
+        {
+          "party": "SPD",
+          "topic": "Status der digitalen Barrierefreiheit",
+          "stance": "pro"
+        },
+        {
+          "party": "Grüne",
+          "topic": "Beirat für digitale Nutzerfreundlichkeit",
+          "stance": "pro"
+        }
+      ]
+    }
+  },
+  {
+    "session_raw": "59\t06.10.2025\t\nEinladung mit Tagesordnung [324 kB]\n1. Mitteilung zur Einladung [235 kB]\nInhaltsprotokoll [424 kB]\nBeschlussprotokoll [927 kB]\n\t\n0131\nDrucksache 19/2553\nGesetz zur Reform des Berliner Polizei- und\nund zur Änderung des Gesetzes zu Artikel 29 der Verfassung von Berlin\n…  Mehr\n0132\nDrucksache 19/2627\nGesetz über die Feststellung des Haushaltsplans von\nfür die Haushaltsjahre 2026 und 2027 (Haushaltsgesetz 2026/2027 - HG 26/27) Hier: Einzelplan 03 Kapitel 0360, Einzelplan 21 Kapitel 2100 – Beauftragte/Beauftragter für Datenschutz und Informationsfreiheit, Einzelplan 25 – Landesweite Maßnahmen des E-Governments – sowie die IKT-Titel aller Einzelpläne (vgl. Rote Nr. 2400 A)\n…  Mehr\n0132-01\nBeantwortung der Berichtsaufträge aus der 1. Lesung des\nfür Digitalisierung und Datenschutz Haushaltsberatung 2026/2027\n…  Mehr\n0132-02\nBeantwortung der Berichtsaufträge aus der 1. Lesung des\nfür Digitalisierung und Datenschutz Haushaltsberatung 2026/2027\n…  Mehr",
+    "analysis": {
+      "topics": [
+        {
+          "name": "Reform des Polizei- und Ordnungsrechts",
+          "category": "Cybersicherheit",
+          "summary": "Die Koalition aus CDU und SPD bringt eine Novelle des Allgemeinen Sicherheits- und Ordnungsgesetzes (ASOG) ein, um polizeiliche Befugnisse zu erweitern. Dies umfasst längere Speicherfristen für Videodaten, Videoüberwachung an Kriminalitätshotspots, elektronische Fußfesseln bei häuslicher Gewalt sowie neue digitale Instrumente wie automatisierte Datenanalyse. Oppositionsparteien kritisieren den Entwurf als verfassungswidrig und als massiven Eingriff in die Bürgerrechte."
+        },
+        {
+          "name": "Haushaltsplan 2026/2027 für Digitalisierung",
+          "category": "Verwaltungsreform & Haushalt",
+          "summary": "Der Ausschuss berät den Doppelhaushalt 2026/2027, insbesondere den Einzelplan 25 für E-Government. Die Koalition betont, trotz Konsolidierungsdruck wichtige Digitalisierungsvorhaben wie die E-Akte und Basisdienste abzusichern. Die Opposition kritisiert den Haushalt als mutlos, da er keine zukunftsweisende Strategie erkennen lasse und notwendige Investitionen in die IT-Infrastruktur vernachlässige."
+        },
+        {
+          "name": "IT-Infrastruktur und Verwaltungs-Basisdienste",
+          "category": "IT-Infrastruktur & ITDZ",
+          "summary": "Die Debatte offenbart erhebliche Mängel in der IT-Infrastruktur der Berliner Verwaltung, darunter veraltete Serversysteme und eine stockende Migration auf Windows 11. Die Opposition bemängelt das Fehlen einer gesamtstädtischen Steuerung und die Streichung geplanter Basisdienste wie einer Low-Code-Plattform, was zu teuren Insellösungen führe. Die Koalition verweist auf die Sicherung bestehender Dienste und die Arbeit des ITDZ."
+        }
+      ],
+      "decisions": [
+        {
+          "text": "Annahme des Antrags zur Reform des Polizei- und Ordnungsrechts (Drs. 19/2553).",
+          "result": "angenommen"
+        },
+        {
+          "text": "Empfehlung zur Annahme des Haushaltsplans (Einzelpläne 03, 21, 25 und IKT-Titel).",
+          "result": "angenommen"
+        },
+        {
+          "text": "Ablehnung des AfD-Antrags zur Kürzung der Mittel für das CityLAB.",
+          "result": "abgelehnt"
+        },
+        {
+          "text": "Ablehnung des Grünen-Antrags zur Aufstockung der Mittel für die Open Data Informationsstelle (ODIS).",
+          "result": "abgelehnt"
+        },
+        {
+          "text": "Ablehnung des Linke-Antrags zur Streichung der Mittel für Drohnen und Drohnenabwehr.",
+          "result": "abgelehnt"
+        },
+        {
+          "text": "Ablehnung des Linke-Antrags zur Streichung der Mittel für Videoüberwachung.",
+          "result": "abgelehnt"
+        }
+      ],
+      "partyPositions": [
+        {
+          "party": "CDU",
+          "topic": "Reform des Polizei- und Ordnungsrechts",
+          "stance": "pro",
+          "quote": "Die Sicherheitskräfte bräuchten das richtige Handwerkszeug..."
+        },
+        {
+          "party": "SPD",
+          "topic": "Reform des Polizei- und Ordnungsrechts",
+          "stance": "pro",
+          "quote": "...wichtig, um die Polizei zur unmittelbaren Handlung zu befähigen."
+        },
+        {
+          "party": "Grüne",
+          "topic": "Reform des Polizei- und Ordnungsrechts",
+          "stance": "contra",
+          "quote": "Normen sollten jedoch nicht von Beginn an jegliches Verfassungsrecht ignorieren..."
+        },
+        {
+          "party": "Linke",
+          "topic": "Reform des Polizei- und Ordnungsrechts",
+          "stance": "contra",
+          "quote": "...eines der repressivsten Polizeigesetze der Bundesrepublik nicht."
+        },
+        {
+          "party": "AfD",
+          "topic": "Reform des Polizei- und Ordnungsrechts",
+          "stance": "pro",
+          "quote": null
+        },
+        {
+          "party": "CDU",
+          "topic": "Haushaltsplan 2026/2027 für Digitalisierung",
+          "stance": "pro",
+          "quote": "Trotz der Einsparungen sei es gelungen, die großen und tragenden Vorhaben zu sichern."
+        },
+        {
+          "party": "SPD",
+          "topic": "Haushaltsplan 2026/2027 für Digitalisierung",
+          "stance": "pro",
+          "quote": "Im letzten Nachtragshaushalt ... sei so gespart worden, dass nun ... Platz sei."
+        },
+        {
+          "party": "Grüne",
+          "topic": "Haushaltsplan 2026/2027 für Digitalisierung",
+          "stance": "contra",
+          "quote": "...dass dieser Weg mit dem nun aufgestellten Haushalt verlassen werde."
+        },
+        {
+          "party": "Linke",
+          "topic": "Haushaltsplan 2026/2027 für Digitalisierung",
+          "stance": "contra",
+          "quote": "Es sei so keine vorwärts gerichtete Digitalisierungsstrategie erkennbar."
+        },
+        {
+          "party": "AfD",
+          "topic": "Haushaltsplan 2026/2027 für Digitalisierung",
+          "stance": "contra",
+          "quote": "...Zurückhaltung zu erkennen und ein Entwurf ... der keine unnötigen Extras enthalte."
+        },
+        {
+          "party": "Grüne",
+          "topic": "IT-Infrastruktur und Verwaltungs-Basisdienste",
+          "stance": "contra",
+          "quote": "Das Fehlen einer gesamtstädtischen Steuerung werde in vielen Berichten betont..."
+        },
+        {
+          "party": "CDU",
+          "topic": "IT-Infrastruktur und Verwaltungs-Basisdienste",
+          "stance": "pro",
+          "quote": "Auch die IKT-Basisdienste blieben uneingeschränkt gewährleistet..."
+        },
+        {
+          "party": "Linke",
+          "topic": "IT-Infrastruktur und Verwaltungs-Basisdienste",
+          "stance": "contra",
+          "quote": "Mit einer veralteten IT-Infrastruktur könne keine IT-Sicherheit gewährleistet werden."
+        },
+        {
+          "party": "AfD",
+          "topic": "IT-Infrastruktur und Verwaltungs-Basisdienste",
+          "stance": "neutral",
+          "quote": "...Fokus ... nicht auf Transformation um jeden Preis liegen, sondern auf der Resilienz."
+        }
+      ]
+    }
+  },
+  {
+    "session_raw": "58\t22.09.2025\t\nEinladung mit Tagesordnung [262 kB]\nBeschlussprotokoll [430 kB]\n\t\n0085\nUmsetzung der NIS-2 Richtlinie im Land Berlin\n(auf Antrag\nFraktion Bündnis 90/Die Grünen und der Fraktion Die Linke)\n…  Mehr\n0128\nDrucksache 19/2355\nStellungnahme des Senats zum Bericht der Berliner\nfür Datenschutz und Informationsfreiheit für das Jahr 2023\n…  Mehr\n0128-01\nDrucksache 19/2355\nLöschmoratorien bei der Polizei (A.V.1., Drs. S.\nff.)\nzu Drucksache 19/2355\n…  Mehr\n0128-02\nDrucksache 19/2355\nUnbefugte Nutzung polizeiinterner Datenbanken (A.III.2.,Drs. S. 19\nDrucksache 19/2355\n…  Mehr\n0128-03\nDrucksache 19/2355\nStaatsvertrag über den Rundfunk Berlin-Brandenburg (A.I.3., Drs.\n11)\nzu Drucksache 19/2355\n…  Mehr\n0128-04\nDrucksache 19/2355\nDatenerhebung im aufenthaltsrechtlichen Verteilverfahren (A.V.5, Drs. S.\nff.)\nzu Drucksache 19/2355\n…  Mehr\n0134\nAktueller Stand und Ausblick zum Programm OneIT@Berlin\n(auf Antrag\nFraktion der CDU und der Fraktion der SPD)\n…  Mehr\n0135\nDrucksache 19/2642\nZweites Gesetz zur Änderung des Gesetzes über\nAnstalt des öffentlichen Rechts IT-Dienstleistungszentrum Berlin\n…  Mehr\n+\nMehr Vorgänge anzeigen",
+    "analysis": {
+      "topics": [
+        {
+          "name": "Cyber-Vorfall am Flughafen BER",
+          "category": "Cybersicherheit",
+          "summary": "Abgeordnete der Fraktionen Die Linke und Bündnis 90/Die Grünen stellten mündliche Fragen zu einem Cyber-Vorfall am Flughafen BER. Die Staatssekretärin beantwortete die Fragen bezüglich des Ausmaßes und der betroffenen Behörden."
+        },
+        {
+          "name": "Aktueller Stand Programm OneIT@Berlin",
+          "category": "IT-Infrastruktur & ITDZ",
+          "summary": "Auf Antrag der Koalitionsfraktionen CDU und SPD wurde der Fortschritt des Programms OneIT@Berlin zur Konsolidierung der IT-Infrastruktur des Landes besprochen. Die zuständige Staatssekretärin gab einen Überblick und beantwortete Fragen der Ausschussmitglieder."
+        },
+        {
+          "name": "Änderung des ITDZ-Gesetzes",
+          "category": "IT-Infrastruktur & ITDZ",
+          "summary": "Der Ausschuss beriet über eine Gesetzesänderung bezüglich des IT-Dienstleistungszentrums Berlin (ITDZ). Die Vorlage wurde vom Senat eingebracht und nach kurzer Beratung einstimmig von allen anwesenden Fraktionen angenommen."
+        },
+        {
+          "name": "Bericht der Datenschutzbeauftragten 2023",
+          "category": "Datenschutz & Informationsfreiheit",
+          "summary": "Die Stellungnahme des Senats zum Jahresbericht 2023 der Datenschutzbeauftragten wurde zur Kenntnis genommen. In der Aussprache wurden spezifische Themen wie Löschfristen bei der Polizei, unbefugte Datenbankabfragen und Datenerhebung im Asylverfahren behandelt."
+        },
+        {
+          "name": "Umsetzung der NIS-2 Richtlinie",
+          "category": "Cybersicherheit",
+          "summary": "Auf Antrag von Bündnis 90/Die Grünen und Die Linke wurde die Umsetzung der EU-Richtlinie zur Netz- und Informationssicherheit (NIS-2) im Land Berlin diskutiert. Aufgrund der Sensibilität des Themas wurde die weitere Beratung nach einem einstimmigen Beschluss in nichtöffentlicher Sitzung fortgesetzt."
+        }
+      ],
+      "decisions": [
+        {
+          "text": "Die Vorlage – zur Beschlussfassung – Drucksache 19/2642 (Zweites Gesetz zur Änderung des Gesetzes über das ITDZ Berlin) wird angenommen.",
+          "result": "angenommen"
+        },
+        {
+          "text": "Die Vorlage – zur Kenntnisnahme – Drucksache 19/2355 (Stellungnahme des Senats zum Bericht der Datenschutzbeauftragten) wird zur Kenntnis genommen.",
+          "result": "zur Kenntnis genommen"
+        },
+        {
+          "text": "Die Öffentlichkeit wird für die weitere Beratung des Tagesordnungspunktes 6 (Umsetzung der NIS-2 Richtlinie) ausgeschlossen.",
+          "result": "angenommen"
+        }
+      ],
+      "partyPositions": [
+        {
+          "party": "Linke",
+          "topic": "Cyber-Vorfall am Flughafen BER",
+          "stance": "pro",
+          "quote": null
+        },
+        {
+          "party": "Grüne",
+          "topic": "Cyber-Vorfall am Flughafen BER",
+          "stance": "pro",
+          "quote": null
+        },
+        {
+          "party": "CDU",
+          "topic": "Aktueller Stand Programm OneIT@Berlin",
+          "stance": "pro",
+          "quote": null
+        },
+        {
+          "party": "SPD",
+          "topic": "Aktueller Stand Programm OneIT@Berlin",
+          "stance": "pro",
+          "quote": null
+        },
+        {
+          "party": "CDU",
+          "topic": "Änderung des ITDZ-Gesetzes",
+          "stance": "pro",
+          "quote": null
+        },
+        {
+          "party": "SPD",
+          "topic": "Änderung des ITDZ-Gesetzes",
+          "stance": "pro",
+          "quote": null
+        },
+        {
+          "party": "Grüne",
+          "topic": "Änderung des ITDZ-Gesetzes",
+          "stance": "pro",
+          "quote": null
+        },
+        {
+          "party": "Linke",
+          "topic": "Änderung des ITDZ-Gesetzes",
+          "stance": "pro",
+          "quote": null
+        },
+        {
+          "party": "AfD",
+          "topic": "Änderung des ITDZ-Gesetzes",
+          "stance": "pro",
+          "quote": null
+        },
+        {
+          "party": "Grüne",
+          "topic": "Umsetzung der NIS-2 Richtlinie",
+          "stance": "pro",
+          "quote": null
+        },
+        {
+          "party": "Linke",
+          "topic": "Umsetzung der NIS-2 Richtlinie",
+          "stance": "pro",
+          "quote": null
+        }
+      ]
+    }
+  },
+  {
+    "session_raw": "57\t08.09.2025\t\nEinladung mit Tagesordnung [247 kB]\nInhaltsprotokoll [448 kB]\nBeschlussprotokoll [868 kB]\n\t\n0132\nDrucksache 19/2627\nGesetz über die Feststellung des Haushaltsplans von\nfür die Haushaltsjahre 2026 und 2027 (Haushaltsgesetz 2026/2027 - HG 26/27) Hier: Einzelplan 03 Kapitel 0360, Einzelplan 21 Kapitel 2100 – Beauftragte/Beauftragter für Datenschutz und Informationsfreiheit, Einzelplan 25 – Landesweite Maßnahmen des E-Governments – sowie die IKT-Titel aller Einzelpläne (vgl. Rote Nr. 2400 A)\n…  Mehr",
+    "analysis": {
+      "topics": [
+        {
+          "name": "Haushaltsplan 2026/2027 Digitalisierung",
+          "category": "Verwaltungsreform & Haushalt",
+          "summary": "Der Haushaltsentwurf sieht Kürzungen im Digitalisierungsbudget (Einzelplan 25) auf 264 Mio. Euro jährlich vor, um den Haushalt zu konsolidieren. Wichtige Projekte wie die digitale Akte und Cybersicherheit sind gesichert, während Vorhaben wie die WLAN-Initiative eingestellt werden. Die Kürzungen führen zu Debatten über die Priorisierung der Digitalisierung."
+        },
+        {
+          "name": "Umsetzung der Verwaltungsreform (LOG)",
+          "category": "Verwaltungsreform & Haushalt",
+          "summary": "Die Implementierung des neuen Landesorganisationsgesetzes wird in drei Phasen geplant, um die Verwaltung zu modernisieren. Obwohl Ressourcen für neue Aufgaben wie Datenbanken und eine Einigungsstelle vorgesehen sind, äußert die Opposition Bedenken, ob die Mittel ausreichen. Insbesondere die Reduzierung externer Beratungsleistungen wird kritisch gesehen."
+        },
+        {
+          "name": "Einrichtung eines zentralen Digitalhaushalts",
+          "category": "Verwaltungsreform & Haushalt",
+          "summary": "Die CDO und die Opposition befürworten die Schaffung eines zentralen Digitalhaushalts zur besseren Steuerung von Projekten. Die Umsetzung wird vom Senat jedoch erst für den nächsten Doppelhaushalt angestrebt. Kritiker bemängeln die Verzögerung und die gleichzeitige Kürzung von Projektmitteln bei der CDO."
+        },
+        {
+          "name": "Optimierung der Berliner Bürgerdienste",
+          "category": "Digitale Bürgerdienste (E-Government)",
+          "summary": "Durch Personalaufstockung und Digitalisierung konnten die Wartezeiten bei den Bürgerämtern deutlich reduziert und das \"14-Tage-Ziel\" zu über 80% erreicht werden. Bei den Standesämtern besteht jedoch weiterhin erheblicher Modernisierungsbedarf. Neue Services wie Dokumentenausgabeboxen werden pilotiert, um den Service weiter zu verbessern."
+        },
+        {
+          "name": "IKT-Infrastruktur und Arbeitsplatzausstattung",
+          "category": "IT-Infrastruktur & ITDZ",
+          "summary": "Aufgrund von Haushaltskürzungen müssen viele Behörden ihre IT-Hardware über den geplanten Lebenszyklus hinaus nutzen. Dies weckt Sorgen vor einem \"Ablösestau\" und dem Einsatz veralteter, störanfälliger Technik. Die Zentralisierung von IT-Arbeitsplätzen beim ITDZ wird fortgesetzt, das zentrale Programm \"OneIT\" jedoch eingestellt."
+        },
+        {
+          "name": "Haushalt des Datenschutzbeauftragten",
+          "category": "Datenschutz & Informationsfreiheit",
+          "summary": "Der Berliner Datenschutzbeauftragte plant Investitionen in die Erneuerung veralteter IT-Infrastruktur wie Speicher- und Backup-Systeme. Zudem soll eine Laborumgebung zur Analyse von Datenschutzanforderungen an KI-Systeme aufgebaut werden. Auch eine neue Kommunikationsplattform ist geplant."
+        },
+        {
+          "name": "Cybersicherheit und NIS-2-Umsetzung",
+          "category": "Cybersicherheit",
+          "summary": "Informationssicherheit bleibt eine Priorität, was sich in der Finanzierung des Cyber Defence Centers widerspiegelt. Die Umsetzung der EU-NIS-2-Richtlinie ist ein zentrales Vorhaben, zu dem die Fraktionen detaillierte Informationen anfordern. Auch die Sicherheit spezifischer Systeme wie des Bündelfunks in Justizvollzugsanstalten wird thematisiert."
+        }
+      ],
+      "decisions": [
+        {
+          "text": "Die Beratung zum Haushaltsgesetz 2026/2027 (Drucksache 19/2627) wird bis zur 2. Lesung am 6. Oktober 2025 vertagt.",
+          "result": "vertagt"
+        },
+        {
+          "text": "Zu zahlreichen mündlich nicht beantworteten Fragen werden schriftliche Berichte des Senats bis zum 22. September 2025 beschlossen.",
+          "result": "angenommen"
+        },
+        {
+          "text": "Die mündlichen Ausführungen des Senats und der Behörden zu diversen Haushalts-Titeln werden zur Kenntnis genommen.",
+          "result": "zur Kenntnis genommen"
+        }
+      ],
+      "partyPositions": [
+        {
+          "party": "Grüne",
+          "topic": "Umsetzung der Verwaltungsreform (LOG)",
+          "stance": "neutral",
+          "quote": "Sei hier eine Nachschiebeliste vom Senat geplant, um hier noch einmal nachzuarbeiten?"
+        },
+        {
+          "party": "Grüne",
+          "topic": "Einrichtung eines zentralen Digitalhaushalts",
+          "stance": "pro",
+          "quote": "Warum habe der Senat nicht schon jetzt das umgesetzt, was er selbst für sinnvoll halte?"
+        },
+        {
+          "party": "Linke",
+          "topic": "IKT-Infrastruktur und Arbeitsplatzausstattung",
+          "stance": "contra",
+          "quote": "Nehme das Land Berlin sehenden Auges in Kauf, dass ... Kollegen mit veralteten ... Geräten arbeiten müssten?"
+        },
+        {
+          "party": "Linke",
+          "topic": "Optimierung der Berliner Bürgerdienste",
+          "stance": "neutral",
+          "quote": "...wolle er um eine schriftliche Beantwortung der Frage 27 b bitten."
+        },
+        {
+          "party": "CDU",
+          "topic": "Haushaltsplan 2026/2027 Digitalisierung",
+          "stance": "pro",
+          "quote": "Welche konkreten Ressourcen ... stehen für die Umsetzung zur Verfügung, wie ist sichergestellt, dass..."
+        },
+        {
+          "party": "SPD",
+          "topic": "Einrichtung eines zentralen Digitalhaushalts",
+          "stance": "pro",
+          "quote": "Welche Vorteile werden vom Senat/der CDO gesehen, den ... Einzelplan 25 zu einem Digitalhaushalt weiterzuentwickeln..."
+        },
+        {
+          "party": "AfD",
+          "topic": "Cybersicherheit und NIS-2-Umsetzung",
+          "stance": "neutral",
+          "quote": "Wie hoch schätze der Senat das Risiko dafür ein, dass der Bündelfunk durch Dritte abgehört werden könnte..."
+        }
+      ]
+    }
+  },
+  {
+    "session_raw": "56\t07.07.2025\t\nEinladung mit Tagesordnung [248 kB]\nBeschlussprotokoll [397 kB]\nInhaltsprotokoll [229 kB]\n\t\n0091\nOneIT@Berlin - Wann kommt endlich die Standardisierung des\nAntrag der Fraktion Bündnis 90/Die Grünen)\n…  Mehr\n0129\nBericht des Rechnungshofes von Berlin zur Umstellung auf\nBerlinPC\n(auf Antrag der Fraktion der CDU und der Fraktion der SPD)\n…  Mehr\n0130\nEinführung virtueller Teams im ITDZ\n(auf Antrag der Fraktion\nCDU und der Fraktion der SPD)\n…  Mehr",
+    "analysis": {
+      "topics": [
+        {
+          "name": "Verzögerung bei Windows 11-Umstellung",
+          "category": "IT-Infrastruktur & ITDZ",
+          "summary": "Im Ausschuss wurde die Verzögerung bei der Umstellung auf Windows 11 in der Berliner Verwaltung thematisiert. Als Grund für die dezentrale Abwicklung wurde die föderale Struktur genannt, die eine individuelle Beteiligung der Personalvertretungen in jeder Behörde erfordert, was aber nicht der Hauptgrund für Verzögerungen sei. Die Senatskanzlei überwacht den Fortschritt, um die Umstellung vor dem Support-Ende von Windows 10 sicherzustellen."
+        },
+        {
+          "name": "Umsetzung der Verwaltungsreform",
+          "category": "Verwaltungsreform & Haushalt",
+          "summary": "Die Staatssekretärin berichtete über die nächsten Schritte zur Umsetzung der beschlossenen Verwaltungsreform. In der Senatskanzlei wird ein Implementierungsprojekt gestartet, um die Reform mit Leben zu füllen und notwendige Anpassungen, beispielsweise an der Gemeinsamen Geschäftsordnung (GGO), vorzunehmen. Zudem soll im Bundesrat ein neuer Ausschuss für Digitalisierung und Staatsmodernisierung eingerichtet werden, dessen Vorsitz Berlin übernehmen soll."
+        },
+        {
+          "name": "BerlinPC-Umstellung und virtuelle ITDZ-Teams",
+          "category": "IT-Infrastruktur & ITDZ",
+          "summary": "Der Ausschuss besprach die erfolgreiche Umstellung des Rechnungshofes auf den standardisierten BerlinPC, wobei die enge Zusammenarbeit und Flexibilität als Erfolgsfaktoren hervorgehoben wurden. Das ITDZ stellte zudem sein neues Konzept der 'virtuellen Teams' vor, das eine serviceorientierte, abteilungsübergreifende Betreuung der Kunden von Anfang bis Ende gewährleisten und die Kommunikation verbessern soll."
+        },
+        {
+          "name": "Hürden bei der IT-Standardisierung (OneIT@Berlin)",
+          "category": "IT-Infrastruktur & ITDZ",
+          "summary": "Die Debatte konzentrierte sich auf die Hindernisse für eine flächendeckende IT-Standardisierung in der Verwaltung. Als größte Herausforderungen wurden die mangelnde 'Migrationsreife' vieler Gebäude, die hohe Investitionen in die Infrastruktur erfordert, sowie die Vielzahl an veralteten Fachverfahren identifiziert. Diese Probleme verlangsamen den Roll-out des BerlinPC und anderer standardisierter Dienste erheblich."
+        }
+      ],
+      "decisions": [
+        {
+          "text": "Der Ausschuss beschließt einstimmig die Sitzungstermine des Ausschusses für das Jahr 2026.",
+          "result": "angenommen"
+        }
+      ],
+      "partyPositions": [
+        {
+          "party": "Grüne",
+          "topic": "Verzögerung bei Windows 11-Umstellung",
+          "stance": "neutral",
+          "quote": "Trifft es zu, dass sich die Windows 11-Umstellung auch dadurch verzögert...?"
+        },
+        {
+          "party": "Linke",
+          "topic": "Verzögerung bei Windows 11-Umstellung",
+          "stance": "neutral",
+          "quote": "...die [Beteiligung der Personalvertretungen] er für zwingend notwendig erachte."
+        },
+        {
+          "party": "CDU",
+          "topic": "BerlinPC-Umstellung und virtuelle ITDZ-Teams",
+          "stance": "pro",
+          "quote": "Die Umstellung sei sehr erfolgreich verlaufen; nun solle über die gesammelten Erfahrungen berichtet werden."
+        },
+        {
+          "party": "SPD",
+          "topic": "BerlinPC-Umstellung und virtuelle ITDZ-Teams",
+          "stance": "neutral",
+          "quote": "Worin liege der Unterschied zwischen herkömmlichen Projektteams und virtuellen Teams?"
+        },
+        {
+          "party": "Grüne",
+          "topic": "Hürden bei der IT-Standardisierung (OneIT@Berlin)",
+          "stance": "pro",
+          "quote": "...woran es in anderen Verwaltungsstellen hake und was getan werden könne, um hier Fortschritte zu erzielen."
+        },
+        {
+          "party": "Linke",
+          "topic": "Hürden bei der IT-Standardisierung (OneIT@Berlin)",
+          "stance": "neutral",
+          "quote": "Wie würden Prozesse mit der BIM so aufgesetzt, dass diese eventuell sogar schon von sich aus darauf achte..."
+        }
+      ]
+    }
+  },
+  {
+    "session_raw": "55\t23.06.2025\t\nEinladung mit Tagesordnung [257 kB]\nBeschlussprotokoll [313 kB]\nInhaltsprotokoll [512 kB]\n\t\n0087\nOpenData und die Umsetzung der Europäischen Datenstrategie in\nAntrag der Fraktion Bündnis 90/Die Grünen)\n…  Mehr\n0113\nDrucksache 19/2091\nBerliner Digitaltag 2025 – einfach mal machen!\n0124\nHackerangriff gegen die BVG und Kunden-Datenverlust\n(auf Antrag der\nDie Linke)\n…  Mehr\n0125\nHackerangriff auf die BVG\n(auf Antrag der Fraktion der\nund der Fraktion der SPD)\n…  Mehr\n0127\nAuswertung des Aktionstags „Terminfreie Zeiten\" in den Bürgerämtern\n(auf\nder Fraktion der CDU und der Fraktion der SPD)\n…  Mehr",
+    "analysis": {
+      "topics": [
+        {
+          "name": "Digitale Souveränität und Open Source",
+          "category": "Open Data & Open Source",
+          "summary": "Angesichts des Wechsels zu Open-Source-Software in anderen Regionen wurde die Strategie Berlins zur digitalen Souveränität erfragt. Die Staatssekretärin verwies auf das Open-Source-Kompetenzzentrum und eine kommende Strategie, für die jedoch vorerst keine zusätzlichen Haushaltsmittel vorgesehen sind."
+        },
+        {
+          "name": "Hackerangriff auf BVG-Dienstleister",
+          "category": "Cybersicherheit",
+          "summary": "Der Ausschuss befasste sich mit dem Hackerangriff auf einen Dienstleister der BVG, bei dem Kundendaten betroffen waren. Die BVG erläuterte ihre Aufklärungsarbeit und geplante Maßnahmen zur besseren Kontrolle von Dienstleistern, während die Opposition Kontrolldefizite kritisierte und die Notwendigkeit von Vor-Ort-Prüfungen betonte."
+        },
+        {
+          "name": "Open Data und EU-Datenstrategie",
+          "category": "Open Data & Open Source",
+          "summary": "Auf Antrag der Grünen wurde die Umsetzung der EU-Datenstrategie und die Berliner Open-Data-Strategie diskutiert. Themen waren die Veröffentlichung von Kerndatensätzen, die Rolle von Open-Data-Beauftragten und die Durchführung von Dateninventuren in den Verwaltungen."
+        },
+        {
+          "name": "Auswertung Aktionstag Bürgerämter",
+          "category": "Digitale Bürgerdienste (E-Government)",
+          "summary": "Der Aktionstag 'Terminfreie Zeiten' in den Bürgerämtern wurde als großer Erfolg bewertet, da der befürchtete Ansturm ausblieb. Dies deutet auf einen geringeren Terminstau als angenommen hin, weshalb nun eine Verstetigung des Angebots zur Flexibilisierung des Bürgerservices diskutiert wird."
+        },
+        {
+          "name": "Beendigung des Sozialhilfeportal-Projekts",
+          "category": "Digitale Bürgerdienste (E-Government)",
+          "summary": "Im Bericht der Senatskanzlei wurde bekannt gegeben, dass das Projekt zur Einführung eines Sozialhilfeportals erfolglos eingestellt wurde. Auf Nachfrage wurde bestätigt, dass die zuständige Sozialverwaltung an einer alternativen Perspektive arbeitet."
+        },
+        {
+          "name": "Antrag zum Berliner Digitaltag",
+          "category": "Verwaltungsreform & Haushalt",
+          "summary": "Die Fraktion Bündnis 90/Die Grünen beantragte, dass der Senat seine Aktivitäten zum Digitaltag darstellt und diesen aktiv bewirbt. Der Antrag wurde nach kurzer Stellungnahme der Staatssekretärin mehrheitlich abgelehnt."
+        }
+      ],
+      "decisions": [
+        {
+          "text": "Antrag \"Berliner Digitaltag 2025 – einfach mal machen!\" (Drs. 19/2091)",
+          "result": "abgelehnt"
+        },
+        {
+          "text": "Annahme der Verfahrensregeln zum Ablauf der Beratungen des Haushaltsplanentwurfs 2026/2027",
+          "result": "angenommen"
+        },
+        {
+          "text": "Besprechung \"OpenData und die Umsetzung der Europäischen Datenstrategie in Berlin\"",
+          "result": "zur Kenntnis genommen"
+        },
+        {
+          "text": "Besprechung \"Hackerangriff gegen die BVG und Kunden-Datenverlust\"",
+          "result": "zur Kenntnis genommen"
+        },
+        {
+          "text": "Besprechung \"Auswertung des Aktionstags „Terminfreie Zeiten“ in den Bürgerämtern\"",
+          "result": "zur Kenntnis genommen"
+        }
+      ],
+      "partyPositions": [
+        {
+          "party": "Grüne",
+          "topic": "Digitale Souveränität und Open Source",
+          "stance": "pro",
+          "quote": "Was sind Berlins Ideen und Strategien um die digitale Souveränität seiner Verwaltung zu sichern?"
+        },
+        {
+          "party": "Grüne",
+          "topic": "Hackerangriff auf BVG-Dienstleister",
+          "stance": "contra",
+          "quote": "die Ausführungen erschienen ihm angesichts des Vorfalls und des Kontrolldefizits nicht ausreichend."
+        },
+        {
+          "party": "Linke",
+          "topic": "Hackerangriff auf BVG-Dienstleister",
+          "stance": "contra",
+          "quote": "Könne die Verarbeitung intern geschehen, etwa durch eine Nutzung der Kapazitäten des ITDZ?"
+        },
+        {
+          "party": "SPD",
+          "topic": "Hackerangriff auf BVG-Dienstleister",
+          "stance": "neutral",
+          "quote": "Habe es hier eine Rückfrage der Datenschutzbeauftragten gegeben? Welcher Art sei der Austausch?"
+        },
+        {
+          "party": "CDU",
+          "topic": "Hackerangriff auf BVG-Dienstleister",
+          "stance": "neutral",
+          "quote": "Könnten hier konkretere Angaben darüber gemacht werden, was geplant sei, um das Risiko... zu minimieren?"
+        },
+        {
+          "party": "Grüne",
+          "topic": "Open Data und EU-Datenstrategie",
+          "stance": "pro",
+          "quote": "Open Data ein zentrales Thema in einer modernen Verwaltung sei, um nächste Schritte... machen zu können."
+        },
+        {
+          "party": "SPD",
+          "topic": "Open Data und EU-Datenstrategie",
+          "stance": "pro",
+          "quote": "dass man in bestimmten Bereichen wie etwa der Gesundheitsforschung auf Datenspenden angewiesen sei."
+        },
+        {
+          "party": "Linke",
+          "topic": "Open Data und EU-Datenstrategie",
+          "stance": "pro",
+          "quote": "ob eine gesetzliche Grundlage im Digitalgesetz vorstellbar sei: Durch eine solche gesetzliche Verpflichtung"
+        },
+        {
+          "party": "CDU",
+          "topic": "Auswertung Aktionstag Bürgerämter",
+          "stance": "pro",
+          "quote": null
+        },
+        {
+          "party": "SPD",
+          "topic": "Auswertung Aktionstag Bürgerämter",
+          "stance": "pro",
+          "quote": "Es scheine also sinnvoll, das Angebot in einen Regelbetrieb aufzunehmen."
+        },
+        {
+          "party": "Linke",
+          "topic": "Auswertung Aktionstag Bürgerämter",
+          "stance": "pro",
+          "quote": "vielleicht könne die Aktion aber nun einfach öfter angeboten werden."
+        },
+        {
+          "party": "Grüne",
+          "topic": "Auswertung Aktionstag Bürgerämter",
+          "stance": "pro",
+          "quote": "letztendlich werde ein Mix aus verschiedenen Angeboten benötigt"
+        },
+        {
+          "party": "AfD",
+          "topic": "Auswertung Aktionstag Bürgerämter",
+          "stance": "neutral",
+          "quote": "warum nur 9 von 12 Bezirken am Aktionstag teilgenommen hätten."
+        },
+        {
+          "party": "Grüne",
+          "topic": "Antrag zum Berliner Digitaltag",
+          "stance": "pro",
+          "quote": null
+        },
+        {
+          "party": "Linke",
+          "topic": "Antrag zum Berliner Digitaltag",
+          "stance": "pro",
+          "quote": null
+        },
+        {
+          "party": "CDU",
+          "topic": "Antrag zum Berliner Digitaltag",
+          "stance": "contra",
+          "quote": null
+        },
+        {
+          "party": "SPD",
+          "topic": "Antrag zum Berliner Digitaltag",
+          "stance": "contra",
+          "quote": null
+        },
+        {
+          "party": "AfD",
+          "topic": "Antrag zum Berliner Digitaltag",
+          "stance": "neutral",
+          "quote": null
+        }
+      ]
+    }
+  },
+  {
+    "session_raw": "54\t19.05.2025\t\nEinladung mit Tagesordnung [245 kB]\n1. Mitteilung zur Einladung [234 kB]\nBeschlussprotokoll [437 kB]\nInhaltsprotokoll [430 kB]\n\t\n0087\nOpenData und die Umsetzung der Europäischen Datenstrategie in\nAntrag der Fraktion Bündnis 90/Die Grünen)\n…  Mehr\n0122\nDDoS-Angriff auf das Serviceportal und die zentrale Internetpräsenz\nLandes Berlin: Was wissen Senat und ITDZ?\n(auf Antrag der Fraktion Bündnis 90/Die Grünen)\n…  Mehr\n0123\nSchwerpunkte der Digitalisierung bei der geplanten Verwaltungsreform\n(auf Antrag\nFraktion der CDU und der Fraktion der SPD)\n…  Mehr\n0124\nHackerangriff gegen die BVG und Kunden-Datenverlust\n(auf Antrag der\nDie Linke)\n…  Mehr\n0125\nHackerangriff auf die BVG\n(auf Antrag der Fraktion der\nund der Fraktion der SPD)\n…  Mehr",
+    "analysis": {
+      "topics": [
+        {
+          "name": "Hackerangriff auf BVG Kundendaten",
+          "category": "Cybersicherheit",
+          "summary": "Ein externer Dienstleister der BVG wurde gehackt, wodurch die Daten von ca. 180.000 Kunden, darunter Namen, Adressen und E-Mail-Adressen, entwendet wurden. Die Diskussion im Ausschuss konzentrierte sich auf die späte Kommunikation der BVG, die Auswahl und Kontrolle von Dienstleistern sowie Maßnahmen zum Schutz der betroffenen Kunden vor Identitätsdiebstahl."
+        },
+        {
+          "name": "Digitalisierung in der Verwaltungsreform",
+          "category": "Verwaltungsreform & Haushalt",
+          "summary": "Die Staatssekretärin stellte die Schwerpunkte der geplanten Verwaltungsreform vor, die auch die Digitalisierung betreffen. Kernpunkte sind ein neuer, einheitlicher Aufgabenkatalog, eine verbesserte gesamtstädtische Steuerung und die Schaffung eines Politikfeldes „Digitalisierung, Organisation und Prozesse“, um die Digitalisierungsverantwortung zu bündeln und zu stärken."
+        },
+        {
+          "name": "DDoS-Angriff auf Serviceportal berlin.de",
+          "category": "Cybersicherheit",
+          "summary": "Das Hauptstadtportal berlin.de war Ziel eines massiven DDoS-Angriffs, der in seinem Ausmaß bisherige Attacken übertraf. Im Ausschuss wurde die Auswirkung des Angriffs auf die interne Funktionsfähigkeit der Verwaltung und die Notwendigkeit eines robusten Schutzes nach dem neuesten Stand der Technik diskutiert."
+        },
+        {
+          "name": "IT-Ausfall in Berliner Bürgerämtern",
+          "category": "IT-Infrastruktur & ITDZ",
+          "summary": "Ein IT-Ausfall im ITDZ führte zu erheblichen Störungen in den Berliner Bürgerämtern. Ursache war eine fehlerhafte Reduzierung des Speicherplatzes für eine zentrale Datenbank. Im Ausschuss wurde über die Notwendigkeit von digitalen Back-up-Verfahren diskutiert, um die Arbeitsfähigkeit bei zukünftigen Störungen zu sichern."
+        },
+        {
+          "name": "Zukunft des öffentlichen WLANs",
+          "category": "IT-Infrastruktur & ITDZ",
+          "summary": "Der Senat hat entschieden, das Projekt für öffentliches WLAN in Berlin nicht weiterzuführen. Als Grund wurden fehlende Haushaltsmittel in Höhe von ca. 6 Millionen Euro genannt. Die Fraktion Die Linke kritisierte die Entscheidung und betonte die Wichtigkeit des Angebots für Menschen ohne mobilen Datenzugang."
+        },
+        {
+          "name": "Open Data und Datenstrategie",
+          "category": "Open Data & Open Source",
+          "summary": "Die Besprechung zum Thema Open Data und der Umsetzung der Europäischen Datenstrategie in Berlin wurde auf Antrag der Fraktion Bündnis 90/Die Grünen auf die Tagesordnung gesetzt. Der Punkt wurde aus zeitlichen Gründen vertagt und nicht inhaltlich behandelt."
+        }
+      ],
+      "decisions": [
+        {
+          "text": "Die Besprechung zum Hackerangriff auf die BVG wird vertagt, um die weitere Aufarbeitung abzuwarten.",
+          "result": "vertagt"
+        },
+        {
+          "text": "Die Datenschutzbeauftragte soll den Ausschuss über den Fortgang der Aufarbeitung des BVG-Vorfalls informieren.",
+          "result": "angenommen"
+        },
+        {
+          "text": "Die Besprechung zur Digitalisierung in der Verwaltungsreform wird abgeschlossen.",
+          "result": "zur Kenntnis genommen"
+        },
+        {
+          "text": "Die Besprechung zu Open Data und der Umsetzung der Europäischen Datenstrategie wird aus zeitlichen Gründen vertagt.",
+          "result": "vertagt"
+        }
+      ],
+      "partyPositions": [
+        {
+          "party": "Linke",
+          "topic": "Hackerangriff auf BVG Kundendaten",
+          "stance": "contra",
+          "quote": "Die BVG habe hier zu spät und zu zaghaft gehandelt."
+        },
+        {
+          "party": "CDU",
+          "topic": "Hackerangriff auf BVG Kundendaten",
+          "stance": "contra",
+          "quote": "Eine große Transparenz sei in dem beschriebenen Vorgehen ... nicht zu erkennen"
+        },
+        {
+          "party": "Grüne",
+          "topic": "Hackerangriff auf BVG Kundendaten",
+          "stance": "contra",
+          "quote": "Die BVG unterstütze mit ihrer Krisenkommunikation also potenziell den Angriff."
+        },
+        {
+          "party": "SPD",
+          "topic": "Hackerangriff auf BVG Kundendaten",
+          "stance": "contra",
+          "quote": "Dieser Zeitraum sei hier weit überschritten."
+        },
+        {
+          "party": "AfD",
+          "topic": "Hackerangriff auf BVG Kundendaten",
+          "stance": "neutral",
+          "quote": null
+        },
+        {
+          "party": "Grüne",
+          "topic": "Digitalisierung in der Verwaltungsreform",
+          "stance": "contra",
+          "quote": "Alles, was die Verwaltungsreform für den Bereich Digitalisierung anstrebe, sei bereits gesetzliche Grundlage"
+        },
+        {
+          "party": "AfD",
+          "topic": "Digitalisierung in der Verwaltungsreform",
+          "stance": "neutral",
+          "quote": "die zu erwartenden Veränderungen für die Praxis seien jedoch überschaubar"
+        },
+        {
+          "party": "SPD",
+          "topic": "Digitalisierung in der Verwaltungsreform",
+          "stance": "pro",
+          "quote": null
+        },
+        {
+          "party": "Linke",
+          "topic": "Digitalisierung in der Verwaltungsreform",
+          "stance": "neutral",
+          "quote": null
+        },
+        {
+          "party": "CDU",
+          "topic": "Digitalisierung in der Verwaltungsreform",
+          "stance": "pro",
+          "quote": null
+        },
+        {
+          "party": "Linke",
+          "topic": "Zukunft des öffentlichen WLANs",
+          "stance": "pro",
+          "quote": "...diesem wichtigen Vorhaben weitergehen, von dem besonders Menschen profitieren könnten..."
+        },
+        {
+          "party": "Grüne",
+          "topic": "IT-Ausfall in Berliner Bürgerämtern",
+          "stance": "pro",
+          "quote": "Gebe es Überlegungen, ein digitales Back-up-Verfahren einzuführen...?"
+        }
+      ]
+    }
+  }
+]
