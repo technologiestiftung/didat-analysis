@@ -23,16 +23,22 @@ export interface SessionListProps {
 
 export function SessionList({ sessions }: SessionListProps) {
 	const getResultVariant = (result: string) => {
-		if (result === "angenommen") {return "default";}
-		if (result === "abgelehnt") {return "destructive";}
+		if (result === "angenommen") {
+			return "default";
+		}
+		if (result === "abgelehnt") {
+			return "destructive";
+		}
 		return "secondary";
 	};
 
 	const getResultClass = (result: string) => {
-		if (result === "angenommen")
-			{return "bg-green-600 hover:bg-green-700 text-white border-transparent";}
-		if (result === "vertagt")
-			{return "bg-yellow-500 hover:bg-yellow-600 text-white border-transparent";}
+		if (result === "angenommen") {
+			return "bg-green-600 hover:bg-green-700 text-white border-transparent";
+		}
+		if (result === "vertagt") {
+			return "bg-yellow-500 hover:bg-yellow-600 text-white border-transparent";
+		}
 		return "";
 	};
 
