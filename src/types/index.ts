@@ -26,13 +26,14 @@ export interface Topic {
 }
 
 export type TopicCategory =
-	| "Digitale Bürgerdienste (E-Government)"
-	| "IT-Infrastruktur & ITDZ"
-	| "Datenschutz & Informationsfreiheit"
-	| "Verwaltungsreform & Haushalt"
+	| "Bürgerdienste & Digitale Anträge"
+	| "IT-Modernisierung & Infrastruktur"
+	| "Datenschutz & Grundrechte"
+	| "Informationsfreiheit & Transparenz"
 	| "Künstliche Intelligenz (KI)"
-	| "Cybersicherheit"
-	| "Open Data & Open Source";
+	| "Cybersicherheit & Resilienz"
+	| "Haushalt & Steuerung"
+	| "Digitale Gesetze & Strategien";
 
 export interface PartyPosition {
 	party: "SPD" | "CDU" | "Grüne" | "FDP" | "Linke" | "AfD";

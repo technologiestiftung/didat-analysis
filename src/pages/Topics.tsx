@@ -10,13 +10,14 @@ import {
 import { Badge } from "../components/ui/badge";
 
 const ALL_CATEGORIES: TopicCategory[] = [
-	"Digitale Bürgerdienste (E-Government)",
-	"IT-Infrastruktur & ITDZ",
-	"Datenschutz & Informationsfreiheit",
-	"Verwaltungsreform & Haushalt",
+	"Bürgerdienste & Digitale Anträge",
+	"IT-Modernisierung & Infrastruktur",
+	"Datenschutz & Grundrechte",
+	"Informationsfreiheit & Transparenz",
 	"Künstliche Intelligenz (KI)",
-	"Cybersicherheit",
-	"Open Data & Open Source",
+	"Cybersicherheit & Resilienz",
+	"Haushalt & Steuerung",
+	"Digitale Gesetze & Strategien",
 ];
 
 const PARTIES = ["SPD", "CDU", "Grüne", "FDP", "Linke", "AfD"];
@@ -28,7 +29,7 @@ export function Topics() {
 		{ topicId: string; positions: PartyPosition[] }[]
 	>([]);
 	const [selectedCategory, setSelectedCategory] = useState<TopicCategory>(
-		"Digitale Bürgerdienste (E-Government)",
+		"Bürgerdienste & Digitale Anträge"
 	);
 
 	useEffect(() => {

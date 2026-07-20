@@ -10,10 +10,20 @@ import {
 import { Users, FileText, Activity } from "lucide-react";
 import { Badge } from "../components/ui/badge";
 
+import {
+	Select,
+	SelectContent,
+	SelectItem,
+	SelectTrigger,
+	SelectValue,
+} from "../components/ui/select";
+
 export function Overview() {
 	const [sessions, setSessions] = useState<Session[]>([]);
 	const [topics, setTopics] = useState<Topic[]>([]);
 	const [trends, setTrends] = useState<TrendDataPoint[]>([]);
+	const [startYear, setStartYear] = useState<number | null>(null);
+	const [endYear, setEndYear] = useState<number | null>(null);
 
 	const getResultVariant = (result: string) => {
 		if (result === "angenommen") {

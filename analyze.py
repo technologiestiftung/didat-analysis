@@ -17,7 +17,7 @@ Analysiere dieses Sitzungsprotokoll und gib ein JSON-Objekt zurück mit:
   "topics": [
     {
       "name": "Themenname (max. 5 Wörter)",
-      "category": "eine von: Digitale Bürgerdienste (E-Government) | IT-Infrastruktur & ITDZ | Datenschutz & Informationsfreiheit | Verwaltungsreform & Haushalt | Künstliche Intelligenz (KI) | Cybersicherheit | Open Data & Open Source",
+      "category": "eine von: Bürgerdienste & Digitale Anträge | IT-Modernisierung & Infrastruktur | Datenschutz & Grundrechte | Informationsfreiheit & Transparenz | Künstliche Intelligenz (KI) | Cybersicherheit & Resilienz | Haushalt & Steuerung | Digitale Gesetze & Strategien",
       "summary": "2-3 Sätze Zusammenfassung"
     }
   ],

@@ -274,3 +274,8 @@ cython_debug/
 .turbo
 # Selfhosting
 .op.env
+/playwright/.cache/
+__pycache__/
+*/**/build/
+.venv/
+.env

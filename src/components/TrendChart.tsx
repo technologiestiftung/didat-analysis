@@ -15,13 +15,14 @@ export interface TrendChartProps {
 
 // Fixed color palette for the categories
 const categoryColors: Record<TopicCategory, string> = {
-	"Digitale Bürgerdienste (E-Government)": "#e11d48", // Red
-	"IT-Infrastruktur & ITDZ": "#2563eb", // Blue
-	"Datenschutz & Informationsfreiheit": "#16a34a", // Green
-	"Verwaltungsreform & Haushalt": "#d97706", // Orange
+	"Bürgerdienste & Digitale Anträge": "#e11d48", // Red
+	"IT-Modernisierung & Infrastruktur": "#2563eb", // Blue
+	"Datenschutz & Grundrechte": "#16a34a", // Green
+	"Informationsfreiheit & Transparenz": "#d97706", // Orange
 	"Künstliche Intelligenz (KI)": "#9333ea", // Purple
-	Cybersicherheit: "#0ea5e9", // Indigo
-	"Open Data & Open Source": "#475569", // Slate
+	"Cybersicherheit & Resilienz": "#0ea5e9", // Indigo
+	"Haushalt & Steuerung": "#475569", // Slate
+	"Digitale Gesetze & Strategien": "#f59e0b", // Amber
 };
 
 export function TrendChart({ data }: TrendChartProps) {

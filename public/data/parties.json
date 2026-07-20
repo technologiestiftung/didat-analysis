@@ -1,34 +1,461 @@
 [
   {
-    "topicId": "t_39727991",
+    "topicId": "t_31048928",
+    "positions": [
+      {
+        "party": "CDU",
+        "stance": "neutral",
+        "quote": null,
+        "sessionId": "2026-06-29"
+      },
+      {
+        "party": "SPD",
+        "stance": "neutral",
+        "quote": null,
+        "sessionId": "2026-06-29"
+      },
+      {
+        "party": "Grüne",
+        "stance": "neutral",
+        "quote": null,
+        "sessionId": "2026-06-29"
+      },
+      {
+        "party": "Grüne",
+        "stance": "neutral",
+        "quote": "Wie stelle man sicher, dass dieselbe beziehungsweise die richtige Version von Windows 11 aufgespielt werde?",
+        "sessionId": "2024-09-09"
+      },
+      {
+        "party": "SPD",
+        "stance": "neutral",
+        "quote": "bitte darum, im Ausschuss eine kritische Pfadbetrachtung vorzustellen",
+        "sessionId": "2024-09-09"
+      },
+      {
+        "party": "AfD",
+        "stance": "neutral",
+        "quote": "Wie viele Arbeitsplatz-PC müssten zusätzlich zum ohnehin periodischen Modernisierungszyklus erneuert werden",
+        "sessionId": "2024-09-09"
+      },
+      {
+        "party": "Linke",
+        "stance": "neutral",
+        "quote": "Nach einer Stellungnahme des RdB habe die IKT-Lenkung, die diesen Prozess veranlasse, auch die Kosten zu tragen.",
+        "sessionId": "2024-09-09"
+      }
+    ]
+  },
+  {
+    "topicId": "t_63463270",
+    "positions": [
+      {
+        "party": "Linke",
+        "stance": "pro",
+        "quote": null,
+        "sessionId": "2026-06-29"
+      },
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": null,
+        "sessionId": "2026-06-29"
+      },
+      {
+        "party": "CDU",
+        "stance": "contra",
+        "quote": null,
+        "sessionId": "2026-06-29"
+      },
+      {
+        "party": "SPD",
+        "stance": "contra",
+        "quote": null,
+        "sessionId": "2026-06-29"
+      },
+      {
+        "party": "AfD",
+        "stance": "contra",
+        "quote": null,
+        "sessionId": "2026-06-29"
+      }
+    ]
+  },
+  {
+    "topicId": "t_56177830",
     "positions": [
       {
         "party": "Grüne",
         "stance": "neutral",
+        "quote": null,
+        "sessionId": "2026-06-29"
+      }
+    ]
+  },
+  {
+    "topicId": "t_75782992",
+    "positions": [
+      {
+        "party": "Grüne",
+        "stance": "neutral",
+        "quote": "Was steckt hinter der erneuten Großstörung des BerlinPC am Freitag...",
+        "sessionId": "2026-06-15"
+      }
+    ]
+  },
+  {
+    "topicId": "t_45507654",
+    "positions": [
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": null,
+        "sessionId": "2026-06-15"
+      },
+      {
+        "party": "Linke",
+        "stance": "pro",
+        "quote": null,
+        "sessionId": "2026-06-15"
+      },
+      {
+        "party": "CDU",
+        "stance": "contra",
+        "quote": null,
+        "sessionId": "2026-06-15"
+      },
+      {
+        "party": "SPD",
+        "stance": "contra",
+        "quote": null,
+        "sessionId": "2026-06-15"
+      },
+      {
+        "party": "AfD",
+        "stance": "neutral",
+        "quote": null,
+        "sessionId": "2026-06-15"
+      }
+    ]
+  },
+  {
+    "topicId": "t_82555465",
+    "positions": [
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": null,
+        "sessionId": "2026-06-15"
+      },
+      {
+        "party": "Linke",
+        "stance": "pro",
+        "quote": null,
+        "sessionId": "2026-06-15"
+      },
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": null,
+        "sessionId": "2026-04-20"
+      },
+      {
+        "party": "Linke",
+        "stance": "pro",
+        "quote": null,
+        "sessionId": "2026-04-20"
+      }
+    ]
+  },
+  {
+    "topicId": "t_40971227",
+    "positions": [
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": "sind nach Kenntnis des Senats hierbei Daten von Patientinnen und Patienten aus Berlin betroffen?",
+        "sessionId": "2026-06-01"
+      }
+    ]
+  },
+  {
+    "topicId": "t_50695714",
+    "positions": [
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": null,
+        "sessionId": "2026-06-01"
+      },
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": null,
+        "sessionId": "2026-06-01"
+      }
+    ]
+  },
+  {
+    "topicId": "t_55279206",
+    "positions": [
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": null,
+        "sessionId": "2026-06-01"
+      }
+    ]
+  },
+  {
+    "topicId": "t_59312989",
+    "positions": [
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": null,
+        "sessionId": "2026-05-18"
+      },
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": null,
+        "sessionId": "2026-05-18"
+      }
+    ]
+  },
+  {
+    "topicId": "t_69253123",
+    "positions": [
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": null,
+        "sessionId": "2026-05-18"
+      },
+      {
+        "party": "CDU",
+        "stance": "contra",
+        "quote": null,
+        "sessionId": "2026-05-18"
+      },
+      {
+        "party": "SPD",
+        "stance": "contra",
+        "quote": null,
+        "sessionId": "2026-05-18"
+      },
+      {
+        "party": "Linke",
+        "stance": "pro",
+        "quote": null,
+        "sessionId": "2026-05-18"
+      },
+      {
+        "party": "AfD",
+        "stance": "neutral",
+        "quote": null,
+        "sessionId": "2026-05-18"
+      }
+    ]
+  },
+  {
+    "topicId": "t_80027147",
+    "positions": [
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": null,
+        "sessionId": "2026-05-04"
+      },
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": null,
+        "sessionId": "2026-05-04"
+      },
+      {
+        "party": "Linke",
+        "stance": "pro",
+        "quote": null,
+        "sessionId": "2026-05-04"
+      },
+      {
+        "party": "AfD",
+        "stance": "contra",
+        "quote": null,
+        "sessionId": "2026-05-04"
+      },
+      {
+        "party": "Grüne",
+        "stance": "neutral",
+        "quote": null,
+        "sessionId": "2026-05-04"
+      }
+    ]
+  },
+  {
+    "topicId": "t_83483655",
+    "positions": [
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": null,
+        "sessionId": "2026-03-23"
+      },
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": null,
+        "sessionId": "2026-03-23"
+      },
+      {
+        "party": "Grüne",
+        "stance": "contra",
+        "quote": null,
+        "sessionId": "2026-03-23"
+      },
+      {
+        "party": "Linke",
+        "stance": "contra",
+        "quote": null,
+        "sessionId": "2026-03-23"
+      },
+      {
+        "party": "AfD",
+        "stance": "contra",
+        "quote": null,
+        "sessionId": "2026-03-23"
+      }
+    ]
+  },
+  {
+    "topicId": "t_20907506",
+    "positions": [
+      {
+        "party": "Linke",
+        "stance": "neutral",
+        "quote": "Welche KI-Systeme setzen welche Senatsverwaltungen für was ein...?",
+        "sessionId": "2026-03-09"
+      },
+      {
+        "party": "Grüne",
+        "stance": "neutral",
+        "quote": "Wie steht es um den medienbruchfreien Anwohnerparkausweis bzw. wann ist mit dem Abschluss zu rechnen?",
+        "sessionId": "2026-03-09"
+      }
+    ]
+  },
+  {
+    "topicId": "t_30162879",
+    "positions": [
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "Datenschutz [ist] Grundrechtsschutz, sodass es essenziell sei, die Datenschutzaufsicht mit ausreichenden Befugnissen auszustatten.",
+        "sessionId": "2024-07-01"
+      },
+      {
+        "party": "CDU",
+        "stance": "contra",
+        "quote": "Die Koalition werde einen eigenen Änderungsvorschlag zum BlnDSG vorlegen, sodass sie den Antrag ablehne.",
+        "sessionId": "2024-07-01"
+      },
+      {
+        "party": "SPD",
+        "stance": "contra",
+        "quote": "Er sehe die JI-Richtlinie ausreichend umgesetzt.",
+        "sessionId": "2024-07-01"
+      },
+      {
+        "party": "Linke",
+        "stance": "pro",
+        "quote": null,
+        "sessionId": "2024-07-01"
+      }
+    ]
+  },
+  {
+    "topicId": "t_44408976",
+    "positions": [
+      {
+        "party": "Grüne",
+        "stance": "pro",
         "quote": null,
         "sessionId": "2026-03-09"
       }
     ]
   },
   {
-    "topicId": "t_16628209",
+    "topicId": "t_80139613",
     "positions": [
       {
         "party": "CDU",
-        "stance": "neutral",
+        "stance": "pro",
         "quote": null,
         "sessionId": "2026-03-09"
       },
       {
         "party": "SPD",
-        "stance": "neutral",
+        "stance": "pro",
         "quote": null,
         "sessionId": "2026-03-09"
       }
     ]
   },
   {
-    "topicId": "t_27637087",
+    "topicId": "t_31453677",
+    "positions": [
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": "Bei den Anfragen nach dem IFG bin ich ... mehr auf Seiten der Innenverwaltung.",
+        "sessionId": "2026-02-23"
+      },
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": "finde ich es vollkommen gerechtfertigt, ... dass die Angabe einer Postadresse auch zwingend notwendig ist",
+        "sessionId": "2026-02-23"
+      },
+      {
+        "party": "Linke",
+        "stance": "contra",
+        "quote": "Warum einfach, wenn es auch kompliziert geht?",
+        "sessionId": "2026-02-23"
+      },
+      {
+        "party": "Grüne",
+        "stance": "contra",
+        "quote": "Was wird denn an diesen Daten praktisch überprüft?",
+        "sessionId": "2026-02-23"
+      },
+      {
+        "party": "AfD",
+        "stance": "pro",
+        "quote": "Wenn ich Behörden gegenübertrete, muss ich mich eben ausweisen, identifizieren, so ist es halt.",
+        "sessionId": "2026-02-23"
+      }
+    ]
+  },
+  {
+    "topicId": "t_11132149",
+    "positions": [
+      {
+        "party": "CDU",
+        "stance": "contra",
+        "quote": "Die Staatsanwaltschaft hat ja nicht eigenmächtig entschieden, sondern da gibt es Richter, die geurteilt haben.",
+        "sessionId": "2026-02-23"
+      },
+      {
+        "party": "SPD",
+        "stance": "neutral",
+        "quote": "Das ist in meinen Augen nicht so einfach, wie es die Datenschutzbeauftragte dargestellt hat.",
+        "sessionId": "2026-02-23"
+      }
+    ]
+  },
+  {
+    "topicId": "t_10080395",
     "positions": [
       {
         "party": "Grüne",
@@ -63,18 +490,7 @@
     ]
   },
   {
-    "topicId": "t_28883004",
-    "positions": [
-      {
-        "party": "CDU",
-        "stance": "neutral",
-        "quote": null,
-        "sessionId": "2026-02-09"
-      }
-    ]
-  },
-  {
-    "topicId": "t_44647208",
+    "topicId": "t_25114674",
     "positions": [
       {
         "party": "CDU",
@@ -91,14 +507,8 @@
     ]
   },
   {
-    "topicId": "t_84242386",
+    "topicId": "t_70629975",
     "positions": [
-      {
-        "party": "Grüne",
-        "stance": "pro",
-        "quote": null,
-        "sessionId": "2026-02-09"
-      },
       {
         "party": "CDU",
         "stance": "contra",
@@ -118,21 +528,21 @@
         "sessionId": "2026-02-09"
       },
       {
-        "party": "Linke",
-        "stance": "neutral",
+        "party": "Grüne",
+        "stance": "pro",
         "quote": null,
         "sessionId": "2026-02-09"
       },
       {
-        "party": "Grüne",
-        "stance": "pro",
+        "party": "Linke",
+        "stance": "neutral",
         "quote": null,
-        "sessionId": "2025-11-03"
+        "sessionId": "2026-02-09"
       }
     ]
   },
   {
-    "topicId": "t_33907707",
+    "topicId": "t_19644897",
     "positions": [
       {
         "party": "Grüne",
@@ -143,7 +553,7 @@
     ]
   },
   {
-    "topicId": "t_28039808",
+    "topicId": "t_61046534",
     "positions": [
       {
         "party": "CDU",
@@ -178,24 +588,24 @@
     ]
   },
   {
-    "topicId": "t_86869293",
+    "topicId": "t_23098873",
     "positions": [
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "Europäischen Bezahldienst jetzt berlinweit umsetzen!",
+        "sessionId": "2026-01-26"
+      },
       {
         "party": "CDU",
         "stance": "pro",
-        "quote": "Die Koalitionsfraktionen unterstützen das Ziel, die digitale Souveränität Berlins voranzubringen.",
+        "quote": "Die Koalitionsfraktionen unterstützen das Ziel, die digitale Souveränität Berlins...voranzubringen.",
         "sessionId": "2026-01-26"
       },
       {
         "party": "SPD",
         "stance": "pro",
-        "quote": "Die Koalitionsfraktionen unterstützen das Ziel, die digitale Souveränität Berlins voranzubringen.",
-        "sessionId": "2026-01-26"
-      },
-      {
-        "party": "Grüne",
-        "stance": "pro",
-        "quote": null,
+        "quote": "Die Koalitionsfraktionen unterstützen das Ziel, die digitale Souveränität Berlins...voranzubringen.",
         "sessionId": "2026-01-26"
       },
       {
@@ -213,23 +623,29 @@
     ]
   },
   {
-    "topicId": "t_70143177",
+    "topicId": "t_71848979",
     "positions": [
       {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": null,
+        "sessionId": "2026-01-12"
+      },
+      {
         "party": "Linke",
-        "stance": "neutral",
+        "stance": "pro",
         "quote": null,
         "sessionId": "2026-01-12"
       }
     ]
   },
   {
-    "topicId": "t_53178123",
+    "topicId": "t_40916978",
     "positions": [
       {
         "party": "Grüne",
         "stance": "pro",
-        "quote": null,
+        "quote": "Papiertiger oder Weg zu mehr digitaler Souveränität?",
         "sessionId": "2026-01-12"
       },
       {
@@ -247,7 +663,7 @@
     ]
   },
   {
-    "topicId": "t_77356295",
+    "topicId": "t_30462775",
     "positions": [
       {
         "party": "Grüne",
@@ -258,41 +674,41 @@
     ]
   },
   {
-    "topicId": "t_66876485",
+    "topicId": "t_12824581",
     "positions": [
       {
         "party": "Grüne",
         "stance": "contra",
-        "quote": "...neue Software zur Gewerbeanmeldung so mangelhaft ist, dass Tausende von Anmeldungen nicht bearbeitet werden können?",
+        "quote": "...dass die neue Software zur Gewerbeanmeldung so mangelhaft ist...",
         "sessionId": "2025-12-15"
       }
     ]
   },
   {
-    "topicId": "t_49219646",
+    "topicId": "t_22203489",
     "positions": [
       {
         "party": "CDU",
         "stance": "neutral",
-        "quote": "Ist das ITDZ überhaupt insolvenzfähig und wie bewertet der Senat... die Liquiditätssituation des ITDZ Berlin?",
+        "quote": "Ist das ITDZ überhaupt insolvenzfähig und wie bewertet der Senat... die Liquiditätssituation...?",
         "sessionId": "2025-12-15"
       },
       {
         "party": "SPD",
         "stance": "neutral",
-        "quote": null,
+        "quote": "...ob es zu Gesetzeskollisionen dadurch komme...",
         "sessionId": "2025-12-15"
       },
       {
         "party": "Linke",
         "stance": "neutral",
-        "quote": null,
+        "quote": "...die vom ITDZ betriebene 115, die offenbar vom Land nicht mehr bezahlt würde, zu Kosten... führen würde.",
         "sessionId": "2025-12-15"
       }
     ]
   },
   {
-    "topicId": "t_84046431",
+    "topicId": "t_72621970",
     "positions": [
       {
         "party": "CDU",
@@ -309,7 +725,7 @@
     ]
   },
   {
-    "topicId": "t_88738166",
+    "topicId": "t_34849743",
     "positions": [
       {
         "party": "CDU",
@@ -326,24 +742,24 @@
       {
         "party": "Grüne",
         "stance": "contra",
-        "quote": "ob es ab Anfang Januar Einschränkungen bei den Online-Dienstleistungen geben werde",
+        "quote": "...ob es ab Anfang Januar Einschränkungen bei den Online-Dienstleistungen geben werde...",
         "sessionId": "2025-12-15"
       }
     ]
   },
   {
-    "topicId": "t_81936080",
+    "topicId": "t_33677802",
     "positions": [
       {
         "party": "Linke",
         "stance": "neutral",
-        "quote": "ob die ... Verwaltungsvorschrift ... bis zum Inkrafttreten des Gesetzes am 1. Januar 2026 vorliegen werde",
+        "quote": null,
         "sessionId": "2025-12-01"
       }
     ]
   },
   {
-    "topicId": "t_64401554",
+    "topicId": "t_12731081",
     "positions": [
       {
         "party": "CDU",
@@ -360,7 +776,7 @@
     ]
   },
   {
-    "topicId": "t_85707331",
+    "topicId": "t_45743428",
     "positions": [
       {
         "party": "Grüne",
@@ -371,29 +787,40 @@
     ]
   },
   {
-    "topicId": "t_38296767",
+    "topicId": "t_37606162",
     "positions": [
       {
         "party": "CDU",
         "stance": "pro",
-        "quote": null,
+        "quote": "die CDU-Fraktion habe mit Freude zur Kenntnis genommen, dass es bei den Bürgerämtern gut vorangehe.",
         "sessionId": "2025-11-17"
-      },
+      }
+    ]
+  },
+  {
+    "topicId": "t_18804034",
+    "positions": [
       {
-        "party": "SPD",
+        "party": "CDU",
         "stance": "pro",
-        "quote": null,
+        "quote": "Die Registermodernisierung sei für das Land Berlin wichtig und bedeute auch eine Entlastung.",
         "sessionId": "2025-11-17"
       },
       {
         "party": "Grüne",
         "stance": "pro",
-        "quote": null,
+        "quote": "bessere Möglichkeiten parlamentarischer Beteiligung und Kontrolle für Prozesse zu etablieren",
         "sessionId": "2025-11-17"
       },
       {
         "party": "Linke",
-        "stance": "neutral",
+        "stance": "contra",
+        "quote": "Mit dem neuen Gesetz werde eine Generalvollmacht etabliert, was nicht akzeptabel sei.",
+        "sessionId": "2025-11-17"
+      },
+      {
+        "party": "SPD",
+        "stance": "pro",
         "quote": null,
         "sessionId": "2025-11-17"
       },
@@ -406,19 +833,25 @@
     ]
   },
   {
-    "topicId": "t_56189032",
+    "topicId": "t_45773860",
     "positions": [
       {
         "party": "Grüne",
-        "stance": "neutral",
-        "quote": null,
+        "stance": "pro",
+        "quote": "mehr gemeinsam entwickelte OZG-Produkte und mehr Open-Source-Produkte eingesetzt werden?",
         "sessionId": "2025-11-17"
       }
     ]
   },
   {
-    "topicId": "t_31911575",
+    "topicId": "t_65778155",
     "positions": [
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": "Er wolle sich dafür bedanken, dass sich die Verwaltung hier so motiviert für die Öffentlichkeitsarbeit einsetze.",
+        "sessionId": "2025-11-03"
+      },
       {
         "party": "CDU",
         "stance": "pro",
@@ -426,72 +859,132 @@
         "sessionId": "2025-11-03"
       },
       {
-        "party": "SPD",
+        "party": "Grüne",
         "stance": "pro",
-        "quote": null,
+        "quote": "das Dashboard sei aus seiner Sicht ein guter Schritt hin zu mehr Transparenz und Messbarkeit.",
         "sessionId": "2025-11-03"
       }
     ]
   },
   {
-    "topicId": "t_49473148",
+    "topicId": "t_18308437",
+    "positions": [
+      {
+        "party": "Linke",
+        "stance": "contra",
+        "quote": "Die Entwicklung sei insgesamt fatal, da nicht nur an den bereits genannten Orten öffentliches WLAN benötigt werde.",
+        "sessionId": "2025-11-03"
+      },
+      {
+        "party": "Grüne",
+        "stance": "contra",
+        "quote": "WLAN in öffentlichen Einrichtungen müsse im Jahr 2025 vielmehr Standard sein.",
+        "sessionId": "2025-11-03"
+      },
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": "Man habe sich ... dazu entschieden, die Förderung für die WLAN-Initiative einzustellen.",
+        "sessionId": "2025-11-03"
+      },
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": "Das Thema müsse nun abgeschlossen werden.",
+        "sessionId": "2025-11-03"
+      }
+    ]
+  },
+  {
+    "topicId": "t_42473258",
     "positions": [
       {
         "party": "Grüne",
         "stance": "pro",
-        "quote": null,
+        "quote": "Der Beirat solle vielmehr ein Tool sein, um betroffene Menschen mit den zuständigen Stellen zu verbinden.",
+        "sessionId": "2025-11-03"
+      },
+      {
+        "party": "CDU",
+        "stance": "contra",
+        "quote": "aus Sicht der CDU-Fraktion werde keine weitere Struktur benötigt, die Doppelarbeit leisten würde.",
+        "sessionId": "2025-11-03"
+      },
+      {
+        "party": "SPD",
+        "stance": "contra",
+        "quote": "Es werde aus Sicht seiner Fraktion jedoch kein zusätzlicher Beirat benötigt.",
+        "sessionId": "2025-11-03"
+      },
+      {
+        "party": "AfD",
+        "stance": "contra",
+        "quote": "Ein neuer Beirat bedeute mehr Bürokratie.",
+        "sessionId": "2025-11-03"
+      },
+      {
+        "party": "Linke",
+        "stance": "neutral",
+        "quote": "dass Gesetze nicht eingehalten würden ... sei jedoch per se kein Grund für das Einsetzen eines neuen Beirats.",
         "sessionId": "2025-11-03"
       },
       {
         "party": "Linke",
         "stance": "pro",
-        "quote": null,
-        "sessionId": "2025-11-03"
-      }
-    ]
-  },
-  {
-    "topicId": "t_68989091",
-    "positions": [
+        "quote": "Wenn der Staat Regeln mache, müsse er sich an diese halten.",
+        "sessionId": "2024-09-23"
+      },
       {
         "party": "CDU",
         "stance": "pro",
-        "quote": null,
-        "sessionId": "2025-11-03"
+        "quote": "Sie wünsche sich sechs bis sieben Vollzeitstellen, aber es gebe vielfältige Bedarfe in der Stadt...",
+        "sessionId": "2024-09-23"
       },
       {
         "party": "SPD",
         "stance": "pro",
-        "quote": null,
-        "sessionId": "2025-11-03"
+        "quote": "...dass Digitalisierung voranschreite, aber das Geld sei begrenzt.",
+        "sessionId": "2024-09-23"
+      },
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "Was sei gesetzlich jenseits der Ziele und Verpflichtungen noch zu tun?",
+        "sessionId": "2024-09-23"
+      },
+      {
+        "party": "AfD",
+        "stance": "neutral",
+        "quote": "Es sei aber nicht praktikabel, den Bestand von IT-Fachverfahren umfangreichen Prüfprozessen zu unterziehen.",
+        "sessionId": "2024-09-23"
       }
     ]
   },
   {
-    "topicId": "t_58100413",
+    "topicId": "t_27735602",
     "positions": [
       {
         "party": "CDU",
         "stance": "pro",
-        "quote": "Die Sicherheitskräfte bräuchten das richtige Handwerkszeug...",
+        "quote": "Die Sicherheitskräfte bräuchten das richtige Handwerkszeug.",
         "sessionId": "2025-10-06"
       },
       {
         "party": "SPD",
         "stance": "pro",
-        "quote": "...wichtig, um die Polizei zur unmittelbaren Handlung zu befähigen.",
+        "quote": "Die Grenzen zur Beschädigung von Bürgerrechten [werden] nicht überschritten.",
         "sessionId": "2025-10-06"
       },
       {
         "party": "Grüne",
         "stance": "contra",
-        "quote": "Normen sollten jedoch nicht von Beginn an jegliches Verfassungsrecht ignorieren...",
+        "quote": "...dass nicht alle vorgeschlagenen Änderungen verfassungskonform seien.",
         "sessionId": "2025-10-06"
       },
       {
         "party": "Linke",
         "stance": "contra",
-        "quote": "...eines der repressivsten Polizeigesetze der Bundesrepublik nicht.",
+        "quote": "Ihre Fraktion teile die Begeisterung für eines der repressivsten Polizeigesetze...nicht.",
         "sessionId": "2025-10-06"
       },
       {
@@ -503,7 +996,7 @@
     ]
   },
   {
-    "topicId": "t_81247818",
+    "topicId": "t_59162915",
     "positions": [
       {
         "party": "CDU",
@@ -514,7 +1007,7 @@
       {
         "party": "SPD",
         "stance": "pro",
-        "quote": "Im letzten Nachtragshaushalt ... sei so gespart worden, dass nun ... Platz sei.",
+        "quote": "Der Digitalbereich könne aus den Konsolidierungs- und Sparbemühungen leider nicht ausgenommen werden.",
         "sessionId": "2025-10-06"
       },
       {
@@ -532,217 +1025,205 @@
       {
         "party": "AfD",
         "stance": "contra",
-        "quote": "...Zurückhaltung zu erkennen und ein Entwurf ... der keine unnötigen Extras enthalte.",
+        "quote": "Der Fokus...sollte nicht auf Transformation um jeden Preis liegen, sondern auf der Resilienz.",
         "sessionId": "2025-10-06"
       }
     ]
   },
   {
-    "topicId": "t_48677970",
+    "topicId": "t_11208943",
     "positions": [
       {
         "party": "Grüne",
         "stance": "contra",
-        "quote": "Das Fehlen einer gesamtstädtischen Steuerung werde in vielen Berichten betont...",
-        "sessionId": "2025-10-06"
+        "quote": "der heutige Vortrag zeige sehr deutlich, dass der Senat bei der Digitalisierung [...] aufgebe",
+        "sessionId": "2025-09-22"
       },
       {
         "party": "CDU",
         "stance": "pro",
-        "quote": "Auch die IKT-Basisdienste blieben uneingeschränkt gewährleistet...",
-        "sessionId": "2025-10-06"
+        "quote": "er selbst halte den Schritt, den Senat und Koalition nun gingen, jedoch für mutig",
+        "sessionId": "2025-09-22"
+      },
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": null,
+        "sessionId": "2025-09-22"
       },
       {
         "party": "Linke",
-        "stance": "contra",
-        "quote": "Mit einer veralteten IT-Infrastruktur könne keine IT-Sicherheit gewährleistet werden.",
-        "sessionId": "2025-10-06"
-      },
-      {
-        "party": "AfD",
         "stance": "neutral",
-        "quote": "...Fokus ... nicht auf Transformation um jeden Preis liegen, sondern auf der Resilienz.",
-        "sessionId": "2025-10-06"
+        "quote": "stelle sich die Frage, wie diese Phase effektiv organisiert werden könne. Es finde hier ein Systembruch statt.",
+        "sessionId": "2025-09-22"
       }
     ]
   },
   {
-    "topicId": "t_20053411",
+    "topicId": "t_24292746",
     "positions": [
       {
         "party": "Linke",
         "stance": "pro",
-        "quote": null,
+        "quote": "er wolle den Senat zu dem vorliegenden Gesetzentwurf beglückwünschen: Er sei überfällig",
         "sessionId": "2025-09-22"
       },
       {
         "party": "Grüne",
         "stance": "pro",
-        "quote": null,
+        "quote": "Seine Fraktion betrachte den Gesetzesentwurf als einen ersten Schritt in die richtige Richtung",
         "sessionId": "2025-09-22"
       }
     ]
   },
   {
-    "topicId": "t_38829302",
+    "topicId": "t_15379608",
+    "positions": [
+      {
+        "party": "Linke",
+        "stance": "contra",
+        "quote": "Potenziell fehlerhaft sei prinzipiell alles; dies genüge als Begründung nicht aus.",
+        "sessionId": "2025-09-22"
+      }
+    ]
+  },
+  {
+    "topicId": "t_24770267",
+    "positions": [
+      {
+        "party": "Linke",
+        "stance": "contra",
+        "quote": "Solche Vorgänge könnten als sexualisierte Gewalt bezeichnet werden.",
+        "sessionId": "2025-09-22"
+      },
+      {
+        "party": "CDU",
+        "stance": "contra",
+        "quote": "dass die Zahlen in der Tat erschreckend seien. Jeder Fall des Datenmissbrauchs [...] sei ein Fall zu viel.",
+        "sessionId": "2025-09-22"
+      },
+      {
+        "party": "SPD",
+        "stance": "neutral",
+        "quote": "was aber solle zusätzlich getan werden, um dieses Ziel zu erreichen?",
+        "sessionId": "2025-09-22"
+      }
+    ]
+  },
+  {
+    "topicId": "t_13921951",
+    "positions": [
+      {
+        "party": "Grüne",
+        "stance": "contra",
+        "quote": "mittlerweile mehr als 11 Monate vergangen seien, seit die Richtlinie hätte umgesetzt werden müssen",
+        "sessionId": "2025-09-22"
+      },
+      {
+        "party": "Grüne",
+        "stance": "contra",
+        "quote": "...dass der Senat die innere Sicherheit ... nicht ernst genug nehme...",
+        "sessionId": "2024-10-14"
+      },
+      {
+        "party": "Linke",
+        "stance": "contra",
+        "quote": null,
+        "sessionId": "2024-10-14"
+      }
+    ]
+  },
+  {
+    "topicId": "t_81761293",
     "positions": [
       {
         "party": "CDU",
         "stance": "pro",
         "quote": null,
-        "sessionId": "2025-09-22"
+        "sessionId": "2025-09-08"
       },
       {
         "party": "SPD",
         "stance": "pro",
         "quote": null,
-        "sessionId": "2025-09-22"
-      }
-    ]
-  },
-  {
-    "topicId": "t_52948240",
-    "positions": [
-      {
-        "party": "CDU",
-        "stance": "pro",
-        "quote": null,
-        "sessionId": "2025-09-22"
-      },
-      {
-        "party": "SPD",
-        "stance": "pro",
-        "quote": null,
-        "sessionId": "2025-09-22"
-      },
-      {
-        "party": "Grüne",
-        "stance": "pro",
-        "quote": null,
-        "sessionId": "2025-09-22"
-      },
-      {
-        "party": "Linke",
-        "stance": "pro",
-        "quote": null,
-        "sessionId": "2025-09-22"
-      },
-      {
-        "party": "AfD",
-        "stance": "pro",
-        "quote": null,
-        "sessionId": "2025-09-22"
-      }
-    ]
-  },
-  {
-    "topicId": "t_82942122",
-    "positions": [
-      {
-        "party": "Grüne",
-        "stance": "pro",
-        "quote": null,
-        "sessionId": "2025-09-22"
-      },
-      {
-        "party": "Linke",
-        "stance": "pro",
-        "quote": null,
-        "sessionId": "2025-09-22"
-      }
-    ]
-  },
-  {
-    "topicId": "t_81479463",
-    "positions": [
-      {
-        "party": "CDU",
-        "stance": "pro",
-        "quote": "Welche konkreten Ressourcen ... stehen für die Umsetzung zur Verfügung, wie ist sichergestellt, dass...",
         "sessionId": "2025-09-08"
       }
     ]
   },
   {
-    "topicId": "t_88723010",
+    "topicId": "t_33156034",
     "positions": [
       {
         "party": "Grüne",
-        "stance": "neutral",
+        "stance": "contra",
         "quote": "Sei hier eine Nachschiebeliste vom Senat geplant, um hier noch einmal nachzuarbeiten?",
         "sessionId": "2025-09-08"
       }
     ]
   },
   {
-    "topicId": "t_57894898",
+    "topicId": "t_60743863",
     "positions": [
       {
         "party": "Grüne",
-        "stance": "pro",
+        "stance": "contra",
         "quote": "Warum habe der Senat nicht schon jetzt das umgesetzt, was er selbst für sinnvoll halte?",
         "sessionId": "2025-09-08"
-      },
-      {
-        "party": "SPD",
-        "stance": "pro",
-        "quote": "Welche Vorteile werden vom Senat/der CDO gesehen, den ... Einzelplan 25 zu einem Digitalhaushalt weiterzuentwickeln...",
-        "sessionId": "2025-09-08"
       }
     ]
   },
   {
-    "topicId": "t_21924172",
-    "positions": [
-      {
-        "party": "Linke",
-        "stance": "neutral",
-        "quote": "...wolle er um eine schriftliche Beantwortung der Frage 27 b bitten.",
-        "sessionId": "2025-09-08"
-      }
-    ]
-  },
-  {
-    "topicId": "t_22813333",
+    "topicId": "t_59995112",
     "positions": [
       {
         "party": "Linke",
         "stance": "contra",
-        "quote": "Nehme das Land Berlin sehenden Auges in Kauf, dass ... Kollegen mit veralteten ... Geräten arbeiten müssten?",
+        "quote": "Aus diesem Grund wolle er um eine schriftliche Beantwortung der Frage 27 b bitten.",
         "sessionId": "2025-09-08"
       }
     ]
   },
   {
-    "topicId": "t_23571911",
+    "topicId": "t_59727863",
+    "positions": [
+      {
+        "party": "Linke",
+        "stance": "contra",
+        "quote": "Nehme das Land Berlin sehenden Auges in Kauf, dass ... mit veralteten ... Geräten arbeiten müssten?",
+        "sessionId": "2025-09-08"
+      }
+    ]
+  },
+  {
+    "topicId": "t_25905026",
     "positions": [
       {
         "party": "AfD",
         "stance": "neutral",
-        "quote": "Wie hoch schätze der Senat das Risiko dafür ein, dass der Bündelfunk durch Dritte abgehört werden könnte...",
+        "quote": "Wie hoch schätze der Senat das Risiko ein, dass der Bündelfunk durch Dritte abgehört werden könnte?",
         "sessionId": "2025-09-08"
       }
     ]
   },
   {
-    "topicId": "t_61465334",
+    "topicId": "t_72474402",
     "positions": [
       {
         "party": "Grüne",
-        "stance": "neutral",
+        "stance": "pro",
         "quote": "Trifft es zu, dass sich die Windows 11-Umstellung auch dadurch verzögert...?",
         "sessionId": "2025-07-07"
       },
       {
         "party": "Linke",
         "stance": "neutral",
-        "quote": "...die [Beteiligung der Personalvertretungen] er für zwingend notwendig erachte.",
+        "quote": "...dass es ihm gar nicht um die Beteiligung der Personalvertretungen gegangen sei, die er für zwingend notwendig erachte.",
         "sessionId": "2025-07-07"
       }
     ]
   },
   {
-    "topicId": "t_28031269",
+    "topicId": "t_49974820",
     "positions": [
       {
         "party": "CDU",
@@ -759,42 +1240,65 @@
     ]
   },
   {
-    "topicId": "t_28068352",
+    "topicId": "t_15902317",
     "positions": [
       {
         "party": "Grüne",
         "stance": "pro",
-        "quote": "...woran es in anderen Verwaltungsstellen hake und was getan werden könne, um hier Fortschritte zu erzielen.",
+        "quote": "...die IT-Standardisierung ... nur dann wirklich positive Effekte haben könne, wenn möglichst viele Stellen teilnähmen.",
         "sessionId": "2025-07-07"
       },
       {
         "party": "Linke",
         "stance": "neutral",
-        "quote": "Wie würden Prozesse mit der BIM so aufgesetzt, dass diese eventuell sogar schon von sich aus darauf achte...",
+        "quote": "Wie würden Prozesse mit der BIM so aufgesetzt, dass diese eventuell sogar schon von sich aus darauf achte...?",
         "sessionId": "2025-07-07"
       }
     ]
   },
   {
-    "topicId": "t_22762881",
+    "topicId": "t_68175837",
     "positions": [
       {
         "party": "Grüne",
         "stance": "pro",
-        "quote": "Was sind Berlins Ideen und Strategien um die digitale Souveränität seiner Verwaltung zu sichern?",
+        "quote": "Was sind Berlins Ideen und Strategien, um die digitale Souveränität seiner Verwaltung zu sichern?“",
+        "sessionId": "2025-06-23"
+      },
+      {
+        "party": "Linke",
+        "stance": "pro",
+        "quote": "Wie läuft die Modernisierung der Integrierten Software Berliner Jugendhilfe (ISBJ)?",
         "sessionId": "2025-06-23"
       }
     ]
   },
   {
-    "topicId": "t_19985260",
+    "topicId": "t_52851178",
     "positions": [
       {
         "party": "Grüne",
-        "stance": "contra",
-        "quote": "die Ausführungen erschienen ihm angesichts des Vorfalls und des Kontrolldefizits nicht ausreichend.",
+        "stance": "pro",
+        "quote": "Open Data ein zentrales Thema in einer modernen Verwaltung sei, um nächste Schritte [...] machen zu können.",
         "sessionId": "2025-06-23"
       },
+      {
+        "party": "SPD",
+        "stance": "neutral",
+        "quote": "Wie schätze die Senatskanzlei Chancen von finanziellen Verwertungen durch Gebühren oder Ähnliches ein?",
+        "sessionId": "2025-06-23"
+      },
+      {
+        "party": "Linke",
+        "stance": "pro",
+        "quote": "ob eine gesetzliche Grundlage im Digitalgesetz vorstellbar sei",
+        "sessionId": "2025-06-23"
+      }
+    ]
+  },
+  {
+    "topicId": "t_97353359",
+    "positions": [
       {
         "party": "Linke",
         "stance": "contra",
@@ -802,55 +1306,38 @@
         "sessionId": "2025-06-23"
       },
       {
-        "party": "SPD",
+        "party": "CDU",
         "stance": "neutral",
-        "quote": "Habe es hier eine Rückfrage der Datenschutzbeauftragten gegeben? Welcher Art sei der Austausch?",
+        "quote": "Könnten hier konkretere Angaben [...] gemacht werden, was geplant sei, um das Risiko [...] zu minimieren?",
         "sessionId": "2025-06-23"
       },
       {
-        "party": "CDU",
+        "party": "SPD",
         "stance": "neutral",
-        "quote": "Könnten hier konkretere Angaben darüber gemacht werden, was geplant sei, um das Risiko... zu minimieren?",
+        "quote": "Wann sei mit einem Abschluss zu rechnen?",
         "sessionId": "2025-06-23"
-      }
-    ]
-  },
-  {
-    "topicId": "t_36628671",
-    "positions": [
+      },
       {
         "party": "Grüne",
-        "stance": "pro",
-        "quote": "Open Data ein zentrales Thema in einer modernen Verwaltung sei, um nächste Schritte... machen zu können.",
-        "sessionId": "2025-06-23"
-      },
-      {
-        "party": "SPD",
-        "stance": "pro",
-        "quote": "dass man in bestimmten Bereichen wie etwa der Gesundheitsforschung auf Datenspenden angewiesen sei.",
-        "sessionId": "2025-06-23"
-      },
-      {
-        "party": "Linke",
-        "stance": "pro",
-        "quote": "ob eine gesetzliche Grundlage im Digitalgesetz vorstellbar sei: Durch eine solche gesetzliche Verpflichtung",
+        "stance": "contra",
+        "quote": "Habe die Zusammenarbeit schon immer auf einer Vertrauensbasis stattgefunden?",
         "sessionId": "2025-06-23"
       }
     ]
   },
   {
-    "topicId": "t_62016657",
+    "topicId": "t_28262653",
     "positions": [
       {
         "party": "CDU",
         "stance": "pro",
-        "quote": null,
+        "quote": "wie der erste terminfreie Tag in den Bürgerämtern gelaufen sei.",
         "sessionId": "2025-06-23"
       },
       {
         "party": "SPD",
         "stance": "pro",
-        "quote": "Es scheine also sinnvoll, das Angebot in einen Regelbetrieb aufzunehmen.",
+        "quote": "Es scheine also sinnvoll, das Angebot in einen Regelbetrieb aufzunehmen",
         "sessionId": "2025-06-23"
       },
       {
@@ -860,30 +1347,24 @@
         "sessionId": "2025-06-23"
       },
       {
-        "party": "Grüne",
-        "stance": "pro",
-        "quote": "letztendlich werde ein Mix aus verschiedenen Angeboten benötigt",
-        "sessionId": "2025-06-23"
-      },
-      {
         "party": "AfD",
         "stance": "neutral",
         "quote": "warum nur 9 von 12 Bezirken am Aktionstag teilgenommen hätten.",
+        "sessionId": "2025-06-23"
+      },
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "letztendlich werde ein Mix aus verschiedenen Angeboten benötigt",
         "sessionId": "2025-06-23"
       }
     ]
   },
   {
-    "topicId": "t_62050098",
+    "topicId": "t_85676808",
     "positions": [
       {
         "party": "Grüne",
-        "stance": "pro",
-        "quote": null,
-        "sessionId": "2025-06-23"
-      },
-      {
-        "party": "Linke",
         "stance": "pro",
         "quote": null,
         "sessionId": "2025-06-23"
@@ -901,6 +1382,12 @@
         "sessionId": "2025-06-23"
       },
       {
+        "party": "Linke",
+        "stance": "pro",
+        "quote": null,
+        "sessionId": "2025-06-23"
+      },
+      {
         "party": "AfD",
         "stance": "neutral",
         "quote": null,
@@ -909,42 +1396,30 @@
     ]
   },
   {
-    "topicId": "t_91102691",
+    "topicId": "t_56288851",
     "positions": [
       {
         "party": "Linke",
-        "stance": "contra",
+        "stance": "pro",
         "quote": "Die BVG habe hier zu spät und zu zaghaft gehandelt.",
         "sessionId": "2025-05-19"
       },
       {
         "party": "CDU",
-        "stance": "contra",
-        "quote": "Eine große Transparenz sei in dem beschriebenen Vorgehen ... nicht zu erkennen",
-        "sessionId": "2025-05-19"
-      },
-      {
-        "party": "Grüne",
-        "stance": "contra",
-        "quote": "Die BVG unterstütze mit ihrer Krisenkommunikation also potenziell den Angriff.",
-        "sessionId": "2025-05-19"
-      },
-      {
-        "party": "SPD",
-        "stance": "contra",
-        "quote": "Dieser Zeitraum sei hier weit überschritten.",
+        "stance": "pro",
+        "quote": "dass es sich bei Anschrifts- oder Wohnortdaten nicht um sensible Daten handele, sei falsch.",
         "sessionId": "2025-05-19"
       },
       {
         "party": "AfD",
-        "stance": "neutral",
-        "quote": null,
+        "stance": "pro",
+        "quote": "Gehe die BVG nach dem aktuellen Stand der rechtlichen Prüfung im eigenen Haus davon aus, dass dieser Fall hier zutreffen könnte?",
         "sessionId": "2025-05-19"
       }
     ]
   },
   {
-    "topicId": "t_63073652",
+    "topicId": "t_92786777",
     "positions": [
       {
         "party": "Grüne",
@@ -953,33 +1428,15 @@
         "sessionId": "2025-05-19"
       },
       {
-        "party": "AfD",
-        "stance": "neutral",
-        "quote": "die zu erwartenden Veränderungen für die Praxis seien jedoch überschaubar",
-        "sessionId": "2025-05-19"
-      },
-      {
         "party": "SPD",
         "stance": "pro",
-        "quote": null,
-        "sessionId": "2025-05-19"
-      },
-      {
-        "party": "Linke",
-        "stance": "neutral",
-        "quote": null,
-        "sessionId": "2025-05-19"
-      },
-      {
-        "party": "CDU",
-        "stance": "pro",
-        "quote": null,
+        "quote": "...wolle der Staatssekretärin für die Ausführungen und den Einsatz ... danken.",
         "sessionId": "2025-05-19"
       }
     ]
   },
   {
-    "topicId": "t_11078307",
+    "topicId": "t_55027938",
     "positions": [
       {
         "party": "Grüne",
@@ -990,13 +1447,2215 @@
     ]
   },
   {
-    "topicId": "t_54747444",
+    "topicId": "t_25379377",
     "positions": [
       {
         "party": "Linke",
         "stance": "pro",
-        "quote": "...diesem wichtigen Vorhaben weitergehen, von dem besonders Menschen profitieren könnten...",
+        "quote": "Wie solle es aus Sicht des Senats mit diesem wichtigen Vorhaben weitergehen...?",
         "sessionId": "2025-05-19"
+      }
+    ]
+  },
+  {
+    "topicId": "t_83402606",
+    "positions": [
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "nur eine teilweise Umsetzung der Vorschläge die Digitalisierung in Berlin stärken könne.",
+        "sessionId": "2025-04-07"
+      },
+      {
+        "party": "Linke",
+        "stance": "pro",
+        "quote": "der Bericht die Probleme der Digitalisierung und weiterer Verwaltungsprojekte in Berlin herausarbeite.",
+        "sessionId": "2025-04-07"
+      },
+      {
+        "party": "SPD",
+        "stance": "neutral",
+        "quote": null,
+        "sessionId": "2025-04-07"
+      },
+      {
+        "party": "AfD",
+        "stance": "neutral",
+        "quote": null,
+        "sessionId": "2025-04-07"
+      }
+    ]
+  },
+  {
+    "topicId": "t_34094035",
+    "positions": [
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "dass sich der Senat darauf konzentrieren solle, das 14-Tage-Ziel zu erreichen",
+        "sessionId": "2025-04-07"
+      },
+      {
+        "party": "Linke",
+        "stance": "pro",
+        "quote": "Gute Oppositionsarbeit erinnere den Senat auch an selbst ausgegebene Versprechen.",
+        "sessionId": "2025-04-07"
+      },
+      {
+        "party": "CDU",
+        "stance": "contra",
+        "quote": "Der Antrag selbst mache keine konkrete Vorschläge.",
+        "sessionId": "2025-04-07"
+      },
+      {
+        "party": "SPD",
+        "stance": "contra",
+        "quote": "Der Antrag sei daher plakativ.",
+        "sessionId": "2025-04-07"
+      },
+      {
+        "party": "AfD",
+        "stance": "neutral",
+        "quote": "Dass es besser gehe, zeige Wien, wo durch eine komplette Umsetzung des Digitalen Amts...",
+        "sessionId": "2025-04-07"
+      }
+    ]
+  },
+  {
+    "topicId": "t_79797102",
+    "positions": [
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": "Langfristig müssten für Bearbeitungszeiten Zielmarken anvisiert werden, die eher bei vier bis sechs Wochen lägen.",
+        "sessionId": "2025-01-27"
+      },
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "Was werde konkret dafür getan, um zu akzeptablen Bearbeitungszeiten zu kommen?",
+        "sessionId": "2025-01-27"
+      },
+      {
+        "party": "Linke",
+        "stance": "pro",
+        "quote": "Eine Bearbeitungszeit von drei Monaten sei für Menschen, die einen Antrag auf Wohngeld stellten, sehr lang.",
+        "sessionId": "2025-01-27"
+      }
+    ]
+  },
+  {
+    "topicId": "t_24504035",
+    "positions": [
+      {
+        "party": "Grüne",
+        "stance": "contra",
+        "quote": "Durchsetzung von Rechten...sollte mit einer starken Verankerung vor Ort Hand in Hand gehen.",
+        "sessionId": "2025-03-24"
+      },
+      {
+        "party": "Linke",
+        "stance": "contra",
+        "quote": "Sehe der Senat es auch so, dass die avisierte Zentralisierung zu mehr Bürokratie und weniger Lösungen führe?",
+        "sessionId": "2025-03-24"
+      },
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": "Berlin habe...eine Stellungnahme dahin gehend abgegeben, dass das Land Berlin...die Zentralisierungsbestrebungen begrüße.",
+        "sessionId": "2025-03-24"
+      },
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": "Berlin habe...eine Stellungnahme dahin gehend abgegeben, dass das Land Berlin...die Zentralisierungsbestrebungen begrüße.",
+        "sessionId": "2025-03-24"
+      },
+      {
+        "party": "AfD",
+        "stance": "contra",
+        "quote": "Diese Zuständigkeit einer Bundesbehörde zuzubilligen, erachte er für problematisch.",
+        "sessionId": "2025-03-24"
+      }
+    ]
+  },
+  {
+    "topicId": "t_67658781",
+    "positions": [
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "Er hoffe, dass die Koalitionsfraktionen diesen Weg mitgingen und keinen Berliner oder deutschen Alleingang vorzögen.",
+        "sessionId": "2025-03-24"
+      },
+      {
+        "party": "SPD",
+        "stance": "contra",
+        "quote": "Jedoch sei das Land Berlin derzeit nicht in der Lage, eine Umsetzung vorzunehmen. Der Antrag sei der Zeit voraus.",
+        "sessionId": "2025-03-24"
+      },
+      {
+        "party": "CDU",
+        "stance": "contra",
+        "quote": null,
+        "sessionId": "2025-03-24"
+      },
+      {
+        "party": "Linke",
+        "stance": "pro",
+        "quote": null,
+        "sessionId": "2025-03-24"
+      },
+      {
+        "party": "AfD",
+        "stance": "neutral",
+        "quote": null,
+        "sessionId": "2025-03-24"
+      }
+    ]
+  },
+  {
+    "topicId": "t_65501820",
+    "positions": [
+      {
+        "party": "Linke",
+        "stance": "neutral",
+        "quote": "gern den aktuellen Stand zur Verordnung erfahren wolle",
+        "sessionId": "2025-03-10"
+      }
+    ]
+  },
+  {
+    "topicId": "t_24041355",
+    "positions": [
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": null,
+        "sessionId": "2025-03-10"
+      },
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": "sinnvoll, ein gewisses Mindestmaß an Transparenz zu schaffen, um schnell reagieren zu können",
+        "sessionId": "2025-03-10"
+      },
+      {
+        "party": "Grüne",
+        "stance": "contra",
+        "quote": "Der Änderungsantrag überzeuge nicht.",
+        "sessionId": "2025-03-10"
+      },
+      {
+        "party": "Linke",
+        "stance": "contra",
+        "quote": "Dies sei für sensible Daten nicht ausreichend, da nicht abgesichert werden könne, dass mit Daten korrekt umgegangen werde.",
+        "sessionId": "2025-03-10"
+      },
+      {
+        "party": "AfD",
+        "stance": "neutral",
+        "quote": null,
+        "sessionId": "2025-03-10"
+      },
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": "Deshalb habe die Koalition nach Rücksprache mit SenWGP beschlossen, den Paragrafen anzupassen.",
+        "sessionId": "2024-04-15"
+      },
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": null,
+        "sessionId": "2024-04-15"
+      },
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "Sie müssten von spezialgesetzlichen Sonderlösungen in Berlin absehen.",
+        "sessionId": "2024-04-15"
+      },
+      {
+        "party": "Linke",
+        "stance": "contra",
+        "quote": "Wie könne Berlin dem Problem begegnen, dass der Krankenhaussektor eine vulnerable Stelle sei?",
+        "sessionId": "2024-04-15"
+      },
+      {
+        "party": "AfD",
+        "stance": "pro",
+        "quote": "Es handele sich um Bürokratieabbau.",
+        "sessionId": "2024-04-15"
+      }
+    ]
+  },
+  {
+    "topicId": "t_36424125",
+    "positions": [
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": "der Glasfaserausbau in Berlin ein zentrales Element der digitalen Transformation sei",
+        "sessionId": "2025-02-24"
+      },
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": null,
+        "sessionId": "2025-02-24"
+      },
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "Könnten in Berlin nicht einheitliche Rahmenbedingungen für Genehmigungen geschaffen werden?",
+        "sessionId": "2025-02-24"
+      },
+      {
+        "party": "Linke",
+        "stance": "neutral",
+        "quote": "Wie in anderen netzbasierten Infrastrukturen müsse es eine öffentliche Kontrolle über die Netze geben",
+        "sessionId": "2025-02-24"
+      },
+      {
+        "party": "AfD",
+        "stance": "neutral",
+        "quote": "Die Bürokratie in diesem Bereich müsse dringend abgebaut werden.",
+        "sessionId": "2025-02-24"
+      }
+    ]
+  },
+  {
+    "topicId": "t_58924227",
+    "positions": [
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "aktiv einen kleinen Baustein zur Open-Source-Community beizutragen",
+        "sessionId": "2025-02-24"
+      },
+      {
+        "party": "Linke",
+        "stance": "pro",
+        "quote": null,
+        "sessionId": "2025-02-24"
+      },
+      {
+        "party": "CDU",
+        "stance": "contra",
+        "quote": null,
+        "sessionId": "2025-02-24"
+      },
+      {
+        "party": "SPD",
+        "stance": "contra",
+        "quote": null,
+        "sessionId": "2025-02-24"
+      },
+      {
+        "party": "AfD",
+        "stance": "contra",
+        "quote": null,
+        "sessionId": "2025-02-24"
+      }
+    ]
+  },
+  {
+    "topicId": "t_78461779",
+    "positions": [
+      {
+        "party": "Grüne",
+        "stance": "contra",
+        "quote": "Werde sich der Berliner Senat in dieser Debatte für den Föderalismus einsetzen...?",
+        "sessionId": "2025-02-10"
+      },
+      {
+        "party": "Linke",
+        "stance": "contra",
+        "quote": "Habe der Senat dagegen gestimmt, oder ... setze [er] sich ... für eine Zentralisierung ein?",
+        "sessionId": "2025-02-10"
+      },
+      {
+        "party": "SPD",
+        "stance": "neutral",
+        "quote": "Schätze Frau Kamp die Situation so ein, dass die Bundesregierung die Entwürfe umsetzen wolle...?",
+        "sessionId": "2025-02-10"
+      }
+    ]
+  },
+  {
+    "topicId": "t_48520226",
+    "positions": [
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": null,
+        "sessionId": "2025-02-10"
+      },
+      {
+        "party": "SPD",
+        "stance": "neutral",
+        "quote": "Mit welcher Lebensspanne des GovTech Campus Berlin rechneten die Anzuhörenden?",
+        "sessionId": "2025-02-10"
+      },
+      {
+        "party": "Grüne",
+        "stance": "neutral",
+        "quote": "Inwiefern spiele digitale Souveränität am GovTech Campus eine Rolle?",
+        "sessionId": "2025-02-10"
+      },
+      {
+        "party": "Linke",
+        "stance": "neutral",
+        "quote": "Aktuell sehe man, dass Tech-Milliardäre Demokratien kauften. Hier gelte es, einen Kontrapunkt zu setzen.",
+        "sessionId": "2025-02-10"
+      },
+      {
+        "party": "AfD",
+        "stance": "neutral",
+        "quote": "Wer die Fördermitglieder des GovTech Campus seien. Handle es sich nur um staatliche Akteure...?",
+        "sessionId": "2025-02-10"
+      }
+    ]
+  },
+  {
+    "topicId": "t_72689117",
+    "positions": [
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "Bei welchen Dienstleistungen habe das Open Source Kompetenzzentrum geholfen?",
+        "sessionId": "2025-02-10"
+      },
+      {
+        "party": "SPD",
+        "stance": "neutral",
+        "quote": "Mache es sich bemerkbar, dass im E-Government-Gesetz ... Open Source ... Vorrang haben solle?",
+        "sessionId": "2025-02-10"
+      }
+    ]
+  },
+  {
+    "topicId": "t_88434303",
+    "positions": [
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": null,
+        "sessionId": "2025-02-10"
+      },
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": null,
+        "sessionId": "2025-02-10"
+      },
+      {
+        "party": "Linke",
+        "stance": "contra",
+        "quote": "...ob die Schaffung eines Digitalministeriums auf Bundesebene sinnvoll sei. Dies leiste ... dem Trend zur Zentralisierung Vorschub.",
+        "sessionId": "2025-02-10"
+      }
+    ]
+  },
+  {
+    "topicId": "t_83150109",
+    "positions": [
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": "wie viele der 300 000 eingereichten Anträge erfolgreich zum Abschluss gebracht worden seien",
+        "sessionId": "2025-01-27"
+      },
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": "Zunächst müsse man sich auf die Massenprozesse konzentrieren; an diesen hingen die größten Entlastungspotenziale.",
+        "sessionId": "2025-01-27"
+      },
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "Wie viele der Anträge seien bisher vollständig medienbruchfrei digitalisiert?",
+        "sessionId": "2025-01-27"
+      },
+      {
+        "party": "Linke",
+        "stance": "pro",
+        "quote": "Digitale Anträge sollten dort eingeführt werden, wo tatsächlich eine automatisierte Bearbeitung stattfinden könne.",
+        "sessionId": "2025-01-27"
+      },
+      {
+        "party": "AfD",
+        "stance": "neutral",
+        "quote": "welche Verwaltungsfachverfahren nicht digital angeboten werden könnten, da eine papierschriftliche Form festgeschrieben sei.",
+        "sessionId": "2025-01-27"
+      }
+    ]
+  },
+  {
+    "topicId": "t_82027395",
+    "positions": [
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "Ein Entwurf für das Digitalgesetz müsse nun zeitnah auf den Tisch kommen, um eine Diskussionsgrundlage zu liefern.",
+        "sessionId": "2025-01-27"
+      },
+      {
+        "party": "CDU",
+        "stance": "neutral",
+        "quote": "Sobald die Verwaltungsreform abgeschlossen sei, werde nun also der Entwurf für das Digitalgesetz ausgearbeitet.",
+        "sessionId": "2025-01-27"
+      },
+      {
+        "party": "SPD",
+        "stance": "neutral",
+        "quote": "Daran werde sich die Koalition in der laufenden Legislaturperiode halten.",
+        "sessionId": "2025-01-27"
+      },
+      {
+        "party": "Linke",
+        "stance": "pro",
+        "quote": null,
+        "sessionId": "2025-01-27"
+      },
+      {
+        "party": "AfD",
+        "stance": "contra",
+        "quote": "Die AfD-Fraktion werde den Antrag aufgrund seiner mangelnden Klarheit ablehnen.",
+        "sessionId": "2025-01-27"
+      }
+    ]
+  },
+  {
+    "topicId": "t_20775585",
+    "positions": [
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": "...sollte ein Überblick über diese KI-bezogenen Aktivitäten ermöglicht werden.",
+        "sessionId": "2025-01-13"
+      },
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": "Wie werde solch ein sozialer Aspekt in den Erstellungsprozess integriert...?",
+        "sessionId": "2025-01-13"
+      },
+      {
+        "party": "Grüne",
+        "stance": "neutral",
+        "quote": "Was hindere die Berliner Verwaltung?",
+        "sessionId": "2025-01-13"
+      },
+      {
+        "party": "Linke",
+        "stance": "contra",
+        "quote": "Was sei jedoch der genaue Vorteil des KI-Einsatzes beim Erstellen von BAKs?",
+        "sessionId": "2025-01-13"
+      }
+    ]
+  },
+  {
+    "topicId": "t_11522152",
+    "positions": [
+      {
+        "party": "Grüne",
+        "stance": "contra",
+        "quote": "Grundsätzlich solle das Ziel verfolgt werden, eine IKT-Architektur aufzubauen, die alltagstauglich sei",
+        "sessionId": "2025-01-13"
+      }
+    ]
+  },
+  {
+    "topicId": "t_82106554",
+    "positions": [
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": "Die Aufstockung des Wohngelds löst massenhaft Verwaltungsvorgänge aus.",
+        "sessionId": "2025-01-13"
+      }
+    ]
+  },
+  {
+    "topicId": "t_72127562",
+    "positions": [
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": null,
+        "sessionId": "2024-12-16"
+      },
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": "dass er eine Kampagne zur Steigerung der Nutzungszahlen des eWA-Onlinedienstes für eine gute Idee halte.",
+        "sessionId": "2024-12-16"
+      }
+    ]
+  },
+  {
+    "topicId": "t_54472373",
+    "positions": [
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "Ein Abwarten sei für die Fraktion der Grünen nun nicht mehr länger tragbar.",
+        "sessionId": "2024-12-16"
+      },
+      {
+        "party": "CDU",
+        "stance": "contra",
+        "quote": "besser, die Polizei zwar zur Übermittlung der Daten zu ermächtigen, es aber dem Ermessen der Polizei zu überlassen",
+        "sessionId": "2024-12-16"
+      },
+      {
+        "party": "SPD",
+        "stance": "contra",
+        "quote": "An der großen ASOG-Novelle werde nun also in der Innenverwaltung und in der Koalition gearbeitet.",
+        "sessionId": "2024-12-16"
+      },
+      {
+        "party": "Linke",
+        "stance": "neutral",
+        "quote": "würde es begrüßen, sollte der Antrag in ein Gesamtkonzept eingebunden werden.",
+        "sessionId": "2024-12-16"
+      },
+      {
+        "party": "AfD",
+        "stance": "contra",
+        "quote": "Weitergabe von Daten an einen privaten Dritten, keinen Hoheitsträger, kritisch zu sehen sei.",
+        "sessionId": "2024-12-16"
+      }
+    ]
+  },
+  {
+    "topicId": "t_85476462",
+    "positions": [
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": null,
+        "sessionId": "2024-12-16"
+      },
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": "würde sich die Einrichtung einer Korrektivstelle anbieten, welche verschiedene Prozesse behandeln könne.",
+        "sessionId": "2024-12-16"
+      },
+      {
+        "party": "Grüne",
+        "stance": "neutral",
+        "quote": "eine Schulung von Legistinnen und Legisten für ihn noch kein wirklicher Digitalcheck sei",
+        "sessionId": "2024-12-16"
+      },
+      {
+        "party": "Linke",
+        "stance": "neutral",
+        "quote": "ob er es richtig verstanden habe, dass der Digitalcheck im Prinzip kein richtiger Check im Sinne einer Kontrolle sei.",
+        "sessionId": "2024-12-16"
+      }
+    ]
+  },
+  {
+    "topicId": "t_35564576",
+    "positions": [
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": "Man setze Prioritäten und vernachlässige nicht die wichtigen Zukunftsthemen.",
+        "sessionId": "2024-12-02"
+      },
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": "...wichtig, dass die wichtigsten Projekte jetzt nicht unsinnigerweise gestoppt würden...",
+        "sessionId": "2024-12-02"
+      },
+      {
+        "party": "Grüne",
+        "stance": "contra",
+        "quote": "An welchen Punkten werde nun wirklich gespart?",
+        "sessionId": "2024-12-02"
+      },
+      {
+        "party": "Linke",
+        "stance": "contra",
+        "quote": "...sondern werde ein Stück weit die Zukunft Berlins verspielen.",
+        "sessionId": "2024-12-02"
+      },
+      {
+        "party": "AfD",
+        "stance": "neutral",
+        "quote": "Einsparungen, die die E-Akte, das E-Payment oder das E-Government beträfen, sehe er äußerst kritisch.",
+        "sessionId": "2024-12-02"
+      }
+    ]
+  },
+  {
+    "topicId": "t_32735018",
+    "positions": [
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": "Low Code sei ein relativ kleiner, aber sehr nützlicher Baustein, und das unterstütze man.",
+        "sessionId": "2024-12-02"
+      },
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "...dass man mit der Low-Code-Plattform von Altlasten wegkomme...",
+        "sessionId": "2024-12-02"
+      }
+    ]
+  },
+  {
+    "topicId": "t_22975606",
+    "positions": [
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "...dass der Antrag sinnvoll sei.",
+        "sessionId": "2024-12-02"
+      },
+      {
+        "party": "Linke",
+        "stance": "neutral",
+        "quote": "Problematisch sei allerdings, dass die Identifikation praktisch nur über die Onlinefunktion...",
+        "sessionId": "2024-12-02"
+      },
+      {
+        "party": "AfD",
+        "stance": "neutral",
+        "quote": "Die Digitalisierung der Belehrung begrüße man, aber sie müsse datenschutzkonform erfolgen.",
+        "sessionId": "2024-12-02"
+      }
+    ]
+  },
+  {
+    "topicId": "t_19446474",
+    "positions": [
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": "Die Koalition habe sich im Koalitionsvertrag den Auftrag gegeben, eine Multi-Cloud-Strategie für Berlin zu erarbeiten.",
+        "sessionId": "2024-11-18"
+      },
+      {
+        "party": "SPD",
+        "stance": "neutral",
+        "quote": "Die Präsentationen hätten wieder sehr wolkige Begriffe verwendet. Er würde „Cloud“ als „Serverplatz“ oder Ähnliches übersetzen.",
+        "sessionId": "2024-11-18"
+      },
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "die Grundüberlegung zur Cloud-Strategie könne er nur unterstützen; dies sei der richtige Weg.",
+        "sessionId": "2024-11-18"
+      },
+      {
+        "party": "Linke",
+        "stance": "neutral",
+        "quote": "Er wolle nicht, dass Berliner öffentliche Daten bei diesen Anbietern gehostet oder gespeichert würden.",
+        "sessionId": "2024-11-18"
+      }
+    ]
+  },
+  {
+    "topicId": "t_69157988",
+    "positions": [
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": "Alle müssten ihre Daten an einer zentralen Stelle eintragen, damit eine Koordination überhaupt möglich sei.",
+        "sessionId": "2024-11-18"
+      },
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": "Die digitale Einreichung von Anträgen finde er in diesem Fall gut, sinnvoll und zielführend.",
+        "sessionId": "2024-11-18"
+      },
+      {
+        "party": "Grüne",
+        "stance": "neutral",
+        "quote": "Seine Fraktion werde sich ... enthalten, teile aber das Ziel und werde schauen, wie man hier den besten Weg finden werde.",
+        "sessionId": "2024-11-18"
+      },
+      {
+        "party": "Linke",
+        "stance": "neutral",
+        "quote": "Im zweiten Absatz des Antrags heiße es, dass die Antragstellung fortan ausschließlich digital möglich sein solle. Dies widerspreche allerdings dem E-Government-Gesetz.",
+        "sessionId": "2024-11-18"
+      },
+      {
+        "party": "AfD",
+        "stance": "pro",
+        "quote": "seine Fraktion werde dem Antrag zustimmen, auch wenn er sehr knapp formuliert sei und an einigen Stellen relativ unkonkret bleibe.",
+        "sessionId": "2024-11-18"
+      }
+    ]
+  },
+  {
+    "topicId": "t_41646730",
+    "positions": [
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "Was man brauche, seien Überlegungen dazu, wie man sich abstimme, wenn KI in allen Ressorts eine Rolle spiele.",
+        "sessionId": "2024-11-18"
+      },
+      {
+        "party": "CDU",
+        "stance": "contra",
+        "quote": "SenWiEnBe sei gerade dabei, ein KI-Hub aufzubauen; insofern glaube er, dass man hier bereits gut aufgestellt sei.",
+        "sessionId": "2024-11-18"
+      },
+      {
+        "party": "SPD",
+        "stance": "contra",
+        "quote": "Er wolle der Verwaltung keine unstrukturierte Aufgabenliste zumuten, insofern werde er den Antrag ablehnen.",
+        "sessionId": "2024-11-18"
+      },
+      {
+        "party": "Linke",
+        "stance": "neutral",
+        "quote": "Sie sehe in dem Antrag eine Reihe von guten Punkten, eine Reihe von Punkten, die sie weniger wichtig finde...",
+        "sessionId": "2024-11-18"
+      },
+      {
+        "party": "AfD",
+        "stance": "contra",
+        "quote": null,
+        "sessionId": "2024-11-18"
+      }
+    ]
+  },
+  {
+    "topicId": "t_23809181",
+    "positions": [
+      {
+        "party": "Linke",
+        "stance": "pro",
+        "quote": "Verstöße gegen den Datenschutz von Beschäftigten seien ein großes Problem, das die Berliner Ebene nicht lösen könne.",
+        "sessionId": "2024-11-04"
+      },
+      {
+        "party": "AfD",
+        "stance": "neutral",
+        "quote": "Das Themenfeld der unzulässigen POLIKS-Abfragen könne keiner praktikablen Lösung zugeführt werden.",
+        "sessionId": "2024-11-04"
+      },
+      {
+        "party": "SPD",
+        "stance": "neutral",
+        "quote": "Wie vertrage sich Microsoft 365 mit dem Datenschutzrahmen EU-USA? Sei die Nutzung nun erlaubt?",
+        "sessionId": "2024-11-04"
+      },
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "Sie müssten von der Rhetorik wegkommen, dass Datenschutz etwas verhindere, wenn der Senat nicht gleichzeitig mit BlnBDI an Lösungen arbeite...",
+        "sessionId": "2024-11-04"
+      }
+    ]
+  },
+  {
+    "topicId": "t_24520544",
+    "positions": [
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "...wichtig, an solchen Stellen Transparenz zu schaffen und eine menschliche Überprüfbarkeit zu erreichen, um sich nicht auszuliefern.",
+        "sessionId": "2024-11-04"
+      },
+      {
+        "party": "SPD",
+        "stance": "contra",
+        "quote": "Das Thema habe aber bei der Koalition keine Priorität.",
+        "sessionId": "2024-11-04"
+      },
+      {
+        "party": "Linke",
+        "stance": "neutral",
+        "quote": "Es sei sinnvoll, ein Register aufzusetzen, doch seine Fraktion unterstütze den Trend nicht, immer „KI“ draufzuschreiben...",
+        "sessionId": "2024-11-04"
+      },
+      {
+        "party": "CDU",
+        "stance": "contra",
+        "quote": "Zudem erfordere der Aufbau und Betrieb eines solchen Registers finanzielle und personelle Ressourcen.",
+        "sessionId": "2024-11-04"
+      },
+      {
+        "party": "AfD",
+        "stance": "contra",
+        "quote": "Das Primärziel sei, immer mehr Bürokratie zu schaffen, um ein effektives Handeln des Staates zu erschweren.",
+        "sessionId": "2024-11-04"
+      }
+    ]
+  },
+  {
+    "topicId": "t_38150175",
+    "positions": [
+      {
+        "party": "Linke",
+        "stance": "neutral",
+        "quote": "will wissen, wie schnell der Senat mit Entlastungen bei den Bürgerämtern rechne.",
+        "sessionId": "2023-12-11"
+      },
+      {
+        "party": "Grüne",
+        "stance": "neutral",
+        "quote": "erkundigt sich, ob es den Wohnberechtigungsschein online gebe.",
+        "sessionId": "2023-12-11"
+      },
+      {
+        "party": "SPD",
+        "stance": "neutral",
+        "quote": "Wie stehe Berlin im Vergleich zu den anderen Bundesländern da?",
+        "sessionId": "2023-12-11"
+      }
+    ]
+  },
+  {
+    "topicId": "t_73161442",
+    "positions": [
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": "Wird das Berliner Open Source Kompetenzzentrum ... openDesk für den Einsatz in Berlin prüfen",
+        "sessionId": "2024-10-14"
+      },
+      {
+        "party": "Linke",
+        "stance": "pro",
+        "quote": "Wie ist der Stand der Open-Source Strategie?",
+        "sessionId": "2024-10-14"
+      }
+    ]
+  },
+  {
+    "topicId": "t_27670669",
+    "positions": [
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "Er danke für die klaren Worte; dies sei ein gutes Zeichen.",
+        "sessionId": "2024-10-14"
+      },
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": "Die Präsentation hier skizziere einen anderen Weg, der einen Versuch wert sei.",
+        "sessionId": "2024-10-14"
+      },
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": "...es sei begrüßenswert, wie offen, klar und ungeschönt sie die Situation darstelle.",
+        "sessionId": "2024-10-14"
+      },
+      {
+        "party": "Linke",
+        "stance": "pro",
+        "quote": "Es sei sinnvoll, Eigenverantwortung und Innovation stärker in den Vordergrund zu stellen.",
+        "sessionId": "2024-10-14"
+      },
+      {
+        "party": "AfD",
+        "stance": "neutral",
+        "quote": "Seine Fraktion würde einen solchen [zweiten Dienstleister] kritisch sehen.",
+        "sessionId": "2024-10-14"
+      }
+    ]
+  },
+  {
+    "topicId": "t_41448987",
+    "positions": [
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": "Es spare Zeit und verhindere Probleme, wenn das Wissen verfügbar sei.",
+        "sessionId": "2024-09-23"
+      },
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": "Es sei aber wichtig, Datenschutz mitzudenken.",
+        "sessionId": "2024-09-23"
+      },
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "Der Prozess sei gut, und es sei sinnvoll, IT-Sicherheit in gleicher Weise im PMH zu berücksichtigen.",
+        "sessionId": "2024-09-23"
+      }
+    ]
+  },
+  {
+    "topicId": "t_10334587",
+    "positions": [
+      {
+        "party": "AfD",
+        "stance": "neutral",
+        "quote": null,
+        "sessionId": "2024-09-23"
+      }
+    ]
+  },
+  {
+    "topicId": "t_43716533",
+    "positions": [
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": "Ist geplant, das neue europäische Bezahlsystem Wero in den IKT-Basisdienst E-Payment aufzunehmen",
+        "sessionId": "2024-09-09"
+      },
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": "wie sich der Senat in Bezug auf den Vorschlag von Frau Senatorin Giffey ... aufgestellt sehe.",
+        "sessionId": "2024-09-09"
+      }
+    ]
+  },
+  {
+    "topicId": "t_70848624",
+    "positions": [
+      {
+        "party": "Linke",
+        "stance": "neutral",
+        "quote": "Was sind die neuesten Entwicklungen bei der Einführung der digitalen Akte?",
+        "sessionId": "2024-09-09"
+      }
+    ]
+  },
+  {
+    "topicId": "t_52120450",
+    "positions": [
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "...zu klären, wie sich das Land Berlin dabei verhalte und welche Position der Senat ... vertrete.",
+        "sessionId": "2024-09-09"
+      },
+      {
+        "party": "Linke",
+        "stance": "neutral",
+        "quote": "wie Zalando das Interesse an der Zuständigkeit der Datenschutzbehörde begründe.",
+        "sessionId": "2024-09-09"
+      },
+      {
+        "party": "AfD",
+        "stance": "pro",
+        "quote": "ordnungspolitisch biete es sich an, der Datenschutzbehörde die Prüfung der KI-Systeme zu übertragen",
+        "sessionId": "2024-09-09"
+      },
+      {
+        "party": "SPD",
+        "stance": "neutral",
+        "quote": "sollte man bei diesem schwierigen Thema nicht übereilte Entscheidungen treffen",
+        "sessionId": "2024-09-09"
+      }
+    ]
+  },
+  {
+    "topicId": "t_89517493",
+    "positions": [
+      {
+        "party": "Grüne",
+        "stance": "neutral",
+        "quote": "Berlin könne das Geld besser ausgeben und z. B. bestehende Gutachten umsetzen.",
+        "sessionId": "2024-07-01"
+      },
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": "Es sei sinnvoll, dass das ITDZ auch ohne Rechtsgrundlage Dinge ausprobieren könne.",
+        "sessionId": "2024-07-01"
+      }
+    ]
+  },
+  {
+    "topicId": "t_83903876",
+    "positions": [
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "Man könne einen der beiden Wege gehen, aber es sei nicht klug, den Weg ständig zu wechseln...",
+        "sessionId": "2024-06-17"
+      },
+      {
+        "party": "Linke",
+        "stance": "contra",
+        "quote": "...der langsame Fortschritt weise auf ein systemisches Problem hin.",
+        "sessionId": "2024-06-17"
+      },
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": null,
+        "sessionId": "2024-06-17"
+      },
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": null,
+        "sessionId": "2024-06-17"
+      }
+    ]
+  },
+  {
+    "topicId": "t_53041558",
+    "positions": [
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "Andernfalls sollte das Parlament über den vorliegenden Entwurf sprechen.",
+        "sessionId": "2024-06-17"
+      },
+      {
+        "party": "Linke",
+        "stance": "pro",
+        "quote": "Das Transparenzgesetz sei bereits fertig. Der aktuelle Senat müsse es nur überarbeiten.",
+        "sessionId": "2024-06-17"
+      },
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": "...die Koalition befinde sich im Austausch und informiere das Parlament darüber, sobald es fertig sei.",
+        "sessionId": "2024-06-17"
+      },
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": null,
+        "sessionId": "2024-06-17"
+      }
+    ]
+  },
+  {
+    "topicId": "t_76643570",
+    "positions": [
+      {
+        "party": "Linke",
+        "stance": "contra",
+        "quote": "...ob BlnBDI prüfe, dass die CDU Daten ehemaliger Bewerberinnen und Bewerber rechtmäßig gespeichert habe?",
+        "sessionId": "2024-06-17"
+      }
+    ]
+  },
+  {
+    "topicId": "t_85386108",
+    "positions": [
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": "Die Koalitionsfraktionen hätten deshalb beantragt, die Behördennummer näher vorzustellen.",
+        "sessionId": "2024-06-03"
+      },
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": "...dass die Bewältigung von monatlich über einer Million Anrufen...eine riesige Leitung...gewesen sei.",
+        "sessionId": "2024-06-03"
+      },
+      {
+        "party": "Linke",
+        "stance": "neutral",
+        "quote": "...dass man bei sehr speziellen Fragen auch falsche Aussagen erhalte...",
+        "sessionId": "2024-06-03"
+      },
+      {
+        "party": "AfD",
+        "stance": "neutral",
+        "quote": "Sei beabsichtigt, mit der 115 künftig auch KI-gesteuert zu arbeiten und so Personal abzubauen?",
+        "sessionId": "2024-06-03"
+      }
+    ]
+  },
+  {
+    "topicId": "t_76625983",
+    "positions": [
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "...nach dem Stand der Planungen für ein freies WLAN in Stadtteilzentren, Bibliotheken...",
+        "sessionId": "2024-06-03"
+      },
+      {
+        "party": "Linke",
+        "stance": "pro",
+        "quote": null,
+        "sessionId": "2024-06-03"
+      },
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": "...mit dem Wegfall der Störerhaftung auch Privatpersonen ein offenes WLAN anbieten könnten.",
+        "sessionId": "2024-06-03"
+      }
+    ]
+  },
+  {
+    "topicId": "t_15041813",
+    "positions": [
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": "...der Antrag...fordere den Senat nicht zu einer Prüfung, sondern zur Entwicklung eines Konzepts auf.",
+        "sessionId": "2024-06-03"
+      },
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": "...es gehe darum, allgemein Eltern mit neuen Kindern bei den entsprechend notwendigen Formalitäten...zu entlasten.",
+        "sessionId": "2024-06-03"
+      },
+      {
+        "party": "Grüne",
+        "stance": "neutral",
+        "quote": "Warum forderten die Koalitionsfraktionen nur eine Prüfung und nicht die Erstellung eines solchen Angebots?",
+        "sessionId": "2024-06-03"
+      },
+      {
+        "party": "AfD",
+        "stance": "pro",
+        "quote": null,
+        "sessionId": "2024-06-03"
+      }
+    ]
+  },
+  {
+    "topicId": "t_72000189",
+    "positions": [
+      {
+        "party": "Linke",
+        "stance": "contra",
+        "quote": "Seien Projekte wie das CityLAB von den Einsparungen betroffen?",
+        "sessionId": "2024-04-29"
+      },
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "Debattiere der Senat die Relevanz von Digitalisierung, und verständigten sich die Senatsverwaltungen...",
+        "sessionId": "2024-04-29"
+      }
+    ]
+  },
+  {
+    "topicId": "t_90394664",
+    "positions": [
+      {
+        "party": "Grüne",
+        "stance": "contra",
+        "quote": "...dass CDU-geführte Ministerien Digitalisierung zunächst stoppen wollten, weil sie der Bundesregierung...",
+        "sessionId": "2024-04-29"
+      },
+      {
+        "party": "AfD",
+        "stance": "neutral",
+        "quote": "Hätten sie zudem ein Paymentsystem als EfA-Leistung besprochen?",
+        "sessionId": "2024-04-29"
+      }
+    ]
+  },
+  {
+    "topicId": "t_70619073",
+    "positions": [
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": "Sei zudem der kritische Pfad mit einem Klick einsehbar? Sei das Tool eine Eigenentwicklung?",
+        "sessionId": "2024-04-29"
+      },
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": "Wie verhielten sich die Schulungen 2024 zur Zahl der Mitarbeiter in der Landesverwaltung...?",
+        "sessionId": "2024-04-29"
+      }
+    ]
+  },
+  {
+    "topicId": "t_39193392",
+    "positions": [
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": "Wie engagiere sich Berlin föderal, um seine Interessen zu wahren?",
+        "sessionId": "2024-04-29"
+      },
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": "Warum hätten drei Senatsverwaltungen ... noch keine Open-Data-Beauftragten...?",
+        "sessionId": "2024-04-29"
+      },
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "Er wünsche sich in zukünftigen Präsentationen mehr Fakten, die dem Ausschuss Controlling ermöglichen.",
+        "sessionId": "2024-04-29"
+      },
+      {
+        "party": "Linke",
+        "stance": "pro",
+        "quote": "Wann werde das novellierte ITDZ-Gesetz den Ausschuss erreichen?",
+        "sessionId": "2024-04-29"
+      },
+      {
+        "party": "AfD",
+        "stance": "neutral",
+        "quote": "Wie stehe die Digitalisierung in Berlin im internationalen Vergleich da?",
+        "sessionId": "2024-04-29"
+      }
+    ]
+  },
+  {
+    "topicId": "t_79711890",
+    "positions": [
+      {
+        "party": "AfD",
+        "stance": "neutral",
+        "quote": "Seien intelligente Mülltonnen denkbar, die der BSR meldeten, das sie voll seien?",
+        "sessionId": "2024-04-15"
+      }
+    ]
+  },
+  {
+    "topicId": "t_96368977",
+    "positions": [
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": "Schulungen an der VAk seien sinnvoll.",
+        "sessionId": "2024-04-15"
+      },
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": "Ein agiles Projektmanagementhandbuch wäre zu begrüßen.",
+        "sessionId": "2024-04-15"
+      },
+      {
+        "party": "Grüne",
+        "stance": "neutral",
+        "quote": "...warum das alte Projektmanagementhandbuch nicht die nötige Resonanz gefunden habe...?",
+        "sessionId": "2024-04-15"
+      }
+    ]
+  },
+  {
+    "topicId": "t_78076678",
+    "positions": [
+      {
+        "party": "Grüne",
+        "stance": "contra",
+        "quote": "Das Verfahren bisher, bei dem jede Kommune selbst Vorgaben des Bundes umsetze, sei nicht erfolgreich.",
+        "sessionId": "2024-03-18"
+      }
+    ]
+  },
+  {
+    "topicId": "t_45413241",
+    "positions": [
+      {
+        "party": "Linke",
+        "stance": "contra",
+        "quote": "Im Zuge der Coronapandemie sei der Einsatz von Doctolib mit Blick auf Datenschutz schwierig gewesen.",
+        "sessionId": "2024-03-18"
+      }
+    ]
+  },
+  {
+    "topicId": "t_19097343",
+    "positions": [
+      {
+        "party": "Grüne",
+        "stance": "contra",
+        "quote": "Inwiefern sei es notwendig, Daten von einem Handy auszulesen, wenn sie keine Straftäterinnen ... seien?",
+        "sessionId": "2024-03-18"
+      }
+    ]
+  },
+  {
+    "topicId": "t_23200252",
+    "positions": [
+      {
+        "party": "CDU",
+        "stance": "neutral",
+        "quote": "die Koalitionsfraktionen wollten betrachten, was sich bei der E-Akte verbessert habe",
+        "sessionId": "2024-03-18"
+      },
+      {
+        "party": "Grüne",
+        "stance": "contra",
+        "quote": "Er sei immer noch fassungslos, dass es nötig sei [das Projekt neu aufzusetzen].",
+        "sessionId": "2024-03-18"
+      },
+      {
+        "party": "Linke",
+        "stance": "pro",
+        "quote": "Heutzutage müsse man Zwecke und Ziele ausschreiben und eine Partnerschaft gründen",
+        "sessionId": "2024-03-18"
+      }
+    ]
+  },
+  {
+    "topicId": "t_30851793",
+    "positions": [
+      {
+        "party": "Linke",
+        "stance": "contra",
+        "quote": "...es sei bedauerlich, dass die strukturellen Fehlerbefangenheiten nicht abgestellt seien...",
+        "sessionId": "2024-03-04"
+      },
+      {
+        "party": "Grüne",
+        "stance": "contra",
+        "quote": "Was helfe, um schneller zu handeln?",
+        "sessionId": "2024-03-04"
+      }
+    ]
+  },
+  {
+    "topicId": "t_79599340",
+    "positions": [
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": "Für seine Fraktion zeige dies, dass eine CDU-geführte SenBJF wirke.",
+        "sessionId": "2024-03-04"
+      }
+    ]
+  },
+  {
+    "topicId": "t_15388668",
+    "positions": [
+      {
+        "party": "Grüne",
+        "stance": "contra",
+        "quote": "Wie könne das Parlament den Regierenden Bürgermeister unterstützen, dass Berlin bei Digitalisierung nicht spare?",
+        "sessionId": "2024-03-04"
+      },
+      {
+        "party": "Linke",
+        "stance": "contra",
+        "quote": "Die Opposition wolle über den Prozess informiert sein.",
+        "sessionId": "2024-03-04"
+      },
+      {
+        "party": "AfD",
+        "stance": "pro",
+        "quote": "Die angestrebten Einsparungen von 5,9 Prozent im Bereich der IKT-Ausgaben seien machbar...",
+        "sessionId": "2024-03-04"
+      }
+    ]
+  },
+  {
+    "topicId": "t_21890131",
+    "positions": [
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "Den Antrag auf dieser Basis abzulehnen, sei eine schlechte Ausrede.",
+        "sessionId": "2024-03-04"
+      },
+      {
+        "party": "CDU",
+        "stance": "contra",
+        "quote": "...es stehe eine große Verwaltungsreform an, innerhalb derer die Koalition das Thema aufnehmen würden.",
+        "sessionId": "2024-03-04"
+      },
+      {
+        "party": "SPD",
+        "stance": "contra",
+        "quote": "Wenn herauskomme, dass alles nicht funktioniere, sei dies ein weiterer Grund für ein neues Verwaltungsmodell...",
+        "sessionId": "2024-03-04"
+      },
+      {
+        "party": "Linke",
+        "stance": "pro",
+        "quote": "...könne es dafür ein Testballon mit einem relativ trivialen Beispiel sein.",
+        "sessionId": "2024-03-04"
+      },
+      {
+        "party": "AfD",
+        "stance": "pro",
+        "quote": null,
+        "sessionId": "2024-03-04"
+      }
+    ]
+  },
+  {
+    "topicId": "t_38863916",
+    "positions": [
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": "Uns geht es einfach um eine Erleichterung, um eine Vereinfachung, Unterstützung.",
+        "sessionId": "2024-02-19"
+      },
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": null,
+        "sessionId": "2024-02-19"
+      },
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "wenn wir da voneinander profitieren, wäre das eine große Chance für Berlin",
+        "sessionId": "2024-02-19"
+      },
+      {
+        "party": "Linke",
+        "stance": "neutral",
+        "quote": "dass das Hinter-einem-Hype-Herrennen keine Strategie ist.",
+        "sessionId": "2024-02-19"
+      },
+      {
+        "party": "AfD",
+        "stance": "pro",
+        "quote": null,
+        "sessionId": "2024-02-19"
+      }
+    ]
+  },
+  {
+    "topicId": "t_63855316",
+    "positions": [
+      {
+        "party": "AfD",
+        "stance": "pro",
+        "quote": "Das ITDZ könne einen Bilanzverlustausgleich vornehmen, die Planungssicherheit verbessern",
+        "sessionId": "2024-02-19"
+      },
+      {
+        "party": "SPD",
+        "stance": "contra",
+        "quote": "das ITDZ sei auskömmlich finanziert.",
+        "sessionId": "2024-02-19"
+      },
+      {
+        "party": "CDU",
+        "stance": "contra",
+        "quote": null,
+        "sessionId": "2024-02-19"
+      },
+      {
+        "party": "Grüne",
+        "stance": "contra",
+        "quote": null,
+        "sessionId": "2024-02-19"
+      },
+      {
+        "party": "Linke",
+        "stance": "contra",
+        "quote": null,
+        "sessionId": "2024-02-19"
+      }
+    ]
+  },
+  {
+    "topicId": "t_66251623",
+    "positions": [
+      {
+        "party": "SPD",
+        "stance": "neutral",
+        "quote": "es sei nicht zielführend, einen nicht gelungenen analogen Prozess zu digitalisieren.",
+        "sessionId": "2024-01-29"
+      }
+    ]
+  },
+  {
+    "topicId": "t_41790805",
+    "positions": [
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "Ressourcenverbrauch von Digitalisierung zu besprechen und, wie dies mit anderen Bereichen interagiere.",
+        "sessionId": "2024-01-29"
+      },
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": "Rechenzentren existierten eine lange Zeit, sodass das Thema überragend wichtig sei.",
+        "sessionId": "2024-01-29"
+      },
+      {
+        "party": "Linke",
+        "stance": "pro",
+        "quote": "Gebe es eine Zusammenarbeit mit anderen Betreibern großer Rechenzentren ... um Synergien bzgl. Nachhaltigkeit zu erschließen?",
+        "sessionId": "2024-01-29"
+      },
+      {
+        "party": "AfD",
+        "stance": "neutral",
+        "quote": "Auf einige der hier besprochenen Themenfelder habe die Landesebene keinen oder nur geringen Einfluss.",
+        "sessionId": "2024-01-29"
+      }
+    ]
+  },
+  {
+    "topicId": "t_28288984",
+    "positions": [
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": "eine vielfältige Stadt wie Berlin müsse online mehrsprachiger auftreten.",
+        "sessionId": "2024-01-29"
+      },
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": "Das Parlament habe ein großes Interesse an einer Standardisierung.",
+        "sessionId": "2024-01-29"
+      },
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "Die ukrainische Community schaue sicher auch darauf, wenn nur Russisch, nicht aber Ukrainisch im Antrag stehe.",
+        "sessionId": "2024-01-29"
+      },
+      {
+        "party": "AfD",
+        "stance": "contra",
+        "quote": "Übersetzungen für Dienstleistungen, die sich an deutsche Staatsbürger richteten, seien aber kontraproduktiv.",
+        "sessionId": "2024-01-29"
+      }
+    ]
+  },
+  {
+    "topicId": "t_10560855",
+    "positions": [
+      {
+        "party": "Grüne",
+        "stance": "neutral",
+        "quote": "Es sei riskant für Berlin, unreife Software zu verwenden.",
+        "sessionId": "2024-01-15"
+      },
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": "dass das ITDZ und die Verwaltung das Problem im Betrieb erkannt und die Datenbank abgeschaltet hätten",
+        "sessionId": "2024-01-15"
+      },
+      {
+        "party": "Linke",
+        "stance": "neutral",
+        "quote": "Gebe es Schadensersatzansprüche oder Schlussfolgerungen für die Zukunft?",
+        "sessionId": "2024-01-15"
+      }
+    ]
+  },
+  {
+    "topicId": "t_11617059",
+    "positions": [
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "er entwickle sich zu einem Rückgrat der digitalen Verwaltung Berlins.",
+        "sessionId": "2024-01-15"
+      },
+      {
+        "party": "Linke",
+        "stance": "neutral",
+        "quote": "Er sei verwundert, dass die Umsetzung des Redesigns noch ausstehe.",
+        "sessionId": "2024-01-15"
+      }
+    ]
+  },
+  {
+    "topicId": "t_30614525",
+    "positions": [
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "Es wäre klug, dies bei der IKT-Steuerung zu bündeln.",
+        "sessionId": "2024-01-15"
+      },
+      {
+        "party": "CDU",
+        "stance": "contra",
+        "quote": "Die Koalition werde ihn ablehnen und einen eigenen Vorschlag unterbreiten.",
+        "sessionId": "2024-01-15"
+      },
+      {
+        "party": "SPD",
+        "stance": "neutral",
+        "quote": "Koalition und Opposition lägen bei dem Thema nicht weit auseinander, und sie könnten zusammen wirken.",
+        "sessionId": "2024-01-15"
+      },
+      {
+        "party": "AfD",
+        "stance": "contra",
+        "quote": "Bündelung der Vorhaben, um eine Beschleunigung zu erzielen, enge aber den Bieterkreis ein.",
+        "sessionId": "2024-01-15"
+      }
+    ]
+  },
+  {
+    "topicId": "t_55755758",
+    "positions": [
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": "Es sei erfreulich, dass es eine Einigung gebe und Skzl in den letzten Monaten intensiv verhandelt habe.",
+        "sessionId": "2023-12-11"
+      },
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": "zeigt sich zufrieden, dass Frau Klement sich die Zeit genommen habe, eine Entscheidung zu treffen.",
+        "sessionId": "2023-12-11"
+      },
+      {
+        "party": "Grüne",
+        "stance": "neutral",
+        "quote": "Warum sei die Webversion so viel schlechter als die Cockpit-Version?",
+        "sessionId": "2023-12-11"
+      },
+      {
+        "party": "Linke",
+        "stance": "neutral",
+        "quote": "Wie viele Fachverfahren liefen über die E-Akte, und wie viele würden es 2024 sein?",
+        "sessionId": "2023-12-11"
+      },
+      {
+        "party": "AfD",
+        "stance": "neutral",
+        "quote": "Wieso sei es ... möglich, Dokumente permanent aus der E-Akte zu entfernen?",
+        "sessionId": "2023-12-11"
+      }
+    ]
+  },
+  {
+    "topicId": "t_26800237",
+    "positions": [
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "Das Thema Open Data beschäftigt uns ja schon länger. ... Jetzt liegt sie vor, das ist sehr zu begrüßen.",
+        "sessionId": "2023-11-27"
+      },
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": "wir als Koalition würden natürlich auch gerne wissen, was da geplant ist",
+        "sessionId": "2023-11-27"
+      },
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": "wir als Koalition würden natürlich auch gerne wissen, was da geplant ist",
+        "sessionId": "2023-11-27"
+      },
+      {
+        "party": "Linke",
+        "stance": "pro",
+        "quote": "es ist schön, dass mit dieser Strategie wieder neuer Schwung in die Debatten kommt",
+        "sessionId": "2023-11-27"
+      },
+      {
+        "party": "AfD",
+        "stance": "neutral",
+        "quote": "ist der Aufwand, den die öffentliche Verwaltung betreibt ... im Verhältnis angemessen?",
+        "sessionId": "2023-11-27"
+      }
+    ]
+  },
+  {
+    "topicId": "t_33994866",
+    "positions": [
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": "Dies wolle die Koalition im Ausschuss thematisieren.",
+        "sessionId": "2023-11-27"
+      },
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": "Dies wolle die Koalition im Ausschuss thematisieren.",
+        "sessionId": "2023-11-27"
+      },
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "freut sich über den hohen Stellenwert von Open Source bei Senat und Koalition.",
+        "sessionId": "2023-11-27"
+      },
+      {
+        "party": "Linke",
+        "stance": "pro",
+        "quote": "Komme Open Source bei der Beschaffung in Zukunft vorrangig zum Zuge?",
+        "sessionId": "2023-11-27"
+      },
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "Seine Fraktion schlage ein Open-Source-Sabbatical wie in München vor.",
+        "sessionId": "2023-11-27"
+      },
+      {
+        "party": "CDU",
+        "stance": "contra",
+        "quote": "Aktuell sei es zu früh.",
+        "sessionId": "2023-11-27"
+      }
+    ]
+  },
+  {
+    "topicId": "t_54898243",
+    "positions": [
+      {
+        "party": "Linke",
+        "stance": "neutral",
+        "quote": "Wie habe sich die Auseinandersetzung zwischen SenBJF und den Datenschutzbeauftragten aufgeklärt?",
+        "sessionId": "2023-11-13"
+      },
+      {
+        "party": "AfD",
+        "stance": "neutral",
+        "quote": "Stehe zu befürchten, dass die Kommunikation zwischen Schülern und Lehrern [...] komplizierter werde?",
+        "sessionId": "2023-11-13"
+      }
+    ]
+  },
+  {
+    "topicId": "t_76387715",
+    "positions": [
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "Berlin müsse alle Möglichkeiten nutzen, um Sicherheitslücken zu finden und die IT-Sicherheit zu verbessern.",
+        "sessionId": "2023-11-13"
+      },
+      {
+        "party": "SPD",
+        "stance": "contra",
+        "quote": "...es sei in der jetzigen Situation nicht obligatorisch, zumal der alte Antrag noch vorliege.",
+        "sessionId": "2023-11-13"
+      },
+      {
+        "party": "CDU",
+        "stance": "contra",
+        "quote": null,
+        "sessionId": "2023-11-13"
+      },
+      {
+        "party": "Linke",
+        "stance": "pro",
+        "quote": null,
+        "sessionId": "2023-11-13"
+      },
+      {
+        "party": "AfD",
+        "stance": "neutral",
+        "quote": null,
+        "sessionId": "2023-11-13"
+      }
+    ]
+  },
+  {
+    "topicId": "t_80124569",
+    "positions": [
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": "Die Koalition lege viel Wert darauf, die Digitalisierung auszubauen, und das müsse mit Geld unterlegt sein.",
+        "sessionId": "2023-10-16"
+      },
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": "Sie investierten viel in Infrastruktur, in den Bildungssektor und schafften Plattformen für digitale Bürgerämter...",
+        "sessionId": "2023-10-16"
+      },
+      {
+        "party": "Grüne",
+        "stance": "neutral",
+        "quote": "Im Grundsatz scheitere die Digitalisierung auch in diesem Haushalt nicht am Geld...",
+        "sessionId": "2023-10-16"
+      },
+      {
+        "party": "Linke",
+        "stance": "neutral",
+        "quote": "Das Umfeld für die Verwaltungsdigitalisierung werde mit den Kürzungen des Bundes... nicht besser.",
+        "sessionId": "2023-10-16"
+      },
+      {
+        "party": "AfD",
+        "stance": "contra",
+        "quote": "Trotz Ankündigungen zu jedem neuen Haushalt gehe es mit der Digitalisierung nicht schnell voran.",
+        "sessionId": "2023-10-16"
+      },
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": "Welche grundsätzlichen konzeptionellen Überlegungen hat die CDO bezüglich der Weiterentwicklung...?",
+        "sessionId": "2023-09-18"
+      },
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": "Welche grundsätzlichen konzeptionellen Überlegungen hat die CDO bezüglich der Weiterentwicklung...?",
+        "sessionId": "2023-09-18"
+      }
+    ]
+  },
+  {
+    "topicId": "t_46888795",
+    "positions": [
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "Auskömmliche Finanzierung für die Wiederaufnahme von „Free Wifi Berlin“ für WLAN...",
+        "sessionId": "2023-10-16"
+      },
+      {
+        "party": "Linke",
+        "stance": "pro",
+        "quote": "Auskömmliche Finanzierung für die Wiederaufnahme von „Free Wifi Berlin“...",
+        "sessionId": "2023-10-16"
+      },
+      {
+        "party": "SPD",
+        "stance": "contra",
+        "quote": "Durch den Wegfall der Störerhaftung sei es nicht mehr nötig, Free Wifi Berlin anzubieten.",
+        "sessionId": "2023-10-16"
+      }
+    ]
+  },
+  {
+    "topicId": "t_31025609",
+    "positions": [
+      {
+        "party": "Grüne",
+        "stance": "contra",
+        "quote": "Eine Dezentralisierung oder einen weiteren landeseigenen IT-Dienstleister... sehen wir kritisch.",
+        "sessionId": "2023-10-16"
+      },
+      {
+        "party": "AfD",
+        "stance": "contra",
+        "quote": "Es ist nicht ersichtlich, warum das Land Berlin neben dem ITDZ einen weiteren Eigenbetrieb benötigt.",
+        "sessionId": "2023-10-16"
+      }
+    ]
+  },
+  {
+    "topicId": "t_55099263",
+    "positions": [
+      {
+        "party": "AfD",
+        "stance": "contra",
+        "quote": "Das komplette Projekt „GovTech Campus Berlin“ erscheint insofern fragwürdig...",
+        "sessionId": "2023-10-16"
+      }
+    ]
+  },
+  {
+    "topicId": "t_83910038",
+    "positions": [
+      {
+        "party": "Grüne",
+        "stance": "contra",
+        "quote": "Die 100 Stellen, der Springerpool und die fünf Standorte habe Kollege Kleindiek die letzten zwei Jahre schon erzählt.",
+        "sessionId": "2023-09-18"
+      }
+    ]
+  },
+  {
+    "topicId": "t_67904019",
+    "positions": [
+      {
+        "party": "Grüne",
+        "stance": "contra",
+        "quote": "kritisiert, dass es keine Plan-B-Vorbereitung gebe.",
+        "sessionId": "2023-09-18"
+      },
+      {
+        "party": "Linke",
+        "stance": "neutral",
+        "quote": "...ob die Zukunft der Zusammenarbeit Berlins mit Materna offen sei...",
+        "sessionId": "2023-09-04"
+      }
+    ]
+  },
+  {
+    "topicId": "t_24823386",
+    "positions": [
+      {
+        "party": "Linke",
+        "stance": "neutral",
+        "quote": "fragt, ob dazu ein Ausschreibungsverfahren vorgesehen sei.",
+        "sessionId": "2023-09-18"
+      },
+      {
+        "party": "Grüne",
+        "stance": "contra",
+        "quote": "...dass man die 500 000 Euro sinnvoller einsetzen könne...",
+        "sessionId": "2023-09-18"
+      }
+    ]
+  },
+  {
+    "topicId": "t_83613840",
+    "positions": [
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": "Was könne Berlin tun, damit die Zahlen weiter stiegen, um Ämter zu entlasten?",
+        "sessionId": "2023-09-04"
+      },
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": null,
+        "sessionId": "2023-09-04"
+      }
+    ]
+  },
+  {
+    "topicId": "t_59913314",
+    "positions": [
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "Lassen Sie uns gemeinsam den Gesetzentwurf nutzen... und im Parlament auch gemeinsam verabschieden.",
+        "sessionId": "2023-09-04"
+      },
+      {
+        "party": "Linke",
+        "stance": "pro",
+        "quote": "...haben wir Ihnen hier als Opposition eine Blaupause geliefert, um die Debatte anzustoßen...",
+        "sessionId": "2023-09-04"
+      },
+      {
+        "party": "AfD",
+        "stance": "pro",
+        "quote": "Grundsätzlich sind wir alle dafür, und wir werden den Antrag... jetzt auch unterstützen...",
+        "sessionId": "2023-09-04"
+      },
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": "...die Koalition hat ja... geschrieben, dass wir das schnellstmöglich auf den Weg bringen.",
+        "sessionId": "2023-09-04"
+      }
+    ]
+  },
+  {
+    "topicId": "t_38734291",
+    "positions": [
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": "...möge der Ausschuss speziell über das Programm OneIT@Berlin sprechen.",
+        "sessionId": "2023-09-04"
+      },
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "...es sei bitter, die Ziele zu verringern.",
+        "sessionId": "2023-09-04"
+      },
+      {
+        "party": "Linke",
+        "stance": "pro",
+        "quote": "...dass die Reduzierung der Ziele inakzeptabel seien.",
+        "sessionId": "2023-09-04"
+      }
+    ]
+  },
+  {
+    "topicId": "t_61188225",
+    "positions": [
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": "begrüßt den Weg, die Trennung beizubehalten.",
+        "sessionId": "2023-06-26"
+      }
+    ]
+  },
+  {
+    "topicId": "t_34677499",
+    "positions": [
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "Der Gesetzentwurf ... liege vor und möge nach dem Sommer beraten werden, um Berlin wieder an die Spitze zu bringen.",
+        "sessionId": "2023-06-26"
+      },
+      {
+        "party": "Linke",
+        "stance": "pro",
+        "quote": "...Berliner Politik das Thema voranbringen müsse.",
+        "sessionId": "2023-06-26"
+      },
+      {
+        "party": "SPD",
+        "stance": "neutral",
+        "quote": "...aber es habe keine Eile, da es erst mit der E-Akte und dem Transparenzportal relevant werde.",
+        "sessionId": "2023-06-26"
+      },
+      {
+        "party": "AfD",
+        "stance": "pro",
+        "quote": "Wenn ein Volksentscheid sich Mühe mache ... gebe es Eilbedürftigkeit.",
+        "sessionId": "2023-06-26"
+      }
+    ]
+  },
+  {
+    "topicId": "t_82862381",
+    "positions": [
+      {
+        "party": "Linke",
+        "stance": "pro",
+        "quote": "...damit sich der Grundsatz „public money, public code“ durch alle IT-Beschaffungen ziehe...",
+        "sessionId": "2023-06-26"
+      },
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "...würde sich freuen, wenn sich der Senat dazu bekennen würde, den Weg wann immer möglich zu gehen.",
+        "sessionId": "2023-06-26"
+      }
+    ]
+  },
+  {
+    "topicId": "t_52133555",
+    "positions": [
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": "Der Ausschuss möge sich damit auseinandersetzen, wie sicher die Berliner Verwaltung aufgestellt sei.",
+        "sessionId": "2023-06-26"
+      }
+    ]
+  },
+  {
+    "topicId": "t_32970410",
+    "positions": [
+      {
+        "party": "Linke",
+        "stance": "pro",
+        "quote": "Stimme BlnBDI zu, dass dies nicht ihre Aufgabe sei?",
+        "sessionId": "2023-06-12"
+      }
+    ]
+  },
+  {
+    "topicId": "t_37348492",
+    "positions": [
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": "Sts. Klement könne auf eine gute Vorarbeit ihres Vorgängers zurückgreifen.",
+        "sessionId": "2023-06-12"
+      },
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": "es müsse Vorrangprüfungen für Open Source geben, auch wenn es nicht im Koalitionsvertrag stehe.",
+        "sessionId": "2023-06-12"
+      },
+      {
+        "party": "Grüne",
+        "stance": "neutral",
+        "quote": "Warum solle es ein weiteres Eckpunktepapier geben, statt einen Arbeitsplan zu schreiben...?",
+        "sessionId": "2023-06-12"
+      },
+      {
+        "party": "Linke",
+        "stance": "neutral",
+        "quote": "So tauche die Vorrangprüfung für Open Source nicht auf.",
+        "sessionId": "2023-06-12"
+      },
+      {
+        "party": "AfD",
+        "stance": "contra",
+        "quote": "Bei den Bürgerämter hätte sich in dieser Zeit aber nicht allzu viel getan...",
+        "sessionId": "2023-06-12"
+      }
+    ]
+  },
+  {
+    "topicId": "t_21169898",
+    "positions": [
+      {
+        "party": "Grüne",
+        "stance": "contra",
+        "quote": "Die Digitalisierung dürfe nicht an schlechter Software scheitern.",
+        "sessionId": "2023-06-12"
+      },
+      {
+        "party": "Linke",
+        "stance": "contra",
+        "quote": "Arbeite der Senat an einem „Plan B“?",
+        "sessionId": "2023-06-12"
+      }
+    ]
+  },
+  {
+    "topicId": "t_25136330",
+    "positions": [
+      {
+        "party": "AfD",
+        "stance": "pro",
+        "quote": "Die AfD-Fraktion schlägt Herrn Abg. Vallendar (AfD) für den Vorsitz vor.",
+        "sessionId": "2023-05-22"
+      },
+      {
+        "party": "CDU",
+        "stance": "contra",
+        "quote": null,
+        "sessionId": "2023-05-22"
+      },
+      {
+        "party": "SPD",
+        "stance": "contra",
+        "quote": null,
+        "sessionId": "2023-05-22"
+      },
+      {
+        "party": "Grüne",
+        "stance": "contra",
+        "quote": null,
+        "sessionId": "2023-05-22"
+      },
+      {
+        "party": "Linke",
+        "stance": "contra",
+        "quote": null,
+        "sessionId": "2023-05-22"
+      }
+    ]
+  },
+  {
+    "topicId": "t_13858321",
+    "positions": [
+      {
+        "party": "Grüne",
+        "stance": "neutral",
+        "quote": "ob vor dem Sommer die Aufteilung der Zuständigkeiten zwischen CDO ... feststehen werde.",
+        "sessionId": "2023-05-22"
+      },
+      {
+        "party": "Linke",
+        "stance": "neutral",
+        "quote": "ob Frau Klemens die Zuständigkeit für das ITDZ aus der Betriebsverwaltung übernehme.",
+        "sessionId": "2023-05-22"
       }
     ]
   }

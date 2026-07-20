@@ -10,7 +10,8 @@ def parse_date_from_raw(raw):
     if match:
         d, m, y = match.groups()
         return f"{y}-{m.zfill(2)}-{d.zfill(2)}"
-    return "2024-01-01"
+    # Fallback for entries without a clear date in raw text
+    return "2023-01-01"
 
 def parse_title(raw):
     # E.g. "67\\t23.02.2026"
