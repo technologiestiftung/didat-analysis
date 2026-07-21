@@ -1,58 +1,113 @@
 # DiDat Analyse - Ausschuss für Digitalisierung und Datenschutz
 
-Diese Web-App bietet eine interaktive Analyse und Übersicht über die Sitzungsprotokolle und Diskussionen des Berliner Ausschusses für Digitalisierung und Datenschutz (Zeitraum Februar 2023 bis heute).
+Diese Web-App bietet eine interaktive Analyse und Übersicht über die Sitzungsprotokolle und Diskussionen des Berliner Ausschusses für Digitalisierung und Datenschutz (Zeitraum ab Januar 2022).
 
 Die App analysiert vollautomatisiert (mittels NLP/LLM) offizielle Beschlussprotokolle, kategorisiert die diskutierten Themen, leitet Themen-Trends über die Zeit ab und extrahiert detailliert die geäußerten Positionen der einzelnen Parteien (SPD, CDU, Grüne, FDP, Linke, AfD) zu den jeweiligen Fachbereichen.
 
+> **Hinweis:** Es handelt sich um einen Prototypen des CityLAB Berlin. Die Analyse erfolgt mit LLMs; Ungenauigkeiten oder Fehlinterpretationen sind möglich.
+
 ## Hauptfunktionen
 
-- **Übersicht (Dashboard):** Auf einen Blick die Anzahl der Sitzungen, gefassten Beschlüsse und diskutierten Themen. Eine Trend-Grafik visualisiert die thematische Entwicklung über die Monate.
-- **Themen & Parteipositionen:** Alle diskutierten Themen sind in handliche Kategorien (z.B. *E-Government*, *KI*, *Cybersicherheit*) gruppiert. Man kann zu jedem Thema nachlesen, welche Partei sich wie (pro, contra, neutral) positioniert hat, inklusive der wichtigsten Zitate aus dem Originalprotokoll.
-- **Sitzungen:** Eine chronologische Liste aller verarbeiteten Sitzungen. Ein Klick öffnet ein Detail-Panel mit den konkreten Beschlüssen (inklusive Abstimmungsergebnissen) und verlinkt direkt auf die PDF-Originaldokumente des Berliner Parlaments.
+- **Übersicht (Dashboard):** Anzahl der Sitzungen, gefassten Beschlüsse und diskutierten Themen. Eine Trend-Grafik visualisiert die thematische Entwicklung über die Monate (inkl. Zeitraum-Slider).
+- **Themen & Parteipositionen:** Themen sind in acht Kategorien gruppiert. Pro Thema sind Parteipositionen (`pro` / `contra` / `neutral` / `keine Aussage`) und Kurzzitate aus dem Originalprotokoll einsehbar.
+- **Sitzungen:** Chronologische Liste aller verarbeiteten Sitzungen mit Detail-Panel (Beschlüsse, Abstimmungsergebnisse) und Link zu den PDF-Originaldokumenten des Berliner Parlaments.
+
+### Themenkategorien
+
+- Bürgerdienste & Digitale Anträge
+- IT-Modernisierung & Infrastruktur
+- Datenschutz & Grundrechte
+- Informationsfreiheit & Transparenz
+- Künstliche Intelligenz (KI)
+- Cybersicherheit & Resilienz
+- Haushalt & Steuerung
+- Digitale Gesetze & Strategien
 
 ## Technische Architektur
 
-Dieses Projekt besteht aus zwei Hauptkomponenten:
-1.  **Python Data-Pipeline (isoliert in Docker):**
-    Lädt die Rohdokumente vom Parlament herunter, extrahiert die Texte aus den PDFs und lässt eine Large Language Model (Gemini 2.5 Pro) die komplexen Textanalysen durchführen. Anschließend werden die Daten aggregiert und für das Frontend als fertige JSON-Dateien (`public/data/*.json`) abgelegt.
-2.  **React/Vite Frontend (`src/`):**
-    Eine schlanke, leichtgewichtige Single Page Application (SPA), die ohne Laufzeit-Backend auskommt. Alle berechneten JSON-Daten werden direkt im Frontend gerendert und gefiltert. Die UI basiert auf Tailwind CSS und Shadcn.
+Das Projekt besteht aus zwei Hauptkomponenten:
+
+1. **Python Data-Pipeline (isoliert in Docker)**  
+   Lädt Rohdokumente vom Berliner Parlament, extrahiert Texte aus den PDFs und lässt ein Large Language Model (`gemini-3.5-flash`) die Analyse durchführen. Anschließend werden die Daten aggregiert, gegen das Frontend-Schema validiert und als JSON unter `public/data/` abgelegt.
+
+2. **React/Vite Frontend (`src/`)**  
+   Eine Single Page Application ohne Laufzeit-Backend. Die vorberechneten JSON-Dateien werden direkt gerendert und gefiltert. UI: Tailwind CSS und Shadcn. Routen: `/` (Übersicht), `/topics`, `/sessions`.
+
+### Pipeline-Schritte
+
+| Schritt | Skript | Ergebnis |
+| --- | --- | --- |
+| 1. Scraping | `scrape_docs.py` | `scraped_links.json` |
+| 2. PDF-Parsing | `parse_pdfs.py` | `parsed_texts.json` (PDFs unter `.pdf_cache/`) |
+| 3. LLM-Analyse | `analyze.py` | `analysis_results.json` |
+| 4. Aggregation | `aggregate.py` | `public/data/*.json` |
+| 5. Validierung | `validate.py` | Schema-Check der JSON-Dateien |
+
+Gemeinsame Konstanten und Hilfsfunktionen liegen in `pipeline_utils.py` (Cutoff-Datum, Kategorien, Parteien, Stances, Trends).
+
+**Ausgabe fürs Frontend (`public/data/`):**
+
+- `sessions.json` – Sitzungen, Beschlüsse, PDF-Links
+- `topics.json` – Themen, Kategorien, Trends, Parteipositionen
+- `parties.json` – Parteiperspektive
+- `trends.json` – Monatliche Themenhäufigkeiten je Kategorie
 
 ### Data-Pipeline ausführen (via Docker)
 
-Um neue Sitzungen vom Berliner Parlament hinzuzufügen, muss die Daten-Pipeline erneut ausgeführt werden. Dank Docker ist dafür keine lokale Python-Installation mehr nötig.
-
 **Voraussetzungen:**
-- [Docker Desktop](https://www.docker.com/products/docker-desktop/) muss installiert und gestartet sein.
-- Lege eine `.env` Datei im Hauptverzeichnis mit deinem Gemini API Key an (`GEMINI_API_KEY="dein-key"`).
 
-Führe dann die komplette Pipeline mit einem einzigen Befehl aus:
+- [Docker Desktop](https://www.docker.com/products/docker-desktop/) installiert und gestartet
+- `.env` im Projektroot mit Gemini API Key (Vorlage: `.env.example`):
+
 ```bash
-docker-compose run --rm data-pipeline
+GEMINI_API_KEY=dein-key
 ```
-Der Container wird gebaut, die Skripte ausgeführt und die neuen JSON-Dateien direkt in dein `public/data` Verzeichnis geschrieben.
+
+Komplette Pipeline (baut bei Bedarf das Image, führt `run_pipeline.sh` aus, schreibt JSON nach `public/data/`):
+
+```bash
+docker compose run --rm data-pipeline
+```
+
+(`docker-compose` funktioniert als Alias weiterhin.)
+
+### Pipeline lokal (ohne Docker)
+
+Voraussetzungen: Python 3, Abhängigkeiten aus `requirements.txt`, sowie Playwright-Browser (`playwright install chromium`).
+
+```bash
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+playwright install chromium
+export GEMINI_API_KEY=dein-key
+./run_pipeline.sh
+```
+
+Einzelne Schritte können auch isoliert gestartet werden, z. B. `python validate.py`.
 
 ## Installation und Entwicklung Frontend
 
-Das Frontend ist mit [Vite](https://vitejs.dev/), [React](https://reactjs.org/) und [Tailwind CSS](https://tailwindcss.com/) gebaut.
+Voraussetzung: Node.js gemäß `.nvmrc` (aktuell `v22.9.0`) und [pnpm](https://pnpm.io/).
 
-Abhängigkeiten installieren:
 ```bash
 pnpm install
-```
-
-Lokalen Entwicklungsserver starten:
-```bash
 pnpm run dev
 ```
-Die App ist dann unter `http://localhost:5173` erreichbar.
 
-Für das Produktions-Build:
+Die App ist unter `http://localhost:5173` erreichbar.
+
 ```bash
-pnpm run build
+pnpm run build    # Produktions-Build
+pnpm run preview  # Build lokal ansehen
 ```
+
+Weitere Skripte: `pnpm run lint`, `pnpm run test:unit`, `pnpm run test:e2e`, `pnpm run test:a11y`.
+
+Deployment (Vercel): Frontend-Build über `pnpm`; Python-Pipeline und Zwischenartefakte sind über `.vercelignore` vom Deploy ausgeschlossen.
 
 ## Credits
 
-Basierend auf dem Vite-React-Template der [Technologiestiftung Berlin](https://github.com/technologiestiftung/template-vite-react).
-Illustrationen und Design-System: Shadcn, Tailwind CSS, Lucide.
+Basierend auf dem Vite-React-Template der [Technologiestiftung Berlin](https://github.com/technologiestiftung/template-vite-react).  
+Illustrationen und Design-System: Shadcn, Tailwind CSS, Lucide.  
+Quellcode: [technologiestiftung/didat-analysis](https://github.com/technologiestiftung/didat-analysis).
