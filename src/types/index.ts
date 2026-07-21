@@ -1,10 +1,10 @@
 export interface Session {
-	id: string; // z.B. "2024-03-14"
+	id: string; // z.B. "s_001" (stable session number)
 	date: string; // ISO date string
 	title: string; // Offizieller Sitzungstitel
 	pdfUrl: string; // Link zum Originalprotokoll
 	type: "Einladung" | "Beschlussprotokoll";
-	topics: string[]; // Extrahierte Themen-IDs
+	topics: string[]; // Themennamen für Anzeige
 	decisions: Decision[];
 	attendees: Attendee[];
 }
@@ -26,13 +26,14 @@ export interface Topic {
 }
 
 export type TopicCategory =
-	| "Digitale Bürgerdienste (E-Government)"
-	| "IT-Infrastruktur & ITDZ"
-	| "Datenschutz & Informationsfreiheit"
-	| "Verwaltungsreform & Haushalt"
+	| "Bürgerdienste & Digitale Anträge"
+	| "IT-Modernisierung & Infrastruktur"
+	| "Datenschutz & Grundrechte"
+	| "Informationsfreiheit & Transparenz"
 	| "Künstliche Intelligenz (KI)"
-	| "Cybersicherheit"
-	| "Open Data & Open Source";
+	| "Cybersicherheit & Resilienz"
+	| "Haushalt & Steuerung"
+	| "Digitale Gesetze & Strategien";
 
 export interface PartyPosition {
 	party: "SPD" | "CDU" | "Grüne" | "FDP" | "Linke" | "AfD";

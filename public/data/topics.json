@@ -1,1419 +1,4533 @@
 [
   {
-    "id": "t_75976917",
-    "name": "Änderung des Berliner Datenschutzgesetzes",
-    "category": "Datenschutz & Informationsfreiheit",
+    "id": "t_dce1df74",
+    "name": "Umstellung auf Windows 11",
+    "category": "IT-Modernisierung & Infrastruktur",
     "sessionIds": [
-      "2026-03-23",
-      "2026-03-09"
+      "s_040",
+      "s_075"
     ],
-    "trend": "konstant",
-    "partyPositions": []
-  },
-  {
-    "id": "t_39727991",
-    "name": "IT-Sicherheit in Marzahn-Hellersdorf",
-    "category": "Cybersicherheit",
-    "sessionIds": [
-      "2026-03-09"
-    ],
-    "trend": "konstant",
     "partyPositions": [
-      {
-        "party": "Grüne",
-        "stance": "neutral",
-        "quote": null,
-        "sessionId": "2026-03-09"
-      }
-    ]
-  },
-  {
-    "id": "t_16628209",
-    "name": "Vorstellung der Multi-Cloud-Strategie",
-    "category": "IT-Infrastruktur & ITDZ",
-    "sessionIds": [
-      "2026-03-09"
-    ],
-    "trend": "konstant",
-    "partyPositions": [
-      {
-        "party": "CDU",
-        "stance": "neutral",
-        "quote": null,
-        "sessionId": "2026-03-09"
-      },
       {
         "party": "SPD",
         "stance": "neutral",
-        "quote": null,
-        "sessionId": "2026-03-09"
+        "quote": "im Ausschuss eine kritische Pfadbetrachtung vorzustellen",
+        "sessionId": "s_040"
       }
-    ]
+    ],
+    "trend": "konstant"
   },
   {
-    "id": "t_19834023",
-    "name": "Stellungnahme zum Datenschutzbericht 2024",
-    "category": "Datenschutz & Informationsfreiheit",
+    "id": "t_d988c431",
+    "name": "Digitale Beteiligung bei direktdemokratischen Verfahren",
+    "category": "Bürgerdienste & Digitale Anträge",
     "sessionIds": [
-      "2026-02-23"
+      "s_075"
     ],
-    "trend": "konstant",
-    "partyPositions": []
-  },
-  {
-    "id": "t_27637087",
-    "name": "Antrag für ein Berliner Transparenzgesetz",
-    "category": "Datenschutz & Informationsfreiheit",
-    "sessionIds": [
-      "2026-02-23"
-    ],
-    "trend": "konstant",
     "partyPositions": [
-      {
-        "party": "Grüne",
-        "stance": "pro",
-        "quote": null,
-        "sessionId": "2026-02-23"
-      },
       {
         "party": "Linke",
         "stance": "pro",
         "quote": null,
-        "sessionId": "2026-02-23"
+        "sessionId": "s_075"
+      },
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": null,
+        "sessionId": "s_075"
       },
       {
         "party": "CDU",
         "stance": "contra",
         "quote": null,
-        "sessionId": "2026-02-23"
+        "sessionId": "s_075"
       },
       {
         "party": "SPD",
         "stance": "contra",
         "quote": null,
-        "sessionId": "2026-02-23"
+        "sessionId": "s_075"
       },
       {
         "party": "AfD",
         "stance": "contra",
         "quote": null,
-        "sessionId": "2026-02-23"
+        "sessionId": "s_075"
       }
-    ]
-  },
-  {
-    "id": "t_28883004",
-    "name": "Zahlungsrückstände Senatskanzlei beim ITDZ",
-    "category": "IT-Infrastruktur & ITDZ",
-    "sessionIds": [
-      "2026-02-09"
     ],
-    "trend": "konstant",
-    "partyPositions": [
-      {
-        "party": "CDU",
-        "stance": "neutral",
-        "quote": null,
-        "sessionId": "2026-02-09"
-      }
-    ]
+    "trend": "konstant"
   },
   {
-    "id": "t_44647208",
-    "name": "Einsatz von KI für Behördensprache",
-    "category": "Künstliche Intelligenz (KI)",
-    "sessionIds": [
-      "2026-02-09"
-    ],
-    "trend": "konstant",
-    "partyPositions": [
-      {
-        "party": "CDU",
-        "stance": "pro",
-        "quote": null,
-        "sessionId": "2026-02-09"
-      },
-      {
-        "party": "SPD",
-        "stance": "pro",
-        "quote": null,
-        "sessionId": "2026-02-09"
-      }
-    ]
-  },
-  {
-    "id": "t_84242386",
-    "name": "Beirat für digitale Nutzerfreundlichkeit",
-    "category": "Digitale Bürgerdienste (E-Government)",
-    "sessionIds": [
-      "2026-02-09",
-      "2025-11-03"
-    ],
-    "trend": "konstant",
-    "partyPositions": [
-      {
-        "party": "Grüne",
-        "stance": "pro",
-        "quote": null,
-        "sessionId": "2026-02-09"
-      },
-      {
-        "party": "CDU",
-        "stance": "contra",
-        "quote": null,
-        "sessionId": "2026-02-09"
-      },
-      {
-        "party": "SPD",
-        "stance": "contra",
-        "quote": null,
-        "sessionId": "2026-02-09"
-      },
-      {
-        "party": "AfD",
-        "stance": "contra",
-        "quote": null,
-        "sessionId": "2026-02-09"
-      },
-      {
-        "party": "Linke",
-        "stance": "neutral",
-        "quote": null,
-        "sessionId": "2026-02-09"
-      },
-      {
-        "party": "Grüne",
-        "stance": "pro",
-        "quote": null,
-        "sessionId": "2025-11-03"
-      }
-    ]
-  },
-  {
-    "id": "t_33907707",
+    "id": "t_e34d0556",
     "name": "Neue IT-Bestands- und Planungsübersicht",
-    "category": "IT-Infrastruktur & ITDZ",
+    "category": "Haushalt & Steuerung",
     "sessionIds": [
-      "2026-02-09"
+      "s_075"
     ],
-    "trend": "konstant",
+    "partyPositions": [],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_ed4eb729",
+    "name": "Großstörung des BerlinPC",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "sessionIds": [
+      "s_074"
+    ],
+    "partyPositions": [],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_2972f05a",
+    "name": "Transparenz der Datenverarbeitung",
+    "category": "Datenschutz & Grundrechte",
+    "sessionIds": [
+      "s_074"
+    ],
     "partyPositions": [
       {
         "party": "Grüne",
         "stance": "pro",
         "quote": null,
-        "sessionId": "2026-02-09"
-      }
-    ]
-  },
-  {
-    "id": "t_28039808",
-    "name": "Änderung E-Government- und Datenschutzgesetz",
-    "category": "Digitale Bürgerdienste (E-Government)",
-    "sessionIds": [
-      "2026-01-26"
-    ],
-    "trend": "konstant",
-    "partyPositions": [
+        "sessionId": "s_074"
+      },
       {
         "party": "CDU",
-        "stance": "pro",
+        "stance": "contra",
         "quote": null,
-        "sessionId": "2026-01-26"
+        "sessionId": "s_074"
       },
       {
         "party": "SPD",
-        "stance": "pro",
+        "stance": "contra",
         "quote": null,
-        "sessionId": "2026-01-26"
-      },
-      {
-        "party": "Grüne",
-        "stance": "pro",
-        "quote": null,
-        "sessionId": "2026-01-26"
+        "sessionId": "s_074"
       },
       {
         "party": "Linke",
         "stance": "pro",
         "quote": null,
-        "sessionId": "2026-01-26"
+        "sessionId": "s_074"
       },
       {
         "party": "AfD",
         "stance": "neutral",
         "quote": null,
-        "sessionId": "2026-01-26"
+        "sessionId": "s_074"
       }
-    ]
+    ],
+    "trend": "konstant"
   },
   {
-    "id": "t_86869293",
-    "name": "Einführung des europäischen Bezahldienstes Wero",
-    "category": "Digitale Bürgerdienste (E-Government)",
+    "id": "t_c2a52a83",
+    "name": "Digitalisierung von Sozialleistungen",
+    "category": "Bürgerdienste & Digitale Anträge",
     "sessionIds": [
-      "2026-01-26"
+      "s_074",
+      "s_070"
     ],
-    "trend": "konstant",
     "partyPositions": [
-      {
-        "party": "CDU",
-        "stance": "pro",
-        "quote": "Die Koalitionsfraktionen unterstützen das Ziel, die digitale Souveränität Berlins voranzubringen.",
-        "sessionId": "2026-01-26"
-      },
-      {
-        "party": "SPD",
-        "stance": "pro",
-        "quote": "Die Koalitionsfraktionen unterstützen das Ziel, die digitale Souveränität Berlins voranzubringen.",
-        "sessionId": "2026-01-26"
-      },
       {
         "party": "Grüne",
         "stance": "pro",
         "quote": null,
-        "sessionId": "2026-01-26"
+        "sessionId": "s_070"
       },
       {
         "party": "Linke",
         "stance": "pro",
         "quote": null,
-        "sessionId": "2026-01-26"
+        "sessionId": "s_070"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_03950112",
+    "name": "Digitalisierung der Lebensmittelpersonalhygienebelehrung",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "sessionIds": [
+      "s_073"
+    ],
+    "partyPositions": [
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": null,
+        "sessionId": "s_073"
+      },
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": null,
+        "sessionId": "s_073"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_8a8ed10d",
+    "name": "Zukunft der BVG App",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "sessionIds": [
+      "s_073"
+    ],
+    "partyPositions": [
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": null,
+        "sessionId": "s_073"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_ddbba9f2",
+    "name": "Cyberangriff auf Dienstleister Unimed",
+    "category": "Cybersicherheit & Resilienz",
+    "sessionIds": [
+      "s_073"
+    ],
+    "partyPositions": [],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_08fb886e",
+    "name": "Daten- und Jugendschutz in sozialen Medien",
+    "category": "Datenschutz & Grundrechte",
+    "sessionIds": [
+      "s_072"
+    ],
+    "partyPositions": [
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": null,
+        "sessionId": "s_072"
+      },
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": null,
+        "sessionId": "s_072"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_a00a1cb5",
+    "name": "Berliner Open-Source-Gesetz",
+    "category": "Digitale Gesetze & Strategien",
+    "sessionIds": [
+      "s_072"
+    ],
+    "partyPositions": [
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": null,
+        "sessionId": "s_072"
+      },
+      {
+        "party": "Linke",
+        "stance": "pro",
+        "quote": null,
+        "sessionId": "s_072"
+      },
+      {
+        "party": "CDU",
+        "stance": "contra",
+        "quote": null,
+        "sessionId": "s_072"
+      },
+      {
+        "party": "SPD",
+        "stance": "contra",
+        "quote": null,
+        "sessionId": "s_072"
       },
       {
         "party": "AfD",
         "stance": "neutral",
         "quote": null,
-        "sessionId": "2026-01-26"
+        "sessionId": "s_072"
       }
-    ]
+    ],
+    "trend": "konstant"
   },
   {
-    "id": "t_43753219",
-    "name": "Sachstand OZG-Leistung 'rote Karte'",
-    "category": "Digitale Bürgerdienste (E-Government)",
+    "id": "t_3de523fd",
+    "name": "Datenschutzvorfall bei der BVG",
+    "category": "Datenschutz & Grundrechte",
     "sessionIds": [
-      "2026-01-26"
+      "s_071"
     ],
-    "trend": "konstant",
-    "partyPositions": []
+    "partyPositions": [],
+    "trend": "konstant"
   },
   {
-    "id": "t_70143177",
-    "name": "Netzredundanz und Notfallkommunikation",
-    "category": "IT-Infrastruktur & ITDZ",
+    "id": "t_242d1b15",
+    "name": "Annahmepflicht bargeldloser Zahlungsmittel",
+    "category": "Digitale Gesetze & Strategien",
     "sessionIds": [
-      "2026-01-12"
+      "s_071"
     ],
-    "trend": "konstant",
     "partyPositions": [
-      {
-        "party": "Linke",
-        "stance": "neutral",
-        "quote": null,
-        "sessionId": "2026-01-12"
-      }
-    ]
-  },
-  {
-    "id": "t_53178123",
-    "name": "Open-Source-Strategie des Landes Berlin",
-    "category": "Open Data & Open Source",
-    "sessionIds": [
-      "2026-01-12"
-    ],
-    "trend": "konstant",
-    "partyPositions": [
-      {
-        "party": "Grüne",
-        "stance": "pro",
-        "quote": null,
-        "sessionId": "2026-01-12"
-      },
       {
         "party": "CDU",
         "stance": "pro",
         "quote": null,
-        "sessionId": "2026-01-12"
+        "sessionId": "s_071"
       },
       {
         "party": "SPD",
         "stance": "pro",
         "quote": null,
-        "sessionId": "2026-01-12"
+        "sessionId": "s_071"
+      },
+      {
+        "party": "Linke",
+        "stance": "pro",
+        "quote": null,
+        "sessionId": "s_071"
+      },
+      {
+        "party": "AfD",
+        "stance": "contra",
+        "quote": null,
+        "sessionId": "s_071"
+      },
+      {
+        "party": "Grüne",
+        "stance": "neutral",
+        "quote": null,
+        "sessionId": "s_071"
       }
-    ]
+    ],
+    "trend": "konstant"
   },
   {
-    "id": "t_77356295",
-    "name": "Umsetzung eines europäischen Bezahldienstes",
-    "category": "Digitale Bürgerdienste (E-Government)",
+    "id": "t_f4e2078a",
+    "name": "GovTech Unit Berlin",
+    "category": "IT-Modernisierung & Infrastruktur",
     "sessionIds": [
-      "2026-01-12"
+      "s_071"
     ],
-    "trend": "konstant",
+    "partyPositions": [],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_58b91f98",
+    "name": "Berliner Datenschutzgesetz",
+    "category": "Datenschutz & Grundrechte",
+    "sessionIds": [
+      "s_068"
+    ],
+    "partyPositions": [
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": null,
+        "sessionId": "s_068"
+      },
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": null,
+        "sessionId": "s_068"
+      },
+      {
+        "party": "Linke",
+        "stance": "pro",
+        "quote": null,
+        "sessionId": "s_068"
+      },
+      {
+        "party": "AfD",
+        "stance": "contra",
+        "quote": null,
+        "sessionId": "s_068"
+      },
+      {
+        "party": "Grüne",
+        "stance": "neutral",
+        "quote": null,
+        "sessionId": "s_068"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_3e4101d8",
+    "name": "IT-Sicherheit in Marzahn-Hellersdorf",
+    "category": "Cybersicherheit & Resilienz",
+    "sessionIds": [
+      "s_068"
+    ],
     "partyPositions": [
       {
         "party": "Grüne",
         "stance": "pro",
         "quote": null,
-        "sessionId": "2026-01-12"
+        "sessionId": "s_068"
       }
-    ]
+    ],
+    "trend": "konstant"
   },
   {
-    "id": "t_66876485",
-    "name": "Mangelhafte Software für Gewerbeanmeldungen",
-    "category": "Digitale Bürgerdienste (E-Government)",
+    "id": "t_14ec26b9",
+    "name": "Vorstellung der Multi-Cloud-Strategie",
+    "category": "IT-Modernisierung & Infrastruktur",
     "sessionIds": [
-      "2025-12-15"
+      "s_068"
     ],
-    "trend": "konstant",
     "partyPositions": [
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": null,
+        "sessionId": "s_068"
+      },
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": null,
+        "sessionId": "s_068"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_c54d1a40",
+    "name": "Standardprozess Datenschutz bei Digitalisierungsvorhaben",
+    "category": "Datenschutz & Grundrechte",
+    "sessionIds": [
+      "s_067"
+    ],
+    "partyPositions": [],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_92a68a6e",
+    "name": "Postadressen-Erhebung bei IFG-Anträgen",
+    "category": "Informationsfreiheit & Transparenz",
+    "sessionIds": [
+      "s_067"
+    ],
+    "partyPositions": [
+      {
+        "party": "Linke",
+        "stance": "contra",
+        "quote": "Die Verwaltung führt ein Eigenleben.",
+        "sessionId": "s_067"
+      },
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": "wir wollen da beidseitig Transparenz herstellen",
+        "sessionId": "s_067"
+      },
+      {
+        "party": "SPD",
+        "stance": "neutral",
+        "quote": "Freiheitsrechte der Bevölkerung sind ein hohes Gut.",
+        "sessionId": "s_067"
+      },
       {
         "party": "Grüne",
         "stance": "contra",
-        "quote": "...neue Software zur Gewerbeanmeldung so mangelhaft ist, dass Tausende von Anmeldungen nicht bearbeitet werden können?",
-        "sessionId": "2025-12-15"
+        "quote": "Das ist dann im Sinne von Datensparsamkeit Unsinn.",
+        "sessionId": "s_067"
+      },
+      {
+        "party": "AfD",
+        "stance": "pro",
+        "quote": "Wenn ich Behörden gegenübertrete, muss ich mich eben ausweisen, identifizieren",
+        "sessionId": "s_067"
       }
-    ]
+    ],
+    "trend": "konstant"
   },
   {
-    "id": "t_49219646",
-    "name": "Liquiditätssituation des ITDZ Berlin",
-    "category": "IT-Infrastruktur & ITDZ",
+    "id": "t_a2aaedd1",
+    "name": "Gesichtserkennung ohne Rechtsgrundlage",
+    "category": "Datenschutz & Grundrechte",
     "sessionIds": [
-      "2025-12-15"
+      "s_067"
     ],
-    "trend": "konstant",
+    "partyPositions": [],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_3d232b78",
+    "name": "Berliner Transparenzgesetz",
+    "category": "Informationsfreiheit & Transparenz",
+    "sessionIds": [
+      "s_017",
+      "s_023",
+      "s_067",
+      "s_024"
+    ],
     "partyPositions": [
       {
-        "party": "CDU",
-        "stance": "neutral",
-        "quote": "Ist das ITDZ überhaupt insolvenzfähig und wie bewertet der Senat... die Liquiditätssituation des ITDZ Berlin?",
-        "sessionId": "2025-12-15"
+        "party": "AfD",
+        "stance": "pro",
+        "quote": "Wir sind eindeutig dafür, dass wir den gläsernen Staat bekommen",
+        "sessionId": "s_024"
       },
       {
         "party": "SPD",
         "stance": "neutral",
-        "quote": null,
-        "sessionId": "2025-12-15"
-      },
-      {
-        "party": "Linke",
-        "stance": "neutral",
-        "quote": null,
-        "sessionId": "2025-12-15"
-      }
-    ]
-  },
-  {
-    "id": "t_84046431",
-    "name": "Mehrsprachigkeit auf berlin.de",
-    "category": "Digitale Bürgerdienste (E-Government)",
-    "sessionIds": [
-      "2025-12-15"
-    ],
-    "trend": "konstant",
-    "partyPositions": [
-      {
-        "party": "CDU",
-        "stance": "pro",
-        "quote": null,
-        "sessionId": "2025-12-15"
-      },
-      {
-        "party": "SPD",
-        "stance": "pro",
-        "quote": null,
-        "sessionId": "2025-12-15"
-      }
-    ]
-  },
-  {
-    "id": "t_88738166",
-    "name": "Digitale Dienste in Bürgerämtern",
-    "category": "Digitale Bürgerdienste (E-Government)",
-    "sessionIds": [
-      "2025-12-15"
-    ],
-    "trend": "konstant",
-    "partyPositions": [
-      {
-        "party": "CDU",
-        "stance": "pro",
-        "quote": null,
-        "sessionId": "2025-12-15"
-      },
-      {
-        "party": "SPD",
-        "stance": "pro",
-        "quote": null,
-        "sessionId": "2025-12-15"
+        "quote": "wir dürfen auf keinen Fall dazu kommen, dass wir die Verwaltung mit Mehrarbeit überlasten",
+        "sessionId": "s_024"
       },
       {
         "party": "Grüne",
+        "stance": "pro",
+        "quote": "Lassen Sie uns gemeinsam den Gesetzentwurf nutzen [...] und im Parlament auch gemeinsam verabschieden.",
+        "sessionId": "s_024"
+      },
+      {
+        "party": "AfD",
+        "stance": "pro",
+        "quote": "Wenn ein Volksentscheid sich Mühe mache [...] gibt es Eilbedürftigkeit.",
+        "sessionId": "s_023"
+      },
+      {
+        "party": "SPD",
+        "stance": "neutral",
+        "quote": "es hat keine Eile, da es erst mit der E-Akte und dem Transparenzportal relevant werde",
+        "sessionId": "s_023"
+      },
+      {
+        "party": "SPD",
         "stance": "contra",
-        "quote": "ob es ab Anfang Januar Einschränkungen bei den Online-Dienstleistungen geben werde",
-        "sessionId": "2025-12-15"
-      }
-    ]
-  },
-  {
-    "id": "t_21191999",
-    "name": "Petition Neufassung IFG (Transparenzgesetz)",
-    "category": "Datenschutz & Informationsfreiheit",
-    "sessionIds": [
-      "2025-12-15"
-    ],
-    "trend": "konstant",
-    "partyPositions": []
-  },
-  {
-    "id": "t_81936080",
-    "name": "Verwaltungsvorschrift Landesorganisationsgesetz",
-    "category": "Verwaltungsreform & Haushalt",
-    "sessionIds": [
-      "2025-12-01"
-    ],
-    "trend": "konstant",
-    "partyPositions": [
+        "quote": "Ein Koalitionsentwurf sei in Arbeit, aber mit Blick auf die vielen Ausnahmen [...] noch nicht einig",
+        "sessionId": "s_017"
+      },
+      {
+        "party": "FDP",
+        "stance": "pro",
+        "quote": "bedauert, dass die Koalitionsfraktionen ihr Versprechen im Koalitionsvertrag [...] nicht einhalte",
+        "sessionId": "s_017"
+      },
       {
         "party": "Linke",
         "stance": "neutral",
-        "quote": "ob die ... Verwaltungsvorschrift ... bis zum Inkrafttreten des Gesetzes am 1. Januar 2026 vorliegen werde",
-        "sessionId": "2025-12-01"
+        "quote": "Dass der Ausschuss ihn nicht beraten könne, liege nicht an seiner Fraktion",
+        "sessionId": "s_017"
+      },
+      {
+        "party": "AfD",
+        "stance": "pro",
+        "quote": "Es sei unhöflich, den Anzuhörenden wieder nach Hause zu schicken",
+        "sessionId": "s_017"
+      },
+      {
+        "party": "Grüne",
+        "stance": "neutral",
+        "quote": "Seine Fraktion wolle ihn so schnell wie möglich umsetzen",
+        "sessionId": "s_017"
+      },
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": "In der Sitzung Punkte abzusetzen, sei den anderen Fraktionen gegenüber nicht fair.",
+        "sessionId": "s_017"
       }
-    ]
+    ],
+    "trend": "konstant"
   },
   {
-    "id": "t_64401554",
-    "name": "Sachstand zu KI-Bots im Land Berlin",
+    "id": "t_d09fda78",
+    "name": "KI-Software für einfache Behördensprache",
     "category": "Künstliche Intelligenz (KI)",
     "sessionIds": [
-      "2025-12-01"
+      "s_066"
     ],
-    "trend": "konstant",
     "partyPositions": [
       {
         "party": "CDU",
         "stance": "pro",
         "quote": null,
-        "sessionId": "2025-12-01"
+        "sessionId": "s_066"
       },
       {
         "party": "SPD",
         "stance": "pro",
         "quote": null,
-        "sessionId": "2025-12-01"
+        "sessionId": "s_066"
       }
-    ]
+    ],
+    "trend": "konstant"
   },
   {
-    "id": "t_85707331",
-    "name": "Windows 11 – Stand der Umstellung",
-    "category": "IT-Infrastruktur & ITDZ",
+    "id": "t_46d95905",
+    "name": "Beirat für digitale Nutzerfreundlichkeit",
+    "category": "Bürgerdienste & Digitale Anträge",
     "sessionIds": [
-      "2025-12-01"
+      "s_066",
+      "s_060"
     ],
-    "trend": "konstant",
+    "partyPositions": [
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": null,
+        "sessionId": "s_066"
+      },
+      {
+        "party": "CDU",
+        "stance": "contra",
+        "quote": null,
+        "sessionId": "s_066"
+      },
+      {
+        "party": "SPD",
+        "stance": "contra",
+        "quote": null,
+        "sessionId": "s_066"
+      },
+      {
+        "party": "AfD",
+        "stance": "contra",
+        "quote": null,
+        "sessionId": "s_066"
+      },
+      {
+        "party": "Linke",
+        "stance": "neutral",
+        "quote": null,
+        "sessionId": "s_066"
+      },
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "Ein solcher Ort könne mit der Einrichtung eines Beirats für digitale Nutzerfreundlichkeit entstehen",
+        "sessionId": "s_060"
+      },
+      {
+        "party": "CDU",
+        "stance": "contra",
+        "quote": "aus Sicht der CDU-Fraktion werde keine weitere Struktur benötigt, die Doppelarbeit leisten würde.",
+        "sessionId": "s_060"
+      },
+      {
+        "party": "SPD",
+        "stance": "contra",
+        "quote": "Es werde aus Sicht seiner Fraktion jedoch kein zusätzlicher Beirat benötigt.",
+        "sessionId": "s_060"
+      },
+      {
+        "party": "AfD",
+        "stance": "contra",
+        "quote": "Ein neuer Beirat bedeute mehr Bürokratie.",
+        "sessionId": "s_060"
+      },
+      {
+        "party": "Linke",
+        "stance": "neutral",
+        "quote": "Der Antrag der Grünen sei nicht grundsätzlich abzulehnen.",
+        "sessionId": "s_060"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_7b909700",
+    "name": "IT-Bestands- und Planungsübersicht",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "sessionIds": [
+      "s_066"
+    ],
+    "partyPositions": [
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": null,
+        "sessionId": "s_066"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_c864e72d",
+    "name": "Änderung des E-Government-Gesetzes",
+    "category": "Digitale Gesetze & Strategien",
+    "sessionIds": [
+      "s_065"
+    ],
+    "partyPositions": [
+      {
+        "party": "AfD",
+        "stance": "neutral",
+        "quote": null,
+        "sessionId": "s_065"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_268b51de",
+    "name": "Europäischer Bezahldienst Wero",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "sessionIds": [
+      "s_065"
+    ],
+    "partyPositions": [
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": "Die Koalitionsfraktionen unterstützen das Ziel, die digitale Souveränität Berlins voranzubringen.",
+        "sessionId": "s_065"
+      },
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": "Die Koalitionsfraktionen unterstützen das Ziel, die digitale Souveränität Berlins voranzubringen.",
+        "sessionId": "s_065"
+      },
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "Europäischen Bezahldienst jetzt berlinweit umsetzen!",
+        "sessionId": "s_065"
+      },
+      {
+        "party": "AfD",
+        "stance": "contra",
+        "quote": null,
+        "sessionId": "s_065"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_9c8238c8",
+    "name": "OZG-Leistung Rote Karte",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "sessionIds": [
+      "s_065"
+    ],
+    "partyPositions": [],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_d8e15083",
+    "name": "Open-Source-Strategie Berlin",
+    "category": "Digitale Gesetze & Strategien",
+    "sessionIds": [
+      "s_064"
+    ],
+    "partyPositions": [
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "Open-Source-Strategie – Papiertiger oder Weg zu mehr digitaler Souveränität?",
+        "sessionId": "s_064"
+      },
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": "OpenSource Strategie",
+        "sessionId": "s_064"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_bf9ffdea",
+    "name": "Europäischer Bezahldienst in Berlin",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "sessionIds": [
+      "s_064"
+    ],
+    "partyPositions": [
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "Europäischen Bezahldienst jetzt berlinweit umsetzen!",
+        "sessionId": "s_064"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_ff807257",
+    "name": "Kommunikation im Katastrophenfall",
+    "category": "Cybersicherheit & Resilienz",
+    "sessionIds": [
+      "s_064"
+    ],
+    "partyPositions": [
+      {
+        "party": "Linke",
+        "stance": "neutral",
+        "quote": "ob das Landesnetz redundant aufgebaut sei, sodass solche Vorkommnisse nicht auftreten könnten",
+        "sessionId": "s_064"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_e4ac6aab",
+    "name": "Mehrsprachigkeit auf berlin.de",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "sessionIds": [
+      "s_063"
+    ],
+    "partyPositions": [],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_0ae1a2ab",
+    "name": "Digitalisierung der Bürgerämter",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "sessionIds": [
+      "s_063"
+    ],
+    "partyPositions": [
+      {
+        "party": "Grüne",
+        "stance": "neutral",
+        "quote": "ob es ab Anfang Januar Einschränkungen bei den Online-Dienstleistungen geben werde",
+        "sessionId": "s_063"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_5863ab7c",
+    "name": "Liquidität des ITDZ Berlin",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "sessionIds": [
+      "s_063"
+    ],
+    "partyPositions": [
+      {
+        "party": "CDU",
+        "stance": "neutral",
+        "quote": "Ist das ITDZ überhaupt insolvenzfähig und wie bewertet der Senat [...] die Liquiditätssituation",
+        "sessionId": "s_063"
+      },
+      {
+        "party": "Linke",
+        "stance": "neutral",
+        "quote": "wie die Situation [...] zu den Liquiditätsengpässen beim ITDZ beitrage",
+        "sessionId": "s_063"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_da74c077",
+    "name": "Neufassung des Transparenzgesetzes",
+    "category": "Informationsfreiheit & Transparenz",
+    "sessionIds": [
+      "s_063"
+    ],
+    "partyPositions": [],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_0c9bb2f0",
+    "name": "Sachstand zu KI-Bots",
+    "category": "Künstliche Intelligenz (KI)",
+    "sessionIds": [
+      "s_062"
+    ],
+    "partyPositions": [
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": null,
+        "sessionId": "s_062"
+      },
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": null,
+        "sessionId": "s_062"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_9f01a760",
+    "name": "Windows 11 Umstellung",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "sessionIds": [
+      "s_062"
+    ],
     "partyPositions": [
       {
         "party": "Grüne",
         "stance": "neutral",
         "quote": null,
-        "sessionId": "2025-12-01"
+        "sessionId": "s_062"
       }
-    ]
-  },
-  {
-    "id": "t_10224370",
-    "name": "Aktuelle Fragen zur Digitalisierung",
-    "category": "Digitale Bürgerdienste (E-Government)",
-    "sessionIds": [
-      "2025-11-17"
     ],
-    "trend": "konstant",
-    "partyPositions": []
+    "trend": "konstant"
   },
   {
-    "id": "t_38296767",
+    "id": "t_27022c9c",
+    "name": "Verwaltungsvorschrift zum Landesorganisationsgesetz",
+    "category": "Digitale Gesetze & Strategien",
+    "sessionIds": [
+      "s_062"
+    ],
+    "partyPositions": [
+      {
+        "party": "Linke",
+        "stance": "neutral",
+        "quote": null,
+        "sessionId": "s_062"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_8fe3a5c7",
+    "name": "Terminfreie Bürgerdienste",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "sessionIds": [
+      "s_061"
+    ],
+    "partyPositions": [],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_670b412e",
     "name": "Gesetz zum NOOTS-Staatsvertrag",
-    "category": "Digitale Bürgerdienste (E-Government)",
+    "category": "IT-Modernisierung & Infrastruktur",
     "sessionIds": [
-      "2025-11-17"
+      "s_061"
     ],
-    "trend": "konstant",
     "partyPositions": [
       {
         "party": "CDU",
         "stance": "pro",
-        "quote": null,
-        "sessionId": "2025-11-17"
-      },
-      {
-        "party": "SPD",
-        "stance": "pro",
-        "quote": null,
-        "sessionId": "2025-11-17"
-      },
-      {
-        "party": "Grüne",
-        "stance": "pro",
-        "quote": null,
-        "sessionId": "2025-11-17"
+        "quote": "Die Registermodernisierung ist für das Land Berlin wichtig und bedeutet auch eine Entlastung",
+        "sessionId": "s_061"
       },
       {
         "party": "Linke",
-        "stance": "neutral",
-        "quote": null,
-        "sessionId": "2025-11-17"
+        "stance": "contra",
+        "quote": "mit dem neuen Gesetz werde eine Generalvollmacht etabliert, was nicht akzeptabel sei.",
+        "sessionId": "s_061"
       },
-      {
-        "party": "AfD",
-        "stance": "neutral",
-        "quote": null,
-        "sessionId": "2025-11-17"
-      }
-    ]
-  },
-  {
-    "id": "t_56189032",
-    "name": "Folgen des Onlinezugangsgesetz 2.0",
-    "category": "Digitale Bürgerdienste (E-Government)",
-    "sessionIds": [
-      "2025-11-17"
-    ],
-    "trend": "konstant",
-    "partyPositions": [
       {
         "party": "Grüne",
         "stance": "neutral",
-        "quote": null,
-        "sessionId": "2025-11-17"
+        "quote": "dass der Staatsvertrag im Großen und Ganzen sicher ein wichtiger Schritt für den Datenaustausch",
+        "sessionId": "s_061"
       }
-    ]
+    ],
+    "trend": "konstant"
   },
   {
-    "id": "t_31911575",
-    "name": "Vorstellung des Digitalisierungsdashboards",
-    "category": "Verwaltungsreform & Haushalt",
+    "id": "t_555e8b74",
+    "name": "Onlinezugangsgesetz 2.0",
+    "category": "Digitale Gesetze & Strategien",
     "sessionIds": [
-      "2025-11-03"
+      "s_061"
     ],
-    "trend": "konstant",
+    "partyPositions": [],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_dcfc377b",
+    "name": "Digitalisierungsdashboard",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "sessionIds": [
+      "s_060"
+    ],
     "partyPositions": [
       {
         "party": "CDU",
         "stance": "pro",
-        "quote": null,
-        "sessionId": "2025-11-03"
+        "quote": "das Dashboard nun ein weiterer Weg, mehr Öffentlichkeit für die digitalen Leistungen zu generieren.",
+        "sessionId": "s_060"
       },
       {
         "party": "SPD",
         "stance": "pro",
-        "quote": null,
-        "sessionId": "2025-11-03"
-      }
-    ]
-  },
-  {
-    "id": "t_49473148",
-    "name": "Ende der WLAN-Initiative des Senats",
-    "category": "IT-Infrastruktur & ITDZ",
-    "sessionIds": [
-      "2025-11-03"
-    ],
-    "trend": "konstant",
-    "partyPositions": [
+        "quote": "öffentlichkeitswirksame Tool werde benötigt, um einen Überblick über alle Digitalisierungsprojekte",
+        "sessionId": "s_060"
+      },
       {
         "party": "Grüne",
         "stance": "pro",
-        "quote": null,
-        "sessionId": "2025-11-03"
-      },
+        "quote": "das Dashboard sei aus seiner Sicht ein guter Schritt hin zu mehr Transparenz und Messbarkeit.",
+        "sessionId": "s_060"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_d395ac66",
+    "name": "Ende der WLAN-Initiative",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "sessionIds": [
+      "s_060"
+    ],
+    "partyPositions": [
       {
         "party": "Linke",
-        "stance": "pro",
-        "quote": null,
-        "sessionId": "2025-11-03"
-      }
-    ]
-  },
-  {
-    "id": "t_68989091",
-    "name": "Status der digitalen Barrierefreiheit",
-    "category": "Digitale Bürgerdienste (E-Government)",
-    "sessionIds": [
-      "2025-11-03"
-    ],
-    "trend": "konstant",
-    "partyPositions": [
+        "stance": "contra",
+        "quote": "Die Entwicklung sei insgesamt fatal",
+        "sessionId": "s_060"
+      },
+      {
+        "party": "Grüne",
+        "stance": "contra",
+        "quote": "WLAN in öffentlichen Einrichtungen müsse im Jahr 2025 vielmehr Standard sein.",
+        "sessionId": "s_060"
+      },
       {
         "party": "CDU",
         "stance": "pro",
-        "quote": null,
-        "sessionId": "2025-11-03"
+        "quote": "vor dem Hintergrund der Sparmaßnahmen sei jedoch eine Priorisierung notwendig geworden.",
+        "sessionId": "s_060"
       },
       {
         "party": "SPD",
         "stance": "pro",
-        "quote": null,
-        "sessionId": "2025-11-03"
+        "quote": "Das Thema müsse nun abgeschlossen werden.",
+        "sessionId": "s_060"
       }
-    ]
-  },
-  {
-    "id": "t_74019191",
-    "name": "Bericht aus der Senatskanzlei",
-    "category": "Verwaltungsreform & Haushalt",
-    "sessionIds": [
-      "2025-11-03"
     ],
-    "trend": "konstant",
-    "partyPositions": []
+    "trend": "konstant"
   },
   {
-    "id": "t_58100413",
+    "id": "t_3a20c56b",
+    "name": "Digitale Barrierefreiheit",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "sessionIds": [
+      "s_060"
+    ],
+    "partyPositions": [],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_b806e40a",
     "name": "Reform des Polizei- und Ordnungsrechts",
-    "category": "Cybersicherheit",
+    "category": "Datenschutz & Grundrechte",
     "sessionIds": [
-      "2025-10-06"
+      "s_059"
     ],
-    "trend": "konstant",
     "partyPositions": [
       {
         "party": "CDU",
         "stance": "pro",
-        "quote": "Die Sicherheitskräfte bräuchten das richtige Handwerkszeug...",
-        "sessionId": "2025-10-06"
+        "quote": "Die Sicherheitskräfte bräuchten das richtige Handwerkszeug",
+        "sessionId": "s_059"
       },
       {
         "party": "SPD",
         "stance": "pro",
-        "quote": "...wichtig, um die Polizei zur unmittelbaren Handlung zu befähigen.",
-        "sessionId": "2025-10-06"
+        "quote": "die Grenzen zur Beschädigung von Bürgerrechten nicht überschritten würden",
+        "sessionId": "s_059"
       },
       {
         "party": "Grüne",
         "stance": "contra",
-        "quote": "Normen sollten jedoch nicht von Beginn an jegliches Verfassungsrecht ignorieren...",
-        "sessionId": "2025-10-06"
+        "quote": "In den falschen Händen könnten solche Instrumente unumkehrbaren Schaden anrichten.",
+        "sessionId": "s_059"
       },
       {
         "party": "Linke",
         "stance": "contra",
-        "quote": "...eines der repressivsten Polizeigesetze der Bundesrepublik nicht.",
-        "sessionId": "2025-10-06"
-      },
-      {
-        "party": "AfD",
-        "stance": "pro",
-        "quote": null,
-        "sessionId": "2025-10-06"
+        "quote": "teilt die Begeisterung für eines der repressivsten Polizeigesetze der Bundesrepublik nicht",
+        "sessionId": "s_059"
       }
-    ]
+    ],
+    "trend": "konstant"
   },
   {
-    "id": "t_81247818",
-    "name": "Haushaltsplan 2026/2027 für Digitalisierung",
-    "category": "Verwaltungsreform & Haushalt",
+    "id": "t_867ae181",
+    "name": "Haushaltsberatungen Digitalisierung 2026/2027",
+    "category": "Haushalt & Steuerung",
     "sessionIds": [
-      "2025-10-06"
+      "s_059"
     ],
-    "trend": "konstant",
     "partyPositions": [
       {
         "party": "CDU",
         "stance": "pro",
         "quote": "Trotz der Einsparungen sei es gelungen, die großen und tragenden Vorhaben zu sichern.",
-        "sessionId": "2025-10-06"
-      },
-      {
-        "party": "SPD",
-        "stance": "pro",
-        "quote": "Im letzten Nachtragshaushalt ... sei so gespart worden, dass nun ... Platz sei.",
-        "sessionId": "2025-10-06"
+        "sessionId": "s_059"
       },
       {
         "party": "Grüne",
         "stance": "contra",
-        "quote": "...dass dieser Weg mit dem nun aufgestellten Haushalt verlassen werde.",
-        "sessionId": "2025-10-06"
+        "quote": "Der vorgelegte Haushalt erfülle nichts davon",
+        "sessionId": "s_059"
       },
       {
         "party": "Linke",
         "stance": "contra",
-        "quote": "Es sei so keine vorwärts gerichtete Digitalisierungsstrategie erkennbar.",
-        "sessionId": "2025-10-06"
+        "quote": "Keine der Kürzungen sei zurückgenommen worden.",
+        "sessionId": "s_059"
       },
       {
         "party": "AfD",
         "stance": "contra",
-        "quote": "...Zurückhaltung zu erkennen und ein Entwurf ... der keine unnötigen Extras enthalte.",
-        "sessionId": "2025-10-06"
+        "quote": "der Fokus in der Verwaltungsdigitalisierung nicht auf Transformation um jeden Preis liegen",
+        "sessionId": "s_059"
       }
-    ]
+    ],
+    "trend": "konstant"
   },
   {
-    "id": "t_48677970",
-    "name": "IT-Infrastruktur und Verwaltungs-Basisdienste",
-    "category": "IT-Infrastruktur & ITDZ",
+    "id": "t_7fa42006",
+    "name": "Programm OneIT@Berlin",
+    "category": "IT-Modernisierung & Infrastruktur",
     "sessionIds": [
-      "2025-10-06"
+      "s_058"
     ],
-    "trend": "konstant",
     "partyPositions": [
       {
         "party": "Grüne",
         "stance": "contra",
-        "quote": "Das Fehlen einer gesamtstädtischen Steuerung werde in vielen Berichten betont...",
-        "sessionId": "2025-10-06"
+        "quote": "der heutige Vortrag zeige sehr deutlich, dass der Senat bei der Digitalisierung [...] aufgibt",
+        "sessionId": "s_058"
       },
       {
         "party": "CDU",
         "stance": "pro",
-        "quote": "Auch die IKT-Basisdienste blieben uneingeschränkt gewährleistet...",
-        "sessionId": "2025-10-06"
-      },
-      {
-        "party": "Linke",
-        "stance": "contra",
-        "quote": "Mit einer veralteten IT-Infrastruktur könne keine IT-Sicherheit gewährleistet werden.",
-        "sessionId": "2025-10-06"
-      },
-      {
-        "party": "AfD",
-        "stance": "neutral",
-        "quote": "...Fokus ... nicht auf Transformation um jeden Preis liegen, sondern auf der Resilienz.",
-        "sessionId": "2025-10-06"
+        "quote": "er selbst halte den Schritt, den Senat und Koalition nun gingen, jedoch für mutig",
+        "sessionId": "s_058"
       }
-    ]
-  },
-  {
-    "id": "t_20053411",
-    "name": "Cyber-Vorfall am Flughafen BER",
-    "category": "Cybersicherheit",
-    "sessionIds": [
-      "2025-09-22"
     ],
-    "trend": "konstant",
-    "partyPositions": [
-      {
-        "party": "Linke",
-        "stance": "pro",
-        "quote": null,
-        "sessionId": "2025-09-22"
-      },
-      {
-        "party": "Grüne",
-        "stance": "pro",
-        "quote": null,
-        "sessionId": "2025-09-22"
-      }
-    ]
+    "trend": "konstant"
   },
   {
-    "id": "t_38829302",
-    "name": "Aktueller Stand Programm OneIT@Berlin",
-    "category": "IT-Infrastruktur & ITDZ",
-    "sessionIds": [
-      "2025-09-22"
-    ],
-    "trend": "konstant",
-    "partyPositions": [
-      {
-        "party": "CDU",
-        "stance": "pro",
-        "quote": null,
-        "sessionId": "2025-09-22"
-      },
-      {
-        "party": "SPD",
-        "stance": "pro",
-        "quote": null,
-        "sessionId": "2025-09-22"
-      }
-    ]
-  },
-  {
-    "id": "t_52948240",
+    "id": "t_253eb17a",
     "name": "Änderung des ITDZ-Gesetzes",
-    "category": "IT-Infrastruktur & ITDZ",
+    "category": "Haushalt & Steuerung",
     "sessionIds": [
-      "2025-09-22"
+      "s_032",
+      "s_058"
     ],
-    "trend": "konstant",
     "partyPositions": [
       {
-        "party": "CDU",
+        "party": "Linke",
         "stance": "pro",
-        "quote": null,
-        "sessionId": "2025-09-22"
-      },
-      {
-        "party": "SPD",
-        "stance": "pro",
-        "quote": null,
-        "sessionId": "2025-09-22"
+        "quote": "Er sei überfällig und es sei zu begrüßen",
+        "sessionId": "s_058"
       },
       {
         "party": "Grüne",
         "stance": "pro",
-        "quote": null,
-        "sessionId": "2025-09-22"
-      },
-      {
-        "party": "Linke",
-        "stance": "pro",
-        "quote": null,
-        "sessionId": "2025-09-22"
+        "quote": "betrachte den Gesetzesentwurf als einen ersten Schritt in die richtige Richtung",
+        "sessionId": "s_058"
       },
       {
         "party": "AfD",
         "stance": "pro",
-        "quote": null,
-        "sessionId": "2025-09-22"
+        "quote": "Mit Rücklagenbildung könne das ITDZ mehr finanzielle Resilienz erreichen.",
+        "sessionId": "s_032"
+      },
+      {
+        "party": "SPD",
+        "stance": "contra",
+        "quote": "das ITDZ sei auskömmlich finanziert.",
+        "sessionId": "s_032"
       }
-    ]
-  },
-  {
-    "id": "t_12835145",
-    "name": "Bericht der Datenschutzbeauftragten 2023",
-    "category": "Datenschutz & Informationsfreiheit",
-    "sessionIds": [
-      "2025-09-22"
     ],
-    "trend": "konstant",
-    "partyPositions": []
+    "trend": "konstant"
   },
   {
-    "id": "t_82942122",
+    "id": "t_9a6cdbdc",
+    "name": "Datenschutzbericht 2023 der BlnBDI",
+    "category": "Datenschutz & Grundrechte",
+    "sessionIds": [
+      "s_058"
+    ],
+    "partyPositions": [
+      {
+        "party": "Linke",
+        "stance": "contra",
+        "quote": "potenziell fehlerhaft sei prinzipiell alles; dies genüge als Begründung nicht aus.",
+        "sessionId": "s_058"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_3341b6df",
     "name": "Umsetzung der NIS-2 Richtlinie",
-    "category": "Cybersicherheit",
+    "category": "Cybersicherheit & Resilienz",
     "sessionIds": [
-      "2025-09-22"
+      "s_058"
     ],
-    "trend": "konstant",
+    "partyPositions": [],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_1405d95c",
+    "name": "Haushaltsplan 2026 und 2027",
+    "category": "Haushalt & Steuerung",
+    "sessionIds": [
+      "s_057"
+    ],
     "partyPositions": [
       {
         "party": "Grüne",
-        "stance": "pro",
-        "quote": null,
-        "sessionId": "2025-09-22"
+        "stance": "contra",
+        "quote": "Es handele sich um einen Schritt in die falsche Richtung",
+        "sessionId": "s_057"
       },
-      {
-        "party": "Linke",
-        "stance": "pro",
-        "quote": null,
-        "sessionId": "2025-09-22"
-      }
-    ]
-  },
-  {
-    "id": "t_81479463",
-    "name": "Haushaltsplan 2026/2027 Digitalisierung",
-    "category": "Verwaltungsreform & Haushalt",
-    "sessionIds": [
-      "2025-09-08"
-    ],
-    "trend": "konstant",
-    "partyPositions": [
-      {
-        "party": "CDU",
-        "stance": "pro",
-        "quote": "Welche konkreten Ressourcen ... stehen für die Umsetzung zur Verfügung, wie ist sichergestellt, dass...",
-        "sessionId": "2025-09-08"
-      }
-    ]
-  },
-  {
-    "id": "t_88723010",
-    "name": "Umsetzung der Verwaltungsreform (LOG)",
-    "category": "Verwaltungsreform & Haushalt",
-    "sessionIds": [
-      "2025-09-08"
-    ],
-    "trend": "konstant",
-    "partyPositions": [
-      {
-        "party": "Grüne",
-        "stance": "neutral",
-        "quote": "Sei hier eine Nachschiebeliste vom Senat geplant, um hier noch einmal nachzuarbeiten?",
-        "sessionId": "2025-09-08"
-      }
-    ]
-  },
-  {
-    "id": "t_57894898",
-    "name": "Einrichtung eines zentralen Digitalhaushalts",
-    "category": "Verwaltungsreform & Haushalt",
-    "sessionIds": [
-      "2025-09-08"
-    ],
-    "trend": "konstant",
-    "partyPositions": [
-      {
-        "party": "Grüne",
-        "stance": "pro",
-        "quote": "Warum habe der Senat nicht schon jetzt das umgesetzt, was er selbst für sinnvoll halte?",
-        "sessionId": "2025-09-08"
-      },
-      {
-        "party": "SPD",
-        "stance": "pro",
-        "quote": "Welche Vorteile werden vom Senat/der CDO gesehen, den ... Einzelplan 25 zu einem Digitalhaushalt weiterzuentwickeln...",
-        "sessionId": "2025-09-08"
-      }
-    ]
-  },
-  {
-    "id": "t_21924172",
-    "name": "Optimierung der Berliner Bürgerdienste",
-    "category": "Digitale Bürgerdienste (E-Government)",
-    "sessionIds": [
-      "2025-09-08"
-    ],
-    "trend": "konstant",
-    "partyPositions": [
-      {
-        "party": "Linke",
-        "stance": "neutral",
-        "quote": "...wolle er um eine schriftliche Beantwortung der Frage 27 b bitten.",
-        "sessionId": "2025-09-08"
-      }
-    ]
-  },
-  {
-    "id": "t_22813333",
-    "name": "IKT-Infrastruktur und Arbeitsplatzausstattung",
-    "category": "IT-Infrastruktur & ITDZ",
-    "sessionIds": [
-      "2025-09-08"
-    ],
-    "trend": "konstant",
-    "partyPositions": [
       {
         "party": "Linke",
         "stance": "contra",
-        "quote": "Nehme das Land Berlin sehenden Auges in Kauf, dass ... Kollegen mit veralteten ... Geräten arbeiten müssten?",
-        "sessionId": "2025-09-08"
+        "quote": "Nehme das Land Berlin sehenden Auges in Kauf, dass Kolleginnen und Kollegen mit veralteten...",
+        "sessionId": "s_057"
       }
-    ]
+    ],
+    "trend": "konstant"
   },
   {
-    "id": "t_69302735",
-    "name": "Haushalt des Datenschutzbeauftragten",
-    "category": "Datenschutz & Informationsfreiheit",
+    "id": "t_d5717e98",
+    "name": "Zentralisierungsprogramm OneIT",
+    "category": "IT-Modernisierung & Infrastruktur",
     "sessionIds": [
-      "2025-09-08"
+      "s_057"
     ],
-    "trend": "konstant",
-    "partyPositions": []
+    "partyPositions": [],
+    "trend": "konstant"
   },
   {
-    "id": "t_23571911",
-    "name": "Cybersicherheit und NIS-2-Umsetzung",
-    "category": "Cybersicherheit",
+    "id": "t_a0c53789",
+    "name": "Bürgerdienste und 14-Tage-Ziel",
+    "category": "Bürgerdienste & Digitale Anträge",
     "sessionIds": [
-      "2025-09-08"
+      "s_057"
     ],
-    "trend": "konstant",
+    "partyPositions": [],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_77110766",
+    "name": "Bündelfunk in Gefängnissen",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "sessionIds": [
+      "s_057"
+    ],
     "partyPositions": [
       {
         "party": "AfD",
         "stance": "neutral",
-        "quote": "Wie hoch schätze der Senat das Risiko dafür ein, dass der Bündelfunk durch Dritte abgehört werden könnte...",
-        "sessionId": "2025-09-08"
+        "quote": "Wie hoch schätze der Senat das Risiko dafür ein, dass der Bündelfunk durch Dritte abgehört...",
+        "sessionId": "s_057"
       }
-    ]
+    ],
+    "trend": "konstant"
   },
   {
-    "id": "t_61465334",
-    "name": "Verzögerung bei Windows 11-Umstellung",
-    "category": "IT-Infrastruktur & ITDZ",
+    "id": "t_070664e0",
+    "name": "Windows 11-Umstellung in der Verwaltung",
+    "category": "IT-Modernisierung & Infrastruktur",
     "sessionIds": [
-      "2025-07-07"
+      "s_056"
     ],
-    "trend": "konstant",
     "partyPositions": [
       {
         "party": "Grüne",
         "stance": "neutral",
-        "quote": "Trifft es zu, dass sich die Windows 11-Umstellung auch dadurch verzögert...?",
-        "sessionId": "2025-07-07"
-      },
-      {
-        "party": "Linke",
-        "stance": "neutral",
-        "quote": "...die [Beteiligung der Personalvertretungen] er für zwingend notwendig erachte.",
-        "sessionId": "2025-07-07"
+        "quote": "Trifft es zu, dass sich die Windows 11-Umstellung auch dadurch verzögert",
+        "sessionId": "s_056"
       }
-    ]
+    ],
+    "trend": "konstant"
   },
   {
-    "id": "t_12152126",
-    "name": "Umsetzung der Verwaltungsreform",
-    "category": "Verwaltungsreform & Haushalt",
+    "id": "t_da1e4a4e",
+    "name": "Umstellung des Rechnungshofes auf BerlinPC",
+    "category": "IT-Modernisierung & Infrastruktur",
     "sessionIds": [
-      "2025-07-07"
+      "s_056"
     ],
-    "trend": "konstant",
-    "partyPositions": []
-  },
-  {
-    "id": "t_28031269",
-    "name": "BerlinPC-Umstellung und virtuelle ITDZ-Teams",
-    "category": "IT-Infrastruktur & ITDZ",
-    "sessionIds": [
-      "2025-07-07"
-    ],
-    "trend": "konstant",
     "partyPositions": [
       {
         "party": "CDU",
         "stance": "pro",
-        "quote": "Die Umstellung sei sehr erfolgreich verlaufen; nun solle über die gesammelten Erfahrungen berichtet werden.",
-        "sessionId": "2025-07-07"
-      },
-      {
-        "party": "SPD",
-        "stance": "neutral",
-        "quote": "Worin liege der Unterschied zwischen herkömmlichen Projektteams und virtuellen Teams?",
-        "sessionId": "2025-07-07"
+        "quote": "Die Umstellung sei sehr erfolgreich verlaufen",
+        "sessionId": "s_056"
       }
-    ]
+    ],
+    "trend": "konstant"
   },
   {
-    "id": "t_28068352",
-    "name": "Hürden bei der IT-Standardisierung (OneIT@Berlin)",
-    "category": "IT-Infrastruktur & ITDZ",
+    "id": "t_bb677538",
+    "name": "Einführung virtueller Teams im ITDZ",
+    "category": "IT-Modernisierung & Infrastruktur",
     "sessionIds": [
-      "2025-07-07"
+      "s_056"
     ],
-    "trend": "konstant",
+    "partyPositions": [],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_b6152057",
+    "name": "Standardisierung der IT-Infrastruktur (OneIT)",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "sessionIds": [
+      "s_056"
+    ],
     "partyPositions": [
       {
         "party": "Grüne",
         "stance": "pro",
-        "quote": "...woran es in anderen Verwaltungsstellen hake und was getan werden könne, um hier Fortschritte zu erzielen.",
-        "sessionId": "2025-07-07"
-      },
-      {
-        "party": "Linke",
-        "stance": "neutral",
-        "quote": "Wie würden Prozesse mit der BIM so aufgesetzt, dass diese eventuell sogar schon von sich aus darauf achte...",
-        "sessionId": "2025-07-07"
+        "quote": "die IT-Standardisierung [...] nur dann wirklich positive Effekte haben könne",
+        "sessionId": "s_056"
       }
-    ]
+    ],
+    "trend": "konstant"
   },
   {
-    "id": "t_22762881",
-    "name": "Digitale Souveränität und Open Source",
-    "category": "Open Data & Open Source",
+    "id": "t_4f605486",
+    "name": "OpenData und Europäische Datenstrategie",
+    "category": "Informationsfreiheit & Transparenz",
     "sessionIds": [
-      "2025-06-23"
+      "s_055",
+      "s_054"
     ],
-    "trend": "konstant",
     "partyPositions": [
       {
         "party": "Grüne",
         "stance": "pro",
-        "quote": "Was sind Berlins Ideen und Strategien um die digitale Souveränität seiner Verwaltung zu sichern?",
-        "sessionId": "2025-06-23"
+        "quote": "Open Data ist ein zentrales Thema in einer modernen Verwaltung",
+        "sessionId": "s_055"
       }
-    ]
+    ],
+    "trend": "konstant"
   },
   {
-    "id": "t_19985260",
-    "name": "Hackerangriff auf BVG-Dienstleister",
-    "category": "Cybersicherheit",
+    "id": "t_67e7ef4c",
+    "name": "Hackerangriff auf die BVG",
+    "category": "Cybersicherheit & Resilienz",
     "sessionIds": [
-      "2025-06-23"
+      "s_055",
+      "s_054"
     ],
-    "trend": "konstant",
     "partyPositions": [
       {
         "party": "Grüne",
         "stance": "contra",
-        "quote": "die Ausführungen erschienen ihm angesichts des Vorfalls und des Kontrolldefizits nicht ausreichend.",
-        "sessionId": "2025-06-23"
+        "quote": "Die Ausführungen erschienen ihm angesichts des Vorfalls und des Kontrolldefizits nicht ausreichend.",
+        "sessionId": "s_055"
       },
       {
         "party": "Linke",
         "stance": "contra",
-        "quote": "Könne die Verarbeitung intern geschehen, etwa durch eine Nutzung der Kapazitäten des ITDZ?",
-        "sessionId": "2025-06-23"
-      },
-      {
-        "party": "SPD",
-        "stance": "neutral",
-        "quote": "Habe es hier eine Rückfrage der Datenschutzbeauftragten gegeben? Welcher Art sei der Austausch?",
-        "sessionId": "2025-06-23"
-      },
-      {
-        "party": "CDU",
-        "stance": "neutral",
-        "quote": "Könnten hier konkretere Angaben darüber gemacht werden, was geplant sei, um das Risiko... zu minimieren?",
-        "sessionId": "2025-06-23"
-      }
-    ]
-  },
-  {
-    "id": "t_36628671",
-    "name": "Open Data und EU-Datenstrategie",
-    "category": "Open Data & Open Source",
-    "sessionIds": [
-      "2025-06-23"
-    ],
-    "trend": "konstant",
-    "partyPositions": [
-      {
-        "party": "Grüne",
-        "stance": "pro",
-        "quote": "Open Data ein zentrales Thema in einer modernen Verwaltung sei, um nächste Schritte... machen zu können.",
-        "sessionId": "2025-06-23"
-      },
-      {
-        "party": "SPD",
-        "stance": "pro",
-        "quote": "dass man in bestimmten Bereichen wie etwa der Gesundheitsforschung auf Datenspenden angewiesen sei.",
-        "sessionId": "2025-06-23"
-      },
-      {
-        "party": "Linke",
-        "stance": "pro",
-        "quote": "ob eine gesetzliche Grundlage im Digitalgesetz vorstellbar sei: Durch eine solche gesetzliche Verpflichtung",
-        "sessionId": "2025-06-23"
-      }
-    ]
-  },
-  {
-    "id": "t_62016657",
-    "name": "Auswertung Aktionstag Bürgerämter",
-    "category": "Digitale Bürgerdienste (E-Government)",
-    "sessionIds": [
-      "2025-06-23"
-    ],
-    "trend": "konstant",
-    "partyPositions": [
-      {
-        "party": "CDU",
-        "stance": "pro",
-        "quote": null,
-        "sessionId": "2025-06-23"
-      },
-      {
-        "party": "SPD",
-        "stance": "pro",
-        "quote": "Es scheine also sinnvoll, das Angebot in einen Regelbetrieb aufzunehmen.",
-        "sessionId": "2025-06-23"
-      },
-      {
-        "party": "Linke",
-        "stance": "pro",
-        "quote": "vielleicht könne die Aktion aber nun einfach öfter angeboten werden.",
-        "sessionId": "2025-06-23"
-      },
-      {
-        "party": "Grüne",
-        "stance": "pro",
-        "quote": "letztendlich werde ein Mix aus verschiedenen Angeboten benötigt",
-        "sessionId": "2025-06-23"
-      },
-      {
-        "party": "AfD",
-        "stance": "neutral",
-        "quote": "warum nur 9 von 12 Bezirken am Aktionstag teilgenommen hätten.",
-        "sessionId": "2025-06-23"
-      }
-    ]
-  },
-  {
-    "id": "t_37490537",
-    "name": "Beendigung des Sozialhilfeportal-Projekts",
-    "category": "Digitale Bürgerdienste (E-Government)",
-    "sessionIds": [
-      "2025-06-23"
-    ],
-    "trend": "konstant",
-    "partyPositions": []
-  },
-  {
-    "id": "t_62050098",
-    "name": "Antrag zum Berliner Digitaltag",
-    "category": "Verwaltungsreform & Haushalt",
-    "sessionIds": [
-      "2025-06-23"
-    ],
-    "trend": "konstant",
-    "partyPositions": [
-      {
-        "party": "Grüne",
-        "stance": "pro",
-        "quote": null,
-        "sessionId": "2025-06-23"
-      },
-      {
-        "party": "Linke",
-        "stance": "pro",
-        "quote": null,
-        "sessionId": "2025-06-23"
+        "quote": "Leicht höhere Kosten sollten hier in Kauf genommen werden",
+        "sessionId": "s_055"
       },
       {
         "party": "CDU",
         "stance": "contra",
-        "quote": null,
-        "sessionId": "2025-06-23"
-      },
-      {
-        "party": "SPD",
-        "stance": "contra",
-        "quote": null,
-        "sessionId": "2025-06-23"
-      },
-      {
-        "party": "AfD",
-        "stance": "neutral",
-        "quote": null,
-        "sessionId": "2025-06-23"
-      }
-    ]
-  },
-  {
-    "id": "t_91102691",
-    "name": "Hackerangriff auf BVG Kundendaten",
-    "category": "Cybersicherheit",
-    "sessionIds": [
-      "2025-05-19"
-    ],
-    "trend": "konstant",
-    "partyPositions": [
-      {
-        "party": "Linke",
-        "stance": "contra",
-        "quote": "Die BVG habe hier zu spät und zu zaghaft gehandelt.",
-        "sessionId": "2025-05-19"
-      },
-      {
-        "party": "CDU",
-        "stance": "contra",
-        "quote": "Eine große Transparenz sei in dem beschriebenen Vorgehen ... nicht zu erkennen",
-        "sessionId": "2025-05-19"
+        "quote": "Anschriften seien durchaus sensible Daten",
+        "sessionId": "s_054"
       },
       {
         "party": "Grüne",
         "stance": "contra",
-        "quote": "Die BVG unterstütze mit ihrer Krisenkommunikation also potenziell den Angriff.",
-        "sessionId": "2025-05-19"
+        "quote": "Die BVG unterstützt mit ihrer Krisenkommunikation also potenziell den Angriff.",
+        "sessionId": "s_054"
       },
       {
         "party": "SPD",
-        "stance": "contra",
-        "quote": "Dieser Zeitraum sei hier weit überschritten.",
-        "sessionId": "2025-05-19"
-      },
-      {
-        "party": "AfD",
-        "stance": "neutral",
-        "quote": null,
-        "sessionId": "2025-05-19"
+        "stance": "pro",
+        "quote": "er empfinde die offenen Ausführungen und den beschriebenen Umgang der BVG [...] bisher als gut",
+        "sessionId": "s_054"
       }
-    ]
+    ],
+    "trend": "konstant"
   },
   {
-    "id": "t_63073652",
+    "id": "t_110ab8e0",
+    "name": "Aktionstag Terminfreie Zeiten",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "sessionIds": [
+      "s_055"
+    ],
+    "partyPositions": [
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": "Es scheint also sinnvoll, das Angebot in einen Regelbetrieb aufzunehmen",
+        "sessionId": "s_055"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_b36ee897",
+    "name": "Berliner Digitaltag 2025",
+    "category": "Digitale Gesetze & Strategien",
+    "sessionIds": [
+      "s_055"
+    ],
+    "partyPositions": [],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_21311115",
+    "name": "IT-Störungen in den Bürgerämtern",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "sessionIds": [
+      "s_054"
+    ],
+    "partyPositions": [
+      {
+        "party": "Grüne",
+        "stance": "neutral",
+        "quote": "Gebe es Überlegungen, ein digitales Back-up-Verfahren einzuführen",
+        "sessionId": "s_054"
+      },
+      {
+        "party": "Linke",
+        "stance": "contra",
+        "quote": "was der Senat [...] in Bezug auf die Zurverfügungstellung von kostenlosem öffentlichen WLAN künftig plane",
+        "sessionId": "s_054"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_cf6d995c",
     "name": "Digitalisierung in der Verwaltungsreform",
-    "category": "Verwaltungsreform & Haushalt",
+    "category": "Digitale Gesetze & Strategien",
     "sessionIds": [
-      "2025-05-19"
+      "s_054"
     ],
-    "trend": "konstant",
     "partyPositions": [
       {
         "party": "Grüne",
         "stance": "contra",
-        "quote": "Alles, was die Verwaltungsreform für den Bereich Digitalisierung anstrebe, sei bereits gesetzliche Grundlage",
-        "sessionId": "2025-05-19"
+        "quote": "die Verwaltungsreform [hat] [...] nichts mit den Defiziten bei der Digitalisierung zu tun",
+        "sessionId": "s_054"
       },
       {
         "party": "AfD",
         "stance": "neutral",
-        "quote": "die zu erwartenden Veränderungen für die Praxis seien jedoch überschaubar",
-        "sessionId": "2025-05-19"
+        "quote": "Aus Sicht der AfD fehlten jedoch rechtlich verbindliche Garantien für Verfahrensbeschleunigungen",
+        "sessionId": "s_054"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_8c640ba6",
+    "name": "DDoS-Angriff auf Berlin.de",
+    "category": "Cybersicherheit & Resilienz",
+    "sessionIds": [
+      "s_054"
+    ],
+    "partyPositions": [],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_33402115",
+    "name": "Rechnungshofbericht zur Digitalisierungssteuerung",
+    "category": "Haushalt & Steuerung",
+    "sessionIds": [
+      "s_053"
+    ],
+    "partyPositions": [
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "die Digitalisierungsstrategie im Haushalt abgesichert werden",
+        "sessionId": "s_053"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_e68b88b3",
+    "name": "14-Tage-Ziel bei Bürgeramtsterminen",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "sessionIds": [
+      "s_053"
+    ],
+    "partyPositions": [
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "das 14-Tage-Ziel zu erreichen, etwa mit einem besseren Terminvergabetool",
+        "sessionId": "s_053"
+      },
+      {
+        "party": "CDU",
+        "stance": "contra",
+        "quote": "Der Antrag selbst mache keine konkrete Vorschläge.",
+        "sessionId": "s_053"
       },
       {
         "party": "SPD",
+        "stance": "contra",
+        "quote": "sinnvoller, die größeren Herausforderungen der Digitalisierung zu lösen",
+        "sessionId": "s_053"
+      },
+      {
+        "party": "Linke",
         "stance": "pro",
-        "quote": null,
-        "sessionId": "2025-05-19"
+        "quote": "Gute Oppositionsarbeit erinnert den Senat auch an selbst ausgegebene Versprechen.",
+        "sessionId": "s_053"
+      },
+      {
+        "party": "AfD",
+        "stance": "neutral",
+        "quote": "Das Abziehen von Angeboten aus den Bürgerämtern verschlechtere den Service",
+        "sessionId": "s_053"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_1f71a376",
+    "name": "Digitale Antragstellung des Wohngelds",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "sessionIds": [
+      "s_053",
+      "s_048"
+    ],
+    "partyPositions": [
+      {
+        "party": "SPD",
+        "stance": "neutral",
+        "quote": "Der Erfolg der Digitalisierung in Berlin wird im Wesentlichen dadurch bestimmt werden...",
+        "sessionId": "s_048"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_3860fab9",
+    "name": "Föderale Umsetzung EU-Digitalrecht",
+    "category": "Digitale Gesetze & Strategien",
+    "sessionIds": [
+      "s_052"
+    ],
+    "partyPositions": [
+      {
+        "party": "Grüne",
+        "stance": "contra",
+        "quote": "die Durchsetzung von Rechten [...] sollte mit einer starken Verankerung vor Ort Hand in Hand gehen",
+        "sessionId": "s_052"
+      },
+      {
+        "party": "AfD",
+        "stance": "neutral",
+        "quote": "Er sehe es kritisch, dass vonseiten der EU geregelt werde, dass Kompetenzen bei der Bundesnetzagentur landeten.",
+        "sessionId": "s_052"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_b146f3d5",
+    "name": "Auswertung der Wien-Informationsreise",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "sessionIds": [
+      "s_052"
+    ],
+    "partyPositions": [],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_be20ee05",
+    "name": "Vernetzung Digitaler Zwillinge",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "sessionIds": [
+      "s_052"
+    ],
+    "partyPositions": [
+      {
+        "party": "SPD",
+        "stance": "contra",
+        "quote": "Jedoch sei das Land Berlin derzeit nicht in der Lage, eine Umsetzung vorzunehmen.",
+        "sessionId": "s_052"
+      },
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "Er hoffe, dass die Koalitionsfraktionen diesen Weg mitgingen",
+        "sessionId": "s_052"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_8cf41f7e",
+    "name": "Kampagne für digitale Bürgerservices",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "sessionIds": [
+      "s_051"
+    ],
+    "partyPositions": [],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_24b716ef",
+    "name": "Verordnung über digitale Lehr-Lernmittel",
+    "category": "Datenschutz & Grundrechte",
+    "sessionIds": [
+      "s_051"
+    ],
+    "partyPositions": [
+      {
+        "party": "Linke",
+        "stance": "neutral",
+        "quote": "ihre Fraktion gern den aktuellen Stand zur Verordnung erfahren wolle",
+        "sessionId": "s_051"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_1404c4e0",
+    "name": "Änderung des Landeskrankenhausgesetzes",
+    "category": "Datenschutz & Grundrechte",
+    "sessionIds": [
+      "s_035",
+      "s_051"
+    ],
+    "partyPositions": [
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": "sinnvoll, ein gewisses Mindestmaß an Transparenz zu schaffen",
+        "sessionId": "s_051"
+      },
+      {
+        "party": "Linke",
+        "stance": "contra",
+        "quote": "Es gehe um Gesundheitsdaten von Patientinnen und Patienten, die nur diesen Personen gehörten.",
+        "sessionId": "s_051"
+      },
+      {
+        "party": "Grüne",
+        "stance": "contra",
+        "quote": "Der Änderungsantrag überzeuge nicht.",
+        "sessionId": "s_051"
+      },
+      {
+        "party": "SPD",
+        "stance": "neutral",
+        "quote": "Sie müssten nun dennoch überlegen, welche Kontrolle möglich oder nötig sei.",
+        "sessionId": "s_035"
+      },
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "Die Krankenhäuser bräuchten einen sinnvollen Rechtsrahmen, auch für Digitalisierungsprojekte.",
+        "sessionId": "s_035"
+      },
+      {
+        "party": "Linke",
+        "stance": "contra",
+        "quote": "Krankenhaussektor mit cloudbasierten Datenverarbeitungssystemen eine vulnerable Stelle sei",
+        "sessionId": "s_035"
+      },
+      {
+        "party": "AfD",
+        "stance": "pro",
+        "quote": "Es handele sich um Bürokratieabbau.",
+        "sessionId": "s_035"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_dc7e6266",
+    "name": "Glasfaserausbau in Berlin",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "sessionIds": [
+      "s_050"
+    ],
+    "partyPositions": [
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": "Der Glasfaserausbau in Berlin ist ein zentrales Element der digitalen Transformation",
+        "sessionId": "s_050"
       },
       {
         "party": "Linke",
         "stance": "neutral",
-        "quote": null,
-        "sessionId": "2025-05-19"
+        "quote": "Wie in anderen netzbasierten Infrastrukturen muss es eine öffentliche Kontrolle geben",
+        "sessionId": "s_050"
+      },
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": "Die Entscheidung von DNS:NET, vorrangig die Außenbezirke zu versorgen, ist zu begrüßen",
+        "sessionId": "s_050"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_34a07083",
+    "name": "Open-Source-Sabbatical für Berlin",
+    "category": "Digitale Gesetze & Strategien",
+    "sessionIds": [
+      "s_050"
+    ],
+    "partyPositions": [
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "guter Zeitpunkt [...], auch in Berlin den Startschuss für ein Open-Source-Sabbatical zu geben",
+        "sessionId": "s_050"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_9db76e5e",
+    "name": "Verwaltungsreform und Bürgerdienste",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "sessionIds": [
+      "s_050"
+    ],
+    "partyPositions": [],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_0a8045d6",
+    "name": "GovTech Campus Deutschland",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "sessionIds": [
+      "s_049"
+    ],
+    "partyPositions": [
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": "im Koalitionsvertrag stehe, dass man einen GovTech Campus Berlin gründen wolle",
+        "sessionId": "s_049"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_86bffa77",
+    "name": "Open-Source Kompetenzzentrum Berlin",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "sessionIds": [
+      "s_049"
+    ],
+    "partyPositions": [
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "Sein Eindruck sei, in Berlin laufe vieles nach dem Zufallsprinzip.",
+        "sessionId": "s_049"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_b3efd038",
+    "name": "Zentralisierung der KI-Aufsicht",
+    "category": "Künstliche Intelligenz (KI)",
+    "sessionIds": [
+      "s_049"
+    ],
+    "partyPositions": [
+      {
+        "party": "Linke",
+        "stance": "contra",
+        "quote": "Werde sich der Berliner Senat in dieser Debatte für den Föderalismus einsetzen...",
+        "sessionId": "s_049"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_73c734fb",
+    "name": "Vorsitz der Digitalministerkonferenz",
+    "category": "Digitale Gesetze & Strategien",
+    "sessionIds": [
+      "s_049"
+    ],
+    "partyPositions": [
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": "auf Initiative von Staatssekretärin Klement sei im Jahr 2024 die Digitalministerkonferenz",
+        "sessionId": "s_049"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_b9c76f45",
+    "name": "Basisdienst Digitaler Antrag",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "sessionIds": [
+      "s_048"
+    ],
+    "partyPositions": [],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_d08eac3f",
+    "name": "Digitalgesetz für Berlin",
+    "category": "Digitale Gesetze & Strategien",
+    "sessionIds": [
+      "s_048"
+    ],
+    "partyPositions": [
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "Ein Entwurf für das Digitalgesetz müsse nun zeitnah auf den Tisch kommen",
+        "sessionId": "s_048"
+      },
+      {
+        "party": "CDU",
+        "stance": "contra",
+        "quote": "die guten Punkte des vorliegenden Antrags in das neue Digitalgesetz übernommen werden sollten",
+        "sessionId": "s_048"
+      },
+      {
+        "party": "AfD",
+        "stance": "contra",
+        "quote": "Die AfD-Fraktion werde den Antrag aufgrund seiner mangelnden Klarheit ablehnen.",
+        "sessionId": "s_048"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_95b95b20",
+    "name": "Einführung der Digitalen Akte",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "sessionIds": [
+      "s_048"
+    ],
+    "partyPositions": [],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_7a1c3dd9",
+    "name": "Einsatz von KI in Berlin",
+    "category": "Künstliche Intelligenz (KI)",
+    "sessionIds": [
+      "s_047"
+    ],
+    "partyPositions": [
+      {
+        "party": "Linke",
+        "stance": "neutral",
+        "quote": "Wo kämen diese Trainingsdaten her?",
+        "sessionId": "s_047"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_855a2e9b",
+    "name": "Ausnahmen vom E-Government-Gesetz",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "sessionIds": [
+      "s_047"
+    ],
+    "partyPositions": [
+      {
+        "party": "Grüne",
+        "stance": "contra",
+        "quote": "Ausnahmen sollten hier so selten wie möglich vorkommen",
+        "sessionId": "s_047"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_6f1215d2",
+    "name": "Elektronische Wohngeldanträge",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "sessionIds": [
+      "s_047"
+    ],
+    "partyPositions": [
+      {
+        "party": "SPD",
+        "stance": "neutral",
+        "quote": "Es sei also nicht sinnvoll, nun auf einer Beantwortung zu bestehen.",
+        "sessionId": "s_047"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_3ebbc64f",
+    "name": "Elektronische Wohnsitzanmeldung (eWA)",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "sessionIds": [
+      "s_046"
+    ],
+    "partyPositions": [],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_c3a501d7",
+    "name": "Proaktiver Opferschutz im ASOG",
+    "category": "Datenschutz & Grundrechte",
+    "sessionIds": [
+      "s_046"
+    ],
+    "partyPositions": [
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "Täglich werden Menschen ‒ gerade Frauen ‒ Opfer von Gewalt, und die Zahlen stiegen immer weiter an.",
+        "sessionId": "s_046"
+      },
+      {
+        "party": "CDU",
+        "stance": "contra",
+        "quote": "Aus Sicht der CDU-Fraktion ist es aber besser, die Polizei zur Übermittlung der Daten zu ermächtigen",
+        "sessionId": "s_046"
+      },
+      {
+        "party": "SPD",
+        "stance": "contra",
+        "quote": "An der großen ASOG-Novelle werde nun also in der Innenverwaltung und in der Koalition gearbeitet",
+        "sessionId": "s_046"
+      },
+      {
+        "party": "AfD",
+        "stance": "contra",
+        "quote": "Unter diesen Voraussetzungen kann die AfD-Fraktion dem Antrag nicht zustimmen.",
+        "sessionId": "s_046"
+      },
+      {
+        "party": "Linke",
+        "stance": "neutral",
+        "quote": "sie würde es begrüßen, sollte der Antrag in ein Gesamtkonzept eingebunden werden.",
+        "sessionId": "s_046"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_4517d184",
+    "name": "Einführung des Digitalchecks",
+    "category": "Digitale Gesetze & Strategien",
+    "sessionIds": [
+      "s_046"
+    ],
+    "partyPositions": [
+      {
+        "party": "Grüne",
+        "stance": "neutral",
+        "quote": "eine Schulung von Legistinnen und Legisten für ihn noch kein wirklicher Digitalcheck sei",
+        "sessionId": "s_046"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_e1951183",
+    "name": "Haushaltskonsolidierung der Berliner Digitalisierung",
+    "category": "Haushalt & Steuerung",
+    "sessionIds": [
+      "s_045"
+    ],
+    "partyPositions": [
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": "Man spart ein, gebe aber immer noch viel Geld aus, um wichtige Zukunftsprojekte [...] umzusetzen.",
+        "sessionId": "s_045"
+      },
+      {
+        "party": "Linke",
+        "stance": "contra",
+        "quote": "durch die Einsparungen werde das Vertrauen der Menschen geschwächt.",
+        "sessionId": "s_045"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_c0172dc3",
+    "name": "Einführung von Low-Code-Plattformen",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "sessionIds": [
+      "s_045"
+    ],
+    "partyPositions": [
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": "Low Code sei ein relativ kleiner, aber sehr nützlicher Baustein, und das unterstütze man.",
+        "sessionId": "s_045"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_b53be637",
+    "name": "Digitalisierung der Infektionsschutz-Belehrung",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "sessionIds": [
+      "s_045"
+    ],
+    "partyPositions": [
+      {
+        "party": "AfD",
+        "stance": "pro",
+        "quote": "Die Digitalisierung der Belehrung begrüße man, aber sie müsse datenschutzkonform erfolgen.",
+        "sessionId": "s_045"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_e137c50f",
+    "name": "Cloud in der Berliner Verwaltung",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "sessionIds": [
+      "s_044"
+    ],
+    "partyPositions": [
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "die Grundüberlegung zur Cloud-Strategie könne er nur unterstützen; dies sei der richtige Weg.",
+        "sessionId": "s_044"
+      },
+      {
+        "party": "Linke",
+        "stance": "neutral",
+        "quote": "Er wolle nicht, dass Berliner öffentliche Daten bei diesen Anbietern gehostet",
+        "sessionId": "s_044"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_d1f6fa79",
+    "name": "Koordinierung von Baustellen",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "sessionIds": [
+      "s_044"
+    ],
+    "partyPositions": [
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": "Das klare Ziel sei, die Antragstellung ausschließlich digital zu regeln.",
+        "sessionId": "s_044"
+      },
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": "Die digitale Einreichung von Anträgen finde er in diesem Fall gut, sinnvoll und zielführend.",
+        "sessionId": "s_044"
+      },
+      {
+        "party": "Grüne",
+        "stance": "neutral",
+        "quote": "Eine digitale Antragstellung sei ebenfalls zwingend.",
+        "sessionId": "s_044"
+      },
+      {
+        "party": "AfD",
+        "stance": "pro",
+        "quote": "seine Fraktion werde dem Antrag zustimmen",
+        "sessionId": "s_044"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_3efef2a3",
+    "name": "KI-Governance für Berlin",
+    "category": "Künstliche Intelligenz (KI)",
+    "sessionIds": [
+      "s_044"
+    ],
+    "partyPositions": [
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "Was man brauche, seien Überlegungen dazu, wie man sich abstimme, wenn KI eine Rolle spiele.",
+        "sessionId": "s_044"
+      },
+      {
+        "party": "SPD",
+        "stance": "contra",
+        "quote": "Er wolle der Verwaltung keine unstrukturierte Aufgabenliste zumuten",
+        "sessionId": "s_044"
+      },
+      {
+        "party": "CDU",
+        "stance": "contra",
+        "quote": "Seine Fraktion werde den Antrag daher ablehnen.",
+        "sessionId": "s_044"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_ecc9ab97",
+    "name": "Cyberangriff auf Johannesstift-Diakonie",
+    "category": "Cybersicherheit & Resilienz",
+    "sessionIds": [
+      "s_043"
+    ],
+    "partyPositions": [],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_432d3fd3",
+    "name": "Vorstellung des Datenschutzberichts 2023",
+    "category": "Datenschutz & Grundrechte",
+    "sessionIds": [
+      "s_043"
+    ],
+    "partyPositions": [
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": "Er begrüße die neue Struktur des Berichts mit den Orten Berlin, Deutschland und Europa.",
+        "sessionId": "s_043"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_244aa54d",
+    "name": "Transparenzregister für Künstliche Intelligenz",
+    "category": "Künstliche Intelligenz (KI)",
+    "sessionIds": [
+      "s_043"
+    ],
+    "partyPositions": [
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "wichtig, an solchen Stellen Transparenz zu schaffen",
+        "sessionId": "s_043"
+      },
+      {
+        "party": "SPD",
+        "stance": "contra",
+        "quote": "Das Thema habe aber bei der Koalition keine Priorität.",
+        "sessionId": "s_043"
+      },
+      {
+        "party": "CDU",
+        "stance": "contra",
+        "quote": "bei KI-Anwendungen müsse Berlin viel erproben, bevor es sie in ein Register überführe.",
+        "sessionId": "s_043"
+      },
+      {
+        "party": "Linke",
+        "stance": "neutral",
+        "quote": "Es sei sinnvoll algorithmusbasierte Entscheidungssysteme offenzulegen",
+        "sessionId": "s_043"
+      },
+      {
+        "party": "AfD",
+        "stance": "contra",
+        "quote": "Das Primärziel sei, immer mehr Bürokratie zu schaffen",
+        "sessionId": "s_043"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_25a5e941",
+    "name": "Neuausrichtung des ITDZ",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "sessionIds": [
+      "s_042"
+    ],
+    "partyPositions": [
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "Er danke für die klaren Worte; dies sei ein gutes Zeichen.",
+        "sessionId": "s_042"
+      },
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": "begrüßenswert, wie offen, klar und ungeschönt sie die Situation darstelle.",
+        "sessionId": "s_042"
+      },
+      {
+        "party": "Linke",
+        "stance": "pro",
+        "quote": "Es sei sinnvoll, Eigenverantwortung und Innovation stärker in den Vordergrund zu stellen.",
+        "sessionId": "s_042"
+      },
+      {
+        "party": "AfD",
+        "stance": "contra",
+        "quote": "Seine Fraktion würde einen solchen kritisch sehen.",
+        "sessionId": "s_042"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_0108c4a4",
+    "name": "Umsetzung der NIS-2-Richtlinie",
+    "category": "Cybersicherheit & Resilienz",
+    "sessionIds": [
+      "s_042"
+    ],
+    "partyPositions": [
+      {
+        "party": "Grüne",
+        "stance": "contra",
+        "quote": "Dass SenInnSport keine Zuständigkeit bei sich sehe [...] sei kritikwürdig.",
+        "sessionId": "s_042"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_566d5e86",
+    "name": "Einführung digitaler Bürgerdienste",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "sessionIds": [
+      "s_042"
+    ],
+    "partyPositions": [],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_d0198060",
+    "name": "Digitale Barrierefreiheit in Berlin",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "sessionIds": [
+      "s_041"
+    ],
+    "partyPositions": [
+      {
+        "party": "CDU",
+        "stance": "neutral",
+        "quote": "Sie könne den Personalbedarf nachvollziehen, doch der Haushalt sei in den nächsten Jahren schwierig.",
+        "sessionId": "s_041"
+      },
+      {
+        "party": "SPD",
+        "stance": "neutral",
+        "quote": "sie hätten das gemeinsame Anliegen, dass Digitalisierung voranschreite, aber das Geld sei begrenzt.",
+        "sessionId": "s_041"
+      },
+      {
+        "party": "Linke",
+        "stance": "pro",
+        "quote": "Wenn der Staat Regeln mache, müsse er sich an diese halten.",
+        "sessionId": "s_041"
+      },
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "Was sei gesetzlich jenseits der Ziele und Verpflichtungen noch zu tun?",
+        "sessionId": "s_041"
+      },
+      {
+        "party": "AfD",
+        "stance": "neutral",
+        "quote": "Es sei aber nicht praktikabel, den Bestand von IT-Fachverfahren [...] zu unterziehen.",
+        "sessionId": "s_041"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_82c92cd8",
+    "name": "Standardprozess Datenschutz im Projektmanagement",
+    "category": "Datenschutz & Grundrechte",
+    "sessionIds": [
+      "s_041"
+    ],
+    "partyPositions": [],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_fe074e5a",
+    "name": "Änderung des IT-Staatsvertrages",
+    "category": "Digitale Gesetze & Strategien",
+    "sessionIds": [
+      "s_041"
+    ],
+    "partyPositions": [],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_f978eb57",
+    "name": "Einführung der digitalen Akte",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "sessionIds": [
+      "s_040"
+    ],
+    "partyPositions": [],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_3841a262",
+    "name": "Aufsicht über Künstliche Intelligenz",
+    "category": "Künstliche Intelligenz (KI)",
+    "sessionIds": [
+      "s_040"
+    ],
+    "partyPositions": [
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "die Anwendung ohne eine zusätzliche Marktüberwachungsbehörde zu erreichen",
+        "sessionId": "s_040"
+      },
+      {
+        "party": "AfD",
+        "stance": "pro",
+        "quote": "ordnungspolitisch biete es sich an, der Datenschutzbehörde die Prüfung der KI-Systeme zu übertragen",
+        "sessionId": "s_040"
+      },
+      {
+        "party": "SPD",
+        "stance": "neutral",
+        "quote": "sollte man bei diesem schwierigen Thema nicht übereilte Entscheidungen treffen",
+        "sessionId": "s_040"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_b1d59001",
+    "name": "Nutzung digitaler Bürgerdienste",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "sessionIds": [
+      "s_040"
+    ],
+    "partyPositions": [],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_082ea210",
+    "name": "Weiterentwicklung des ITDZ Berlin",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "sessionIds": [
+      "s_039"
+    ],
+    "partyPositions": [
+      {
+        "party": "Grüne",
+        "stance": "neutral",
+        "quote": "Sie habe den anspruchsvollsten und schwierigsten Job im Bereich der Digitalisierung Berlins",
+        "sessionId": "s_039"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_e3eded37",
+    "name": "Neues Berliner Digitalgesetz",
+    "category": "Digitale Gesetze & Strategien",
+    "sessionIds": [
+      "s_039"
+    ],
+    "partyPositions": [
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": "Die Koalition werde aber einen eigenen Vorschlag für ein Digitalisierungsgesetz erarbeiten.",
+        "sessionId": "s_039"
+      },
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "Berlin brauche zudem ein verbindliches Recht auf verschlüsselte digitale Kommunikation.",
+        "sessionId": "s_039"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_5971f4ab",
+    "name": "Änderung des Berliner Datenschutzgesetzes",
+    "category": "Datenschutz & Grundrechte",
+    "sessionIds": [
+      "s_039",
+      "s_069"
+    ],
+    "partyPositions": [
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "Datenschutz ist Grundrechtsschutz",
+        "sessionId": "s_039"
+      },
+      {
+        "party": "CDU",
+        "stance": "contra",
+        "quote": "Die Koalition werde einen eigenen Änderungsvorschlag zum BlnDSG vorlegen",
+        "sessionId": "s_039"
+      },
+      {
+        "party": "SPD",
+        "stance": "contra",
+        "quote": "Er sehe die JI-Richtlinie ausreichend umgesetzt.",
+        "sessionId": "s_039"
       },
       {
         "party": "CDU",
         "stance": "pro",
         "quote": null,
-        "sessionId": "2025-05-19"
+        "sessionId": "s_069"
+      },
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": null,
+        "sessionId": "s_069"
+      },
+      {
+        "party": "Grüne",
+        "stance": "contra",
+        "quote": null,
+        "sessionId": "s_069"
+      },
+      {
+        "party": "Linke",
+        "stance": "contra",
+        "quote": null,
+        "sessionId": "s_069"
+      },
+      {
+        "party": "AfD",
+        "stance": "contra",
+        "quote": null,
+        "sessionId": "s_069"
       }
-    ]
+    ],
+    "trend": "konstant"
   },
   {
-    "id": "t_18264991",
-    "name": "DDoS-Angriff auf Serviceportal berlin.de",
-    "category": "Cybersicherheit",
+    "id": "t_2d44454a",
+    "name": "Sachstand OneIT@Berlin",
+    "category": "IT-Modernisierung & Infrastruktur",
     "sessionIds": [
-      "2025-05-19"
+      "s_038"
     ],
-    "trend": "konstant",
-    "partyPositions": []
-  },
-  {
-    "id": "t_11078307",
-    "name": "IT-Ausfall in Berliner Bürgerämtern",
-    "category": "IT-Infrastruktur & ITDZ",
-    "sessionIds": [
-      "2025-05-19"
-    ],
-    "trend": "konstant",
     "partyPositions": [
       {
         "party": "Grüne",
-        "stance": "pro",
-        "quote": "Gebe es Überlegungen, ein digitales Back-up-Verfahren einzuführen...?",
-        "sessionId": "2025-05-19"
+        "stance": "contra",
+        "quote": "Von 80 000 IT-Arbeitsplätzen habe Berlin seitdem 900 umgestellt.",
+        "sessionId": "s_038"
+      },
+      {
+        "party": "Linke",
+        "stance": "contra",
+        "quote": "der langsame Fortschritt weise auf ein systemisches Problem hin.",
+        "sessionId": "s_038"
       }
-    ]
+    ],
+    "trend": "konstant"
   },
   {
-    "id": "t_54747444",
-    "name": "Zukunft des öffentlichen WLANs",
-    "category": "IT-Infrastruktur & ITDZ",
+    "id": "t_d0c401be",
+    "name": "Berliner Open-Data-Strategie",
+    "category": "Informationsfreiheit & Transparenz",
     "sessionIds": [
-      "2025-05-19"
+      "s_038",
+      "s_028"
     ],
-    "trend": "konstant",
+    "partyPositions": [
+      {
+        "party": "CDU",
+        "stance": "neutral",
+        "quote": "die Koalition befindet sich im Austausch und informiert das Parlament darüber",
+        "sessionId": "s_038"
+      },
+      {
+        "party": "Linke",
+        "stance": "pro",
+        "quote": "Ich glaube, dass man Open Data als Ressource und Investition begreifen muss.",
+        "sessionId": "s_028"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_53c3360b",
+    "name": "PIN-Rücksetzungsdienst für ePerso",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "sessionIds": [
+      "s_038"
+    ],
+    "partyPositions": [],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_2ccd8e02",
+    "name": "Behördennummer 115",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "sessionIds": [
+      "s_037"
+    ],
+    "partyPositions": [
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": "die einheitliche Behördennummer 115 [ist] der direkte telefonische Zugang",
+        "sessionId": "s_037"
+      },
+      {
+        "party": "AfD",
+        "stance": "pro",
+        "quote": "Sei beabsichtigt, mit der 115 künftig auch KI-gesteuert zu arbeiten",
+        "sessionId": "s_037"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_23713bdd",
+    "name": "Öffentliches WLAN in Berlin",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "sessionIds": [
+      "s_037"
+    ],
+    "partyPositions": [
+      {
+        "party": "SPD",
+        "stance": "neutral",
+        "quote": "mit dem Wegfall der Störerhaftung auch Privatpersonen ein offenes WLAN anbieten könnten.",
+        "sessionId": "s_037"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_6f970277",
+    "name": "Entlastung junger Eltern",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "sessionIds": [
+      "s_037"
+    ],
+    "partyPositions": [
+      {
+        "party": "Grüne",
+        "stance": "neutral",
+        "quote": "Warum forderten die Koalitionsfraktionen nur eine Prüfung und nicht die Erstellung",
+        "sessionId": "s_037"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_c1ef67d6",
+    "name": "Bericht zur Digitalministerkonferenz",
+    "category": "Digitale Gesetze & Strategien",
+    "sessionIds": [
+      "s_036"
+    ],
+    "partyPositions": [
+      {
+        "party": "Grüne",
+        "stance": "contra",
+        "quote": "dass CDU-geführte Ministerien Digitalisierung zunächst stoppen wollten",
+        "sessionId": "s_036"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_ecb259cd",
+    "name": "Vorstellung ProMap",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "sessionIds": [
+      "s_036"
+    ],
+    "partyPositions": [
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": "die Verbreitung über die VAk müsse gut funktionieren.",
+        "sessionId": "s_036"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_2f5f0ad3",
+    "name": "Umsetzungsbericht E-Government-Gesetz",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "sessionIds": [
+      "s_036"
+    ],
     "partyPositions": [
       {
         "party": "Linke",
         "stance": "pro",
-        "quote": "...diesem wichtigen Vorhaben weitergehen, von dem besonders Menschen profitieren könnten...",
-        "sessionId": "2025-05-19"
+        "quote": "Es ist an Aufenthaltsorten [...] für Berlinerinnen und Berliner mit wenig Geld relevant.",
+        "sessionId": "s_036"
+      },
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "das Digitalgesetz vorzuziehen, da der aktuelle Zustand den Herausforderungen nicht gerecht werde",
+        "sessionId": "s_036"
       }
-    ]
+    ],
+    "trend": "konstant"
   },
   {
-    "id": "t_18510443",
-    "name": "Open Data und Datenstrategie",
-    "category": "Open Data & Open Source",
+    "id": "t_e80f4fd5",
+    "name": "Umsetzungsstand Smart City",
+    "category": "IT-Modernisierung & Infrastruktur",
     "sessionIds": [
-      "2025-05-19"
+      "s_035"
     ],
-    "trend": "konstant",
-    "partyPositions": []
+    "partyPositions": [],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_952043dc",
+    "name": "Projektmanagementhandbuch und ProMaP",
+    "category": "Haushalt & Steuerung",
+    "sessionIds": [
+      "s_035"
+    ],
+    "partyPositions": [],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_8ba66285",
+    "name": "Novelle des Onlinezugangsgesetzes",
+    "category": "Digitale Gesetze & Strategien",
+    "sessionIds": [
+      "s_034"
+    ],
+    "partyPositions": [],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_2cb49ad4",
+    "name": "Smartphone-Forensik der Ausländerbehörde",
+    "category": "Datenschutz & Grundrechte",
+    "sessionIds": [
+      "s_034"
+    ],
+    "partyPositions": [
+      {
+        "party": "Grüne",
+        "stance": "contra",
+        "quote": "Inwiefern ist es notwendig, Daten von einem Handy auszulesen",
+        "sessionId": "s_034"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_349e9c5b",
+    "name": "Rebrush der E-Akte",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "sessionIds": [
+      "s_034"
+    ],
+    "partyPositions": [
+      {
+        "party": "Grüne",
+        "stance": "neutral",
+        "quote": "Er sei immer noch fassungslos, dass es nötig sei.",
+        "sessionId": "s_034"
+      },
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": "Koalitionsfraktionen wollten betrachten, was sich bei der E-Akte verbessert habe",
+        "sessionId": "s_034"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_2d4d6b26",
+    "name": "IKT-Basisdienst Bezahlen",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "sessionIds": [
+      "s_033"
+    ],
+    "partyPositions": [
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "im Rahmen der Digitalisierung müsse es einen Rahmenvertrag für das Land geben",
+        "sessionId": "s_033"
+      },
+      {
+        "party": "CDU",
+        "stance": "contra",
+        "quote": "das Vorhaben sei sinnvoll, aber es stehe eine große Verwaltungsreform an",
+        "sessionId": "s_033"
+      },
+      {
+        "party": "Linke",
+        "stance": "pro",
+        "quote": "es wäre auch jetzt schon in Kooperation mit den Bezirken möglich",
+        "sessionId": "s_033"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_fe2114ab",
+    "name": "Schuldigitalisierung und Datenschutz",
+    "category": "Datenschutz & Grundrechte",
+    "sessionIds": [
+      "s_033"
+    ],
+    "partyPositions": [],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_5b874859",
+    "name": "Kürzungen im Digitalisierungshaushalt",
+    "category": "Haushalt & Steuerung",
+    "sessionIds": [
+      "s_033"
+    ],
+    "partyPositions": [
+      {
+        "party": "Linke",
+        "stance": "contra",
+        "quote": "an dem Vorgang sei zu erkennen, dass es politisch und nicht technisch sei",
+        "sessionId": "s_033"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_a0fffdf2",
+    "name": "Zukunft von KI in Berlin",
+    "category": "Künstliche Intelligenz (KI)",
+    "sessionIds": [
+      "s_032"
+    ],
+    "partyPositions": [
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": "Uns geht es einfach um eine Erleichterung, um eine Vereinfachung, Unterstützung.",
+        "sessionId": "s_032"
+      },
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "Wie kriegen wir da einen Fuß in den Markt und auch in die Gestaltung?",
+        "sessionId": "s_032"
+      },
+      {
+        "party": "Linke",
+        "stance": "neutral",
+        "quote": "dass das Hinter-einem-Hype-Herrennen keine Strategie ist.",
+        "sessionId": "s_032"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_7b4c9b8b",
+    "name": "Nachhaltigkeit von IT und Rechenzentren",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "sessionIds": [
+      "s_031"
+    ],
+    "partyPositions": [
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "für nachhaltige Produkte müsse es im Kapitalismus zunächst Nachfrage nach größeren Mengen geben",
+        "sessionId": "s_031"
+      },
+      {
+        "party": "AfD",
+        "stance": "neutral",
+        "quote": "Zunächst müssten sie sicherstellen, dass Hardware in Deutschland oder der EU produziert werde",
+        "sessionId": "s_031"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_20500123",
+    "name": "Mehrsprachigkeit der Online-Auftritte",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "sessionIds": [
+      "s_031"
+    ],
+    "partyPositions": [
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": "eine vielfältige Stadt wie Berlin müsse online mehrsprachiger auftreten.",
+        "sessionId": "s_031"
+      },
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "Mehrsprachigkeit im digitalen Raum sei relativ leicht über Sprachdateien erweiterbar.",
+        "sessionId": "s_031"
+      },
+      {
+        "party": "AfD",
+        "stance": "neutral",
+        "quote": "der Zweck sollte klar sein.",
+        "sessionId": "s_031"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_bd9f49b6",
+    "name": "Ausfälle der Bürgeramts-IT",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "sessionIds": [
+      "s_030"
+    ],
+    "partyPositions": [],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_5d33ecf4",
+    "name": "Sachstand digitaler Antrag",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "sessionIds": [
+      "s_030"
+    ],
+    "partyPositions": [],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_5e695a9a",
+    "name": "Bündelung von IT-Vergaben",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "sessionIds": [
+      "s_030"
+    ],
+    "partyPositions": [
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "Es wäre klug, dies bei der IKT-Steuerung zu bündeln.",
+        "sessionId": "s_030"
+      },
+      {
+        "party": "AfD",
+        "stance": "contra",
+        "quote": "Bündelung der Vorhaben, um eine Beschleunigung zu erzielen, enge aber den Bieterkreis ein.",
+        "sessionId": "s_030"
+      },
+      {
+        "party": "CDU",
+        "stance": "contra",
+        "quote": "Die Koalition werde ihn ablehnen und einen eigenen Vorschlag unterbreiten.",
+        "sessionId": "s_030"
+      },
+      {
+        "party": "SPD",
+        "stance": "neutral",
+        "quote": "Die Aussage der Fraktion Bündnis 90/Die Grünen sei richtig",
+        "sessionId": "s_030"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_5b54c5da",
+    "name": "Sachstand der elektronischen Akte",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "sessionIds": [
+      "s_029"
+    ],
+    "partyPositions": [
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": "Die Lösung, den Vertrag nicht aufzukündigen, sei für Berlin finanziell gut.",
+        "sessionId": "s_029"
+      },
+      {
+        "party": "Grüne",
+        "stance": "neutral",
+        "quote": "es gebe an dem Verfahren von damals nichts gutzureden.",
+        "sessionId": "s_029"
+      },
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": "zufrieden, dass Frau Klement sich die Zeit genommen habe, eine Entscheidung zu treffen.",
+        "sessionId": "s_029"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_10cb3382",
+    "name": "Digitalisierung von Bürgerdiensten",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "sessionIds": [
+      "s_016",
+      "s_029"
+    ],
+    "partyPositions": [],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_1e5faa18",
+    "name": "Open Source Kompetenzzentrum",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "sessionIds": [
+      "s_028"
+    ],
+    "partyPositions": [
+      {
+        "party": "Linke",
+        "stance": "neutral",
+        "quote": "Komme Open Source bei der Beschaffung in Zukunft vorrangig zum Zuge?",
+        "sessionId": "s_028"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_e64f42f2",
+    "name": "Open-Source-Sabbatical",
+    "category": "Digitale Gesetze & Strategien",
+    "sessionIds": [
+      "s_028"
+    ],
+    "partyPositions": [
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "Seine Fraktion schlage ein Open-Source-Sabbatical wie in München vor.",
+        "sessionId": "s_028"
+      },
+      {
+        "party": "CDU",
+        "stance": "contra",
+        "quote": "Aktuell sei es zu früh.",
+        "sessionId": "s_028"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_6987799d",
+    "name": "Digitale Bürgerdienste in Berlin",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "sessionIds": [
+      "s_027"
+    ],
+    "partyPositions": [],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_96f54929",
+    "name": "Schuldatenschutz und digitale Lernmittel",
+    "category": "Datenschutz & Grundrechte",
+    "sessionIds": [
+      "s_027"
+    ],
+    "partyPositions": [
+      {
+        "party": "AfD",
+        "stance": "neutral",
+        "quote": "Stehe zu befürchten, dass die Kommunikation [...] komplizierter werde?",
+        "sessionId": "s_027"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_a8d568e5",
+    "name": "Bug-Bounty-Programm für Berlin",
+    "category": "Cybersicherheit & Resilienz",
+    "sessionIds": [
+      "s_027"
+    ],
+    "partyPositions": [
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "Auch das Land Berlin müsse alle Möglichkeiten nutzen, um Sicherheitslücken zu finden",
+        "sessionId": "s_027"
+      },
+      {
+        "party": "SPD",
+        "stance": "contra",
+        "quote": "es sei in der jetzigen Situation nicht obligatorisch",
+        "sessionId": "s_027"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_4afc6587",
+    "name": "Haushaltsberatungen Digitalisierung 2024/2025",
+    "category": "Haushalt & Steuerung",
+    "sessionIds": [
+      "s_026"
+    ],
+    "partyPositions": [
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": "Die Koalition legt viel Wert darauf, die Digitalisierung auszubauen",
+        "sessionId": "s_026"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_ae9b7d4b",
+    "name": "Freies WLAN in Berlin",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "sessionIds": [
+      "s_026"
+    ],
+    "partyPositions": [
+      {
+        "party": "SPD",
+        "stance": "contra",
+        "quote": "Durch den Wegfall der Störerhaftung ist es nicht mehr nötig, Free Wifi Berlin anzubieten.",
+        "sessionId": "s_026"
+      },
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "Auskömmliche Finanzierung für die Wiederaufnahme von „Free Wifi Berlin“",
+        "sessionId": "s_026"
+      },
+      {
+        "party": "Linke",
+        "stance": "pro",
+        "quote": "Menschen haben zu schätzen gelernt, dass in öffentlichen Einrichtungen [...] WLAN verfügbar ist.",
+        "sessionId": "s_026"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_233a9f8c",
+    "name": "GovTech Campus Berlin",
+    "category": "Digitale Gesetze & Strategien",
+    "sessionIds": [
+      "s_026"
+    ],
+    "partyPositions": [
+      {
+        "party": "AfD",
+        "stance": "contra",
+        "quote": "Das komplette Projekt „GovTech Campus Berlin“ erscheint insofern fragwürdig",
+        "sessionId": "s_026"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_642f51c4",
+    "name": "Haushaltsgesetz 2024/2025",
+    "category": "Haushalt & Steuerung",
+    "sessionIds": [
+      "s_025"
+    ],
+    "partyPositions": [
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "Wenigstens nachrichtlich sei es für den finalen Druck des Haushalts sinnvoll, die IKT-Liste...",
+        "sessionId": "s_025"
+      },
+      {
+        "party": "Linke",
+        "stance": "neutral",
+        "quote": "ob dazu ein Ausschreibungsverfahren vorgesehen sei.",
+        "sessionId": "s_025"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_403b82c0",
+    "name": "Projekt 14-Tage-Ziel",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "sessionIds": [
+      "s_025"
+    ],
+    "partyPositions": [],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_b6bb5973",
+    "name": "Einführung der E-Akte",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "sessionIds": [
+      "s_007",
+      "s_015",
+      "s_024",
+      "s_025"
+    ],
+    "partyPositions": [
+      {
+        "party": "Grüne",
+        "stance": "contra",
+        "quote": "Kritisiert, dass es keine Plan-B-Vorbereitung gebe.",
+        "sessionId": "s_025"
+      }
+    ],
+    "trend": "steigend"
+  },
+  {
+    "id": "t_f5e79fed",
+    "name": "Informationssicherheit und Cybersicherheit",
+    "category": "Cybersicherheit & Resilienz",
+    "sessionIds": [
+      "s_025"
+    ],
+    "partyPositions": [],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_8a9cbf5e",
+    "name": "OneIT@Berlin",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "sessionIds": [
+      "s_024"
+    ],
+    "partyPositions": [
+      {
+        "party": "Grüne",
+        "stance": "contra",
+        "quote": "die vorgestellten Ziele seien noch mal weniger als die Vorhaben von Herrn Kleindiek",
+        "sessionId": "s_024"
+      },
+      {
+        "party": "Linke",
+        "stance": "contra",
+        "quote": "dass die Reduzierung der Ziele inakzeptabel seien.",
+        "sessionId": "s_024"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_722c30ab",
+    "name": "Berliner Open-Source-Strategie",
+    "category": "Digitale Gesetze & Strategien",
+    "sessionIds": [
+      "s_023"
+    ],
+    "partyPositions": [
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "den Weg wann immer möglich zu gehen",
+        "sessionId": "s_023"
+      },
+      {
+        "party": "Linke",
+        "stance": "pro",
+        "quote": "damit sich der Grundsatz „public money, public code“ durch alle IT-Beschaffungen ziehe",
+        "sessionId": "s_023"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_d6e6b4d6",
+    "name": "IKT-Sicherheit im Land Berlin",
+    "category": "Cybersicherheit & Resilienz",
+    "sessionIds": [
+      "s_023"
+    ],
+    "partyPositions": [
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": "Für Mitarbeiter eines Wirtschaftskonzerns wäre es undenkbar, an Schulungen nicht teilzunehmen.",
+        "sessionId": "s_023"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_bc67f1f7",
+    "name": "Datenschutz im RBB-Staatsvertrag",
+    "category": "Datenschutz & Grundrechte",
+    "sessionIds": [
+      "s_023"
+    ],
+    "partyPositions": [],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_268e34b7",
+    "name": "Richtlinien der Regierungspolitik",
+    "category": "Digitale Gesetze & Strategien",
+    "sessionIds": [
+      "s_003",
+      "s_022"
+    ],
+    "partyPositions": [
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": "Berlin dem 14-Tage-Ziel sehr nahekommen könne",
+        "sessionId": "s_022"
+      },
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": "es müsse Vorrangprüfungen für Open Source geben",
+        "sessionId": "s_022"
+      },
+      {
+        "party": "AfD",
+        "stance": "contra",
+        "quote": "Bei den Bürgerämter hätte sich in dieser Zeit aber nicht allzu viel getan",
+        "sessionId": "s_022"
+      },
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": "Klar machen wir die Verwaltung nicht um des Selbstzwecks willen.",
+        "sessionId": "s_003"
+      },
+      {
+        "party": "CDU",
+        "stance": "neutral",
+        "quote": "Beim Thema Open Source sind wir von der CDU nicht die größten Freunde",
+        "sessionId": "s_003"
+      },
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "Wir haben gemeinsam diese Ziele, das umzusetzen.",
+        "sessionId": "s_003"
+      },
+      {
+        "party": "FDP",
+        "stance": "pro",
+        "quote": "Ich glaube, Sie sind in vielen Punkten nicht zu beneiden",
+        "sessionId": "s_003"
+      },
+      {
+        "party": "Linke",
+        "stance": "pro",
+        "quote": "Ich glaube, es ist auch ein Zeichen der Aufwertung des Themas",
+        "sessionId": "s_003"
+      },
+      {
+        "party": "AfD",
+        "stance": "contra",
+        "quote": "Soll hier eine neue Hierarchieebene aufgebaut werden",
+        "sessionId": "s_003"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_036b0c33",
+    "name": "Einführung der elektronischen Akte",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "sessionIds": [
+      "s_022"
+    ],
+    "partyPositions": [
+      {
+        "party": "Grüne",
+        "stance": "contra",
+        "quote": "Die Digitalisierung darf nicht an schlechter Software scheitern.",
+        "sessionId": "s_022"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_e2bd9bac",
+    "name": "Jahresbericht Datenschutz 2022",
+    "category": "Datenschutz & Grundrechte",
+    "sessionIds": [
+      "s_022"
+    ],
+    "partyPositions": [
+      {
+        "party": "Linke",
+        "stance": "contra",
+        "quote": "Stimme BlnBDI zu, dass dies nicht ihre Aufgabe sei?",
+        "sessionId": "s_022"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_faeadbe6",
+    "name": "Wohnberechtigungsschein Online-Antrag",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "sessionIds": [
+      "s_022"
+    ],
+    "partyPositions": [],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_7779dd78",
+    "name": "Konstituierung und Wahlen des Ausschusses",
+    "category": "Haushalt & Steuerung",
+    "sessionIds": [
+      "s_021"
+    ],
+    "partyPositions": [
+      {
+        "party": "AfD",
+        "stance": "pro",
+        "quote": null,
+        "sessionId": "s_021"
+      },
+      {
+        "party": "CDU",
+        "stance": "contra",
+        "quote": null,
+        "sessionId": "s_021"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_4c2c5bb9",
+    "name": "Verfahrensregeln und Sitzungstermine",
+    "category": "Haushalt & Steuerung",
+    "sessionIds": [
+      "s_021"
+    ],
+    "partyPositions": [],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_6ccb5ebe",
+    "name": "Zuständigkeiten der neuen CDO",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "sessionIds": [
+      "s_021"
+    ],
+    "partyPositions": [
+      {
+        "party": "Grüne",
+        "stance": "neutral",
+        "quote": null,
+        "sessionId": "s_021"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_15639ad7",
+    "name": "Auszahlungsplattform für Studierenden-Energiepauschale",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "sessionIds": [
+      "s_020"
+    ],
+    "partyPositions": [],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_308cc98c",
+    "name": "Datenschutzbericht 2021 und Doctolib-Nutzung",
+    "category": "Datenschutz & Grundrechte",
+    "sessionIds": [
+      "s_020"
+    ],
+    "partyPositions": [
+      {
+        "party": "Linke",
+        "stance": "contra",
+        "quote": "In diesem Fall hätten es die Patientinnen und Patienten mit ihren Daten bezahlt.",
+        "sessionId": "s_020"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_e556a32a",
+    "name": "Rechtsanspruch auf digitale Verwaltungsdienste",
+    "category": "Digitale Gesetze & Strategien",
+    "sessionIds": [
+      "s_020"
+    ],
+    "partyPositions": [
+      {
+        "party": "FDP",
+        "stance": "pro",
+        "quote": "Mit der Schaffung vor allem einklagbarer Rechte [...] solle das Verfahren beschleunigt werden.",
+        "sessionId": "s_020"
+      },
+      {
+        "party": "AfD",
+        "stance": "contra",
+        "quote": "Der vorliegende Antrag sei ein „Schaufensterantrag“.",
+        "sessionId": "s_020"
+      },
+      {
+        "party": "CDU",
+        "stance": "neutral",
+        "quote": "Bei einer Klagewelle könne dem Land Berlin dabei Schaden entstehen.",
+        "sessionId": "s_020"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_26522c3f",
+    "name": "Google Forms bei Härtefallfonds",
+    "category": "Datenschutz & Grundrechte",
+    "sessionIds": [
+      "s_019"
+    ],
+    "partyPositions": [],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_35b9998c",
+    "name": "Cybersecurity im Land Berlin",
+    "category": "Cybersicherheit & Resilienz",
+    "sessionIds": [
+      "s_019"
+    ],
+    "partyPositions": [],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_e5585861",
+    "name": "Strategie Gemeinsam Digital Berlin",
+    "category": "Digitale Gesetze & Strategien",
+    "sessionIds": [
+      "s_019"
+    ],
+    "partyPositions": [
+      {
+        "party": "CDU",
+        "stance": "neutral",
+        "quote": "unser Anspruch sein müsste, Internetformulare zukünftig selber erstellen zu lassen",
+        "sessionId": "s_019"
+      },
+      {
+        "party": "Linke",
+        "stance": "pro",
+        "quote": "Wir haben eine mehrjährige Metamorphose unserer Digitalstrategien hinter uns",
+        "sessionId": "s_019"
+      },
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "Insofern sind wir, glaube ich, einen Riesenschritt weiter",
+        "sessionId": "s_019"
+      },
+      {
+        "party": "FDP",
+        "stance": "pro",
+        "quote": "Ich freue mich erst mal, dass das [...] zu einer zusammengebunden wurde",
+        "sessionId": "s_019"
+      },
+      {
+        "party": "AfD",
+        "stance": "contra",
+        "quote": "dass man eigentlich keine richtige Strategie hat, sondern vielmehr einen Wunschzettel.",
+        "sessionId": "s_019"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_c2bb72dc",
+    "name": "Reform des ITDZ Berlin",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "sessionIds": [
+      "s_018"
+    ],
+    "partyPositions": [],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_e5fe7afb",
+    "name": "Abschaffung des Schriftformerfordernisses",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "sessionIds": [
+      "s_018"
+    ],
+    "partyPositions": [],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_0472ee70",
+    "name": "Datenschutz beim GKDZ",
+    "category": "Datenschutz & Grundrechte",
+    "sessionIds": [
+      "s_018"
+    ],
+    "partyPositions": [],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_bede1b6f",
+    "name": "Berliner Datenschutzgesetz und EU-Verfahren",
+    "category": "Datenschutz & Grundrechte",
+    "sessionIds": [
+      "s_018"
+    ],
+    "partyPositions": [
+      {
+        "party": "FDP",
+        "stance": "neutral",
+        "quote": "Er wolle zudem Betroffenenrechte herausstellen.",
+        "sessionId": "s_018"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_9e10f3ab",
+    "name": "Kostenloses WLAN Free Wifi Berlin",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "sessionIds": [
+      "s_018"
+    ],
+    "partyPositions": [
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": "Das Projekt hat einen Mehrwert für Berlinerinnen und Berliner.",
+        "sessionId": "s_018"
+      },
+      {
+        "party": "AfD",
+        "stance": "contra",
+        "quote": "Free-Wifi-Projekte in Berlin weitestgehend überflüssig und ordnungspolitisch nicht sinnvoll seien.",
+        "sessionId": "s_018"
+      },
+      {
+        "party": "Linke",
+        "stance": "pro",
+        "quote": "Free Wifi Berlin [muss] an die Stellen gebracht werden, an denen sich Menschen aufhielten.",
+        "sessionId": "s_018"
+      },
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": "dass es Personen gebe, für die WLAN-Hotspots zum Beispiel für deren Sozialleben wichtig seien.",
+        "sessionId": "s_018"
+      },
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "WLAN-Angebote an verschiedenen Orten dazugehöre.",
+        "sessionId": "s_018"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_76dc9eee",
+    "name": "E-Mail-Adressen für Lehrkräfte",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "sessionIds": [
+      "s_017"
+    ],
+    "partyPositions": [
+      {
+        "party": "FDP",
+        "stance": "contra",
+        "quote": "dieses Hin und Her kann, glaube ich, nicht so weitergehen.",
+        "sessionId": "s_017"
+      },
+      {
+        "party": "Linke",
+        "stance": "contra",
+        "quote": "erneutes Setzen auf die Integration eines proprietären Systems [...] widerspricht",
+        "sessionId": "s_017"
+      },
+      {
+        "party": "Grüne",
+        "stance": "contra",
+        "quote": "Ich würde Sie wirklich ermutigen [...] diesen Irrweg zu beenden.",
+        "sessionId": "s_017"
+      },
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": "Eine Sache, die nicht geht, ist, dass wir [...] einknicken.",
+        "sessionId": "s_017"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_fe41b740",
+    "name": "E-Government-Gesetz Dashboard",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "sessionIds": [
+      "s_017"
+    ],
+    "partyPositions": [],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_a2b7122a",
+    "name": "Reform der Berliner Verwaltung",
+    "category": "Digitale Gesetze & Strategien",
+    "sessionIds": [
+      "s_016"
+    ],
+    "partyPositions": [
+      {
+        "party": "CDU",
+        "stance": "contra",
+        "quote": "Die vorgestellten Maßnahmen reduzieren die Bezirke aber darauf, 'Bezirksmuseum' zu sein.",
+        "sessionId": "s_016"
+      },
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": "Dr. Kleindiek zeige keine neuen Probleme auf, sondern er gehe bekannte Probleme an",
+        "sessionId": "s_016"
+      },
+      {
+        "party": "Linke",
+        "stance": "neutral",
+        "quote": "Gegen die Bezirke funktioniert so eine Reform nicht",
+        "sessionId": "s_016"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_e1c532ba",
+    "name": "Zukunft der Berliner Datenschutzbehörde",
+    "category": "Datenschutz & Grundrechte",
+    "sessionIds": [
+      "s_016"
+    ],
+    "partyPositions": [
+      {
+        "party": "FDP",
+        "stance": "neutral",
+        "quote": "Datenschutz kann polarisieren und ein 'Totschlagargument' sein.",
+        "sessionId": "s_016"
+      },
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "E-Mails wegzulassen, darf keine Option sein.",
+        "sessionId": "s_016"
+      },
+      {
+        "party": "AfD",
+        "stance": "neutral",
+        "quote": "Es wird manchmal stärker auf Dokumente als auf den realen Datenschutz geachtet.",
+        "sessionId": "s_016"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_02742b23",
+    "name": "Digitale Ausstattung von Schulen",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "sessionIds": [
+      "s_015"
+    ],
+    "partyPositions": [
+      {
+        "party": "CDU",
+        "stance": "neutral",
+        "quote": "Seine Fraktion wünsche sich einen liberaleren Umgang mit Software.",
+        "sessionId": "s_015"
+      },
+      {
+        "party": "AfD",
+        "stance": "contra",
+        "quote": "Sei die Beschaffung von Schülernotebooks eine falsche Prioritätensetzung?",
+        "sessionId": "s_015"
+      },
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "Es sei Zeit, Auswirkungen, Fortschritte und Entwicklungen zu betrachten",
+        "sessionId": "s_015"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_55d3d02f",
+    "name": "WLAN-Ausbau an Schulen",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "sessionIds": [
+      "s_015"
+    ],
+    "partyPositions": [
+      {
+        "party": "FDP",
+        "stance": "pro",
+        "quote": "damit die Ausstattung [...] sinnvoll sei, müsse auch die entsprechende Infrastruktur bereitstehen.",
+        "sessionId": "s_015"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_90018dbf",
+    "name": "Breitbandausbau in Berlin",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "sessionIds": [
+      "s_014"
+    ],
+    "partyPositions": [
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": "eine Großstadt wie Berlin sollte möglichst flächendeckend auch überall mit Breitband versorgt sein",
+        "sessionId": "s_014"
+      },
+      {
+        "party": "SPD",
+        "stance": "neutral",
+        "quote": "Hätte nicht gerade in Berlin, in einer Großstadt, 5 G gereicht, um sich ganz viel Arbeit zu ersparen?",
+        "sessionId": "s_014"
+      },
+      {
+        "party": "Linke",
+        "stance": "neutral",
+        "quote": "Netzinfrastrukturen laufen gut, wenn sie ordentlich strukturiert sind und nicht alle nebeneinander",
+        "sessionId": "s_014"
+      },
+      {
+        "party": "FDP",
+        "stance": "pro",
+        "quote": "Wenn wir den Ausbau sogar zwei Jahre eher erreichen können, dann wäre das natürlich eine Zielsetzung",
+        "sessionId": "s_014"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_9d5c8bfa",
+    "name": "Zahlungsmittel in Bürgerämtern",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "sessionIds": [
+      "s_014"
+    ],
+    "partyPositions": [],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_c3222ecb",
+    "name": "Stadtportal berlin.de",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "sessionIds": [
+      "s_013"
+    ],
+    "partyPositions": [
+      {
+        "party": "Linke",
+        "stance": "pro",
+        "quote": "Die vollständige Hoheit über das Portal sei für ein in diesem Sinne gutes Angebot wichtig.",
+        "sessionId": "s_013"
+      },
+      {
+        "party": "FDP",
+        "stance": "pro",
+        "quote": "begrüßt, dass der Prozess nach anfänglichen Schwierigkeiten auf einem guten Weg sei",
+        "sessionId": "s_013"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_72884698",
+    "name": "Landeskrankenhausgesetz",
+    "category": "Datenschutz & Grundrechte",
+    "sessionIds": [
+      "s_013"
+    ],
+    "partyPositions": [
+      {
+        "party": "AfD",
+        "stance": "pro",
+        "quote": "der Antrag für Rechtssicherheit in der Krankenhaus-IT geeignet",
+        "sessionId": "s_013"
+      },
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "Die Krankenhäuser erhielten für die Zukunft Planungssicherheit",
+        "sessionId": "s_013"
+      },
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": "gebe es in dem Bereich die Chance einer europäischen Cloud",
+        "sessionId": "s_013"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_1c296898",
+    "name": "Einführung der BundID",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "sessionIds": [
+      "s_013"
+    ],
+    "partyPositions": [],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_11ff1fc3",
+    "name": "IT-Sicherheit der Infrastruktur",
+    "category": "Cybersicherheit & Resilienz",
+    "sessionIds": [
+      "s_013"
+    ],
+    "partyPositions": [
+      {
+        "party": "CDU",
+        "stance": "neutral",
+        "quote": "halte er eine detaillierte nichtöffentliche Besprechung zu dem Thema für sinnvoll",
+        "sessionId": "s_013"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_5b4b6ddb",
+    "name": "Elektronische Wohnsitzanmeldung in Berlin",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "sessionIds": [
+      "s_012"
+    ],
+    "partyPositions": [],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_efe9b1dd",
+    "name": "Urteil zur Vorratsdatenspeicherung",
+    "category": "Datenschutz & Grundrechte",
+    "sessionIds": [
+      "s_012"
+    ],
+    "partyPositions": [],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_0257026d",
+    "name": "Digitalisierung der Berliner Krankenhäuser",
+    "category": "Datenschutz & Grundrechte",
+    "sessionIds": [
+      "s_012",
+      "s_011"
+    ],
+    "partyPositions": [
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": "Vertreter von Krankenhäusern bitten aber um ein Votum, da die Zeit dränge.",
+        "sessionId": "s_012"
+      },
+      {
+        "party": "SPD",
+        "stance": "contra",
+        "quote": "Es ist nicht sinnvoll, den strittigen Paragrafen nur zu streichen",
+        "sessionId": "s_012"
+      },
+      {
+        "party": "FDP",
+        "stance": "pro",
+        "quote": "Die FDP wolle dem Antrag zustimmen, hoffe aber auf eine Lösung zum 25. Oktober 2022.",
+        "sessionId": "s_012"
+      },
+      {
+        "party": "Linke",
+        "stance": "contra",
+        "quote": "Es handelt sich um eine ersatzlose Streichung [...] die dem Datenschutz schade.",
+        "sessionId": "s_012"
+      },
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": "die Berliner Krankenhäuser seien durch § 24 Abs. 7 LKG übermäßigen Restriktionen unterworfen",
+        "sessionId": "s_011"
+      },
+      {
+        "party": "FDP",
+        "stance": "pro",
+        "quote": "Seine Fraktion habe Sympathien für den Antrag der CDU.",
+        "sessionId": "s_011"
+      },
+      {
+        "party": "Linke",
+        "stance": "neutral",
+        "quote": "die Anzeigepflicht von Krankenhäusern gegenüber der zuständigen Behörde [...] sei verhältnismäßig",
+        "sessionId": "s_011"
+      },
+      {
+        "party": "AfD",
+        "stance": "pro",
+        "quote": "es sei keine schärfere Beschränkung der Auftragsdatenverarbeitung nötig als in der DSGVO festgelegt",
+        "sessionId": "s_011"
+      },
+      {
+        "party": "SPD",
+        "stance": "neutral",
+        "quote": "der Antrag der CDU-Fraktion sei gerechtfertigt.",
+        "sessionId": "s_011"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_6948705b",
+    "name": "Open-Source-Strategie für Berlin",
+    "category": "Digitale Gesetze & Strategien",
+    "sessionIds": [
+      "s_012"
+    ],
+    "partyPositions": [
+      {
+        "party": "Linke",
+        "stance": "pro",
+        "quote": "Open Source ist ein entscheidender Faktor, auch um digitale Souveränität zu gewährleisten.",
+        "sessionId": "s_012"
+      },
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "Die Open-Source-Strategie ist eine bahnbrechende Neuwendung für das Land",
+        "sessionId": "s_012"
+      },
+      {
+        "party": "CDU",
+        "stance": "contra",
+        "quote": "Der vorliegende Antrag ist bürokratisch und für die Ziele ungeeignet.",
+        "sessionId": "s_012"
+      },
+      {
+        "party": "AfD",
+        "stance": "pro",
+        "quote": "Die AfD unterstützt grundsätzlich, quelloffene Software einzusetzen.",
+        "sessionId": "s_012"
+      },
+      {
+        "party": "FDP",
+        "stance": "neutral",
+        "quote": "Seine Skepsis zur Umsetzung ist noch nicht ausgeräumt",
+        "sessionId": "s_012"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_bee2b9e5",
+    "name": "Verfahrensverzeichnis für automatisierte Entscheidungen",
+    "category": "Künstliche Intelligenz (KI)",
+    "sessionIds": [
+      "s_012"
+    ],
+    "partyPositions": [
+      {
+        "party": "FDP",
+        "stance": "pro",
+        "quote": "um für Transparenz und für Akzeptanz von automatisierten Entscheidungen [...] zu sorgen.",
+        "sessionId": "s_012"
+      },
+      {
+        "party": "SPD",
+        "stance": "contra",
+        "quote": "Es ist noch zu früh dafür, den genauen Regelungsbedarf einzuschätzen.",
+        "sessionId": "s_012"
+      },
+      {
+        "party": "AfD",
+        "stance": "contra",
+        "quote": "weil sie einen massiven bürokratischen Aufwand ohne großen Mehrwert befürchte.",
+        "sessionId": "s_012"
+      },
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": "Für Bürgerinnen und Bürger muss zudem immer transparent sein",
+        "sessionId": "s_012"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_32248970",
+    "name": "Umsetzung des Online-Zugangsgesetzes",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "sessionIds": [
+      "s_011",
+      "s_009"
+    ],
+    "partyPositions": [
+      {
+        "party": "AfD",
+        "stance": "neutral",
+        "quote": "die Umsetzung des OZG erscheine seiner Fraktion strukturiert und systematisch.",
+        "sessionId": "s_009"
+      },
+      {
+        "party": "Linke",
+        "stance": "neutral",
+        "quote": "Es sei ein Konstruktionsfehler, den Ländern nach EfA die Finanzierung zu überlassen.",
+        "sessionId": "s_009"
+      },
+      {
+        "party": "FDP",
+        "stance": "contra",
+        "quote": "es sei zu ambitioniert gewesen, bis Ende des Jahres 575 Dienstleistungen online anbieten zu wollen.",
+        "sessionId": "s_009"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_8caa33ea",
+    "name": "Vorlage des IT-Sicherheitsberichts",
+    "category": "Cybersicherheit & Resilienz",
+    "sessionIds": [
+      "s_011"
+    ],
+    "partyPositions": [],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_a2d7ae03",
+    "name": "Digitalisierungs- und SmartCity-Strategie",
+    "category": "Digitale Gesetze & Strategien",
+    "sessionIds": [
+      "s_011"
+    ],
+    "partyPositions": [
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "Dass sich die Stadtgesellschaft einbringe, sei ein Gewinn für die neue Strategie.",
+        "sessionId": "s_011"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_3911ebe8",
+    "name": "CityLAB Berlin und Innovationsnetzwerke",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "sessionIds": [
+      "s_010"
+    ],
+    "partyPositions": [
+      {
+        "party": "CDU",
+        "stance": "pro",
+        "quote": "Innovationstreiber, auch was die Smart-City-Strategie usw. im Land Berlin betrifft.",
+        "sessionId": "s_010"
+      },
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "Wir haben das CityLAB ja auch im Koalitionsvertrag noch mal herausgehoben",
+        "sessionId": "s_010"
+      },
+      {
+        "party": "Linke",
+        "stance": "pro",
+        "quote": "Das CityLAB hat deutschlandweit, vielleicht europaweit einen Namen",
+        "sessionId": "s_010"
+      },
+      {
+        "party": "AfD",
+        "stance": "neutral",
+        "quote": "Wie stellt das CityLAB sicher, dass öffentliche Finanzmittel nur an verfassungstreue Akteure fließen?",
+        "sessionId": "s_010"
+      },
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": "mehr Power auf diesem Gebiet kann nur gut sein.",
+        "sessionId": "s_010"
+      },
+      {
+        "party": "FDP",
+        "stance": "pro",
+        "quote": "Ein CityLAB als eine Art Experimentierwerkstatt ist ein schönes Aushängeschild",
+        "sessionId": "s_010"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_21d5bbcf",
+    "name": "IRIS-Verfahren und Zuständigkeiten",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "sessionIds": [
+      "s_010"
+    ],
+    "partyPositions": [],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_49c478f1",
+    "name": "Verwaltungsstruktur des Chief Digital Officer",
+    "category": "Haushalt & Steuerung",
+    "sessionIds": [
+      "s_009"
+    ],
+    "partyPositions": [],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_a519da20",
+    "name": "Veröffentlichung der Berliner Starkregenkarte",
+    "category": "Datenschutz & Grundrechte",
+    "sessionIds": [
+      "s_009"
+    ],
+    "partyPositions": [
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "Man müsse aber das Themengebiets einbeziehen, um eine datenschutzkonforme Lösung zu finden.",
+        "sessionId": "s_009"
+      },
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": "Die Starkregenkarte sei im öffentlichen Interesse.",
+        "sessionId": "s_009"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_e5381538",
+    "name": "Digitale Sicherheit der Verwaltung",
+    "category": "Cybersicherheit & Resilienz",
+    "sessionIds": [
+      "s_008"
+    ],
+    "partyPositions": [
+      {
+        "party": "Linke",
+        "stance": "pro",
+        "quote": "sensible Daten auf Servern erforderten ein hohes Maß an IT-Sicherheit",
+        "sessionId": "s_008"
+      },
+      {
+        "party": "CDU",
+        "stance": "neutral",
+        "quote": "Wie sei der Schutz des Landesnetzes gestaltet?",
+        "sessionId": "s_008"
+      },
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "Das Know-how des CERT müsse weiterentwickelt werden.",
+        "sessionId": "s_008"
+      },
+      {
+        "party": "AfD",
+        "stance": "neutral",
+        "quote": "Ab wann könne das ITDZ Arbeitsplatzrechner verwalten",
+        "sessionId": "s_008"
+      },
+      {
+        "party": "FDP",
+        "stance": "contra",
+        "quote": "Die reichten aber nicht aus.",
+        "sessionId": "s_008"
+      },
+      {
+        "party": "SPD",
+        "stance": "neutral",
+        "quote": "wo neben den Gerichten die wichtigsten Baustellen seien",
+        "sessionId": "s_008"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_d09040f4",
+    "name": "Jahresbericht der BlnBDI",
+    "category": "Datenschutz & Grundrechte",
+    "sessionIds": [
+      "s_008"
+    ],
+    "partyPositions": [],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_31236181",
+    "name": "Haushaltsberatungen Einzelplan 25",
+    "category": "Haushalt & Steuerung",
+    "sessionIds": [
+      "s_007"
+    ],
+    "partyPositions": [],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_8fcde46a",
+    "name": "Open Source in der Verwaltung",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "sessionIds": [
+      "s_007"
+    ],
+    "partyPositions": [
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": "Open-Source-Software solle sich durchsetzen.",
+        "sessionId": "s_007"
+      },
+      {
+        "party": "Linke",
+        "stance": "pro",
+        "quote": "Open Source sei eine Frage von Sicherheit und Funktionalität.",
+        "sessionId": "s_007"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_5781ab4b",
+    "name": "Migrationsreadiness der Bezirke",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "sessionIds": [
+      "s_007"
+    ],
+    "partyPositions": [],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_5f0307b9",
+    "name": "Internetnutzung im Strafvollzug",
+    "category": "Datenschutz & Grundrechte",
+    "sessionIds": [
+      "s_007"
+    ],
+    "partyPositions": [
+      {
+        "party": "AfD",
+        "stance": "contra",
+        "quote": "es fehle wissenschaftlicher Nachweis, dass Digitalisierungskompetenz zu Resozialisierung führe.",
+        "sessionId": "s_007"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_cd084df0",
+    "name": "Registrierung ukrainischer Geflüchteter",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "sessionIds": [
+      "s_006"
+    ],
+    "partyPositions": [
+      {
+        "party": "CDU",
+        "stance": "neutral",
+        "quote": "CDU lege Wert auf Kontrolle darüber, wer sich in dem Land aufhalte",
+        "sessionId": "s_006"
+      },
+      {
+        "party": "FDP",
+        "stance": "pro",
+        "quote": "heutige Situation sei im Vergleich zu den Bildern von 2015 ein Quantensprung",
+        "sessionId": "s_006"
+      },
+      {
+        "party": "SPD",
+        "stance": "pro",
+        "quote": "begrüßt, dass es in Berlin reibungslos laufe und Ämter zusammenarbeiteten",
+        "sessionId": "s_006"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_09dee5af",
+    "name": "Open Data für Berlin",
+    "category": "Informationsfreiheit & Transparenz",
+    "sessionIds": [
+      "s_006"
+    ],
+    "partyPositions": [
+      {
+        "party": "Linke",
+        "stance": "pro",
+        "quote": "mit dem Transparenzgesetz werde es einen weiteren Schub für offene Daten in Berlin geben",
+        "sessionId": "s_006"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_b615efe9",
+    "name": "Polizei-App für Berlin",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "sessionIds": [
+      "s_006"
+    ],
+    "partyPositions": [],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_025c883a",
+    "name": "Haushaltsplan 2022/2023",
+    "category": "Haushalt & Steuerung",
+    "sessionIds": [
+      "s_005"
+    ],
+    "partyPositions": [
+      {
+        "party": "CDU",
+        "stance": "neutral",
+        "quote": "mehr mündliche Antworten erhalten zu wollen. Es sei ein großer Aufwand für Beamte",
+        "sessionId": "s_005"
+      },
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "Könne der Staatssekretär in Aussicht stellen, dass... die Titel in den Einzelplänen seien",
+        "sessionId": "s_005"
+      },
+      {
+        "party": "AfD",
+        "stance": "neutral",
+        "quote": "Es könne Zeit gespart werden, wenn der Senat sage, er wolle alles schriftlich beantworten.",
+        "sessionId": "s_005"
+      },
+      {
+        "party": "Linke",
+        "stance": "neutral",
+        "quote": "seine Fraktion wolle gegebenenfalls weitere Fragen schriftlich beantworten lassen.",
+        "sessionId": "s_005"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_c390df0b",
+    "name": "IKT-Migration zum ITDZ",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "sessionIds": [
+      "s_005"
+    ],
+    "partyPositions": [],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_4188ab7e",
+    "name": "Krisenvorsorge und Cybersicherheit",
+    "category": "Cybersicherheit & Resilienz",
+    "sessionIds": [
+      "s_005"
+    ],
+    "partyPositions": [],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_b6607695",
+    "name": "ITDZ als zentraler IT-Dienstleister",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "sessionIds": [
+      "s_004"
+    ],
+    "partyPositions": [
+      {
+        "party": "AfD",
+        "stance": "pro",
+        "quote": "seine Fraktion unterstütze das angesprochene Finanzierungskonzept und Vergütungsmodell",
+        "sessionId": "s_004"
+      },
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "Im Koalitionsvertrag stehe der Auftrag, einen Open-Source-Referenzarbeitsplatz zu entwickeln.",
+        "sessionId": "s_004"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_95e808f9",
+    "name": "Die Berliner Gigabit Strategie",
+    "category": "Digitale Gesetze & Strategien",
+    "sessionIds": [
+      "s_004"
+    ],
+    "partyPositions": [],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_bd27d320",
+    "name": "Verfahrensregeln für Haushaltsberatungen",
+    "category": "Haushalt & Steuerung",
+    "sessionIds": [
+      "s_004"
+    ],
+    "partyPositions": [
+      {
+        "party": "CDU",
+        "stance": "contra",
+        "quote": "Es sei weiterhin zumutbar, an einem Tag um 08.00 Uhr zu erscheinen.",
+        "sessionId": "s_004"
+      },
+      {
+        "party": "Linke",
+        "stance": "contra",
+        "quote": "er wolle einen Beginn um 08.00 Uhr mit Blick auf den Schulbeginn vermeiden",
+        "sessionId": "s_004"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_5bb0c4bc",
+    "name": "Blockchain-basierte digitale Schulzeugnisse",
+    "category": "Datenschutz & Grundrechte",
+    "sessionIds": [
+      "s_003"
+    ],
+    "partyPositions": [],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_4b81a3d9",
+    "name": "VPN-Ausfall im Landesnetz",
+    "category": "Cybersicherheit & Resilienz",
+    "sessionIds": [
+      "s_003"
+    ],
+    "partyPositions": [],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_1f96efcc",
+    "name": "Digitalisierung der Schule",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "sessionIds": [
+      "s_002"
+    ],
+    "partyPositions": [
+      {
+        "party": "Grüne",
+        "stance": "pro",
+        "quote": "begrüßt die Fortschritte, die durch die Arbeit [...] erreicht worden seien.",
+        "sessionId": "s_002"
+      },
+      {
+        "party": "Linke",
+        "stance": "pro",
+        "quote": "neben dem Datenschutz auch die Funktionalität von Systemen wichtig sei.",
+        "sessionId": "s_002"
+      },
+      {
+        "party": "AfD",
+        "stance": "contra",
+        "quote": "die Sammlung von Gesundheitsdaten einzustellen, nicht nur in den Schulen.",
+        "sessionId": "s_002"
+      },
+      {
+        "party": "FDP",
+        "stance": "neutral",
+        "quote": "wie man bei der Lehrkräfteausbildung sowohl datenschutzrechtlichen Aspekten [...] gerecht werde.",
+        "sessionId": "s_002"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_cf36ffbd",
+    "name": "Datenabfragen durch die Polizei",
+    "category": "Datenschutz & Grundrechte",
+    "sessionIds": [
+      "s_002"
+    ],
+    "partyPositions": [
+      {
+        "party": "CDU",
+        "stance": "neutral",
+        "quote": "es könne überall, wo Menschen arbeiteten, zu Problemfällen kommen",
+        "sessionId": "s_002"
+      },
+      {
+        "party": "SPD",
+        "stance": "neutral",
+        "quote": "warum laut Senat alle Zugriffe ohne Beanstandungen erfolgt seien",
+        "sessionId": "s_002"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_17013f0c",
+    "name": "Verfahrensregeln des Ausschusses",
+    "category": "Haushalt & Steuerung",
+    "sessionIds": [
+      "s_001"
+    ],
+    "partyPositions": [
+      {
+        "party": "Linke",
+        "stance": "pro",
+        "quote": "Keiner Fraktion kann mit einem Mehrheitsbeschluss verwehrt werden, einen Anzuhörenden zu benennen.",
+        "sessionId": "s_001"
+      },
+      {
+        "party": "AfD",
+        "stance": "contra",
+        "quote": "Die neue Regelung eröffnet Interpretationsspielraum",
+        "sessionId": "s_001"
+      },
+      {
+        "party": "FDP",
+        "stance": "neutral",
+        "quote": "er habe ein Interesse daran, auch für die Rechte kleiner Fraktionen moderierend zu wirken",
+        "sessionId": "s_001"
+      }
+    ],
+    "trend": "konstant"
+  },
+  {
+    "id": "t_b176582e",
+    "name": "Vorstellung des CDO",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "sessionIds": [
+      "s_001"
+    ],
+    "partyPositions": [],
+    "trend": "konstant"
   }
 ]

@@ -1,330 +1,466 @@
 [
   {
-    "name": "Datenschutzbericht 2024 und Stellungnahme Senats",
-    "summary": "Der Ausschuss behandelte die Stellungnahme des Senats zum Jahresbericht 2024 der Berliner Beauftragten für Datenschutz. Schwerpunkte der Diskussion waren Standardprozesse bei Digitalisierungsvorhaben, die Handhabung von Anträgen nach dem Informationsfreiheitsgesetz (IFG) und der Einsatz von Gesichtserkennungssystemen ohne Rechtsgrundlage."
+    "name": "Änderung des Berliner Datenschutzgesetzes",
+    "summary": "Der Ausschuss plant die Beratung und Beschlussfassung über eine dringliche Vorlage zur Änderung des Berliner Datenschutzgesetzes und weiterer Rechtsvorschriften. Zu diesem Tagesordnungspunkt ist eine Anhörung vorgesehen."
+  },
+  {
+    "name": "Änderung des Berliner Datenschutzgesetzes",
+    "summary": "Der Ausschuss befasst sich mit einer dringlichen Vorlage zur Änderung des Berliner Datenschutzgesetzes. Eine Beschlussfassung zu diesem Gesetzentwurf ist auf der Tagesordnung vorgesehen."
+  },
+  {
+    "name": "IT-Sicherheit in Marzahn-Hellersdorf",
+    "summary": "Auf Antrag der Fraktion Bündnis 90/Die Grünen wird die IT-Sicherheit im Bezirk Marzahn-Hellersdorf besprochen. Hintergrund ist ein Mängelbericht des Rechnungshofs, dessen Konsequenzen und das weitere Vorgehen erörtert werden sollen."
+  },
+  {
+    "name": "Vorstellung der Multi-Cloud-Strategie",
+    "summary": "Auf gemeinsamen Antrag der Fraktionen von CDU und SPD wird die Multi-Cloud-Strategie für die Berliner Verwaltung vorgestellt. Die Strategie ist ein zentraler Baustein für die zukünftige IT-Infrastruktur des Landes."
+  },
+  {
+    "name": "Stellungnahme zum Datenschutzbericht 2024",
+    "summary": "Der Ausschuss hat die Stellungnahme des Senats zum Jahresbericht 2024 der Berliner Beauftragten für Datenschutz und Informationsfreiheit beraten. Schwerpunkte der Diskussion waren der Datenschutz bei Digitalisierungsvorhaben, die Bearbeitung von IFG-Anträgen und der unrechtmäßige Einsatz von Gesichtserkennungssystemen."
   },
   {
     "name": "Antrag für ein Berliner Transparenzgesetz",
-    "summary": "Ein von den Fraktionen Bündnis 90/Die Grünen und Die Linke eingebrachter Antrag zur Einführung eines Berliner Transparenzgesetzes wurde beraten. Nach einer Aussprache, in der die Senatskanzlei Stellung nahm, wurde der Antrag zur Abstimmung gebracht."
+    "summary": "Ein von den Fraktionen Bündnis 90/Die Grünen und Die Linke eingebrachter Antrag zur Einführung eines Transparenzgesetzes wurde diskutiert. Nach der Aussprache wurde der Antrag von der Mehrheit des Ausschusses abgelehnt."
   },
   {
-    "name": "Erfahrungen zur elektronischen Wohnsitzanmeldung (eWA)",
-    "summary": "Drei Monate nach dem Start der elektronischen Wohnsitzanmeldung (eWA) wurden erste Erfahrungen und Nutzerzahlen präsentiert. Bis Ende November gab es 7.780 Online-Anmeldungen, was einer Quote von ca. 9% entspricht und zu erheblichen Zeiteinsparungen in den Bürgerämtern führte. Herausforderungen wie Prozessabbrüche und die Notwendigkeit, die Nutzung durch eine Kampagne weiter zu steigern, wurden erörtert."
+    "name": "Zahlungsrückstände Senatskanzlei beim ITDZ",
+    "summary": "Im Rahmen der Aktuellen Viertelstunde wurde eine Anfrage zu Zahlungsrückständen der Senatskanzlei gegenüber dem ITDZ Berlin gestellt. Die Staatssekretärin begründete dies mit der hohen Prüfungssorgfalt bei komplexen IT-Projekten und nicht mit einem generellen Zahlungsverzug."
   },
   {
-    "name": "Antrag zum proaktiven Opferschutz",
-    "summary": "Ein Antrag der Grünen zur Änderung des ASOG wurde diskutiert, der die datenschutzkonforme Übermittlung von Daten an Opferunterstützungsdienste, insbesondere bei häuslicher Gewalt, ermöglichen soll. Der Senat und die Koalitionsfraktionen sahen zwar den grundsätzlichen Bedarf, verwiesen aber auf eine geplante, umfassendere ASOG-Novelle und lehnten den Antrag daher ab."
+    "name": "Einsatz von KI für Behördensprache",
+    "summary": "Auf Antrag von CDU und SPD wurde der Einsatz der KI-Software SUMM AI in der Berliner Verwaltung vorgestellt. Ziel ist es, Behördensprache zu vereinfachen und die Kommunikation mit den Bürgern zu verbessern, die Besprechung wurde jedoch vertagt."
   },
   {
-    "name": "Sachstand und Eckpunkte zum Digitalcheck",
-    "summary": "Der Senat stellte die Eckpunkte für einen 'Digitalcheck' vor, der künftig bei allen neuen Gesetzesvorhaben deren Digitaltauglichkeit sicherstellen soll. Der Prozess soll dezentral durch Leitfäden und Schulungen für die Gesetzesreferenten unterstützt und in einem Pilotprojekt erprobt werden, bevor er 2025 eingeführt wird."
+    "name": "Beirat für digitale Nutzerfreundlichkeit",
+    "summary": "Die Fraktion Bündnis 90/Die Grünen beantragte die Einrichtung eines Beirats für digitale Nutzerfreundlichkeit. Dieser sollte die Verwaltung stärken und den digitalen Service für Bürgerinnen und Bürger verbessern, der Antrag wurde jedoch mehrheitlich abgelehnt."
   },
   {
-    "name": "Bericht des Senats zu KI-Projekten",
-    "summary": "Die Staatssekretärin berichtete über aktuelle Digitalisierungsthemen, darunter die Schwerpunkte des Digitalkabinetts zu künstlicher Intelligenz. Es wurde über den Einsatz von KI in Planungs- und Genehmigungsverfahren sowie über geplante, flächendeckende KI-Projekte wie eine LLM-basierte Hilfe und eine Ausfüllhilfe für Formulare informiert."
+    "name": "Neue IT-Bestands- und Planungsübersicht",
+    "summary": "Die Fraktion Bündnis 90/Die Grünen initiierte eine Besprechung über eine neue IT-Bestands- und Planungsübersicht. Es wurde diskutiert, ob dieses Instrument eine effektive gesamtstädtische Steuerung der IT-Landschaft ermöglichen kann."
   },
   {
-    "name": "Haushaltskürzungen im Digitalisierungsbereich",
-    "summary": "Diskutiert wurden geplante Einsparungen von ca. 50-80 Mio. Euro im Digitalisierungshaushalt. Die Koalition verteidigte die Kürzungen als haushalterisch notwendig, während die Opposition eine Gefährdung von Zukunftsprojekten und der Cybersicherheit befürchtet. Laut Senatskanzlei seien Kernprojekte wie die E-Akte nicht gefährdet, da diese ohnehin verzögert seien und die IT-Sicherheit nicht gekürzt werde."
+    "name": "Änderung E-Government- und Datenschutzgesetz",
+    "summary": "Der Ausschuss beriet eine Gesetzesvorlage zur Änderung des E-Government-Gesetzes, des Rechnungshofgesetzes und des Berliner Datenschutzgesetzes. Nach einer Begründung durch die Senatskanzlei und einer Stellungnahme der Berliner Datenschutzbeauftragten wurde die Vorlage angenommen."
   },
   {
-    "name": "Aufbau einer Low-Code-Plattform",
-    "summary": "Der Ausschuss erörterte den Sachstand zur Einführung von Low-Code-Plattformen, um unsichere Kleinstanwendungen in der Verwaltung abzulösen. Die erste Plattform (Intrexx) soll im ersten Quartal 2025 starten, eine zweite (OutSystems) später folgen. Zentrale Themen waren das Finanzierungsmodell, der Zeitplan für die Ablösung von Altverfahren und die Notwendigkeit von Schulungen."
+    "name": "Einführung des europäischen Bezahldienstes Wero",
+    "summary": "Ein Antrag der Grünen zur berlinweiten Umsetzung des europäischen Bezahldienstes Wero wurde diskutiert. CDU und SPD brachten einen Änderungsantrag ein, der die Umsetzung an die technische Machbarkeit knüpft, welcher angenommen wurde, bevor der geänderte Gesamtantrag ebenfalls beschlossen wurde."
   },
   {
-    "name": "Digitalisierung der „Roten Karte“",
-    "summary": "Es wurde ein Antrag zur Digitalisierung der Belehrung nach dem Infektionsschutzgesetz („Rote Karte“) besprochen. Das Verfahren soll online, z.B. über die eID-Funktion des Personalausweises, ermöglicht werden. Technische Herausforderungen, wie die Anbindung an das Berliner E-Payment-System, und datenschutzrechtliche Fragen könnten die Umsetzung bis 2026 verzögern."
+    "name": "Sachstand OZG-Leistung 'rote Karte'",
+    "summary": "Auf Antrag der Fraktion Bündnis 90/Die Grünen wurde der Sachstand zur Einführung der OZG-Leistung 'rote Karte' mit Bezahlfunktion besprochen. Nach einer Stellungnahme der Staatssekretärin wurde der Tagesordnungspunkt abgeschlossen."
   },
   {
-    "name": "KI-Briefings und rechtliche Rahmenbedingungen",
-    "summary": "Die Senatskanzlei berichtete über KI-Briefings für Verwaltungsmitarbeitende und die geplante Übernahme der Schulungen durch die Verwaltungsakademie. Die Datenschutzbeauftragte wies auf ein neues Gesetz in Hamburg zur Nutzung personenbezogener Daten für das Training von KI-Systemen als mögliches Vorbild für Berlin hin."
+    "name": "Netzredundanz und Notfallkommunikation",
+    "summary": "Im Rahmen der Aktuellen Viertelstunde wurden Fragen zur Zuständigkeit für die Notfallkommunikation im Katastrophenfall (Projekt Kiezbox 2.0) gestellt. Zudem wurde die Redundanz des Berliner Landesnetzes erörtert, um Ausfälle zu vermeiden."
   },
   {
-    "name": "Softwareprobleme bei Gewerbeanmeldungen",
-    "summary": "Auf Anfrage der Grünen wurde die mangelhafte neue Software zur Gewerbeanmeldung thematisiert. Berichten zufolge können tausende Anträge nicht bearbeitet werden, was zu erheblichen Rückständen führt und von der Senatswirtschaftsverwaltung beantwortet wurde."
+    "name": "Open-Source-Strategie des Landes Berlin",
+    "summary": "Auf Antrag der Grünen sowie der Koalitionsfraktionen CDU und SPD wurde die Open-Source-Strategie des Landes besprochen. Staatssekretärin Klement sicherte zu, das Strategiepapier dem Ausschuss zur Verfügung zu stellen und zu veröffentlichen."
   },
   {
-    "name": "Finanzielle Lage des ITDZ",
-    "summary": "Aufgrund von Medienberichten über eine drohende Insolvenz des IT-Dienstleistungszentrums Berlin (ITDZ) wurde dessen Liquiditätssituation erörtert. CDU, SPD und Linke stellten Fragen zur Insolvenzfähigkeit und zu möglichen Ursachen wie unbezahlten Leistungen für die 115-Hotline."
+    "name": "Umsetzung eines europäischen Bezahldienstes",
+    "summary": "Die Fraktion Bündnis 90/Die Grünen brachte einen Antrag zur berlinweiten Umsetzung eines europäischen Bezahldienstes ein. Nach einer Aussprache wurde die weitere Behandlung des Antrags vertagt."
   },
   {
-    "name": "Umsetzung von Mehrsprachigkeit auf berlin.de",
-    "summary": "Auf Antrag von CDU und SPD berichtete die Senatskanzlei über den Stand der Umsetzung von Mehrsprachigkeit auf dem offiziellen Landesportal berlin.de. Der Ausschuss diskutierte den Fortschritt und offene Fragen mit der Staatssekretärin."
+    "name": "Mangelhafte Software für Gewerbeanmeldungen",
+    "summary": "Die Fraktion Bündnis 90/Die Grünen thematisierte Probleme mit einer neuen Software zur Gewerbeanmeldung. Berichten zufolge ist diese so mangelhaft, dass tausende Anmeldungen nicht bearbeitet werden können."
+  },
+  {
+    "name": "Liquiditätssituation des ITDZ Berlin",
+    "summary": "Auf Anfrage der CDU-Fraktion wurde die Liquiditätssituation des IT-Dienstleistungszentrums Berlin (ITDZ) erörtert. Nachfragen von SPD und Linke betrafen mögliche Gesetzeskollisionen bei der Preisgestaltung und unbezahlte Kosten für den Betrieb der 115-Hotline."
+  },
+  {
+    "name": "Mehrsprachigkeit auf berlin.de",
+    "summary": "Auf Antrag von CDU und SPD wurde der Stand der Umsetzung von Mehrsprachigkeit auf dem Landesportal berlin.de besprochen. Die Staatssekretärin nahm Stellung und beantwortete Fragen der Ausschussmitglieder."
   },
   {
     "name": "Digitale Dienste in Bürgerämtern",
-    "summary": "Die Lage der digitalen Dienstleistungen in den Bürgerämtern, inklusive der Dokumentenausgabeboxen, wurde auf Antrag von CDU und SPD besprochen. Ein zentrales Thema war die drohende Einschränkung von Online-Diensten durch die verspätete Einführung des Bezahlstandards 'XBezahldienste'."
+    "summary": "Der Ausschuss befasste sich mit der Lage in den Berliner Bürgerämtern, insbesondere mit digitalen Dienstleistungen wie der Dokumentenausgabebox. Ein Thema war auch die drohende Einschränkung von Online-Diensten durch die verspätete Einführung des Bezahlstandards 'XBezahldienste'."
   },
   {
-    "name": "Petition zum Transparenzgesetz (IFG)",
-    "summary": "Der Ausschuss behandelte in nichtöffentlicher Sitzung eine Petition zur Neufassung des Informationsfreiheitsgesetzes (IFG), auch als Transparenzgesetz bekannt. Es handelte sich um ein Stellungnahmeersuchen des Petitionsausschusses."
+    "name": "Petition Neufassung IFG (Transparenzgesetz)",
+    "summary": "Der Ausschuss behandelte eine Petition zur Neufassung des Informationsfreiheitsgesetzes (IFG) bzw. zur Schaffung eines Transparenzgesetzes. Die Beratung fand in nichtöffentlicher Sitzung statt."
   },
   {
-    "name": "Verwaltungsvorschrift zum Landesorganisationsgesetz",
-    "summary": "Es wurde eine Anfrage zum Stand der Verwaltungsvorschrift gemäß § 18 Abs. 3 des Landesorganisationsgesetzes gestellt. Die Vorschrift ist entscheidend für das Inkrafttreten des Gesetzes zum 1. Januar 2026, um Prozesse und Standards festzulegen."
+    "name": "Verwaltungsvorschrift Landesorganisationsgesetz",
+    "summary": "In der Aktuellen Viertelstunde wurde auf Anfrage der Linksfraktion der Stand einer Verwaltungsvorschrift zum Landesorganisationsgesetz thematisiert. Staatssekretärin Klement beantwortete die Frage, ob diese rechtzeitig zum Inkrafttreten des Gesetzes am 1. Januar 2026 vorliegen werde."
   },
   {
     "name": "Sachstand zu KI-Bots im Land Berlin",
-    "summary": "Der Ausschuss diskutierte den aktuellen Stand des Einsatzes von KI-Bots in der Berliner Verwaltung. Vertreter der Senatskanzlei und des CityLAB Berlin gaben Auskunft und sagten zu, Daten zum Stromverbrauch des KI-Assistenten BärGPT nachzuliefern."
+    "summary": "Auf Antrag von CDU und SPD wurde der Einsatz von KI-Bots in der Berliner Verwaltung besprochen. Vertreter der Senatskanzlei und des CityLAB Berlin berichteten über den aktuellen Stand und sagten zu, Informationen zum Stromverbrauch des KI-Assistenten BärGPT nachzuliefern."
   },
   {
-    "name": "Stand der Umstellung auf Windows 11",
-    "summary": "Der Fortschritt der Umstellung der IT-Systeme der Verwaltung auf das Betriebssystem Windows 11 wurde besprochen. Die zuständige Staatssekretärin sagte zu, im Januar 2026 genaue Zahlen zu den noch nicht umgestellten Geräten vorzulegen."
+    "name": "Windows 11 – Stand der Umstellung",
+    "summary": "Auf Antrag der Fraktion Bündnis 90/Die Grünen wurde der Fortschritt der Umstellung auf das Betriebssystem Windows 11 in der Verwaltung erörtert. Staatssekretärin Klement sagte zu, im Januar 2026 Zahlen zu den noch nicht umgestellten Geräten vorzulegen."
   },
   {
-    "name": "Digitale Dienstleistungen und Bürgerämter",
-    "summary": "Im Rahmen der Aktuellen Viertelstunde wurde der Fortschritt bei digitalen Dienstleistungen thematisiert. Insbesondere wurde nach dem zukünftigen Verfahren für Bürgerinnen und Bürger gefragt, die Bürgerämter ohne Termin aufsuchen möchten."
+    "name": "Aktuelle Fragen zur Digitalisierung",
+    "summary": "In der Aktuellen Viertelstunde wurden Fragen zu digitalen Bürgerdiensten, terminfreien Besuchen in Bürgerämtern (CDU) und der Finanzierung des Digitalhaushalts aus Bundesmitteln (Grüne) gestellt. Die Staatssekretärin beantwortete die Anfragen."
   },
   {
     "name": "Gesetz zum NOOTS-Staatsvertrag",
-    "summary": "Der Ausschuss beriet über die Gesetzesvorlage zum NOOTS-Staatsvertrag. Nach einer Begründung durch die Staatssekretärin und einer Stellungnahme der Berliner Beauftragten für Datenschutz wurde die Vorlage zur Annahme empfohlen."
+    "summary": "Der Ausschuss beriet über das Gesetz zum Staatsvertrag über die Nachnutzung von Online-Diensten (NOOTS). Nach Stellungnahmen von Senat und Datenschutzbeauftragter wurde die Vorlage beschlossen."
   },
   {
-    "name": "Onlinezugangsgesetz 2.0 Folgen für Berlin",
-    "summary": "Auf Antrag der Fraktion Bündnis 90/Die Grünen besprach der Ausschuss die Auswirkungen des Onlinezugangsgesetzes 2.0 auf das Land Berlin. Die Staatssekretärin und die Datenschutzbeauftragte nahmen dazu Stellung."
+    "name": "Folgen des Onlinezugangsgesetz 2.0",
+    "summary": "Auf Antrag der Fraktion Bündnis 90/Die Grünen besprach der Ausschuss die Konsequenzen des neuen Onlinezugangsgesetzes (OZG 2.0) für Berlin. Senat und Datenschutzbeauftragte gaben dazu einleitende Stellungnahmen ab."
   },
   {
-    "name": "Digitalisierungsdashboard des Senats",
-    "summary": "Auf Antrag von CDU und SPD wurde das Digitalisierungsdashboard vorgestellt. Staatssekretärin Klement nahm Stellung und beantwortete Fragen zum Fortschritt der Digitalisierungsprojekte in Berlin."
+    "name": "Vorstellung des Digitalisierungsdashboards",
+    "summary": "Auf Antrag von CDU und SPD wurde das Digitalisierungsdashboard vorgestellt und besprochen. Nach einer einleitenden Stellungnahme der Staatssekretärin und einer Aussprache wurde der Punkt einvernehmlich abgeschlossen."
   },
   {
-    "name": "Zukunft der Berliner WLAN-Initiative",
-    "summary": "Die Fraktionen der Grünen und der Linken initiierten eine Besprechung zum Ende der WLAN-Initiative des Senats. Es wurde über mögliche Wege für den Weiterbetrieb und die Zukunft des öffentlichen WLANs in der Stadt diskutiert."
+    "name": "Ende der WLAN-Initiative des Senats",
+    "summary": "Auf Antrag von Grünen und Linken wurde das Ende der öffentlichen WLAN-Initiative des Senats und mögliche Nachfolgelösungen diskutiert. Die Staatssekretärin nahm Stellung und beantwortete Fragen der Abgeordneten."
   },
   {
-    "name": "Digitale Barrierefreiheit und Nutzerfreundlichkeit",
-    "summary": "Der Status der digitalen Barrierefreiheit wurde auf Antrag von CDU und SPD besprochen. Ergänzend brachten die Grünen einen Antrag zur Einrichtung eines Beirats für digitale Nutzerfreundlichkeit ein, um den Bürgerservice zu verbessern."
+    "name": "Status der digitalen Barrierefreiheit",
+    "summary": "Der Ausschuss befasste sich auf Antrag von CDU und SPD mit dem aktuellen Stand der digitalen Barrierefreiheit in Berlin. Nach einer Aussprache mit der Senatskanzlei wurde der Besprechungspunkt abgeschlossen."
   },
   {
-    "name": "Reform des Polizei- und Ordnungsrechts",
-    "summary": "Die Koalition aus CDU und SPD hat eine Reform des Allgemeinen Sicherheits- und Ordnungsgesetzes (ASOG) beantragt, um die Befugnisse der Polizei zu erweitern. Kernpunkte sind die Verlängerung der Speicherfristen für Videodaten, die Ausweitung der Videoüberwachung, die elektronische Aufenthaltsüberwachung bei häuslicher Gewalt sowie der Einsatz von Tasern und Bodycams. Die Opposition kritisiert den Entwurf als verfassungsrechtlich bedenklich und als unverhältnismäßigen Eingriff in die Grundrechte."
-  },
-  {
-    "name": "Haushaltsplan Digitalisierung 2026/2027",
-    "summary": "Der Ausschuss beriet den Doppelhaushalt 2026/2027 mit Fokus auf den Einzelplan für E-Government und die IKT-Titel. Während die Koalition die Absicherung wichtiger Projekte wie der E-Akte und der Basisdienste trotz Konsolidierungsdruck betonte, kritisierte die Opposition den Haushalt als Rückschritt. Bemängelt wurden fehlende Investitionen in die IT-Infrastruktur, eine mangelnde gesamtstädtische Steuerung und die Streichung von zukunftsweisenden Projekten."
-  },
-  {
-    "name": "Cyber-Vorfall am Flughafen BER",
-    "summary": "Abgeordnete der Linken und Grünen erkundigten sich nach einem Cyber-Vorfall am Flughafen BER und dessen Auswirkungen auf Berliner Behörden. Die Staatssekretärin beantwortete die Fragen."
-  },
-  {
-    "name": "Programm OneIT@Berlin",
-    "summary": "Auf Antrag von CDU und SPD wurde der aktuelle Stand und die Zukunft des Programms zur Konsolidierung der Berliner IT-Infrastruktur besprochen. Die Staatssekretärin gab einen Überblick und beantwortete Fragen."
-  },
-  {
-    "name": "Änderung des ITDZ-Gesetzes",
-    "summary": "Der Ausschuss beriet über eine Gesetzesänderung bezüglich des IT-Dienstleistungszentrums Berlin (ITDZ). Die Vorlage wurde nach einer Begründung durch die Staatssekretärin einstimmig angenommen."
-  },
-  {
-    "name": "Datenschutzbericht 2023",
-    "summary": "Der Ausschuss nahm die Stellungnahme des Senats zum Jahresbericht der Datenschutzbeauftragten zur Kenntnis. Es wurden spezifische Themen wie Löschmoratorien bei der Polizei und unbefugte Datenbanknutzung diskutiert."
-  },
-  {
-    "name": "Umsetzung der NIS-2 Richtlinie",
-    "summary": "Auf Antrag von Grünen und Linken wurde die Umsetzung der EU-Richtlinie zur Netz- und Informationssicherheit (NIS-2) in Berlin erörtert. Die weitere Beratung fand aus Sicherheitsgründen in nichtöffentlicher Sitzung statt."
-  },
-  {
-    "name": "Haushaltsplan 2026/2027 für Digitalisierung",
-    "summary": "Staatssekretärin Klement stellt den Doppelhaushalt vor, der Kürzungen im Bereich E-Government auf 264 Mio. € pro Jahr vorsieht. Trotz der Einsparungen sind zentrale Projekte wie die digitale Akte, die Cybersicherheit und die Behördennummer 115 gesichert, während andere Vorhaben wie die WLAN-Initiative eingestellt werden. Das Zentralisierungsprogramm OneIT wird umstrukturiert, um dem ITDZ mehr Verantwortung zu übertragen."
-  },
-  {
-    "name": "Umsetzung der Verwaltungsreform (LOG)",
-    "summary": "Die Implementierung des neuen Landesorganisationsgesetzes wird intensiv diskutiert. Für die Umsetzung sind Ressourcen für Datenbanken, eine Einigungsstelle und die Geschäftsstelle des Rats der Bürgermeister eingeplant. Die Opposition, insbesondere die Grünen, äußert Zweifel, ob die vorgesehenen Mittel ausreichen, um die Reform erfolgreich zu starten und den notwendigen Kulturwandel zu finanzieren."
-  },
-  {
-    "name": "Optimierung der Bürgerdienste",
-    "summary": "Es wurden signifikante Verbesserungen bei den Bürgerämtern erzielt, insbesondere bei der Terminverfügbarkeit (14-Tage-Ziel). Maßnahmen wie neue Stellen, ein Springerpool und digitale Angebote haben die Wartezeiten verkürzt. Zur weiteren Entlastung werden Dokumentenausgabeboxen in mehreren Bezirken eingeführt, die eine Abholung von Ausweisdokumenten außerhalb der regulären Öffnungszeiten ermöglichen."
-  },
-  {
-    "name": "IKT-Arbeitsplatzausstattung und Erneuerungsstau",
-    "summary": "Ein wiederkehrendes Thema ist der Lebenszyklus von IT-Hardware in der Verwaltung. Aufgrund von Haushaltskürzungen und einer Beschaffungswelle während der Pandemie müssen viele Geräte über ihre geplante Nutzungsdauer hinaus betrieben werden. Die Opposition (Linke, Grüne) warnt vor einem drohenden Erneuerungsstau und kritisiert, dass Mitarbeitende mit veralteter Technik arbeiten müssen."
-  },
-  {
-    "name": "Einführung eines zentralen Digitalhaushalts",
-    "summary": "Die Idee eines zentralen Digitalhaushalts zur besseren Steuerung und Finanzierung von IKT-Projekten wird von der CDO und dem Rechnungshof befürwortet. Staatssekretärin Klement kündigt an, dies im nächsten Doppelhaushalt angehen zu wollen, was von den Grünen als zu zögerlich kritisiert wird. Die Kürzung der Projektmittel für die CDO wird als Schritt in die falsche Richtung gesehen."
-  },
-  {
-    "name": "Cybersicherheit und NIS-2-Umsetzung",
-    "summary": "Trotz allgemeiner Haushaltskürzungen wird die Informationssicherheit als hohe Priorität behandelt. Die Finanzierung für das Cyber Defence Center und Maßnahmen zur Umsetzung der EU-NIS-2-Richtlinie sind gesichert. Die Linksfraktion hat einen schriftlichen Bericht über die konkreten Planungen zur Umsetzung der NIS-2-Richtlinie angefordert."
-  },
-  {
-    "name": "Haushalt für den Datenschutzbeauftragten",
-    "summary": "Der Einzelplan für den Berliner Beauftragten für Datenschutz und Informationsfreiheit sieht Investitionen in drei Kernbereiche vor. Geplant sind Mittel für eine neue Kommunikationsplattform, die Erneuerung veralteter IT-Infrastruktur (Speicher, Netzwerk) und die Einrichtung einer Hardware-Laborumgebung zur Analyse von KI-Systemen."
-  },
-  {
-    "name": "Verzögerung der Windows 11-Umstellung",
-    "summary": "Die Diskussion befasste sich mit den Gründen für Verzögerungen bei der Umstellung auf Windows 11 in der Berliner Verwaltung. Als Hauptursache wurde die dezentrale Struktur und die damit verbundene, jeweils separate Beteiligung der Personalvertretungen in den Behörden identifiziert, nicht die Beteiligung an sich. Die Senatskanzlei überwacht den Prozess, um die Umstellung vor dem Support-Ende von Windows 10 sicherzustellen."
-  },
-  {
-    "name": "Bericht der Senatskanzlei & Datenschutzbeauftragten",
-    "summary": "Die Staatssekretärin berichtete über die beschlossene Verwaltungsreform und die geplante Einrichtung eines neuen Bundesratsausschusses für Digitalisierung. Die Datenschutzbeauftragte informierte über Maßnahmen im Rahmen des Digital Services Act gegen eine KI-App und die Forderung nach einer zentralen Meldeplattform für IT-Sicherheits- und Datenschutzvorfälle im Zuge der NIS-2-Umsetzung."
-  },
-  {
-    "name": "Umstellung des Rechnungshofs auf BerlinPC",
-    "summary": "Der Rechnungshof berichtete über seine erfolgreiche, freiwillige Umstellung auf den standardisierten IT-Arbeitsplatz 'BerlinPC'. Als entscheidender Erfolgsfaktor wurde die enge und vertrauensvolle Zusammenarbeit mit dem ITDZ Berlin hervorgehoben. Das Projekt dient als positives Beispiel für die Standardisierung in der gesamten Landesverwaltung."
-  },
-  {
-    "name": "Einführung virtueller Teams im ITDZ",
-    "summary": "Das ITDZ Berlin stellte sein neues Konzept der 'virtuellen Teams' vor, um die Serviceorientierung und Kundenkommunikation zu verbessern. Diese abteilungsübergreifenden Teams betreuen dedizierte Kunden ganzheitlich, von der Projektplanung bis zum laufenden Betrieb, was zu reibungsloseren Abläufen und höherer Kundenzufriedenheit führt."
-  },
-  {
-    "name": "Hürden bei der IT-Standardisierung (OneIT@Berlin)",
-    "summary": "Die Debatte thematisierte die Hindernisse für eine flächendeckende IT-Standardisierung in Berlin. Als größte Herausforderungen wurden die mangelnde 'Migrationsreife' vieler Dienstgebäude, der Fachkräftemangel im IT-Bereich der Behörden sowie veraltete Fachverfahren identifiziert, die eine Umstellung erschweren."
-  },
-  {
-    "name": "Digitale Souveränität und Open Source",
-    "summary": "Auf Anfrage der Grünen wurde Berlins Strategie zur digitalen Souveränität und zum Einsatz von Open-Source-Software diskutiert. Staatssekretärin Klement verwies auf das Open-Source-Kompetenzzentrum und eine in Arbeit befindliche Strategie, für die jedoch vorerst keine zusätzlichen Haushaltsmittel vorgesehen sind."
-  },
-  {
-    "name": "Modernisierung der Jugendhilfe-Software (ISBJ)",
-    "summary": "Die Linke erkundigte sich nach dem Fortschritt der Modernisierung der Jugendhilfe-Software. Eine Vertreterin des Senats bestätigte, dass das Projekt im Zeitplan liegt und eine neue Fachanwendung für Kitas erfolgreich produktiv gesetzt wurde, auch wenn es zu einer kurzen Unterbrechung bei der Bearbeitung von Gutscheinen kam."
-  },
-  {
-    "name": "OpenData und Europäische Datenstrategie",
-    "summary": "Der Ausschuss besprach die Umsetzung der EU-Datenstrategie in Berlin. Die Senatskanzlei präsentierte den Berliner Open-Data-Ansatz, die Veröffentlichung von Kerndatensätzen und die Rolle von Open-Data-Beauftragten. Herausforderungen wie fehlende Dateninventuren und die Anbindung von Fachverfahren wurden ebenfalls erörtert."
-  },
-  {
-    "name": "Hackerangriff auf die BVG",
-    "summary": "Der Ausschuss befasste sich mit dem Hackerangriff auf einen Dienstleister der BVG, der zum Verlust von Kundendaten führte. Die BVG erläuterte ihre Aufklärungsarbeit und kündigte an, die Auswahl- und Kontrollprozesse für externe Dienstleister zu verschärfen. Die Datenschutzbeauftragte bestätigte ein laufendes Prüfverfahren."
-  },
-  {
-    "name": "Aktionstag 'Terminfreie Zeiten' Bürgerämter",
-    "summary": "Die Auswertung des Aktionstags für Termine ohne Voranmeldung in den Bürgerämtern wurde als Erfolg bewertet. Entgegen den Befürchtungen kam es zu keinem übermäßigen Ansturm, was auf eine Entspannung der Terminsituation hindeutet. Eine Verstetigung des Angebots wird nun geprüft."
-  },
-  {
-    "name": "Antrag zum Berliner Digitaltag",
-    "summary": "Die Fraktion Bündnis 90/Die Grünen forderte in einem Antrag eine aktive Beteiligung des Senats am Berliner Digitaltag 2025. Die Staatssekretärin verwies auf bereits bestehende Angebote des Landes. Der Antrag wurde mehrheitlich abgelehnt."
-  },
-  {
-    "name": "Hackerangriff auf BVG-Dienstleister",
-    "summary": "Ein externer Dienstleister der BVG wurde Opfer eines Hackerangriffs, bei dem Kundendaten von ca. 180.000 Personen (Namen, Adressen, E-Mail) entwendet wurden. Der Ausschuss diskutierte den zeitlichen Ablauf, die Informationspolitik der BVG und Maßnahmen zum Schutz der Betroffenen."
-  },
-  {
-    "name": "Digitalisierung in der Verwaltungsreform",
-    "summary": "Staatssekretärin Klement erläuterte die Rolle der Digitalisierung in der geplanten Verwaltungsreform. Kernpunkte sind die Schaffung eines einheitlichen Aufgabenkatalogs als Datenbank und die Vorbereitung eines neuen Digitalgesetzes, um die gesamtstädtische Steuerung zu verbessern."
-  },
-  {
-    "name": "DDoS-Angriff auf Serviceportal Berlin.de",
-    "summary": "Der Ausschuss besprach einen massiven DDoS-Angriff auf das Hauptstadtportal berlin.de, der Ende April/Anfang Mai stattfand. Die Diskussion umfasste die Auswirkungen auf die Verwaltung und die Notwendigkeit, Schutzmaßnahmen nach dem neuesten Stand der Technik zu gewährleisten."
-  },
-  {
-    "name": "Open Data und EU-Datenstrategie",
-    "summary": "Die Besprechung zum Thema Open Data und der Umsetzung der Europäischen Datenstrategie in Berlin wurde auf Antrag der Grünen auf die Tagesordnung gesetzt. Der Punkt wurde aus zeitlichen Gründen vertagt und nicht inhaltlich behandelt."
-  },
-  {
-    "name": "Aktuelle IT-Themen der Verwaltung",
-    "summary": "In der Aktuellen Viertelstunde wurden IT-Störungen in Bürgerämtern, der Aktionstag der Bürgerämter und die Einstellung des Projekts für öffentliches WLAN diskutiert. Der Senat gab Auskunft über Ursachen, Maßnahmen und zukünftige Planungen."
-  },
-  {
-    "name": "Bericht der Senatskanzlei zu Digitalisierung",
-    "summary": "Staatssekretärin Klement berichtete über die beschlossene Verwaltungsreform, Sitzungen des IT-Planungsrats und der Digitalministerkonferenz. Zudem wurden interne Projekte wie die Einführung der OKR-Methode und die Teilnahme an Gremien wie dem City-Lab und GovTec Campus thematisiert."
-  },
-  {
-    "name": "Bericht der Datenschutzbeauftragten",
-    "summary": "Die Berliner Datenschutzbeauftragte berichtete von der Konferenz der Datenschutzaufsichtsbehörden und deren Forderungen. Diese umfassen die Finalisierung von Datenschutzgesetzen, einen Grundrechtecheck bei Sicherheitsarchitekturen und eine bessere Abstimmung von EU-Digitalrechtsakten mit der DSGVO."
-  },
-  {
-    "name": "Rechnungshofkritik an Digitalisierungssteuerung",
-    "summary": "Der Ausschuss diskutierte den Bericht des Rechnungshofs, der eine mangelnde zentrale Steuerung der Digitalisierung durch den Senat kritisiert. Themen waren die unzureichende OZG-Umsetzung, die Finanzierung des ITDZ und die Zersplitterung der IT-Verantwortlichkeiten, woraufhin der Rechnungshof eine stärkere Zentralisierung empfahl."
-  },
-  {
-    "name": "Erreichung des 14-Tage-Ziels Bürgerämter",
-    "summary": "Der Ausschuss debattierte einen Antrag der Grünen zur Einhaltung des 14-Tage-Ziels für Termine in Bürgerämtern. Der Senat verteidigte seine Maßnahmen wie zusätzliches Personal und ein neues Terminbuchungssystem, während die Opposition kritisierte, dass das Ziel weiterhin nicht flächendeckend erreicht werde."
-  },
-  {
-    "name": "Digitale Antragsstellung des Wohngelds",
-    "summary": "Die Besprechung zur digitalen Antragsstellung für Wohngeld wurde ohne ausführliche Diskussion abgeschlossen, da kein sprechfähiger Vertreter der zuständigen Senatsverwaltung anwesend war. Die Koalitionsfraktionen wollten den Erfolg dieses digitalen Verfahrens als Vorbild für andere Bereiche erörtern."
-  },
-  {
-    "name": "Umsetzung EU Digital-/Datenschutz-Rechts",
-    "summary": "Auf Antrag der Grünen und Linken wurde die Rolle Berlins bei der föderalen Umsetzung von EU-Digital- und Datenschutzrecht besprochen. Nach einer Anhörung eines Professors und Stellungnahmen wurde die Besprechung vertagt."
-  },
-  {
-    "name": "Auswertung Informationsreise nach Wien",
-    "summary": "Auf Antrag von CDU und SPD wurden die Ergebnisse und Erkenntnisse der Informationsreise des Ausschusses nach Wien ausgewertet. Nach einer Aussprache wurde die Besprechung des Themas abgeschlossen."
-  },
-  {
-    "name": "Digitale Zwillinge europäisch vernetzen",
-    "summary": "Der Ausschuss beriet über einen Antrag der Grünen, der den Beitritt Berlins zur Initiative „Networked Local Digital Twins towards the CitiVERSE“ forderte. Der Antrag wurde nach einer Aussprache mehrheitlich abgelehnt."
-  },
-  {
-    "name": "Informationskampagne für digitale Bürgerservices",
-    "summary": "Der Staatssekretär berichtet über den Start der Kampagne „Online geht mehr, als du denkst“. Ziel ist es, die Nutzung bestehender digitaler Verwaltungsangebote wie die Kfz-Zulassung zu steigern, um die Bürgerämter zu entlasten. Die Kampagne umfasst Plakate, digitale Spots und persönliche Digitallotsen in den Bürgerämtern."
-  },
-  {
-    "name": "Verordnung für digitale Lernmittel (DigLLV)",
-    "summary": "Auf Antrag der Linksfraktion wurde der aktuelle Stand der Verordnung über digitale Lehr- und Lernmittel (DigLLV) besprochen. Eine kürzliche Änderung passte die Verordnung an die DSGVO bezüglich der Auftragsdatenverarbeitung in Drittländern an. Die Berliner Datenschutzbeauftragte (BlnBDI) begrüßt die Zusammenarbeit, sieht aber weiterhin Bedarf an konkreteren Regelungen für die Praxis."
-  },
-  {
-    "name": "Änderung des Landeskrankenhausgesetzes",
-    "summary": "Der Ausschuss debattierte eine Änderung des Landeskrankenhausgesetzes, die die Auslagerung von IT-Aufgaben und die Verarbeitung von Patientendaten betrifft. Ein Änderungsantrag der Koalition, der die Anzeigepflicht für Auftragsdatenverarbeitungen von der Gesundheitsverwaltung zur Datenschutzbeauftragten verlagert, wurde mehrheitlich angenommen. Oppositionsparteien kritisierten den Schritt als unzureichend zum Schutz sensibler Gesundheitsdaten."
-  },
-  {
-    "name": "Fachtag Datenschutz und Medienkompetenz",
-    "summary": "Die Berliner Beauftragte für Datenschutz und Informationsfreiheit (BlnBDI) berichtete über den erfolgreichen 2. Fachtag zum Thema „Datenschutz trifft Medienkompetenz“. Die Veranstaltung war sehr gut besucht und bot Fachvorträge sowie Workshops. Die Rückmeldungen der Teilnehmenden waren durchweg positiv."
+    "name": "Beirat für digitale Nutzerfreundlichkeit",
+    "summary": "Die Fraktion Bündnis 90/Die Grünen stellte ihren Antrag zur Einrichtung eines Beirats für digitale Nutzerfreundlichkeit vor, um Verwaltungsservices zu verbessern. Die Entscheidung über den Antrag wurde nach der Debatte vertagt."
   },
   {
     "name": "Bericht aus der Senatskanzlei",
-    "summary": "Staatssekretärin Klement berichtete über die Fortschritte bei der Verwaltungsreform und der Digitalen Akte, die nun barrierefrei ist. Zudem gab sie Einblicke von einer Dienstreise nach Singapur, wo sie sich über Smart-City-Konzepte und eine hochdigitalisierte Verwaltung informierte."
+    "summary": "Die Staatssekretärin und Chief Digital Officer des Landes Berlin berichtete über aktuelle Vorgänge aus der Senatskanzlei. Anschließend beantwortete sie Fragen der Ausschussmitglieder."
   },
   {
-    "name": "Aktueller Stand des Glasfaserausbaus",
-    "summary": "In einer Anhörung mit Telekommunikationsunternehmen wurden langsame und uneinheitliche Genehmigungsverfahren in den Bezirken als Haupthindernis für den Ausbau identifiziert. Der Senat berichtete über Gegenmaßnahmen wie neue Stellen und digitale Antragsverfahren, während die Versorgung laut Senat bei 96% Gigabit-Fähigkeit liegt."
+    "name": "Reform des Polizei- und Ordnungsrechts",
+    "summary": "Die Koalition aus CDU und SPD bringt eine Novelle des Allgemeinen Sicherheits- und Ordnungsgesetzes (ASOG) ein, um polizeiliche Befugnisse zu erweitern. Dies umfasst längere Speicherfristen für Videodaten, Videoüberwachung an Kriminalitätshotspots, elektronische Fußfesseln bei häuslicher Gewalt sowie neue digitale Instrumente wie automatisierte Datenanalyse. Oppositionsparteien kritisieren den Entwurf als verfassungswidrig und als massiven Eingriff in die Bürgerrechte."
   },
   {
-    "name": "Antrag für Open-Source-Sabbatical",
-    "summary": "Die Fraktion Bündnis 90/Die Grünen brachte erneut ihren Antrag zur Einführung eines Open-Source-Sabbaticals ein, um Berlins Beitrag zur Open-Source-Community zu stärken. Der Antrag wurde nach kurzer Debatte von der Mehrheit des Ausschusses abgelehnt."
+    "name": "Haushaltsplan 2026/2027 für Digitalisierung",
+    "summary": "Der Ausschuss berät den Doppelhaushalt 2026/2027, insbesondere den Einzelplan 25 für E-Government. Die Koalition betont, trotz Konsolidierungsdruck wichtige Digitalisierungsvorhaben wie die E-Akte und Basisdienste abzusichern. Die Opposition kritisiert den Haushalt als mutlos, da er keine zukunftsweisende Strategie erkennen lasse und notwendige Investitionen in die IT-Infrastruktur vernachlässige."
   },
   {
-    "name": "Zentralisierung der Digital-Aufsicht",
-    "summary": "Die Berliner Datenschutzbeauftragte warnte vor einer Zentralisierung der Aufsicht für EU-Digitalgesetze wie den AI Act und Data Act beim Bund. Sie sieht darin eine verfassungsrechtlich problematische Aushöhlung des Föderalismus. Der Senat scheint einer Zentralisierung in Teilbereichen, wie bei der KI-Marktüberwachung, zugestimmt zu haben."
+    "name": "IT-Infrastruktur und Verwaltungs-Basisdienste",
+    "summary": "Die Debatte offenbart erhebliche Mängel in der IT-Infrastruktur der Berliner Verwaltung, darunter veraltete Serversysteme und eine stockende Migration auf Windows 11. Die Opposition bemängelt das Fehlen einer gesamtstädtischen Steuerung und die Streichung geplanter Basisdienste wie einer Low-Code-Plattform, was zu teuren Insellösungen führe. Die Koalition verweist auf die Sicherung bestehender Dienste und die Arbeit des ITDZ."
   },
   {
-    "name": "GovTech Campus Deutschland",
-    "summary": "Der Ausschuss hörte den Vorstand des GovTech Campus Deutschland zur Vernetzung von Verwaltung und Tech-Unternehmen an, um nachnutzbare digitale Lösungen zu entwickeln. Diskutiert wurden das Vereinsmodell, die Mitgliedschaft von Bund und Ländern sowie konkrete Projekte wie KI-Anwendungen für die Verwaltung. Die Gründung eines spezifischen GovTech Campus Berlin wurde ebenfalls erörtert."
+    "name": "Cyber-Vorfall am Flughafen BER",
+    "summary": "Abgeordnete der Fraktionen Die Linke und Bündnis 90/Die Grünen stellten mündliche Fragen zu einem Cyber-Vorfall am Flughafen BER. Die Staatssekretärin beantwortete die Fragen bezüglich des Ausmaßes und der betroffenen Behörden."
   },
   {
-    "name": "Bilanz Open-Source Kompetenzzentrum",
-    "summary": "Ein Vertreter der Open Source Business Alliance kritisierte die mangelnden Fortschritte des Berliner Open-Source Kompetenzzentrums nach einem Jahr. Bemängelt wurden die schleppende Personalausstattung und das Fehlen einer veröffentlichten Digitalstrategie, was als schädlich für die lokale Wirtschaft und die digitale Souveränität Berlins angesehen wird."
+    "name": "Aktueller Stand Programm OneIT@Berlin",
+    "summary": "Auf Antrag der Koalitionsfraktionen CDU und SPD wurde der Fortschritt des Programms OneIT@Berlin zur Konsolidierung der IT-Infrastruktur des Landes besprochen. Die zuständige Staatssekretärin gab einen Überblick und beantwortete Fragen der Ausschussmitglieder."
   },
   {
-    "name": "Rückblick Vorsitz Digitalministerkonferenz",
-    "summary": "Die Staatssekretärin berichtete über den Vorsitz Berlins bei der neu gegründeten Digitalministerkonferenz (DMK). Es sei gelungen, das Gremium als feste Fachministerkonferenz zu etablieren, um strategische Digitalthemen auf Länderebene zu koordinieren. Zukünftige Themen sind die Finanzierung der Digitalisierung und die Positionierung gegenüber einer neuen Bundesregierung."
+    "name": "Änderung des ITDZ-Gesetzes",
+    "summary": "Der Ausschuss beriet über eine Gesetzesänderung bezüglich des IT-Dienstleistungszentrums Berlin (ITDZ). Die Vorlage wurde vom Senat eingebracht und nach kurzer Beratung einstimmig von allen anwesenden Fraktionen angenommen."
   },
   {
-    "name": "Bericht der Senatskanzlei",
-    "summary": "Staatssekretärin Klement berichtete über aktuelle Digitalisierungsprojekte wie die Einführung der Digitalen Akte und die Verwaltungsreform. Zudem wurden Herausforderungen bei der bezirklichen Software ALLRIS und die Zusammenarbeit mit dem GovTech Campus thematisiert."
+    "name": "Bericht der Datenschutzbeauftragten 2023",
+    "summary": "Die Stellungnahme des Senats zum Jahresbericht 2023 der Datenschutzbeauftragten wurde zur Kenntnis genommen. In der Aussprache wurden spezifische Themen wie Löschfristen bei der Polizei, unbefugte Datenbankabfragen und Datenerhebung im Asylverfahren behandelt."
   },
   {
-    "name": "Digitale Antragsstellung Wohngeld",
-    "summary": "Der Ausschuss diskutierte die langen Bearbeitungszeiten für Wohngeldanträge, die trotz digitaler Antragsmöglichkeit bei durchschnittlich 12 Wochen liegen. Es wurde erörtert, inwieweit die Digitalisierung zur Prozessbeschleunigung beiträgt und welche Maßnahmen, wie eine stärkere Automatisierung, zukünftig ergriffen werden können."
+    "name": "Umsetzung der NIS-2 Richtlinie",
+    "summary": "Auf Antrag von Bündnis 90/Die Grünen und Die Linke wurde die Umsetzung der EU-Richtlinie zur Netz- und Informationssicherheit (NIS-2) im Land Berlin diskutiert. Aufgrund der Sensibilität des Themas wurde die weitere Beratung nach einem einstimmigen Beschluss in nichtöffentlicher Sitzung fortgesetzt."
   },
   {
-    "name": "Basisdienst Digitaler Antrag",
-    "summary": "Anlässlich des 100. online verfügbaren Antrags über den Basisdienst Digitaler Antrag (BDA) wurde dessen Entwicklung und Nutzung diskutiert. Themen waren das gestiegene Antragsvolumen, die Anbindung an Fachverfahren und zukünftige Weiterentwicklungen wie die Integration der BundID."
+    "name": "Haushaltsplan 2026/2027 Digitalisierung",
+    "summary": "Der Haushaltsentwurf sieht Kürzungen im Digitalisierungsbudget (Einzelplan 25) auf 264 Mio. Euro jährlich vor, um den Haushalt zu konsolidieren. Wichtige Projekte wie die digitale Akte und Cybersicherheit sind gesichert, während Vorhaben wie die WLAN-Initiative eingestellt werden. Die Kürzungen führen zu Debatten über die Priorisierung der Digitalisierung."
   },
   {
-    "name": "Schaffung eines Digitalgesetzes",
-    "summary": "Der Antrag der Grünen zur Schaffung eines modernen Digitalgesetzes, das das veraltete E-Government-Gesetz ersetzen soll, wurde erneut beraten. Die Koalitionsfraktionen und der Senat bekräftigten ihre Absicht, ein solches Gesetz nach Abschluss der Verwaltungsreform zu erarbeiten, lehnten den konkreten Antrag jedoch ab."
+    "name": "Umsetzung der Verwaltungsreform (LOG)",
+    "summary": "Die Implementierung des neuen Landesorganisationsgesetzes wird in drei Phasen geplant, um die Verwaltung zu modernisieren. Obwohl Ressourcen für neue Aufgaben wie Datenbanken und eine Einigungsstelle vorgesehen sind, äußert die Opposition Bedenken, ob die Mittel ausreichen. Insbesondere die Reduzierung externer Beratungsleistungen wird kritisch gesehen."
   },
   {
-    "name": "Digitale Bearbeitung von Wohngeldanträgen",
-    "summary": "Eine Anfrage der SPD-Fraktion zum Stand der digitalen Bearbeitung von Wohngeldanträgen wurde diskutiert. Aufgrund der kurzfristigen Einreichung und der Zuständigkeit anderer Senatsverwaltungen wurde die Beantwortung vertagt und die Einbringung als eigener Besprechungspunkt für eine kommende Sitzung vereinbart."
+    "name": "Einrichtung eines zentralen Digitalhaushalts",
+    "summary": "Die CDO und die Opposition befürworten die Schaffung eines zentralen Digitalhaushalts zur besseren Steuerung von Projekten. Die Umsetzung wird vom Senat jedoch erst für den nächsten Doppelhaushalt angestrebt. Kritiker bemängeln die Verzögerung und die gleichzeitige Kürzung von Projektmitteln bei der CDO."
   },
   {
-    "name": "Bericht zu Verwaltungsreform und Datenschutz",
-    "summary": "Die Staatssekretärin berichtete über Fortschritte bei der Verwaltungsreform, den Beschluss des Jahresberichts zur Open-Source-Strategie und die Live-Schaltung des 100. Basisdienstes für digitale Anträge. Die Datenschutzbeauftragte informierte über ihren bevorstehenden Vorsitz der Datenschutzkonferenz mit dem Schwerpunktthema Anonymisierung und Pseudonymisierung."
+    "name": "Optimierung der Berliner Bürgerdienste",
+    "summary": "Durch Personalaufstockung und Digitalisierung konnten die Wartezeiten bei den Bürgerämtern deutlich reduziert und das \"14-Tage-Ziel\" zu über 80% erreicht werden. Bei den Standesämtern besteht jedoch weiterhin erheblicher Modernisierungsbedarf. Neue Services wie Dokumentenausgabeboxen werden pilotiert, um den Service weiter zu verbessern."
   },
   {
-    "name": "Datenschutz bei KI-Modellen",
-    "summary": "Die Berliner Datenschutzbeauftragte wies auf eine Stellungnahme des Europäischen Datenschutzausschusses (EDSA) zu KI-Modellen hin. Sie betonte, dass für die Nutzung personenbezogener Daten zum Training von KI durch öffentliche Stellen eine eigene Rechtsgrundlage geschaffen werden sollte, da die Interessenabwägung nach DSGVO hier nicht anwendbar sei."
+    "name": "IKT-Infrastruktur und Arbeitsplatzausstattung",
+    "summary": "Aufgrund von Haushaltskürzungen müssen viele Behörden ihre IT-Hardware über den geplanten Lebenszyklus hinaus nutzen. Dies weckt Sorgen vor einem \"Ablösestau\" und dem Einsatz veralteter, störanfälliger Technik. Die Zentralisierung von IT-Arbeitsplätzen beim ITDZ wird fortgesetzt, das zentrale Programm \"OneIT\" jedoch eingestellt."
   },
   {
-    "name": "KI-Aktivitäten der Berliner Verwaltung",
-    "summary": "Die Senatskanzlei stellte ihre KI-Strategie vor, inklusive einer KI-Taskforce, Leitlinien zum Umgang mit Chatbots und einem Projekt zur Beschleunigung von Genehmigungsverfahren. Die Senatsverwaltung für Finanzen und die Berliner Feuerwehr präsentierten konkrete Pilotprojekte, wie KI-Assistenten zur Erstellung von Stellenbeschreibungen und zur Unterstützung bei der Notrufabfrage."
+    "name": "Haushalt des Datenschutzbeauftragten",
+    "summary": "Der Berliner Datenschutzbeauftragte plant Investitionen in die Erneuerung veralteter IT-Infrastruktur wie Speicher- und Backup-Systeme. Zudem soll eine Laborumgebung zur Analyse von Datenschutzanforderungen an KI-Systeme aufgebaut werden. Auch eine neue Kommunikationsplattform ist geplant."
   },
   {
-    "name": "Ausnahmen vom E-Government-Gesetz",
-    "summary": "Der Ausschuss besprach Ausnahmen von der Pflicht, IT-Dienstleistungen vom ITDZ Berlin zu beziehen. Konkrete Fälle wie ein Ticketsystem für das Projekt HKR-neu wurden als temporäre Lösungen dargestellt, bis das ITDZ entsprechende Dienste bereitstellen kann. Es wurde angeregt, die Begründungen für Ausnahmen zukünftig detaillierter darzustellen."
+    "name": "Cybersicherheit und NIS-2-Umsetzung",
+    "summary": "Informationssicherheit bleibt eine Priorität, was sich in der Finanzierung des Cyber Defence Centers widerspiegelt. Die Umsetzung der EU-NIS-2-Richtlinie ist ein zentrales Vorhaben, zu dem die Fraktionen detaillierte Informationen anfordern. Auch die Sicherheit spezifischer Systeme wie des Bündelfunks in Justizvollzugsanstalten wird thematisiert."
+  },
+  {
+    "name": "Verzögerung bei Windows 11-Umstellung",
+    "summary": "Im Ausschuss wurde die Verzögerung bei der Umstellung auf Windows 11 in der Berliner Verwaltung thematisiert. Als Grund für die dezentrale Abwicklung wurde die föderale Struktur genannt, die eine individuelle Beteiligung der Personalvertretungen in jeder Behörde erfordert, was aber nicht der Hauptgrund für Verzögerungen sei. Die Senatskanzlei überwacht den Fortschritt, um die Umstellung vor dem Support-Ende von Windows 10 sicherzustellen."
+  },
+  {
+    "name": "Umsetzung der Verwaltungsreform",
+    "summary": "Die Staatssekretärin berichtete über die nächsten Schritte zur Umsetzung der beschlossenen Verwaltungsreform. In der Senatskanzlei wird ein Implementierungsprojekt gestartet, um die Reform mit Leben zu füllen und notwendige Anpassungen, beispielsweise an der Gemeinsamen Geschäftsordnung (GGO), vorzunehmen. Zudem soll im Bundesrat ein neuer Ausschuss für Digitalisierung und Staatsmodernisierung eingerichtet werden, dessen Vorsitz Berlin übernehmen soll."
+  },
+  {
+    "name": "BerlinPC-Umstellung und virtuelle ITDZ-Teams",
+    "summary": "Der Ausschuss besprach die erfolgreiche Umstellung des Rechnungshofes auf den standardisierten BerlinPC, wobei die enge Zusammenarbeit und Flexibilität als Erfolgsfaktoren hervorgehoben wurden. Das ITDZ stellte zudem sein neues Konzept der 'virtuellen Teams' vor, das eine serviceorientierte, abteilungsübergreifende Betreuung der Kunden von Anfang bis Ende gewährleisten und die Kommunikation verbessern soll."
+  },
+  {
+    "name": "Hürden bei der IT-Standardisierung (OneIT@Berlin)",
+    "summary": "Die Debatte konzentrierte sich auf die Hindernisse für eine flächendeckende IT-Standardisierung in der Verwaltung. Als größte Herausforderungen wurden die mangelnde 'Migrationsreife' vieler Gebäude, die hohe Investitionen in die Infrastruktur erfordert, sowie die Vielzahl an veralteten Fachverfahren identifiziert. Diese Probleme verlangsamen den Roll-out des BerlinPC und anderer standardisierter Dienste erheblich."
+  },
+  {
+    "name": "Digitale Souveränität und Open Source",
+    "summary": "Angesichts des Wechsels zu Open-Source-Software in anderen Regionen wurde die Strategie Berlins zur digitalen Souveränität erfragt. Die Staatssekretärin verwies auf das Open-Source-Kompetenzzentrum und eine kommende Strategie, für die jedoch vorerst keine zusätzlichen Haushaltsmittel vorgesehen sind."
+  },
+  {
+    "name": "Hackerangriff auf BVG-Dienstleister",
+    "summary": "Der Ausschuss befasste sich mit dem Hackerangriff auf einen Dienstleister der BVG, bei dem Kundendaten betroffen waren. Die BVG erläuterte ihre Aufklärungsarbeit und geplante Maßnahmen zur besseren Kontrolle von Dienstleistern, während die Opposition Kontrolldefizite kritisierte und die Notwendigkeit von Vor-Ort-Prüfungen betonte."
+  },
+  {
+    "name": "Open Data und EU-Datenstrategie",
+    "summary": "Auf Antrag der Grünen wurde die Umsetzung der EU-Datenstrategie und die Berliner Open-Data-Strategie diskutiert. Themen waren die Veröffentlichung von Kerndatensätzen, die Rolle von Open-Data-Beauftragten und die Durchführung von Dateninventuren in den Verwaltungen."
+  },
+  {
+    "name": "Auswertung Aktionstag Bürgerämter",
+    "summary": "Der Aktionstag 'Terminfreie Zeiten' in den Bürgerämtern wurde als großer Erfolg bewertet, da der befürchtete Ansturm ausblieb. Dies deutet auf einen geringeren Terminstau als angenommen hin, weshalb nun eine Verstetigung des Angebots zur Flexibilisierung des Bürgerservices diskutiert wird."
+  },
+  {
+    "name": "Beendigung des Sozialhilfeportal-Projekts",
+    "summary": "Im Bericht der Senatskanzlei wurde bekannt gegeben, dass das Projekt zur Einführung eines Sozialhilfeportals erfolglos eingestellt wurde. Auf Nachfrage wurde bestätigt, dass die zuständige Sozialverwaltung an einer alternativen Perspektive arbeitet."
+  },
+  {
+    "name": "Antrag zum Berliner Digitaltag",
+    "summary": "Die Fraktion Bündnis 90/Die Grünen beantragte, dass der Senat seine Aktivitäten zum Digitaltag darstellt und diesen aktiv bewirbt. Der Antrag wurde nach kurzer Stellungnahme der Staatssekretärin mehrheitlich abgelehnt."
+  },
+  {
+    "name": "Hackerangriff auf BVG Kundendaten",
+    "summary": "Ein externer Dienstleister der BVG wurde gehackt, wodurch die Daten von ca. 180.000 Kunden, darunter Namen, Adressen und E-Mail-Adressen, entwendet wurden. Die Diskussion im Ausschuss konzentrierte sich auf die späte Kommunikation der BVG, die Auswahl und Kontrolle von Dienstleistern sowie Maßnahmen zum Schutz der betroffenen Kunden vor Identitätsdiebstahl."
+  },
+  {
+    "name": "Digitalisierung in der Verwaltungsreform",
+    "summary": "Die Staatssekretärin stellte die Schwerpunkte der geplanten Verwaltungsreform vor, die auch die Digitalisierung betreffen. Kernpunkte sind ein neuer, einheitlicher Aufgabenkatalog, eine verbesserte gesamtstädtische Steuerung und die Schaffung eines Politikfeldes „Digitalisierung, Organisation und Prozesse“, um die Digitalisierungsverantwortung zu bündeln und zu stärken."
+  },
+  {
+    "name": "DDoS-Angriff auf Serviceportal berlin.de",
+    "summary": "Das Hauptstadtportal berlin.de war Ziel eines massiven DDoS-Angriffs, der in seinem Ausmaß bisherige Attacken übertraf. Im Ausschuss wurde die Auswirkung des Angriffs auf die interne Funktionsfähigkeit der Verwaltung und die Notwendigkeit eines robusten Schutzes nach dem neuesten Stand der Technik diskutiert."
+  },
+  {
+    "name": "IT-Ausfall in Berliner Bürgerämtern",
+    "summary": "Ein IT-Ausfall im ITDZ führte zu erheblichen Störungen in den Berliner Bürgerämtern. Ursache war eine fehlerhafte Reduzierung des Speicherplatzes für eine zentrale Datenbank. Im Ausschuss wurde über die Notwendigkeit von digitalen Back-up-Verfahren diskutiert, um die Arbeitsfähigkeit bei zukünftigen Störungen zu sichern."
+  },
+  {
+    "name": "Zukunft des öffentlichen WLANs",
+    "summary": "Der Senat hat entschieden, das Projekt für öffentliches WLAN in Berlin nicht weiterzuführen. Als Grund wurden fehlende Haushaltsmittel in Höhe von ca. 6 Millionen Euro genannt. Die Fraktion Die Linke kritisierte die Entscheidung und betonte die Wichtigkeit des Angebots für Menschen ohne mobilen Datenzugang."
+  },
+  {
+    "name": "Open Data und Datenstrategie",
+    "summary": "Die Besprechung zum Thema Open Data und der Umsetzung der Europäischen Datenstrategie in Berlin wurde auf Antrag der Fraktion Bündnis 90/Die Grünen auf die Tagesordnung gesetzt. Der Punkt wurde aus zeitlichen Gründen vertagt und nicht inhaltlich behandelt."
+  },
+  {
+    "name": "Mehrsprachigkeit des Portals berlin.de",
+    "summary": "Auf eine Anfrage der Fraktion Bündnis 90/Die Grünen wurde der Status der Mehrsprachigkeit des Portals berlin.de thematisiert. Insbesondere wurde nach den Gründen für die Deaktivierung der bereits vorgestellten Funktion gefragt, woraufhin Staatssekretär Hauer antwortete."
+  },
+  {
+    "name": "Umstellung auf Windows 11",
+    "summary": "Auf gemeinsamen Antrag von CDU und SPD sowie einem separaten Antrag der Grünen wurden die Erfahrungen bei der Umstellung auf Windows 11 in der Verwaltung besprochen. In einer Anhörung mit Vertretern des ITDZ und von Bezirksämtern wurden Fehler analysiert und die Idee eines standardisierten 'Berlin PC' diskutiert."
+  },
+  {
+    "name": "Digitale Beteiligung bei Volksentscheiden",
+    "summary": "Die Fraktion Die Linke brachte einen Gesetzesantrag zur Einführung digitaler Beteiligungsmöglichkeiten bei direktdemokratischen Verfahren ein. Nach einer Aussprache wurde der Antrag von der Mehrheit des Ausschusses abgelehnt und eine entsprechende Stellungnahme an den federführenden Ausschuss beschlossen."
+  },
+  {
+    "name": "Neue IT-Bestands- und Planungsübersicht",
+    "summary": "Auf Antrag der Fraktion Bündnis 90/Die Grünen wurde die neue IT-Bestands- und Planungsübersicht diskutiert. Es wurde erörtert, ob dieses Instrument für eine effektive gesamtstädtische Steuerung der IT-Landschaft geeignet ist."
+  },
+  {
+    "name": "Großstörung des BerlinPC",
+    "summary": "Auf eine Anfrage der Fraktion Bündnis 90/Die Grünen zur erneuten Großstörung des BerlinPC und der Sicherstellung der Arbeitsfähigkeit der Beschäftigten gaben Staatssekretär Hauer und ein Vertreter des ITDZ Auskunft. Die zunehmende Häufung von Störungen wurde thematisiert."
+  },
+  {
+    "name": "Transparenz über Datenverarbeitung öffentlicher Stellen",
+    "summary": "Der Ausschuss beriet einen Antrag der Fraktion Bündnis 90/Die Grünen, der mehr Transparenz über die Datenverarbeitung durch öffentliche Stellen in Berlin schaffen sollte, um die IT-Sicherheit zu erhöhen. Nach einer Aussprache wurde der Antrag mehrheitlich abgelehnt."
+  },
+  {
+    "name": "Digitalisierung von Sozialleistungen",
+    "summary": "Auf Antrag von Grünen und Linken wurde die Digitalisierung von Sozialleistungen diskutiert, wobei das Projekt 'Sieben auf einen Streich' als mögliches Vorbild für Berlin erörtert wurde. Die Besprechung basierte auch auf der Auswertung einer früheren Anhörung."
+  },
+  {
+    "name": "Cyberangriff auf Abrechnungsdienstleister Unimed",
+    "summary": "Auf eine Anfrage der SPD-Fraktion wurde ein Cyberangriff auf den Dienstleister Unimed thematisiert. Es wurde geklärt, ob Berliner Krankenhäuser betroffen sind und ob Patientendaten aus Berlin entwendet wurden."
+  },
+  {
+    "name": "Digitalisierung der Lebensmittelpersonalhygienebelehrung",
+    "summary": "Auf Antrag von CDU und SPD wurde der aktuelle Stand der Digitalisierung der sogenannten \"Roten Karte\" besprochen. Vertreter der Senatskanzlei und der Senatsverwaltung für Gesundheit nahmen Stellung."
+  },
+  {
+    "name": "Zukunft und Probleme der BVG App",
+    "summary": "Auf Antrag der Grünen-Fraktion wurden Probleme und die zukünftige Entwicklung der BVG-App diskutiert. Der Vorstandsvorsitzende der BVG und die Berliner Beauftragte für Datenschutz beantworteten Fragen."
+  },
+  {
+    "name": "Verantwortung der Plattformen in sozialen Medien",
+    "summary": "Auf Antrag von CDU und SPD fand eine Anhörung zum Daten- und Jugendschutz in sozialen Medien statt. Als Sachverständige wurden Vertreter des Chaos Computer Clubs, von Meta und der Medienanstalt Berlin-Brandenburg befragt."
+  },
+  {
+    "name": "Antrag für ein Berliner Open-Source-Gesetz",
+    "summary": "Die Fraktion Bündnis 90/Die Grünen brachte einen Antrag für ein Berliner Open-Source-Gesetz ein. Nach einer Aussprache, in der auch der Staatssekretär Stellung nahm, wurde der Antrag zur Abstimmung gestellt."
+  },
+  {
+    "name": "Datenschutzvorfall bei Dienstleister der BVG",
+    "summary": "Der Ausschuss führte eine Anhörung zu einem Datenschutzvorfall bei einem Dienstleister der Berliner Verkehrsbetriebe (BVG) durch. Vertreter der BVG und die Berliner Beauftragte für Datenschutz und Informationsfreiheit (BlnBDI) nahmen Stellung zum Umfang der Verletzung des Schutzes personenbezogener Daten gemäß DSGVO."
+  },
+  {
+    "name": "Bundesratsinitiative für bargeldloses Zahlen",
+    "summary": "Auf Antrag von CDU und SPD wurde eine Bundesratsinitiative zur Stärkung digitaler Zahlungen und zur Förderung der Steuergerechtigkeit besprochen. Der Antrag zielt auf eine Annahmepflicht für bargeldlose Zahlungsmittel ab und wurde vom Ausschuss mehrheitlich angenommen."
+  },
+  {
+    "name": "GovTech Unit Berlin",
+    "summary": "Der Ausschuss befasste sich mit der GovTech Unit Berlin, die innovative Technologien für die Verwaltung fördern soll. Der Staatssekretär für Digitalisierung berichtete über die Einheit und beantwortete Fragen der Ausschussmitglieder."
+  },
+  {
+    "name": "Bericht aus der Senatskanzlei",
+    "summary": "Der Staatssekretär für Digitalisierung und Verwaltungsmodernisierung berichtete über aktuelle Vorgänge und beantwortete Nachfragen der Ausschussmitglieder. Zu einigen Punkten wurden schriftliche Nachlieferungen zugesagt."
+  },
+  {
+    "name": "Digitalisierung von Sozialleistungen",
+    "summary": "Auf Antrag der Grünen und Linken wurde die Digitalisierung von Sozialleistungen als mögliches Vorbild für die Berliner Verwaltung besprochen. Im Rahmen einer Anhörung wurden Experten von WeFix.Social und der Agora Digitale Transformation befragt."
+  },
+  {
+    "name": "Änderung des Berliner Datenschutzgesetzes",
+    "summary": "Der Ausschuss beriet über eine Gesetzesänderung zum Berliner Datenschutzgesetz und weiteren Vorschriften, wie dem Informationsfreiheitsgesetz und dem Bäder-Anstaltsgesetz. Nach einer Anhörung von Sachverständigen wurde ein Änderungsantrag von CDU und SPD angenommen, der den Informationszugang bei Ermittlungsverfahren präzisiert und die Videoüberwachung in Bädern auf bestimmte Bereiche beschränkt."
+  },
+  {
+    "name": "Einsatz von KI-Systemen",
+    "summary": "Auf Anfrage der Linksfraktion wurde der Einsatz von KI-Systemen in den Senatsverwaltungen thematisiert. Insbesondere wurde die Verwendung von KI zur Erstellung von Stellungnahmen durch die Finanzverwaltung kritisch hinterfragt."
+  },
+  {
+    "name": "Digitaler Anwohnerparkausweis",
+    "summary": "Die Fraktion Bündnis 90/Die Grünen erkundigte sich nach dem Fortschritt des medienbruchfreien Anwohnerparkausweises. Im Fokus stand die Frage, wann mit dem Abschluss dieses Digitalisierungsvorhabens zu rechnen ist."
+  },
+  {
+    "name": "Änderung des Berliner Datenschutzgesetzes",
+    "summary": "Eine dringliche Vorlage zur Änderung des Berliner Datenschutzgesetzes und weiterer Vorschriften stand zur Beschlussfassung an. Der Ausschuss hat die Behandlung dieses Tagesordnungspunktes jedoch auf eine spätere Sitzung verschoben."
+  },
+  {
+    "name": "IT-Sicherheit in Marzahn-Hellersdorf",
+    "summary": "Auf Antrag der Grünen wurde die IT-Sicherheit im Bezirk Marzahn-Hellersdorf besprochen. Anlass war die Veröffentlichung einer Mängelliste in einem Bericht des Rechnungshofs, woraufhin der Ausschuss über die ergriffenen Maßnahmen und die weitere Vorgehensweise debattierte."
+  },
+  {
+    "name": "Vorstellung der Multi-Cloud-Strategie",
+    "summary": "Auf Antrag von CDU und SPD stellte die Senatskanzlei die Multi-Cloud-Strategie des Landes Berlin vor. Die Staatssekretärin für Digitalisierung erläuterte das Konzept und beantwortete Fragen der Ausschussmitglieder."
+  },
+  {
+    "name": "Standardprozess Datenschutz bei Digitalisierungsvorhaben",
+    "summary": "Die Berliner Datenschutzbeauftragte hat einen Standardprozess entwickelt, um Datenschutz von Beginn an in öffentliche IT-Digitalisierungsprojekte zu integrieren. Dieser Prozess wird aktuell zu einer nutzerfreundlicheren Version 2.0 weiterentwickelt und dient als Vorbild für bundesweite OZG-Dienste."
+  },
+  {
+    "name": "Postadressen-Pflicht bei IFG-Anträgen",
+    "summary": "Es wurde kontrovers diskutiert, ob für Anträge nach dem Informationsfreiheitsgesetz (IFG) eine Postadresse zwingend erforderlich ist. Während die Datenschutzbeauftragte und Oppositionsparteien für einen niedrigschwelligen Zugang plädieren, sehen Koalition und Senat die Adressangabe als notwendig für ein geordnetes Verwaltungsverfahren und zum Schutz vor Missbrauch."
+  },
+  {
+    "name": "Einsatz von Gesichtserkennungssystemen",
+    "summary": "Die Datenschutzbeauftragte kritisiert den Einsatz von Gesichtserkennung durch die Staatsanwaltschaft als rechtsgrundlagenlos. Die Justizverwaltung verteidigt die Praxis mit Verweis auf richterliche Beschlüsse und wirft der Beauftragten eine Kompetenzüberschreitung vor."
+  },
+  {
+    "name": "Antrag für ein Berliner Transparenzgesetz",
+    "summary": "Ein von den Fraktionen Bündnis 90/Die Grünen und Die Linke eingebrachter Antrag zur Schaffung eines Berliner Transparenzgesetzes wurde im Ausschuss beraten. Nach der Aussprache wurde der Antrag von der Mehrheit der Koalitionsfraktionen und der AfD abgelehnt."
+  },
+  {
+    "name": "Terminfreie Angebote in Bürgerämtern",
+    "summary": "Auf Anfrage der CDU-Fraktion berichtete die Senatskanzlei über die verbesserte Terminsituation in den Bürgerämtern. Es wurde eine berlinweit einheitliche Regelung eingeführt, die es Bürgerinnen und Bürgern ermöglicht, bestimmte Dienstleistungen wie die Abholung von Dokumenten ohne vorherigen Termin in Anspruch zu nehmen. Dies stellt eine deutliche Entlastung und Serviceverbesserung dar."
+  },
+  {
+    "name": "Gesetz zum NOOTS-Staatsvertrag",
+    "summary": "Der Ausschuss beriet über das Ratifizierungsgesetz zum National-Once-Only-Technical-System (NOOTS), das die Registermodernisierung vorantreiben soll. Während die Notwendigkeit grundsätzlich befürwortet wurde, äußerten die Fraktionen Die Linke und Grüne sowie die Datenschutzbeauftragte erhebliche Bedenken hinsichtlich des Datenschutzes und der fehlenden parlamentarischen Kontrolle. Kritisiert wurden insbesondere die unzureichende Zweckbindung und das Fehlen einer zentralen Anlaufstelle für Betroffene."
+  },
+  {
+    "name": "Onlinezugangsgesetz 2.0 und Folgen",
+    "summary": "Auf Antrag der Grünen wurden die Folgen des OZG 2.0 für Berlin diskutiert. Kritisiert wurde, dass oft noch keine Ende-zu-Ende-Digitalisierung stattfindet und Insellösungen statt wiederverwendbarer EfA-Dienste entwickelt werden. Die Senatskanzlei stimmte der Kritik zu und forderte mehr verbindliche Bundesstandards sowie eine konsequentere Umsetzung des Einer-für-Alle-Prinzips."
+  },
+  {
+    "name": "Einsatz von Künstlicher Intelligenz",
+    "summary": "Die Staatssekretärin berichtete über mehrere KI-Projekte in der Verwaltung, darunter die Einführung von BärGPT und den Test eines KI-basierten Chatbots für die Behördennummer 115. Zudem wird eine Ergänzung des E-Government-Gesetzes vorbereitet, um eine Rechtsgrundlage für den Einsatz von KI bei der Verarbeitung personenbezogener Daten zu schaffen."
+  },
+  {
+    "name": "Finanzierung von Digitalisierungsvorhaben",
+    "summary": "Die Fraktion der Grünen erkundigte sich nach der Verwendung von Mitteln aus dem Sondervermögen des Bundes für den Digitalhaushalt. Die Staatssekretärin bestätigte, dass für den nächsten Doppelhaushalt zweimal 20 Millionen Euro für Digitalisierungsvorhaben vorgesehen sind, mit einem Schwerpunkt auf Informationssicherheit."
+  },
+  {
+    "name": "Vorstellung des Digitalisierungsdashboards Berlin",
+    "summary": "Die Senatskanzlei präsentierte das neue, öffentlich zugängliche Digitalisierungsdashboard. Das Tool bietet einen tagesaktuellen Überblick über den Digitalisierungsstand der Berliner Verwaltungsleistungen und soll sowohl der Transparenz für Bürger als auch der internen Steuerung dienen. Abgeordnete diskutierten Funktionsumfang, Datenpflege und mögliche Erweiterungen."
+  },
+  {
+    "name": "Ende der WLAN-Initiative des Senats",
+    "summary": "Der Ausschuss diskutierte die Einstellung der WLAN-Initiative des Senats, die von der Staatssekretärin mit fehlenden finanziellen Ressourcen begründet wurde. Oppositionsparteien kritisierten die Entscheidung unter Verweis auf soziale Aspekte und Sicherheitsstandards, während die Koalition auf die verbesserte Mobilfunkabdeckung verwies. Die Möglichkeit für Bezirke, eigene Initiativen weiterzuführen, wurde ebenfalls erörtert."
+  },
+  {
+    "name": "Status der digitalen Barrierefreiheit",
+    "summary": "Der Ausschuss erörterte den aktuellen Stand der digitalen Barrierefreiheit in der Verwaltung, wobei die Senatskanzlei über Maßnahmen wie ein KI-Übersetzungstool berichtete. Im Zentrum der Debatte stand ein Antrag der Grünen zur Einrichtung eines Beirats für digitale Nutzerfreundlichkeit, um die Perspektive von Betroffenen besser einzubinden. Der Antrag wurde kontrovers diskutiert und schließlich vertagt."
+  },
+  {
+    "name": "Cyber-Vorfall am Flughafen BER",
+    "summary": "Abgeordnete erkundigten sich nach einem Cyber-Vorfall am Flughafen BER. Die Staatssekretärin bestätigte, dass ein Dienstleister angegriffen wurde, was den Flughafen mittelbar betraf, konnte aber keine weiteren Details nennen."
+  },
+  {
+    "name": "Fortschritte der Verwaltungsdigitalisierung",
+    "summary": "Die Staatssekretärin berichtete über die Eröffnung eines neuen Bürgeramts, den Start des Digitalisierungsdashboards und Fortschritte bei der Verwaltungsreform. Berlin wurde im E-Government-Monitor als Spitzenreiter bei der Nutzung des Online-Ausweises bestätigt."
+  },
+  {
+    "name": "Neuaufstellung des Programms OneIT@Berlin",
+    "summary": "Der Ausschuss diskutierte die Umstrukturierung des Programms zur IT-Zentralisierung. Ab 2026 soll das ITDZ die operative Verantwortung für die Migration der Behörden auf den standardisierten BerlinPC übernehmen, um den Prozess zu beschleunigen."
+  },
+  {
+    "name": "Änderung des ITDZ-Gesetzes",
+    "summary": "Ein Gesetz zur Änderung der Finanzierung des ITDZ wurde beraten. Zukünftig muss das ITDZ nur noch den Bilanzgewinn statt des gesamten Jahresüberschusses an den Landeshaushalt abführen, was eine bessere Finanzplanung und Rücklagenbildung ermöglicht."
+  },
+  {
+    "name": "Löschmoratorien bei der Polizei",
+    "summary": "Es wurde die Praxis der Polizei diskutiert, für Untersuchungsausschüsse potenziell relevante Daten nicht zu löschen. Die Datenschutzbeauftragte kritisierte das Fehlen konkreter Kriterien, was zu einer unverhältnismäßigen Ansammlung von Daten führe."
+  },
+  {
+    "name": "Missbrauch polizeilicher Datenbanken",
+    "summary": "Der Ausschuss befasste sich mit der unbefugten Nutzung polizeiinterner Datenbanken durch Beamte für private Zwecke. Diskutiert wurden die Wirksamkeit von Kontrollmechanismen und die Notwendigkeit klarer disziplinarischer Konsequenzen."
+  },
+  {
+    "name": "Umsetzung der NIS-2 Richtlinie",
+    "summary": "Die Umsetzung der EU-Richtlinie zur Cybersicherheit (NIS-2) war Thema der Besprechung. Kritisiert wurde die verzögerte Umsetzung im Land Berlin, während der Senat auf ein noch ausstehendes Bundesgesetz verwies."
+  },
+  {
+    "name": "Steuerung der Digitalisierung durch Senat",
+    "summary": "Der Ausschuss diskutierte den Bericht des Rechnungshofs, der eine mangelnde zentrale Steuerung und Planung bei der Digitalisierung, insbesondere bei der OZG-Umsetzung, kritisiert. Der Rechnungshof empfahl eine Zentralisierung der IT-Finanzierung und mehr Autonomie für das ITDZ. Die Staatssekretärin räumte strukturelle Probleme ein und verwies auf das neu geschaffene Digitalkabinett zur besseren Koordinierung."
+  },
+  {
+    "name": "14-Tage-Ziel für Bürgeramtstermine",
+    "summary": "Ein Antrag der Grünen forderte die konsequente Umsetzung des Ziels, Bürgeramtstermine innerhalb von 14 Tagen anzubieten. In der Debatte wurden Maßnahmen wie zusätzliches Personal, neue Standorte und ein verbessertes Terminbuchungssystem zur Reduzierung von 'No-Shows' erörtert. Der Senat berichtete von Fortschritten, während die Opposition die Zielerreichung weiterhin als unzureichend ansieht."
+  },
+  {
+    "name": "Bericht zu Datenschutz und Digitalisierung",
+    "summary": "Die Staatssekretärin berichtete über Aktivitäten des Senats, u.a. beim IT-Planungsrat. Die Berliner Beauftragte für Datenschutz informierte über die Ergebnisse der Datenschutzkonferenz, die u.a. einen systematischen Grundrechtecheck bei Gesetzen, moderne Transparenzgesetze und eine effizientere Aufsichtsstruktur forderte."
+  },
+  {
+    "name": "Digitale Antragsstellung des Wohngelds",
+    "summary": "Die Besprechung zur digitalen Wohngeld-Antragstellung wurde ohne inhaltliche Debatte abgeschlossen. Grund dafür war die Abwesenheit sprechfähiger Vertreter der zuständigen Senatsverwaltung. Die ursprüngliche Intention war, den Erfolg dieses Digitalisierungsprojekts als Vorbild für andere Bereiche zu diskutieren."
+  },
+  {
+    "name": "Bericht aus der Senatskanzlei",
+    "summary": "Staatssekretärin Klement berichtete über den ITDZ-Wirtschaftsplan, die Verwaltungsreform und eine Kampagne zur Förderung von Online-Diensten. Die Datenschutzbeauftragte informierte über eine Stellungnahme zum Data Act und die anstehende Datenschutzkonferenz."
+  },
+  {
+    "name": "Föderale Umsetzung von EU-Digitalrecht",
+    "summary": "Der Ausschuss diskutierte die nationale Umsetzung von EU-Digitalgesetzen wie dem AI Act. Experten und Opposition plädierten für dezentrale Aufsichtsstrukturen auf Länderebene, um Bürgernähe zu wahren, während der Senat eine Zentralisierung auf Bundesebene befürwortet."
+  },
+  {
+    "name": "Auswertung der Informationsreise nach Wien",
+    "summary": "Abgeordnete werteten ihre Reise nach Wien aus und zeigten sich beeindruckt von der digitalen ID Austria und automatisierten Bauantragsverfahren. Sie regten an, die Zusammenarbeit mit zivilgesellschaftlichen Organisationen nach Wiener Vorbild zu intensivieren."
+  },
+  {
+    "name": "Digitale Zwillinge europäisch vernetzen",
+    "summary": "Die Grünen beantragten den Beitritt Berlins zu einer europäischen Initiative zur Vernetzung von Digitalen Zwillingen. Die Koalitionsfraktionen CDU und SPD lehnten den Antrag ab mit der Begründung, Berlin sei für die Umsetzung noch nicht bereit."
+  },
+  {
+    "name": "Informationskampagne für digitale Bürgerservices",
+    "summary": "Staatssekretär Hauer berichtet über die neue Kampagne \"Online geht mehr, als du denkst\", die gestartet wurde, um die Nutzung bereits verfügbarer digitaler Verwaltungsdienstleistungen zu fördern. Ziel ist es, die Bürgerinnen und Bürger zu informieren und gleichzeitig die Bürgerämter zu entlasten."
+  },
+  {
+    "name": "Verordnung digitale Lehr- und Lernmittel",
+    "summary": "Auf Antrag der Linksfraktion wurde der aktuelle Stand der Verordnung über digitale Lehr- und Lernmittel (DigLLV) erörtert. Diskutiert wurden eine kürzliche Anpassung bezüglich der Auftragsdatenverarbeitung sowie die fortlaufende Abstimmung zwischen der Senatsverwaltung für Bildung und der Berliner Datenschutzbeauftragten."
+  },
+  {
+    "name": "Änderung des Landeskrankenhausgesetzes",
+    "summary": "Der Ausschuss debattierte eine Gesetzesänderung zur Meldepflicht bei der Auslagerung von IT-Aufgaben durch Krankenhäuser. Ein Änderungsantrag der Koalition sieht vor, die Meldungen über Auftragsdatenverarbeitungsverträge künftig an die Datenschutzbeauftragte statt an die Gesundheitsverwaltung zu richten, was zu kontroversen Diskussionen über Zuständigkeiten und Kontrollmöglichkeiten führte."
   }
 ]

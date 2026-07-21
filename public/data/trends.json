@@ -1,27 +1,72 @@
 [
   {
-    "date": "2026-03",
-    "category": "Datenschutz & Informationsfreiheit",
+    "date": "2026-06",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "count": 3
+  },
+  {
+    "date": "2026-06",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "count": 3
+  },
+  {
+    "date": "2026-06",
+    "category": "Haushalt & Steuerung",
+    "count": 1
+  },
+  {
+    "date": "2026-06",
+    "category": "Datenschutz & Grundrechte",
+    "count": 1
+  },
+  {
+    "date": "2026-06",
+    "category": "Cybersicherheit & Resilienz",
+    "count": 1
+  },
+  {
+    "date": "2026-05",
+    "category": "Datenschutz & Grundrechte",
     "count": 2
   },
   {
-    "date": "2026-03",
-    "category": "Cybersicherheit",
+    "date": "2026-05",
+    "category": "Digitale Gesetze & Strategien",
+    "count": 2
+  },
+  {
+    "date": "2026-05",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "count": 1
+  },
+  {
+    "date": "2026-04",
+    "category": "Bürgerdienste & Digitale Anträge",
     "count": 1
   },
   {
     "date": "2026-03",
-    "category": "IT-Infrastruktur & ITDZ",
+    "category": "Datenschutz & Grundrechte",
+    "count": 2
+  },
+  {
+    "date": "2026-03",
+    "category": "Cybersicherheit & Resilienz",
+    "count": 1
+  },
+  {
+    "date": "2026-03",
+    "category": "IT-Modernisierung & Infrastruktur",
     "count": 1
   },
   {
     "date": "2026-02",
-    "category": "Datenschutz & Informationsfreiheit",
+    "category": "Datenschutz & Grundrechte",
     "count": 2
   },
   {
     "date": "2026-02",
-    "category": "IT-Infrastruktur & ITDZ",
+    "category": "Informationsfreiheit & Transparenz",
     "count": 2
   },
   {
@@ -31,152 +76,752 @@
   },
   {
     "date": "2026-02",
-    "category": "Digitale Bürgerdienste (E-Government)",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "count": 1
+  },
+  {
+    "date": "2026-02",
+    "category": "IT-Modernisierung & Infrastruktur",
     "count": 1
   },
   {
     "date": "2026-01",
-    "category": "Digitale Bürgerdienste (E-Government)",
+    "category": "Digitale Gesetze & Strategien",
+    "count": 2
+  },
+  {
+    "date": "2026-01",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "count": 3
+  },
+  {
+    "date": "2026-01",
+    "category": "Cybersicherheit & Resilienz",
+    "count": 1
+  },
+  {
+    "date": "2025-12",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "count": 2
+  },
+  {
+    "date": "2025-12",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "count": 2
+  },
+  {
+    "date": "2025-12",
+    "category": "Informationsfreiheit & Transparenz",
+    "count": 1
+  },
+  {
+    "date": "2025-12",
+    "category": "Künstliche Intelligenz (KI)",
+    "count": 1
+  },
+  {
+    "date": "2025-12",
+    "category": "Digitale Gesetze & Strategien",
+    "count": 1
+  },
+  {
+    "date": "2025-11",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "count": 3
+  },
+  {
+    "date": "2025-11",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "count": 2
+  },
+  {
+    "date": "2025-11",
+    "category": "Digitale Gesetze & Strategien",
+    "count": 2
+  },
+  {
+    "date": "2025-10",
+    "category": "Datenschutz & Grundrechte",
+    "count": 1
+  },
+  {
+    "date": "2025-10",
+    "category": "Haushalt & Steuerung",
+    "count": 1
+  },
+  {
+    "date": "2025-09",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "count": 3
+  },
+  {
+    "date": "2025-09",
+    "category": "Haushalt & Steuerung",
+    "count": 2
+  },
+  {
+    "date": "2025-09",
+    "category": "Datenschutz & Grundrechte",
+    "count": 1
+  },
+  {
+    "date": "2025-09",
+    "category": "Cybersicherheit & Resilienz",
+    "count": 1
+  },
+  {
+    "date": "2025-09",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "count": 1
+  },
+  {
+    "date": "2025-07",
+    "category": "IT-Modernisierung & Infrastruktur",
     "count": 4
   },
   {
-    "date": "2026-01",
-    "category": "IT-Infrastruktur & ITDZ",
+    "date": "2025-06",
+    "category": "Informationsfreiheit & Transparenz",
     "count": 1
   },
   {
-    "date": "2026-01",
-    "category": "Open Data & Open Source",
+    "date": "2025-06",
+    "category": "Cybersicherheit & Resilienz",
     "count": 1
   },
   {
-    "date": "2025-12",
-    "category": "Digitale Bürgerdienste (E-Government)",
-    "count": 3
+    "date": "2025-06",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "count": 1
   },
   {
-    "date": "2025-12",
-    "category": "IT-Infrastruktur & ITDZ",
+    "date": "2025-06",
+    "category": "Digitale Gesetze & Strategien",
+    "count": 1
+  },
+  {
+    "date": "2025-05",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "count": 1
+  },
+  {
+    "date": "2025-05",
+    "category": "Cybersicherheit & Resilienz",
     "count": 2
   },
   {
-    "date": "2025-12",
-    "category": "Datenschutz & Informationsfreiheit",
+    "date": "2025-05",
+    "category": "Digitale Gesetze & Strategien",
     "count": 1
   },
   {
-    "date": "2025-12",
-    "category": "Verwaltungsreform & Haushalt",
+    "date": "2025-05",
+    "category": "Informationsfreiheit & Transparenz",
     "count": 1
   },
   {
-    "date": "2025-12",
+    "date": "2025-04",
+    "category": "Haushalt & Steuerung",
+    "count": 1
+  },
+  {
+    "date": "2025-04",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "count": 2
+  },
+  {
+    "date": "2025-03",
+    "category": "Digitale Gesetze & Strategien",
+    "count": 1
+  },
+  {
+    "date": "2025-03",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "count": 2
+  },
+  {
+    "date": "2025-03",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "count": 1
+  },
+  {
+    "date": "2025-03",
+    "category": "Datenschutz & Grundrechte",
+    "count": 2
+  },
+  {
+    "date": "2025-02",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "count": 3
+  },
+  {
+    "date": "2025-02",
+    "category": "Digitale Gesetze & Strategien",
+    "count": 2
+  },
+  {
+    "date": "2025-02",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "count": 1
+  },
+  {
+    "date": "2025-02",
     "category": "Künstliche Intelligenz (KI)",
     "count": 1
   },
   {
-    "date": "2025-11",
-    "category": "Digitale Bürgerdienste (E-Government)",
-    "count": 5
-  },
-  {
-    "date": "2025-11",
-    "category": "Verwaltungsreform & Haushalt",
-    "count": 2
-  },
-  {
-    "date": "2025-11",
-    "category": "IT-Infrastruktur & ITDZ",
-    "count": 1
-  },
-  {
-    "date": "2025-10",
-    "category": "Cybersicherheit",
-    "count": 1
-  },
-  {
-    "date": "2025-10",
-    "category": "Verwaltungsreform & Haushalt",
-    "count": 1
-  },
-  {
-    "date": "2025-10",
-    "category": "IT-Infrastruktur & ITDZ",
-    "count": 1
-  },
-  {
-    "date": "2025-09",
-    "category": "Cybersicherheit",
+    "date": "2025-01",
+    "category": "Bürgerdienste & Digitale Anträge",
     "count": 3
   },
   {
-    "date": "2025-09",
-    "category": "IT-Infrastruktur & ITDZ",
+    "date": "2025-01",
+    "category": "Digitale Gesetze & Strategien",
+    "count": 1
+  },
+  {
+    "date": "2025-01",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "count": 2
+  },
+  {
+    "date": "2025-01",
+    "category": "Künstliche Intelligenz (KI)",
+    "count": 1
+  },
+  {
+    "date": "2024-12",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "count": 2
+  },
+  {
+    "date": "2024-12",
+    "category": "Datenschutz & Grundrechte",
+    "count": 1
+  },
+  {
+    "date": "2024-12",
+    "category": "Digitale Gesetze & Strategien",
+    "count": 1
+  },
+  {
+    "date": "2024-12",
+    "category": "Haushalt & Steuerung",
+    "count": 1
+  },
+  {
+    "date": "2024-12",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "count": 1
+  },
+  {
+    "date": "2024-11",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "count": 1
+  },
+  {
+    "date": "2024-11",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "count": 1
+  },
+  {
+    "date": "2024-11",
+    "category": "Künstliche Intelligenz (KI)",
+    "count": 2
+  },
+  {
+    "date": "2024-11",
+    "category": "Cybersicherheit & Resilienz",
+    "count": 1
+  },
+  {
+    "date": "2024-11",
+    "category": "Datenschutz & Grundrechte",
+    "count": 1
+  },
+  {
+    "date": "2024-10",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "count": 1
+  },
+  {
+    "date": "2024-10",
+    "category": "Cybersicherheit & Resilienz",
+    "count": 1
+  },
+  {
+    "date": "2024-10",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "count": 1
+  },
+  {
+    "date": "2024-09",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "count": 2
+  },
+  {
+    "date": "2024-09",
+    "category": "Datenschutz & Grundrechte",
+    "count": 1
+  },
+  {
+    "date": "2024-09",
+    "category": "Digitale Gesetze & Strategien",
+    "count": 1
+  },
+  {
+    "date": "2024-09",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "count": 2
+  },
+  {
+    "date": "2024-09",
+    "category": "Künstliche Intelligenz (KI)",
+    "count": 1
+  },
+  {
+    "date": "2024-07",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "count": 1
+  },
+  {
+    "date": "2024-07",
+    "category": "Digitale Gesetze & Strategien",
+    "count": 1
+  },
+  {
+    "date": "2024-07",
+    "category": "Datenschutz & Grundrechte",
+    "count": 1
+  },
+  {
+    "date": "2024-06",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "count": 2
+  },
+  {
+    "date": "2024-06",
+    "category": "Informationsfreiheit & Transparenz",
+    "count": 1
+  },
+  {
+    "date": "2024-06",
+    "category": "Bürgerdienste & Digitale Anträge",
     "count": 3
   },
   {
-    "date": "2025-09",
-    "category": "Datenschutz & Informationsfreiheit",
+    "date": "2024-04",
+    "category": "Digitale Gesetze & Strategien",
+    "count": 1
+  },
+  {
+    "date": "2024-04",
+    "category": "IT-Modernisierung & Infrastruktur",
     "count": 2
   },
   {
-    "date": "2025-09",
-    "category": "Verwaltungsreform & Haushalt",
+    "date": "2024-04",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "count": 1
+  },
+  {
+    "date": "2024-04",
+    "category": "Datenschutz & Grundrechte",
+    "count": 1
+  },
+  {
+    "date": "2024-04",
+    "category": "Haushalt & Steuerung",
+    "count": 1
+  },
+  {
+    "date": "2024-03",
+    "category": "Digitale Gesetze & Strategien",
+    "count": 1
+  },
+  {
+    "date": "2024-03",
+    "category": "Datenschutz & Grundrechte",
+    "count": 2
+  },
+  {
+    "date": "2024-03",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "count": 1
+  },
+  {
+    "date": "2024-03",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "count": 1
+  },
+  {
+    "date": "2024-03",
+    "category": "Haushalt & Steuerung",
+    "count": 1
+  },
+  {
+    "date": "2024-02",
+    "category": "Künstliche Intelligenz (KI)",
+    "count": 1
+  },
+  {
+    "date": "2024-02",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "count": 1
+  },
+  {
+    "date": "2024-01",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "count": 2
+  },
+  {
+    "date": "2024-01",
+    "category": "Bürgerdienste & Digitale Anträge",
     "count": 3
   },
   {
-    "date": "2025-09",
-    "category": "Digitale Bürgerdienste (E-Government)",
+    "date": "2023-12",
+    "category": "IT-Modernisierung & Infrastruktur",
     "count": 1
   },
   {
-    "date": "2025-07",
-    "category": "IT-Infrastruktur & ITDZ",
+    "date": "2023-12",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "count": 1
+  },
+  {
+    "date": "2023-11",
+    "category": "Informationsfreiheit & Transparenz",
+    "count": 1
+  },
+  {
+    "date": "2023-11",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "count": 1
+  },
+  {
+    "date": "2023-11",
+    "category": "Digitale Gesetze & Strategien",
+    "count": 1
+  },
+  {
+    "date": "2023-11",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "count": 1
+  },
+  {
+    "date": "2023-11",
+    "category": "Datenschutz & Grundrechte",
+    "count": 1
+  },
+  {
+    "date": "2023-11",
+    "category": "Cybersicherheit & Resilienz",
+    "count": 1
+  },
+  {
+    "date": "2023-10",
+    "category": "Haushalt & Steuerung",
+    "count": 1
+  },
+  {
+    "date": "2023-10",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "count": 1
+  },
+  {
+    "date": "2023-10",
+    "category": "Digitale Gesetze & Strategien",
+    "count": 1
+  },
+  {
+    "date": "2023-09",
+    "category": "Haushalt & Steuerung",
+    "count": 1
+  },
+  {
+    "date": "2023-09",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "count": 1
+  },
+  {
+    "date": "2023-09",
+    "category": "IT-Modernisierung & Infrastruktur",
     "count": 3
   },
   {
-    "date": "2025-07",
-    "category": "Verwaltungsreform & Haushalt",
+    "date": "2023-09",
+    "category": "Cybersicherheit & Resilienz",
     "count": 1
   },
   {
-    "date": "2025-06",
-    "category": "Open Data & Open Source",
-    "count": 2
-  },
-  {
-    "date": "2025-06",
-    "category": "Cybersicherheit",
+    "date": "2023-09",
+    "category": "Informationsfreiheit & Transparenz",
     "count": 1
   },
   {
-    "date": "2025-06",
-    "category": "Digitale Bürgerdienste (E-Government)",
+    "date": "2023-06",
+    "category": "Digitale Gesetze & Strategien",
     "count": 2
   },
   {
-    "date": "2025-06",
-    "category": "Verwaltungsreform & Haushalt",
+    "date": "2023-06",
+    "category": "Cybersicherheit & Resilienz",
     "count": 1
   },
   {
-    "date": "2025-05",
-    "category": "Cybersicherheit",
-    "count": 2
-  },
-  {
-    "date": "2025-05",
-    "category": "Verwaltungsreform & Haushalt",
+    "date": "2023-06",
+    "category": "Informationsfreiheit & Transparenz",
     "count": 1
   },
   {
-    "date": "2025-05",
-    "category": "IT-Infrastruktur & ITDZ",
+    "date": "2023-06",
+    "category": "Datenschutz & Grundrechte",
     "count": 2
   },
   {
-    "date": "2025-05",
-    "category": "Open Data & Open Source",
+    "date": "2023-06",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "count": 1
+  },
+  {
+    "date": "2023-06",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "count": 1
+  },
+  {
+    "date": "2023-05",
+    "category": "Haushalt & Steuerung",
+    "count": 2
+  },
+  {
+    "date": "2023-05",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "count": 1
+  },
+  {
+    "date": "2023-02",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "count": 1
+  },
+  {
+    "date": "2023-02",
+    "category": "Datenschutz & Grundrechte",
+    "count": 1
+  },
+  {
+    "date": "2023-02",
+    "category": "Digitale Gesetze & Strategien",
+    "count": 1
+  },
+  {
+    "date": "2023-01",
+    "category": "Datenschutz & Grundrechte",
+    "count": 3
+  },
+  {
+    "date": "2023-01",
+    "category": "Cybersicherheit & Resilienz",
+    "count": 1
+  },
+  {
+    "date": "2023-01",
+    "category": "Digitale Gesetze & Strategien",
+    "count": 1
+  },
+  {
+    "date": "2023-01",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "count": 2
+  },
+  {
+    "date": "2023-01",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "count": 1
+  },
+  {
+    "date": "2022-12",
+    "category": "Informationsfreiheit & Transparenz",
+    "count": 1
+  },
+  {
+    "date": "2022-12",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "count": 1
+  },
+  {
+    "date": "2022-12",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "count": 1
+  },
+  {
+    "date": "2022-11",
+    "category": "Digitale Gesetze & Strategien",
+    "count": 1
+  },
+  {
+    "date": "2022-11",
+    "category": "Datenschutz & Grundrechte",
+    "count": 1
+  },
+  {
+    "date": "2022-11",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "count": 1
+  },
+  {
+    "date": "2022-11",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "count": 3
+  },
+  {
+    "date": "2022-10",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "count": 1
+  },
+  {
+    "date": "2022-10",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "count": 3
+  },
+  {
+    "date": "2022-10",
+    "category": "Datenschutz & Grundrechte",
+    "count": 1
+  },
+  {
+    "date": "2022-10",
+    "category": "Cybersicherheit & Resilienz",
+    "count": 1
+  },
+  {
+    "date": "2022-09",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "count": 2
+  },
+  {
+    "date": "2022-09",
+    "category": "Datenschutz & Grundrechte",
+    "count": 3
+  },
+  {
+    "date": "2022-09",
+    "category": "Digitale Gesetze & Strategien",
+    "count": 2
+  },
+  {
+    "date": "2022-09",
+    "category": "Künstliche Intelligenz (KI)",
+    "count": 1
+  },
+  {
+    "date": "2022-09",
+    "category": "Cybersicherheit & Resilienz",
+    "count": 1
+  },
+  {
+    "date": "2022-06",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "count": 2
+  },
+  {
+    "date": "2022-06",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "count": 1
+  },
+  {
+    "date": "2022-06",
+    "category": "Haushalt & Steuerung",
+    "count": 1
+  },
+  {
+    "date": "2022-06",
+    "category": "Datenschutz & Grundrechte",
+    "count": 1
+  },
+  {
+    "date": "2022-05",
+    "category": "Cybersicherheit & Resilienz",
+    "count": 1
+  },
+  {
+    "date": "2022-05",
+    "category": "Datenschutz & Grundrechte",
+    "count": 2
+  },
+  {
+    "date": "2022-05",
+    "category": "Haushalt & Steuerung",
+    "count": 1
+  },
+  {
+    "date": "2022-05",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "count": 3
+  },
+  {
+    "date": "2022-04",
+    "category": "Bürgerdienste & Digitale Anträge",
+    "count": 1
+  },
+  {
+    "date": "2022-04",
+    "category": "Informationsfreiheit & Transparenz",
+    "count": 1
+  },
+  {
+    "date": "2022-04",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "count": 1
+  },
+  {
+    "date": "2022-03",
+    "category": "Haushalt & Steuerung",
+    "count": 2
+  },
+  {
+    "date": "2022-03",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "count": 2
+  },
+  {
+    "date": "2022-03",
+    "category": "Cybersicherheit & Resilienz",
+    "count": 1
+  },
+  {
+    "date": "2022-03",
+    "category": "Digitale Gesetze & Strategien",
+    "count": 1
+  },
+  {
+    "date": "2022-02",
+    "category": "Digitale Gesetze & Strategien",
+    "count": 1
+  },
+  {
+    "date": "2022-02",
+    "category": "Datenschutz & Grundrechte",
+    "count": 2
+  },
+  {
+    "date": "2022-02",
+    "category": "Cybersicherheit & Resilienz",
+    "count": 1
+  },
+  {
+    "date": "2022-02",
+    "category": "IT-Modernisierung & Infrastruktur",
+    "count": 1
+  },
+  {
+    "date": "2022-01",
+    "category": "Haushalt & Steuerung",
+    "count": 1
+  },
+  {
+    "date": "2022-01",
+    "category": "IT-Modernisierung & Infrastruktur",
     "count": 1
   }
 ]

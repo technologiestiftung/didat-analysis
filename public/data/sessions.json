@@ -1,453 +1,2089 @@
 [
   {
-    "id": "2026-03-23",
+    "id": "s_075",
+    "date": "2026-06-29T10:00:00Z",
+    "title": "75. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
+    "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-075-bp.pdf",
+    "type": "Beschlussprotokoll",
+    "topics": [
+      "Umstellung auf Windows 11",
+      "Digitale Beteiligung bei direktdemokratischen Verfahren",
+      "Neue IT-Bestands- und Planungsübersicht"
+    ],
+    "decisions": [
+      {
+        "id": "d_5f072dbd",
+        "text": "Der Antrag der Fraktion Die Linke (Drs. 19/3123) zu digitalen Beteiligungsmöglichkeiten bei direktdemokratischen Verfahren wird abgelehnt.",
+        "result": "abgelehnt"
+      },
+      {
+        "id": "d_e6e814e2",
+        "text": "Die Besprechung zu den Lessons learned von der Umstellung auf Windows 11 wird abgeschlossen.",
+        "result": "zur Kenntnis genommen"
+      },
+      {
+        "id": "d_9026f038",
+        "text": "Die Besprechung zur neuen IT-Bestands- und Planungsübersicht wird abgeschlossen.",
+        "result": "zur Kenntnis genommen"
+      }
+    ],
+    "attendees": []
+  },
+  {
+    "id": "s_074",
+    "date": "2026-06-15T10:00:00Z",
+    "title": "74. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
+    "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-074-bp.pdf",
+    "type": "Beschlussprotokoll",
+    "topics": [
+      "Großstörung des BerlinPC",
+      "Transparenz der Datenverarbeitung",
+      "Digitalisierung von Sozialleistungen"
+    ],
+    "decisions": [
+      {
+        "id": "d_df5ee460",
+        "text": "Der Antrag der Fraktion Bündnis 90/Die Grünen (Drucksache 19/3239) für mehr IT-Sicherheit und Transparenz wird abgelehnt.",
+        "result": "abgelehnt"
+      },
+      {
+        "id": "d_393d2a27",
+        "text": "Die Besprechung zur Digitalisierung von Sozialleistungen (Sieben auf einen Streich) wird einvernehmlich abgeschlossen.",
+        "result": "zur Kenntnis genommen"
+      }
+    ],
+    "attendees": []
+  },
+  {
+    "id": "s_073",
+    "date": "2026-06-01T10:00:00Z",
+    "title": "73. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
+    "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-073-bp.pdf",
+    "type": "Beschlussprotokoll",
+    "topics": [
+      "Digitalisierung der Lebensmittelpersonalhygienebelehrung",
+      "Zukunft der BVG App",
+      "Cyberangriff auf Dienstleister Unimed"
+    ],
+    "decisions": [
+      {
+        "id": "d_41f75ad4",
+        "text": "Die Besprechung zur Digitalisierung der Lebensmittelpersonalhygienebelehrung wurde einvernehmlich abgeschlossen.",
+        "result": "zur Kenntnis genommen"
+      },
+      {
+        "id": "d_153683e5",
+        "text": "Die Besprechung zur BVG-App und den damit verbundenen Herausforderungen wurde einvernehmlich abgeschlossen.",
+        "result": "zur Kenntnis genommen"
+      }
+    ],
+    "attendees": []
+  },
+  {
+    "id": "s_072",
+    "date": "2026-05-18T10:00:00Z",
+    "title": "72. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
+    "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-072-bp.pdf",
+    "type": "Beschlussprotokoll",
+    "topics": [
+      "Daten- und Jugendschutz in sozialen Medien",
+      "Berliner Open-Source-Gesetz"
+    ],
+    "decisions": [
+      {
+        "id": "d_7631b311",
+        "text": "Der Antrag der Fraktion Bündnis 90/Die Grünen auf Drucksache 19/2963 (Berliner Open-Source-Gesetz) wird abgelehnt.",
+        "result": "abgelehnt"
+      }
+    ],
+    "attendees": []
+  },
+  {
+    "id": "s_071",
+    "date": "2026-05-04T10:00:00Z",
+    "title": "71. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
+    "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-071-bp.pdf",
+    "type": "Beschlussprotokoll",
+    "topics": [
+      "Datenschutzvorfall bei der BVG",
+      "Annahmepflicht bargeldloser Zahlungsmittel",
+      "GovTech Unit Berlin"
+    ],
+    "decisions": [
+      {
+        "id": "d_de4496a7",
+        "text": "Antrag der Fraktion der CDU und der Fraktion der SPD (Drs. 19/3197) zur Annahmepflicht bargeldloser Zahlungsmittel",
+        "result": "angenommen"
+      },
+      {
+        "id": "d_a6443a98",
+        "text": "Besprechung zum Datenschutzvorfall bei einem Dienstleister der BVG",
+        "result": "zur Kenntnis genommen"
+      },
+      {
+        "id": "d_c57f2213",
+        "text": "Besprechung zur GovTech Unit Berlin – innovative Technologien für die Verwaltung",
+        "result": "zur Kenntnis genommen"
+      }
+    ],
+    "attendees": []
+  },
+  {
+    "id": "s_070",
+    "date": "2026-04-20T10:00:00Z",
+    "title": "70. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
+    "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-070-bp.pdf",
+    "type": "Beschlussprotokoll",
+    "topics": [
+      "Digitalisierung von Sozialleistungen"
+    ],
+    "decisions": [
+      {
+        "id": "d_d7511421",
+        "text": "Vertagung des Besprechungspunkts zur Digitalisierung von Sozialleistungen (Tagesordnungspunkt 3).",
+        "result": "vertagt"
+      }
+    ],
+    "attendees": []
+  },
+  {
+    "id": "s_069",
     "date": "2026-03-23T10:00:00Z",
     "title": "69. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
-    "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/einladung/dd19-069-e.pdf",
+    "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-069-bp.pdf",
     "type": "Beschlussprotokoll",
     "topics": [
       "Änderung des Berliner Datenschutzgesetzes"
     ],
-    "decisions": [],
+    "decisions": [
+      {
+        "id": "d_36151468",
+        "text": "Der Änderungsantrag der Fraktionen der CDU und der SPD zur Drucksache 19/2999 wird angenommen.",
+        "result": "angenommen"
+      },
+      {
+        "id": "d_b38969ae",
+        "text": "Die geänderte dringliche Vorlage (Drucksache 19/2999) wird angenommen.",
+        "result": "angenommen"
+      }
+    ],
     "attendees": []
   },
   {
-    "id": "2026-03-09",
+    "id": "s_068",
     "date": "2026-03-09T10:00:00Z",
     "title": "68. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
-    "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/einladung/dd19-068-e.pdf",
+    "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-068-bp.pdf",
     "type": "Beschlussprotokoll",
     "topics": [
-      "Änderung des Berliner Datenschutzgesetzes",
+      "Berliner Datenschutzgesetz",
       "IT-Sicherheit in Marzahn-Hellersdorf",
       "Vorstellung der Multi-Cloud-Strategie"
     ],
-    "decisions": [],
+    "decisions": [
+      {
+        "id": "d_188153d0",
+        "text": "Vertagung der Vorlage zum Gesetz zur Änderung des Berliner Datenschutzgesetzes (Drucksache 19/2999).",
+        "result": "vertagt"
+      },
+      {
+        "id": "d_3dca1307",
+        "text": "Besprechung zur IT-Sicherheit in Marzahn-Hellersdorf nach Veröffentlichung der Mängelliste des Rechnungshofberichts.",
+        "result": "zur Kenntnis genommen"
+      },
+      {
+        "id": "d_8705eda1",
+        "text": "Besprechung zur Vorstellung der Multi-Cloud-Strategie des Landes Berlin.",
+        "result": "zur Kenntnis genommen"
+      }
+    ],
     "attendees": []
   },
   {
-    "id": "2026-02-23",
+    "id": "s_067",
     "date": "2026-02-23T10:00:00Z",
     "title": "67. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
     "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-067-bp.pdf",
     "type": "Beschlussprotokoll",
     "topics": [
-      "Stellungnahme zum Datenschutzbericht 2024",
-      "Antrag für ein Berliner Transparenzgesetz"
+      "Standardprozess Datenschutz bei Digitalisierungsvorhaben",
+      "Postadressen-Erhebung bei IFG-Anträgen",
+      "Gesichtserkennung ohne Rechtsgrundlage",
+      "Berliner Transparenzgesetz"
     ],
     "decisions": [
       {
-        "id": "d_0ee84a76",
-        "text": "Stellungnahme des Senats zum Bericht der Berliner Beauftragten für Datenschutz und Informationsfreiheit für das Jahr 2024 (Drucksache 19/2884)",
+        "id": "d_befc49f7",
+        "text": "Stellungnahme des Senats zum Bericht der Berliner Beauftragten für Datenschutz und Informationsfreiheit für das Jahr 2024 (Drs. 19/2884)",
         "result": "zur Kenntnis genommen"
       },
       {
-        "id": "d_079f4ee9",
-        "text": "Antrag der Fraktion Bündnis 90/Die Grünen und der Fraktion Die Linke - Berliner Transparenzgesetz (Drucksache 19/1014)",
+        "id": "d_2ff9dcd9",
+        "text": "Antrag der Fraktionen Bündnis 90/Die Grünen und Die Linke über ein Berliner Transparenzgesetz (Drs. 19/1014)",
         "result": "abgelehnt"
       }
     ],
     "attendees": []
   },
   {
-    "id": "2026-02-09",
+    "id": "s_066",
     "date": "2026-02-09T10:00:00Z",
     "title": "66. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
     "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-066-bp.pdf",
     "type": "Beschlussprotokoll",
     "topics": [
-      "Zahlungsrückstände Senatskanzlei beim ITDZ",
-      "Einsatz von KI für Behördensprache",
+      "KI-Software für einfache Behördensprache",
       "Beirat für digitale Nutzerfreundlichkeit",
-      "Neue IT-Bestands- und Planungsübersicht"
+      "IT-Bestands- und Planungsübersicht"
     ],
     "decisions": [
       {
-        "id": "d_2706f125",
-        "text": "Antrag (Drs. 19/2629) zur Einrichtung eines Beirats für digitale Nutzerfreundlichkeit.",
+        "id": "d_a45913b1",
+        "text": "Antrag der Fraktion Bündnis 90/Die Grünen (Drs. 19/2629) zur Einrichtung eines Beirats für digitale Nutzerfreundlichkeit.",
         "result": "abgelehnt"
       },
       {
-        "id": "d_5143dc01",
-        "text": "Besprechung zum Einsatz von KI-Software für einfachere Behördensprache (SUMM AI).",
+        "id": "d_99623f11",
+        "text": "Besprechung zum Einsatz der KI-Software SUMM AI für einfachere Behördensprache in der Berliner Verwaltung.",
         "result": "vertagt"
       },
       {
-        "id": "d_3fb502d0",
-        "text": "Besprechung zur neuen IT-Bestands- und Planungsübersicht zur gesamtstädtischen Steuerung.",
+        "id": "d_9120ccc2",
+        "text": "Besprechung zur neuen IT-Bestands- und Planungsübersicht als Instrument zur gesamtstädtischen Steuerung.",
         "result": "vertagt"
       }
     ],
     "attendees": []
   },
   {
-    "id": "2026-01-26",
+    "id": "s_065",
     "date": "2026-01-26T10:00:00Z",
     "title": "65. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
     "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-065-bp.pdf",
     "type": "Beschlussprotokoll",
     "topics": [
-      "Änderung E-Government- und Datenschutzgesetz",
-      "Einführung des europäischen Bezahldienstes Wero",
-      "Sachstand OZG-Leistung 'rote Karte'"
+      "Änderung des E-Government-Gesetzes",
+      "Europäischer Bezahldienst Wero",
+      "OZG-Leistung Rote Karte"
     ],
     "decisions": [
       {
-        "id": "d_6c37280f",
-        "text": "Annahme der Vorlage zur Änderung des E-Government-Gesetzes, des Rechnungshofgesetzes und des Berliner Datenschutzgesetzes (Drs. 19/2823).",
+        "id": "d_92b71061",
+        "text": "Die Vorlage zur Beschlussfassung (Drucksache 19/2823) zum Gesetz zur Änderung des E-Government-Gesetzes Berlin wird angenommen.",
         "result": "angenommen"
       },
       {
-        "id": "d_61eff151",
-        "text": "Annahme des Änderungsantrags von CDU und SPD zum Antrag 'Europäischen Bezahldienst jetzt berlinweit umsetzen!' (Drs. 19/2743).",
+        "id": "d_4923da6f",
+        "text": "Der Änderungsantrag der Fraktionen der CDU und der SPD zum Antrag auf Drucksache 19/2743 (Bezahldienst Wero) wird angenommen.",
         "result": "angenommen"
       },
       {
-        "id": "d_d4dc5a27",
-        "text": "Annahme des geänderten Antrags 'Europäischen Bezahldienst berlinweit umsetzen!' (Drs. 19/2743).",
+        "id": "d_559ac39c",
+        "text": "Der geänderte Antrag der Fraktion Bündnis 90/Die Grünen zur berlinweiten Umsetzung des europäischen Bezahldienstes Wero wird angenommen.",
         "result": "angenommen"
       }
     ],
     "attendees": []
   },
   {
-    "id": "2026-01-12",
+    "id": "s_064",
     "date": "2026-01-12T10:00:00Z",
     "title": "64. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
     "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-064-bp.pdf",
     "type": "Beschlussprotokoll",
     "topics": [
-      "Netzredundanz und Notfallkommunikation",
-      "Open-Source-Strategie des Landes Berlin",
-      "Umsetzung eines europäischen Bezahldienstes"
+      "Open-Source-Strategie Berlin",
+      "Europäischer Bezahldienst in Berlin",
+      "Kommunikation im Katastrophenfall"
     ],
     "decisions": [
       {
-        "id": "d_3f5a3825",
-        "text": "Antrag der Fraktion Bündnis 90/Die Grünen - Drucksache 19/2743: Europäischen Bezahldienst jetzt berlinweit umsetzen!",
+        "id": "d_7ea5577a",
+        "text": "Vertagung des Antrags der Fraktion Bündnis 90/Die Grünen zur berlinweiten Umsetzung eines europäischen Bezahldienstes (Drucksache 19/2743).",
         "result": "vertagt"
       }
     ],
     "attendees": []
   },
   {
-    "id": "2025-12-15",
+    "id": "s_063",
     "date": "2025-12-15T10:00:00Z",
     "title": "63. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
     "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-063-bp.pdf",
     "type": "Beschlussprotokoll",
     "topics": [
-      "Mangelhafte Software für Gewerbeanmeldungen",
-      "Liquiditätssituation des ITDZ Berlin",
       "Mehrsprachigkeit auf berlin.de",
-      "Digitale Dienste in Bürgerämtern",
-      "Petition Neufassung IFG (Transparenzgesetz)"
+      "Digitalisierung der Bürgerämter",
+      "Liquidität des ITDZ Berlin",
+      "Neufassung des Transparenzgesetzes"
     ],
     "decisions": [
       {
-        "id": "d_67071dc9",
-        "text": "Die Besprechung zur Umsetzung von Mehrsprachigkeit auf berlin.de wird abgeschlossen.",
+        "id": "d_632aee33",
+        "text": "Besprechung zur Umsetzung von Mehrsprachigkeit auf berlin.de (TOP 3)",
         "result": "zur Kenntnis genommen"
       },
       {
-        "id": "d_57e0fe2b",
-        "text": "Die Besprechung zur Lage in den Berliner Bürgerämtern wird abgeschlossen.",
+        "id": "d_69a8247e",
+        "text": "Besprechung zu Dokumentenausgabeboxen und digitalen Dienstleistungen in Bürgerämtern (TOP 4)",
+        "result": "zur Kenntnis genommen"
+      },
+      {
+        "id": "d_ac5ee208",
+        "text": "Behandlung der Petition zur Neufassung des IFG (Transparenzgesetz) (TOP 6)",
         "result": "zur Kenntnis genommen"
       }
     ],
     "attendees": []
   },
   {
-    "id": "2025-12-01",
+    "id": "s_062",
     "date": "2025-12-01T10:00:00Z",
     "title": "62. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
     "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-062-bp.pdf",
     "type": "Beschlussprotokoll",
     "topics": [
-      "Verwaltungsvorschrift Landesorganisationsgesetz",
-      "Sachstand zu KI-Bots im Land Berlin",
-      "Windows 11 – Stand der Umstellung"
+      "Sachstand zu KI-Bots",
+      "Windows 11 Umstellung",
+      "Verwaltungsvorschrift zum Landesorganisationsgesetz"
     ],
     "decisions": [
       {
-        "id": "d_63ce76ba",
-        "text": "Abschluss der Besprechung zum Sachstand zu KI-Bots im Land Berlin.",
+        "id": "d_7fccf0dd",
+        "text": "Die Besprechung zum Sachstand zu KI-Bots im Land Berlin wurde einvernehmlich abgeschlossen.",
         "result": "zur Kenntnis genommen"
       },
       {
-        "id": "d_e6a94c19",
-        "text": "Abschluss der Besprechung zum Stand der Umstellung auf Windows 11.",
+        "id": "d_a9953240",
+        "text": "Die Besprechung zur Umstellung auf Windows 11 wurde einvernehmlich abgeschlossen.",
         "result": "zur Kenntnis genommen"
       }
     ],
     "attendees": []
   },
   {
-    "id": "2025-11-17",
+    "id": "s_061",
     "date": "2025-11-17T10:00:00Z",
     "title": "61. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
     "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-061-bp.pdf",
     "type": "Beschlussprotokoll",
     "topics": [
-      "Aktuelle Fragen zur Digitalisierung",
+      "Terminfreie Bürgerdienste",
       "Gesetz zum NOOTS-Staatsvertrag",
-      "Folgen des Onlinezugangsgesetz 2.0"
+      "Onlinezugangsgesetz 2.0"
     ],
     "decisions": [
       {
-        "id": "d_0241c136",
-        "text": "Annahme der Vorlage zum Gesetz zum NOOTS-Staatsvertrag (Drucksache 19/2719).",
+        "id": "d_7a8519cb",
+        "text": "Die Vorlage zur Beschlussfassung über das Gesetz zum NOOTS-Staatsvertrag (Drucksache 19/2719) wird angenommen.",
         "result": "angenommen"
       }
     ],
     "attendees": []
   },
   {
-    "id": "2025-11-03",
+    "id": "s_060",
     "date": "2025-11-03T10:00:00Z",
     "title": "60. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
     "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-060-bp.pdf",
     "type": "Beschlussprotokoll",
     "topics": [
-      "Vorstellung des Digitalisierungsdashboards",
-      "Ende der WLAN-Initiative des Senats",
-      "Status der digitalen Barrierefreiheit",
-      "Beirat für digitale Nutzerfreundlichkeit",
-      "Bericht aus der Senatskanzlei"
+      "Digitalisierungsdashboard",
+      "Ende der WLAN-Initiative",
+      "Digitale Barrierefreiheit",
+      "Beirat für digitale Nutzerfreundlichkeit"
     ],
     "decisions": [
       {
-        "id": "d_8ed9c872",
-        "text": "Besprechung: Vorstellung des Digitalisierungsdashboards",
+        "id": "d_639f1189",
+        "text": "Der Ausschuss schließt die Besprechung zur Vorstellung des Digitalisierungsdashboards einvernehmlich ab.",
         "result": "zur Kenntnis genommen"
       },
       {
-        "id": "d_0ea99086",
-        "text": "Besprechung: Das Ende der WLAN-Initiative des Senats",
+        "id": "d_b27c8cad",
+        "text": "Der Ausschuss schließt die Besprechung zum Ende der WLAN-Initiative des Senats einvernehmlich ab.",
         "result": "zur Kenntnis genommen"
       },
       {
-        "id": "d_8cc0a6fc",
-        "text": "Besprechung: Status der digitalen Barrierefreiheit in Berlin",
+        "id": "d_cf8b3f16",
+        "text": "Der Ausschuss schließt die Besprechung zum Status der digitalen Barrierefreiheit in Berlin einvernehmlich ab.",
         "result": "zur Kenntnis genommen"
       },
       {
-        "id": "d_76070254",
-        "text": "Antrag Drucksache 19/2629: Ein Beirat für digitale Nutzerfreundlichkeit",
+        "id": "d_39648bb6",
+        "text": "Der Antrag der Fraktion Bündnis 90/Die Grünen für einen Beirat für digitale Nutzerfreundlichkeit (Drs 19/2629) wird vertagt.",
         "result": "vertagt"
       }
     ],
     "attendees": []
   },
   {
-    "id": "2025-10-06",
+    "id": "s_059",
     "date": "2025-10-06T10:00:00Z",
     "title": "59. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
     "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-059-bp.pdf",
     "type": "Beschlussprotokoll",
     "topics": [
       "Reform des Polizei- und Ordnungsrechts",
-      "Haushaltsplan 2026/2027 für Digitalisierung",
-      "IT-Infrastruktur und Verwaltungs-Basisdienste"
+      "Haushaltsberatungen Digitalisierung 2026/2027"
     ],
     "decisions": [
       {
-        "id": "d_50a9221d",
-        "text": "Annahme des Antrags zur Reform des Polizei- und Ordnungsrechts (Drs. 19/2553).",
+        "id": "d_a5c3ea76",
+        "text": "Annahme des Gesetzes zur Reform des Berliner Polizei- und Ordnungsrechts (Drucksache 19/2553)",
         "result": "angenommen"
       },
       {
-        "id": "d_638b8baf",
-        "text": "Empfehlung zur Annahme des Haushaltsplans (Einzelpläne 03, 21, 25 und IKT-Titel).",
+        "id": "d_796a6ebe",
+        "text": "Empfehlung zur Annahme des Einzelplans 25 (Landesweite Maßnahmen des E-Governments) des Haushaltsplans",
         "result": "angenommen"
       },
       {
-        "id": "d_226e0e29",
-        "text": "Ablehnung des AfD-Antrags zur Kürzung der Mittel für das CityLAB.",
+        "id": "d_8b65aebe",
+        "text": "Ablehnung des Änderungsantrags Nr. 3 der Fraktion Die Linke zur Streichung der Mittel für Videoaufklärung",
         "result": "abgelehnt"
       },
       {
-        "id": "d_31ba1c51",
-        "text": "Ablehnung des Grünen-Antrags zur Aufstockung der Mittel für die Open Data Informationsstelle (ODIS).",
-        "result": "abgelehnt"
-      },
-      {
-        "id": "d_15425aea",
-        "text": "Ablehnung des Linke-Antrags zur Streichung der Mittel für Drohnen und Drohnenabwehr.",
-        "result": "abgelehnt"
-      },
-      {
-        "id": "d_d4783c12",
-        "text": "Ablehnung des Linke-Antrags zur Streichung der Mittel für Videoüberwachung.",
+        "id": "d_69ee4d2f",
+        "text": "Ablehnung des Änderungsantrags Nr. 3 von Bündnis 90/Die Grünen zur Erhöhung der Mittel für IKT-Basisdienste",
         "result": "abgelehnt"
       }
     ],
     "attendees": []
   },
   {
-    "id": "2025-09-22",
+    "id": "s_058",
     "date": "2025-09-22T10:00:00Z",
     "title": "58. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
     "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-058-bp.pdf",
     "type": "Beschlussprotokoll",
     "topics": [
-      "Cyber-Vorfall am Flughafen BER",
-      "Aktueller Stand Programm OneIT@Berlin",
+      "Programm OneIT@Berlin",
       "Änderung des ITDZ-Gesetzes",
-      "Bericht der Datenschutzbeauftragten 2023",
+      "Datenschutzbericht 2023 der BlnBDI",
       "Umsetzung der NIS-2 Richtlinie"
     ],
     "decisions": [
       {
-        "id": "d_20d7a158",
-        "text": "Die Vorlage – zur Beschlussfassung – Drucksache 19/2642 (Zweites Gesetz zur Änderung des Gesetzes über das ITDZ Berlin) wird angenommen.",
+        "id": "d_95c7e0f4",
+        "text": "Zweites Gesetz zur Änderung des Gesetzes über die Anstalt des öffentlichen Rechts IT-Dienstleistungszentrum Berlin (Drucksache 19/2642)",
         "result": "angenommen"
       },
       {
-        "id": "d_6c274af9",
-        "text": "Die Vorlage – zur Kenntnisnahme – Drucksache 19/2355 (Stellungnahme des Senats zum Bericht der Datenschutzbeauftragten) wird zur Kenntnis genommen.",
+        "id": "d_56b4e674",
+        "text": "Stellungnahme des Senats zum Bericht der Berliner Beauftragten für Datenschutz und Informationsfreiheit für das Jahr 2023 (Drucksache 19/2355)",
         "result": "zur Kenntnis genommen"
-      },
-      {
-        "id": "d_26e7e863",
-        "text": "Die Öffentlichkeit wird für die weitere Beratung des Tagesordnungspunktes 6 (Umsetzung der NIS-2 Richtlinie) ausgeschlossen.",
-        "result": "angenommen"
       }
     ],
     "attendees": []
   },
   {
-    "id": "2025-09-08",
+    "id": "s_057",
     "date": "2025-09-08T10:00:00Z",
     "title": "57. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
     "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-057-bp.pdf",
     "type": "Beschlussprotokoll",
     "topics": [
-      "Haushaltsplan 2026/2027 Digitalisierung",
-      "Umsetzung der Verwaltungsreform (LOG)",
-      "Einrichtung eines zentralen Digitalhaushalts",
-      "Optimierung der Berliner Bürgerdienste",
-      "IKT-Infrastruktur und Arbeitsplatzausstattung",
-      "Haushalt des Datenschutzbeauftragten",
-      "Cybersicherheit und NIS-2-Umsetzung"
+      "Haushaltsplan 2026 und 2027",
+      "Zentralisierungsprogramm OneIT",
+      "Bürgerdienste und 14-Tage-Ziel",
+      "Bündelfunk in Gefängnissen"
     ],
     "decisions": [
       {
-        "id": "d_381a36fb",
-        "text": "Die Beratung zum Haushaltsgesetz 2026/2027 (Drucksache 19/2627) wird bis zur 2. Lesung am 6. Oktober 2025 vertagt.",
+        "id": "d_9613895a",
+        "text": "Vertagung der Vorlage zum Haushaltsgesetz 2026/2027 (Drucksache 19/2627) bis zur zweiten Lesung am 6. Oktober 2025.",
         "result": "vertagt"
       },
       {
-        "id": "d_347a27ab",
-        "text": "Zu zahlreichen mündlich nicht beantworteten Fragen werden schriftliche Berichte des Senats bis zum 22. September 2025 beschlossen.",
+        "id": "d_956ba645",
+        "text": "Beschluss über zahlreiche schriftliche Berichtsaufträge zu den eingereichten Fragen der Fraktionen zum Haushaltsplan.",
         "result": "angenommen"
-      },
-      {
-        "id": "d_89f64e12",
-        "text": "Die mündlichen Ausführungen des Senats und der Behörden zu diversen Haushalts-Titeln werden zur Kenntnis genommen.",
-        "result": "zur Kenntnis genommen"
       }
     ],
     "attendees": []
   },
   {
-    "id": "2025-07-07",
+    "id": "s_056",
     "date": "2025-07-07T10:00:00Z",
     "title": "56. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
     "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-056-bp.pdf",
     "type": "Beschlussprotokoll",
     "topics": [
-      "Verzögerung bei Windows 11-Umstellung",
-      "Umsetzung der Verwaltungsreform",
-      "BerlinPC-Umstellung und virtuelle ITDZ-Teams",
-      "Hürden bei der IT-Standardisierung (OneIT@Berlin)"
+      "Windows 11-Umstellung in der Verwaltung",
+      "Umstellung des Rechnungshofes auf BerlinPC",
+      "Einführung virtueller Teams im ITDZ",
+      "Standardisierung der IT-Infrastruktur (OneIT)"
     ],
     "decisions": [
       {
-        "id": "d_b029c7dd",
-        "text": "Der Ausschuss beschließt einstimmig die Sitzungstermine des Ausschusses für das Jahr 2026.",
+        "id": "d_556bf9cc",
+        "text": "Einstimmiger Beschluss der Sitzungstermine des Ausschusses für das Jahr 2026.",
         "result": "angenommen"
+      },
+      {
+        "id": "d_a79dbe1e",
+        "text": "Einvernehmlicher Abschluss der Besprechung zum Bericht des Rechnungshofes zur Umstellung auf den BerlinPC und Einführung virtueller Teams im ITDZ.",
+        "result": "zur Kenntnis genommen"
+      },
+      {
+        "id": "d_82a9473c",
+        "text": "Einvernehmlicher Abschluss der Besprechung zu OneIT@Berlin – Wann kommt endlich die Standardisierung des Technik-Zoos?",
+        "result": "zur Kenntnis genommen"
       }
     ],
     "attendees": []
   },
   {
-    "id": "2025-06-23",
+    "id": "s_055",
     "date": "2025-06-23T10:00:00Z",
     "title": "55. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
     "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-055-bp.pdf",
     "type": "Beschlussprotokoll",
     "topics": [
-      "Digitale Souveränität und Open Source",
-      "Hackerangriff auf BVG-Dienstleister",
-      "Open Data und EU-Datenstrategie",
-      "Auswertung Aktionstag Bürgerämter",
-      "Beendigung des Sozialhilfeportal-Projekts",
-      "Antrag zum Berliner Digitaltag"
+      "OpenData und Europäische Datenstrategie",
+      "Hackerangriff auf die BVG",
+      "Aktionstag Terminfreie Zeiten",
+      "Berliner Digitaltag 2025"
     ],
     "decisions": [
       {
-        "id": "d_58701838",
-        "text": "Antrag \"Berliner Digitaltag 2025 – einfach mal machen!\" (Drs. 19/2091)",
+        "id": "d_af2c7b00",
+        "text": "Der Antrag der Fraktion Bündnis 90/Die Grünen (Drs. 19/2091) zum Berliner Digitaltag 2025 wird abgelehnt.",
         "result": "abgelehnt"
       },
       {
-        "id": "d_0d4d0b44",
-        "text": "Annahme der Verfahrensregeln zum Ablauf der Beratungen des Haushaltsplanentwurfs 2026/2027",
+        "id": "d_a3acb557",
+        "text": "Der Ausschuss beschließt einstimmig die Verfahrensregeln zum Ablauf der Beratungen des Haushaltsplanentwurfs 2026/2027.",
+        "result": "angenommen"
+      }
+    ],
+    "attendees": []
+  },
+  {
+    "id": "s_054",
+    "date": "2025-05-19T10:00:00Z",
+    "title": "54. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
+    "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-054-bp.pdf",
+    "type": "Beschlussprotokoll",
+    "topics": [
+      "IT-Störungen in den Bürgerämtern",
+      "Hackerangriff auf die BVG",
+      "Digitalisierung in der Verwaltungsreform",
+      "DDoS-Angriff auf Berlin.de",
+      "OpenData und Europäische Datenstrategie"
+    ],
+    "decisions": [
+      {
+        "id": "d_57efa99e",
+        "text": "Vertagung der Besprechung zum Hackerangriff gegen die BVG und Kunden-Datenverlust.",
+        "result": "vertagt"
+      },
+      {
+        "id": "d_c2af07e2",
+        "text": "Abschluss der Besprechung zu den Schwerpunkten der Digitalisierung bei der geplanten Verwaltungsreform.",
+        "result": "zur Kenntnis genommen"
+      },
+      {
+        "id": "d_e658106b",
+        "text": "Ausschluss der Öffentlichkeit für die weitere Beratung zum DDoS-Angriff auf das Serviceportal.",
         "result": "angenommen"
       },
       {
-        "id": "d_c9f6449f",
-        "text": "Besprechung \"OpenData und die Umsetzung der Europäischen Datenstrategie in Berlin\"",
+        "id": "d_5b67b2a4",
+        "text": "Vertagung des Tagesordnungspunktes zu OpenData und der Umsetzung der Europäischen Datenstrategie in Berlin.",
+        "result": "vertagt"
+      }
+    ],
+    "attendees": []
+  },
+  {
+    "id": "s_053",
+    "date": "2025-04-07T10:00:00Z",
+    "title": "53. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
+    "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-053-bp.pdf",
+    "type": "Beschlussprotokoll",
+    "topics": [
+      "Rechnungshofbericht zur Digitalisierungssteuerung",
+      "14-Tage-Ziel bei Bürgeramtsterminen",
+      "Digitale Antragstellung des Wohngelds"
+    ],
+    "decisions": [
+      {
+        "id": "d_f7cbb16e",
+        "text": "Der Antrag der Fraktion Bündnis 90/Die Grünen (Drucksache 19/2239) '14-Tage-Ziel – einfach mal machen!' wird abgelehnt.",
+        "result": "abgelehnt"
+      },
+      {
+        "id": "d_37d3dcc7",
+        "text": "Die Besprechung zum Bericht des Rechnungshofs 'Was bleibt von der Chefsache Digitalisierung' wird abgeschlossen.",
         "result": "zur Kenntnis genommen"
       },
       {
-        "id": "d_0bfe48a4",
-        "text": "Besprechung \"Hackerangriff gegen die BVG und Kunden-Datenverlust\"",
-        "result": "zur Kenntnis genommen"
-      },
-      {
-        "id": "d_39c76e96",
-        "text": "Besprechung \"Auswertung des Aktionstags „Terminfreie Zeiten“ in den Bürgerämtern\"",
+        "id": "d_516e8396",
+        "text": "Die Besprechung zur 'Digitalen Antragsstellung des Wohngelds' wird abgeschlossen.",
         "result": "zur Kenntnis genommen"
       }
     ],
     "attendees": []
   },
   {
-    "id": "2025-05-19",
-    "date": "2025-05-19T10:00:00Z",
-    "title": "54. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
-    "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-054-bp.pdf",
+    "id": "s_052",
+    "date": "2025-03-24T10:00:00Z",
+    "title": "52. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
+    "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-052-bp.pdf",
     "type": "Beschlussprotokoll",
     "topics": [
-      "Hackerangriff auf BVG Kundendaten",
-      "Digitalisierung in der Verwaltungsreform",
-      "DDoS-Angriff auf Serviceportal berlin.de",
-      "IT-Ausfall in Berliner Bürgerämtern",
-      "Zukunft des öffentlichen WLANs",
-      "Open Data und Datenstrategie"
+      "Föderale Umsetzung EU-Digitalrecht",
+      "Auswertung der Wien-Informationsreise",
+      "Vernetzung Digitaler Zwillinge"
     ],
     "decisions": [
       {
-        "id": "d_08b38458",
-        "text": "Die Besprechung zum Hackerangriff auf die BVG wird vertagt, um die weitere Aufarbeitung abzuwarten.",
+        "id": "d_20407ed9",
+        "text": "Besprechung zur föderalen Umsetzung des europäischen Digital- und Datenschutz-Rechts",
         "result": "vertagt"
       },
       {
-        "id": "d_b3a125ca",
-        "text": "Die Datenschutzbeauftragte soll den Ausschuss über den Fortgang der Aufarbeitung des BVG-Vorfalls informieren.",
-        "result": "angenommen"
-      },
+        "id": "d_2ba4f5ee",
+        "text": "Antrag der Fraktion Bündnis 90/Die Grünen über den Beitritt zur Initiative 'Networked Local Digital Twins' (Drs. 19/1935)",
+        "result": "abgelehnt"
+      }
+    ],
+    "attendees": []
+  },
+  {
+    "id": "s_051",
+    "date": "2025-03-10T10:00:00Z",
+    "title": "51. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
+    "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-051-bp.pdf",
+    "type": "Beschlussprotokoll",
+    "topics": [
+      "Kampagne für digitale Bürgerservices",
+      "Verordnung über digitale Lehr-Lernmittel",
+      "Änderung des Landeskrankenhausgesetzes"
+    ],
+    "decisions": [
       {
-        "id": "d_efd77fe7",
-        "text": "Die Besprechung zur Digitalisierung in der Verwaltungsreform wird abgeschlossen.",
+        "id": "d_0843a849",
+        "text": "Vorlage zur Kenntnisnahme über die Verordnung über digitale Lehr- und Lernmittel (DigLLV) (Drucksache 19/1142).",
         "result": "zur Kenntnis genommen"
       },
       {
-        "id": "d_ffa772a0",
-        "text": "Die Besprechung zu Open Data und der Umsetzung der Europäischen Datenstrategie wird aus zeitlichen Gründen vertagt.",
+        "id": "d_a41812db",
+        "text": "Änderungsantrag der Koalitionsfraktionen CDU/SPD zur Änderung des Landeskrankenhausgesetzes (Drucksache 19/1352).",
+        "result": "angenommen"
+      },
+      {
+        "id": "d_d80cee66",
+        "text": "Viertes Gesetz zur Änderung des Landeskrankenhausgesetzes (Drucksache 19/1352) in geänderter Fassung.",
+        "result": "angenommen"
+      }
+    ],
+    "attendees": []
+  },
+  {
+    "id": "s_050",
+    "date": "2025-02-24T10:00:00Z",
+    "title": "50. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
+    "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-050-bp.pdf",
+    "type": "Beschlussprotokoll",
+    "topics": [
+      "Glasfaserausbau in Berlin",
+      "Open-Source-Sabbatical für Berlin",
+      "Verwaltungsreform und Bürgerdienste"
+    ],
+    "decisions": [
+      {
+        "id": "d_05fef964",
+        "text": "Besprechung zum aktuellen Stand des Glasfaserausbaus in Berlin",
+        "result": "zur Kenntnis genommen"
+      },
+      {
+        "id": "d_ff1248e3",
+        "text": "Antrag der Fraktion Bündnis 90/Die Grünen: Ein Open-Source-Sabbatical für Berlin (Drucksache 19/1113)",
+        "result": "abgelehnt"
+      }
+    ],
+    "attendees": []
+  },
+  {
+    "id": "s_049",
+    "date": "2025-02-10T10:00:00Z",
+    "title": "49. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
+    "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-049-bp.pdf",
+    "type": "Beschlussprotokoll",
+    "topics": [
+      "GovTech Campus Deutschland",
+      "Open-Source Kompetenzzentrum Berlin",
+      "Zentralisierung der KI-Aufsicht",
+      "Vorsitz der Digitalministerkonferenz"
+    ],
+    "decisions": [
+      {
+        "id": "d_fe1027a7",
+        "text": "Verzicht auf die Anfertigung eines Wortprotokolls gemäß § 26 Abs. 7 Satz 4 GO Abghs für Punkt 3 der Tagesordnung.",
+        "result": "angenommen"
+      },
+      {
+        "id": "d_27cf913f",
+        "text": "Einvernehmlicher Abschluss der Besprechungen zu den Punkten 3 a) und 3 b) der Tagesordnung nach der Aussprache.",
+        "result": "zur Kenntnis genommen"
+      }
+    ],
+    "attendees": []
+  },
+  {
+    "id": "s_048",
+    "date": "2025-01-27T10:00:00Z",
+    "title": "48. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
+    "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-048-bp.pdf",
+    "type": "Beschlussprotokoll",
+    "topics": [
+      "Digitale Antragstellung des Wohngelds",
+      "Basisdienst Digitaler Antrag",
+      "Digitalgesetz für Berlin",
+      "Einführung der Digitalen Akte"
+    ],
+    "decisions": [
+      {
+        "id": "d_1945af7b",
+        "text": "Besprechung zur digitalen Antragstellung des Wohngelds",
         "result": "vertagt"
+      },
+      {
+        "id": "d_191b374f",
+        "text": "Besprechung zur Freischaltung des 100. Antrags mittels Basisdienst Digitaler Antrag",
+        "result": "zur Kenntnis genommen"
+      },
+      {
+        "id": "d_3f6bca85",
+        "text": "Antrag der Fraktion Bündnis 90/Die Grünen: Digitalisierung umsetzen – Digitalgesetz für Berlin schaffen (Drs. 19/1501)",
+        "result": "abgelehnt"
+      }
+    ],
+    "attendees": []
+  },
+  {
+    "id": "s_047",
+    "date": "2025-01-13T10:00:00Z",
+    "title": "47. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
+    "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-047-bp.pdf",
+    "type": "Beschlussprotokoll",
+    "topics": [
+      "Einsatz von KI in Berlin",
+      "Ausnahmen vom E-Government-Gesetz",
+      "Elektronische Wohngeldanträge"
+    ],
+    "decisions": [
+      {
+        "id": "d_e2f38b38",
+        "text": "Die schriftliche Anfrage der SPD-Fraktion zur Aufstockung des Wohngelds und der elektronischen Antragstellung wurde vertagt.",
+        "result": "vertagt"
+      },
+      {
+        "id": "d_f170af38",
+        "text": "Der Ausschuss nimmt die Vorlage über erteilte Ausnahmen nach § 24 Absatz 4 des E-Government-Gesetzes Berlin (Drucksache 19/2088) zur Kenntnis.",
+        "result": "zur Kenntnis genommen"
+      }
+    ],
+    "attendees": []
+  },
+  {
+    "id": "s_046",
+    "date": "2024-12-16T10:00:00Z",
+    "title": "46. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
+    "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-046-bp.pdf",
+    "type": "Beschlussprotokoll",
+    "topics": [
+      "Elektronische Wohnsitzanmeldung (eWA)",
+      "Proaktiver Opferschutz im ASOG",
+      "Einführung des Digitalchecks"
+    ],
+    "decisions": [
+      {
+        "id": "d_654b0de3",
+        "text": "Der Antrag der Fraktion Bündnis 90/Die Grünen (Drucksache 19/1985) zum proaktiven Opferschutz wird abgelehnt.",
+        "result": "abgelehnt"
+      }
+    ],
+    "attendees": []
+  },
+  {
+    "id": "s_045",
+    "date": "2024-12-02T10:00:00Z",
+    "title": "45. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
+    "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-045-bp.pdf",
+    "type": "Beschlussprotokoll",
+    "topics": [
+      "Haushaltskonsolidierung der Berliner Digitalisierung",
+      "Einführung von Low-Code-Plattformen",
+      "Digitalisierung der Infektionsschutz-Belehrung"
+    ],
+    "decisions": [
+      {
+        "id": "d_5989be7b",
+        "text": "Antrag der Fraktion Bündnis 90/Die Grünen (Drs. 19/1903): Berliner Digitalisierung stärken – Projektmittel für die CDO",
+        "result": "abgelehnt"
+      },
+      {
+        "id": "d_e54b27c7",
+        "text": "Antrag der Fraktion der CDU und der Fraktion der SPD (Drs. 19/1994): Belehrung nach §§ 42 und 43 IfSG („Rote Karte“) digitalisieren",
+        "result": "angenommen"
+      }
+    ],
+    "attendees": []
+  },
+  {
+    "id": "s_044",
+    "date": "2024-11-18T10:00:00Z",
+    "title": "44. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
+    "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-044-bp.pdf",
+    "type": "Beschlussprotokoll",
+    "topics": [
+      "Cloud in der Berliner Verwaltung",
+      "Koordinierung von Baustellen",
+      "KI-Governance für Berlin"
+    ],
+    "decisions": [
+      {
+        "id": "d_dc2b59d6",
+        "text": "Antrag von Grüne und Linke auf Ergänzung der Tagesordnung um das Thema Einsparungen bei der Digitalisierung.",
+        "result": "abgelehnt"
+      },
+      {
+        "id": "d_81ea923b",
+        "text": "Besprechung zum Sachstand Cloud in der Berliner Verwaltung (auf Antrag von CDU und SPD).",
+        "result": "zur Kenntnis genommen"
+      },
+      {
+        "id": "d_d134c24d",
+        "text": "Antrag von CDU und SPD (Drs. 19/1955): Baustellen koordinieren – Beeinträchtigungen reduzieren.",
+        "result": "angenommen"
+      },
+      {
+        "id": "d_2a5c314c",
+        "text": "Antrag von Bündnis 90/Die Grünen (Drs. 19/1670): Roadmap in ein neues Zeitalter – KI-Governance für Berlin.",
+        "result": "abgelehnt"
+      }
+    ],
+    "attendees": []
+  },
+  {
+    "id": "s_043",
+    "date": "2024-11-04T10:00:00Z",
+    "title": "43. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
+    "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-043-bp.pdf",
+    "type": "Beschlussprotokoll",
+    "topics": [
+      "Cyberangriff auf Johannesstift-Diakonie",
+      "Vorstellung des Datenschutzberichts 2023",
+      "Transparenzregister für Künstliche Intelligenz"
+    ],
+    "decisions": [
+      {
+        "id": "d_397dce4d",
+        "text": "Der Antrag der Fraktion Bündnis 90/Die Grünen (Drs. 19/1624) für ein Transparenzregister für Berlin wird abgelehnt.",
+        "result": "abgelehnt"
+      },
+      {
+        "id": "d_b4d1879c",
+        "text": "Die Besprechung zur Vorstellung des Datenschutzberichts 2023 wird einvernehmlich abgeschlossen.",
+        "result": "zur Kenntnis genommen"
+      }
+    ],
+    "attendees": []
+  },
+  {
+    "id": "s_042",
+    "date": "2024-10-14T10:00:00Z",
+    "title": "42. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
+    "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-042-bp.pdf",
+    "type": "Beschlussprotokoll",
+    "topics": [
+      "Neuausrichtung des ITDZ",
+      "Umsetzung der NIS-2-Richtlinie",
+      "Einführung digitaler Bürgerdienste"
+    ],
+    "decisions": [
+      {
+        "id": "d_15128da4",
+        "text": "Einvernehmlicher Abschluss der Besprechungen zur Vorstellung der Ziele, Ausrichtung und Weiterentwicklung des ITDZ Berlin sowie Fachkräftegewinnung.",
+        "result": "zur Kenntnis genommen"
+      },
+      {
+        "id": "d_e0b4f5a1",
+        "text": "Vertagung der Besprechung zur Umsetzung der NIS-2 Richtlinie im Land Berlin auf Antrag der Fraktionen Bündnis 90/Die Grünen und Die Linke.",
+        "result": "vertagt"
+      }
+    ],
+    "attendees": []
+  },
+  {
+    "id": "s_041",
+    "date": "2024-09-23T10:00:00Z",
+    "title": "41. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
+    "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-041-bp.pdf",
+    "type": "Beschlussprotokoll",
+    "topics": [
+      "Digitale Barrierefreiheit in Berlin",
+      "Standardprozess Datenschutz im Projektmanagement",
+      "Änderung des IT-Staatsvertrages"
+    ],
+    "decisions": [
+      {
+        "id": "d_f15f2d6e",
+        "text": "Besprechung zum Status der digitalen Barrierefreiheit in Berlin (Drs. 0093 DiDat)",
+        "result": "vertagt"
+      },
+      {
+        "id": "d_bd094920",
+        "text": "Besprechung zur Vorstellung des Standardprozesses Datenschutz durch die BlnBDI (Drs. 0095 DiDat)",
+        "result": "zur Kenntnis genommen"
+      },
+      {
+        "id": "d_467a5a83",
+        "text": "Vorlage zur Beschlussfassung über das Gesetz zum Zweiten Staatsvertrag zur Änderung des IT-Staatsvertrages (Drs. 19/1882)",
+        "result": "angenommen"
+      }
+    ],
+    "attendees": []
+  },
+  {
+    "id": "s_040",
+    "date": "2024-09-09T10:00:00Z",
+    "title": "40. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
+    "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-040-bp.pdf",
+    "type": "Beschlussprotokoll",
+    "topics": [
+      "Einführung der digitalen Akte",
+      "Aufsicht über Künstliche Intelligenz",
+      "Umstellung auf Windows 11",
+      "Nutzung digitaler Bürgerdienste"
+    ],
+    "decisions": [
+      {
+        "id": "d_cb53a276",
+        "text": "Wahl des Abgeordneten Carsten Schatz (LINKE) zum Schriftführer.",
+        "result": "angenommen"
+      },
+      {
+        "id": "d_d352d512",
+        "text": "Besprechung zum Stand der Umstellung auf Windows 11.",
+        "result": "vertagt"
+      },
+      {
+        "id": "d_3859775e",
+        "text": "Beantragung der Genehmigung für eine Ausschussreise nach Wien im Zeitraum vom 17. bis 20. März 2025.",
+        "result": "angenommen"
+      },
+      {
+        "id": "d_ea2e3914",
+        "text": "Beschluss, Unterlagen des Senats künftig ausschließlich in digitaler Form zu erhalten.",
+        "result": "angenommen"
+      }
+    ],
+    "attendees": []
+  },
+  {
+    "id": "s_039",
+    "date": "2024-07-01T10:00:00Z",
+    "title": "39. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
+    "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-039-bp.pdf",
+    "type": "Beschlussprotokoll",
+    "topics": [
+      "Weiterentwicklung des ITDZ Berlin",
+      "Neues Berliner Digitalgesetz",
+      "Änderung des Berliner Datenschutzgesetzes"
+    ],
+    "decisions": [
+      {
+        "id": "d_5ded3121",
+        "text": "Besprechung: Digitale Verwaltung: Weiterentwicklung des IT-Dienstleistungszentrum Berlin (ITDZ)",
+        "result": "vertagt"
+      },
+      {
+        "id": "d_296ae128",
+        "text": "Besprechung: Ausblick auf das neue Digitalgesetz",
+        "result": "zur Kenntnis genommen"
+      },
+      {
+        "id": "d_086ed5af",
+        "text": "Antrag: Digitalisierung umsetzen – Digitalgesetz für Berlin schaffen (Drs. 19/1501)",
+        "result": "vertagt"
+      },
+      {
+        "id": "d_1c9d4de6",
+        "text": "Antrag: Gesetz zur Änderung des Berliner Datenschutzgesetzes (Drs. 19/1697)",
+        "result": "abgelehnt"
+      }
+    ],
+    "attendees": []
+  },
+  {
+    "id": "s_038",
+    "date": "2024-06-17T10:00:00Z",
+    "title": "38. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
+    "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-038-bp.pdf",
+    "type": "Beschlussprotokoll",
+    "topics": [
+      "Sachstand OneIT@Berlin",
+      "Berliner Open-Data-Strategie",
+      "PIN-Rücksetzungsdienst für ePerso"
+    ],
+    "decisions": [
+      {
+        "id": "d_ee8a18cc",
+        "text": "Einstimmige Festlegung der Sitzungstermine des Ausschusses für das Jahr 2025.",
+        "result": "angenommen"
+      },
+      {
+        "id": "d_88485a13",
+        "text": "Besprechung zum Sachstand und zur Umsetzung von OneIT@Berlin.",
+        "result": "zur Kenntnis genommen"
+      },
+      {
+        "id": "d_41d4c81a",
+        "text": "Besprechung zur Berliner Open-Data-Strategie und Auswertung der Anhörung.",
+        "result": "zur Kenntnis genommen"
+      }
+    ],
+    "attendees": []
+  },
+  {
+    "id": "s_037",
+    "date": "2024-06-03T10:00:00Z",
+    "title": "37. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
+    "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-037-bp.pdf",
+    "type": "Beschlussprotokoll",
+    "topics": [
+      "Behördennummer 115",
+      "Öffentliches WLAN in Berlin",
+      "Entlastung junger Eltern"
+    ],
+    "decisions": [
+      {
+        "id": "d_13a6f663",
+        "text": "Der Antrag auf Drucksache 19/1588 zur Etablierung eines Services zur bürokratischen Entlastung junger Eltern wird angenommen.",
+        "result": "angenommen"
+      }
+    ],
+    "attendees": []
+  },
+  {
+    "id": "s_036",
+    "date": "2024-04-29T10:00:00Z",
+    "title": "36. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
+    "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-036-bp.pdf",
+    "type": "Beschlussprotokoll",
+    "topics": [
+      "Bericht zur Digitalministerkonferenz",
+      "Vorstellung ProMap",
+      "Umsetzungsbericht E-Government-Gesetz"
+    ],
+    "decisions": [
+      {
+        "id": "d_93a9cac7",
+        "text": "Die Besprechung zum Bericht zur Digitalministerkonferenz wurde im Ausschuss einvernehmlich abgeschlossen.",
+        "result": "zur Kenntnis genommen"
+      },
+      {
+        "id": "d_949c1d0e",
+        "text": "Die Besprechung zur Vorstellung des Projektmanagement-Tools ProMap wurde im Ausschuss einvernehmlich abgeschlossen.",
+        "result": "zur Kenntnis genommen"
+      },
+      {
+        "id": "d_a69492bd",
+        "text": "Die Besprechung zum 5. Umsetzungsbericht E-Government-Gesetz-Berlin wurde im Ausschuss einvernehmlich abgeschlossen.",
+        "result": "zur Kenntnis genommen"
+      }
+    ],
+    "attendees": []
+  },
+  {
+    "id": "s_035",
+    "date": "2024-04-15T10:00:00Z",
+    "title": "35. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
+    "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-035-bp.pdf",
+    "type": "Beschlussprotokoll",
+    "topics": [
+      "Änderung des Landeskrankenhausgesetzes",
+      "Umsetzungsstand Smart City",
+      "Projektmanagementhandbuch und ProMaP"
+    ],
+    "decisions": [
+      {
+        "id": "d_b4126a65",
+        "text": "Vorlage zur Beschlussfassung: Viertes Gesetz zur Änderung des Landeskrankenhausgesetzes (Drucksache 19/1352)",
+        "result": "vertagt"
+      }
+    ],
+    "attendees": []
+  },
+  {
+    "id": "s_034",
+    "date": "2024-03-18T10:00:00Z",
+    "title": "34. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
+    "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-034-bp.pdf",
+    "type": "Beschlussprotokoll",
+    "topics": [
+      "Novelle des Onlinezugangsgesetzes",
+      "Smartphone-Forensik der Ausländerbehörde",
+      "Rebrush der E-Akte"
+    ],
+    "decisions": [
+      {
+        "id": "d_23fe53f2",
+        "text": "Kenntnisnahme der Stellungnahme des Senats zum Bericht der Berliner Beauftragten für Datenschutz und Informationsfreiheit für das Jahr 2022",
+        "result": "zur Kenntnis genommen"
+      },
+      {
+        "id": "d_adeae1f5",
+        "text": "Absetzung des Tagesordnungspunkts 3 a) (Bericht der Landesdatenschutzbeauftragten 2022 – Teil 3) von der Tagesordnung",
+        "result": "vertagt"
+      }
+    ],
+    "attendees": []
+  },
+  {
+    "id": "s_033",
+    "date": "2024-03-04T10:00:00Z",
+    "title": "33. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
+    "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-033-bp.pdf",
+    "type": "Beschlussprotokoll",
+    "topics": [
+      "IKT-Basisdienst Bezahlen",
+      "Schuldigitalisierung und Datenschutz",
+      "Kürzungen im Digitalisierungshaushalt"
+    ],
+    "decisions": [
+      {
+        "id": "d_e30bcba9",
+        "text": "Antrag der Fraktion Bündnis 90/Die Grünen über einheitliche Zahlungsmöglichkeiten in allen Ämtern Berlins (Drs. 19/1384)",
+        "result": "abgelehnt"
+      },
+      {
+        "id": "d_b3c64960",
+        "text": "Stellungnahme des Senats zum Bericht der Berliner Beauftragten für Datenschutz und Informationsfreiheit für das Jahr 2022 (Drs. 19/1457)",
+        "result": "vertagt"
+      }
+    ],
+    "attendees": []
+  },
+  {
+    "id": "s_032",
+    "date": "2024-02-19T10:00:00Z",
+    "title": "32. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
+    "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-032-bp.pdf",
+    "type": "Beschlussprotokoll",
+    "topics": [
+      "Zukunft von KI in Berlin",
+      "Änderung des ITDZ-Gesetzes"
+    ],
+    "decisions": [
+      {
+        "id": "d_b151d7f6",
+        "text": "Vertagung der Besprechung zur Zukunft von KI und der KI-Strategie Berlin zwecks Auswertung des Wortprotokolls.",
+        "result": "vertagt"
+      },
+      {
+        "id": "d_4f51f183",
+        "text": "Ablehnung des Antrags der AfD-Fraktion zur Änderung des ITDZ-Gesetzes (Drucksache 19/0617).",
+        "result": "abgelehnt"
+      }
+    ],
+    "attendees": []
+  },
+  {
+    "id": "s_031",
+    "date": "2024-01-29T10:00:00Z",
+    "title": "31. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
+    "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-031-bp.pdf",
+    "type": "Beschlussprotokoll",
+    "topics": [
+      "Nachhaltigkeit von IT und Rechenzentren",
+      "Mehrsprachigkeit der Online-Auftritte"
+    ],
+    "decisions": [
+      {
+        "id": "d_79118806",
+        "text": "Besprechung zur Nachhaltigkeit der Hardware und Rechenzentren in Berlin (Antrag der Fraktion Bündnis 90/Die Grünen).",
+        "result": "zur Kenntnis genommen"
+      },
+      {
+        "id": "d_a0894ad9",
+        "text": "Antrag der Fraktion der CDU und der Fraktion der SPD (Drs. 19/1314): Digitale Teilhabe auf öffentlichen Plattformen ausbauen.",
+        "result": "angenommen"
+      }
+    ],
+    "attendees": []
+  },
+  {
+    "id": "s_030",
+    "date": "2024-01-15T10:00:00Z",
+    "title": "30. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
+    "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-030-bp.pdf",
+    "type": "Beschlussprotokoll",
+    "topics": [
+      "Ausfälle der Bürgeramts-IT",
+      "Sachstand digitaler Antrag",
+      "Bündelung von IT-Vergaben"
+    ],
+    "decisions": [
+      {
+        "id": "d_776e90bd",
+        "text": "Empfehlung an das Plenum, den Antrag 'Schneller digital: IT-Vergaben in Berlin bündeln' (Drs. 19/1128) abzulehnen.",
+        "result": "abgelehnt"
+      }
+    ],
+    "attendees": []
+  },
+  {
+    "id": "s_029",
+    "date": "2023-12-11T10:00:00Z",
+    "title": "29. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
+    "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-029-bp.pdf",
+    "type": "Beschlussprotokoll",
+    "topics": [
+      "Sachstand der elektronischen Akte",
+      "Digitalisierung von Bürgerdiensten"
+    ],
+    "decisions": [
+      {
+        "id": "d_e5981870",
+        "text": "Einstimmiger Beschluss zur Durchführung einer Ausschussreise nach Wien vom 25. bis 28. November 2024.",
+        "result": "angenommen"
+      }
+    ],
+    "attendees": []
+  },
+  {
+    "id": "s_028",
+    "date": "2023-11-27T10:00:00Z",
+    "title": "28. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
+    "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-028-bp.pdf",
+    "type": "Beschlussprotokoll",
+    "topics": [
+      "Berliner Open-Data-Strategie",
+      "Open Source Kompetenzzentrum",
+      "Open-Source-Sabbatical"
+    ],
+    "decisions": [
+      {
+        "id": "d_37ddb67e",
+        "text": "Vorlage zur Kenntnisnahme: Beschluss der Open Data-Strategie des Landes Berlin (Drucksache 19/1283)",
+        "result": "zur Kenntnis genommen"
+      },
+      {
+        "id": "d_4bfa9ca3",
+        "text": "Antrag: Ein Open-Source-Sabbatical für Berlin (Drucksache 19/1113)",
+        "result": "vertagt"
+      },
+      {
+        "id": "d_a645d933",
+        "text": "Antrag: Gesetz zur Änderung des Gesetzes über das IT-Dienstleistungszentrum Berlin (Drucksache 19/0617)",
+        "result": "vertagt"
+      }
+    ],
+    "attendees": []
+  },
+  {
+    "id": "s_027",
+    "date": "2023-11-13T10:00:00Z",
+    "title": "27. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
+    "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-027-bp.pdf",
+    "type": "Beschlussprotokoll",
+    "topics": [
+      "Digitale Bürgerdienste in Berlin",
+      "Schuldatenschutz und digitale Lernmittel",
+      "Bug-Bounty-Programm für Berlin"
+    ],
+    "decisions": [
+      {
+        "id": "d_4a3199e0",
+        "text": "Stellungnahme des Senats zum Bericht der Datenschutzbeauftragten für das Jahr 2021 (Drs. 19/0859)",
+        "result": "zur Kenntnis genommen"
+      },
+      {
+        "id": "d_f4621da8",
+        "text": "Zusammenstellung der vom Senat vorgelegten Rechtsverordnungen zur SchuldatenV und DigLLV (Drs. 19/1142)",
+        "result": "zur Kenntnis genommen"
+      },
+      {
+        "id": "d_da262f16",
+        "text": "Antrag der Grünen für ein Bug-Bounty-Programm zur Suche von IT-Sicherheitslücken in Berlin (Drs. 19/1026)",
+        "result": "abgelehnt"
+      }
+    ],
+    "attendees": []
+  },
+  {
+    "id": "s_026",
+    "date": "2023-10-16T10:00:00Z",
+    "title": "26. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
+    "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-026-bp.pdf",
+    "type": "Beschlussprotokoll",
+    "topics": [
+      "Haushaltsberatungen Digitalisierung 2024/2025",
+      "Freies WLAN in Berlin",
+      "GovTech Campus Berlin"
+    ],
+    "decisions": [
+      {
+        "id": "d_ab55a8e9",
+        "text": "Empfehlung zur Annahme des Einzelplans 03 Kapitel 0360 (Senatskanzlei - Digitalisierung)",
+        "result": "angenommen"
+      },
+      {
+        "id": "d_ee258e0e",
+        "text": "Empfehlung zur Annahme des Einzelplans 21 Kapitel 2100 (Datenschutz und Informationsfreiheit)",
+        "result": "angenommen"
+      },
+      {
+        "id": "d_58785aab",
+        "text": "Empfehlung zur Annahme des Einzelplans 25 (Landesweite Maßnahmen des E-Governments)",
+        "result": "angenommen"
+      },
+      {
+        "id": "d_b2949836",
+        "text": "Änderungsantrag der AfD zur Kürzung der Mittel für das CityLAB",
+        "result": "abgelehnt"
+      },
+      {
+        "id": "d_10f1a315",
+        "text": "Änderungsanträge von Grünen und Linken zur Aufstockung der WLAN-Mittel",
+        "result": "abgelehnt"
+      }
+    ],
+    "attendees": []
+  },
+  {
+    "id": "s_025",
+    "date": "2023-09-18T10:00:00Z",
+    "title": "25. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
+    "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-025-bp.pdf",
+    "type": "Beschlussprotokoll",
+    "topics": [
+      "Haushaltsgesetz 2024/2025",
+      "Projekt 14-Tage-Ziel",
+      "Einführung der E-Akte",
+      "Informationssicherheit und Cybersicherheit"
+    ],
+    "decisions": [
+      {
+        "id": "d_57b522c4",
+        "text": "Vertagung von Punkt 1 der Tagesordnung (Haushaltsgesetz 2024/2025) bis zur 2. Lesung am Montag, 16. Oktober 2023.",
+        "result": "vertagt"
+      },
+      {
+        "id": "d_c98c693d",
+        "text": "Die Senatskanzlei wird beauftragt, die angeforderten Berichte aus der Synopse bis zum 4. Oktober 2023 als Sammelvorlage vorzulegen.",
+        "result": "angenommen"
+      }
+    ],
+    "attendees": []
+  },
+  {
+    "id": "s_024",
+    "date": "2023-09-04T10:00:00Z",
+    "title": "24. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
+    "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-024-bp.pdf",
+    "type": "Beschlussprotokoll",
+    "topics": [
+      "Einführung der E-Akte",
+      "Berliner Transparenzgesetz",
+      "OneIT@Berlin"
+    ],
+    "decisions": [
+      {
+        "id": "d_b7c8da78",
+        "text": "Vertagung des Antrags zum Berliner Transparenzgesetz (Drucksache 19/1014) zwecks Erstellung und Auswertung des Wortprotokolls.",
+        "result": "vertagt"
+      },
+      {
+        "id": "d_c71d1b8c",
+        "text": "Einvernehmlicher Beschluss über die Verfahrensregeln und den Ablaufplan für die Haushaltsberatungen der Jahre 2024/2025.",
+        "result": "angenommen"
+      },
+      {
+        "id": "d_020f05bb",
+        "text": "Abschluss der Besprechung zum IKT-Arbeitsplatz der Berliner Verwaltung (OneIT@Berlin).",
+        "result": "zur Kenntnis genommen"
+      }
+    ],
+    "attendees": []
+  },
+  {
+    "id": "s_023",
+    "date": "2023-06-26T10:00:00Z",
+    "title": "23. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
+    "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-023-bp.pdf",
+    "type": "Beschlussprotokoll",
+    "topics": [
+      "Berliner Open-Source-Strategie",
+      "IKT-Sicherheit im Land Berlin",
+      "Berliner Transparenzgesetz",
+      "Datenschutz im RBB-Staatsvertrag"
+    ],
+    "decisions": [
+      {
+        "id": "d_9d6dd2e1",
+        "text": "Wahl von Marc Vallendar (AfD) zum Vorsitzenden des Ausschusses.",
+        "result": "abgelehnt"
+      },
+      {
+        "id": "d_9fe60106",
+        "text": "Vertagung von Tagesordnungspunkt 1 (Wahl der/des Vorsitzenden).",
+        "result": "vertagt"
+      },
+      {
+        "id": "d_bd02f7c8",
+        "text": "Einstimmiger Beschluss der Zeitschiene für die Haushaltsberatungen 2024/25.",
+        "result": "angenommen"
+      },
+      {
+        "id": "d_024ca825",
+        "text": "Einstimmiger Beschluss der Sitzungstermine für das Jahr 2024.",
+        "result": "angenommen"
+      }
+    ],
+    "attendees": []
+  },
+  {
+    "id": "s_022",
+    "date": "2023-06-12T10:00:00Z",
+    "title": "22. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
+    "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-022-bp.pdf",
+    "type": "Beschlussprotokoll",
+    "topics": [
+      "Richtlinien der Regierungspolitik",
+      "Einführung der elektronischen Akte",
+      "Jahresbericht Datenschutz 2022",
+      "Wohnberechtigungsschein Online-Antrag"
+    ],
+    "decisions": [
+      {
+        "id": "d_32c43a28",
+        "text": "Wahl des Abgeordneten Marc Vallendar (AfD) zum Ausschussvorsitzenden.",
+        "result": "abgelehnt"
+      },
+      {
+        "id": "d_a6b5bbe4",
+        "text": "Vertagung der Wahl des Ausschussvorsitzenden.",
+        "result": "vertagt"
+      },
+      {
+        "id": "d_9f2c8235",
+        "text": "Abschluss der Besprechung zu den Richtlinien der Regierungspolitik.",
+        "result": "zur Kenntnis genommen"
+      },
+      {
+        "id": "d_57a09766",
+        "text": "Abschluss der Besprechung zur Einführung der elektronischen Akte.",
+        "result": "zur Kenntnis genommen"
+      }
+    ],
+    "attendees": []
+  },
+  {
+    "id": "s_021",
+    "date": "2023-05-22T10:00:00Z",
+    "title": "21. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
+    "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-021-bp.pdf",
+    "type": "Beschlussprotokoll",
+    "topics": [
+      "Konstituierung und Wahlen des Ausschusses",
+      "Verfahrensregeln und Sitzungstermine",
+      "Zuständigkeiten der neuen CDO"
+    ],
+    "decisions": [
+      {
+        "id": "d_f0c9f767",
+        "text": "Ablehnung von Marc Vallendar (AfD) als Vorsitzender des Ausschusses.",
+        "result": "abgelehnt"
+      },
+      {
+        "id": "d_de43d6ca",
+        "text": "Wahl von Johannes Kraft (CDU) zum stellvertretenden Vorsitzenden.",
+        "result": "angenommen"
+      },
+      {
+        "id": "d_2fadf17d",
+        "text": "Beschluss der Verfahrensregeln des Ausschusses für die 19. Wahlperiode.",
+        "result": "angenommen"
+      },
+      {
+        "id": "d_0e977d8d",
+        "text": "Beschluss des Terminplans für die Sitzungen ab Juni 2023.",
+        "result": "angenommen"
+      }
+    ],
+    "attendees": []
+  },
+  {
+    "id": "s_020",
+    "date": "2023-02-08T10:00:00Z",
+    "title": "20. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
+    "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-020-bp.pdf",
+    "type": "Beschlussprotokoll",
+    "topics": [
+      "Auszahlungsplattform für Studierenden-Energiepauschale",
+      "Datenschutzbericht 2021 und Doctolib-Nutzung",
+      "Rechtsanspruch auf digitale Verwaltungsdienste"
+    ],
+    "decisions": [
+      {
+        "id": "d_1897648a",
+        "text": "Empfehlung an das Plenum, den FDP-Antrag auf gesetzlichen Anspruch auf Nutzung digitaler Dienste (Drs. 19/0478) abzulehnen.",
+        "result": "abgelehnt"
+      },
+      {
+        "id": "d_852e019f",
+        "text": "Vertagung der Beratung der Stellungnahme des Senats zum Bericht der Datenschutzbeauftragten für das Jahr 2021 (Drs. 19/0859).",
+        "result": "vertagt"
+      }
+    ],
+    "attendees": []
+  },
+  {
+    "id": "s_019",
+    "date": "2023-01-25T10:00:00Z",
+    "title": "19. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
+    "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-019-bp.pdf",
+    "type": "Beschlussprotokoll",
+    "topics": [
+      "Google Forms bei Härtefallfonds",
+      "Cybersecurity im Land Berlin",
+      "Strategie Gemeinsam Digital Berlin"
+    ],
+    "decisions": [
+      {
+        "id": "d_b34da551",
+        "text": "Einvernehmliche Vereinbarung zur Anfertigung eines Wortprotokolls für die Anhörung zur Digitalisierungs- und SmartCity-Strategie.",
+        "result": "angenommen"
+      },
+      {
+        "id": "d_e1342fcf",
+        "text": "Vertagung der Besprechungspunkte zur Smart-City- und Digitalisierungsstrategie zwecks Erstellung und Auswertung des Wortprotokolls.",
+        "result": "vertagt"
+      }
+    ],
+    "attendees": []
+  },
+  {
+    "id": "s_018",
+    "date": "2023-01-11T10:00:00Z",
+    "title": "18. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
+    "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-018-bp.pdf",
+    "type": "Beschlussprotokoll",
+    "topics": [
+      "Reform des ITDZ Berlin",
+      "Abschaffung des Schriftformerfordernisses",
+      "Datenschutz beim GKDZ",
+      "Berliner Datenschutzgesetz und EU-Verfahren",
+      "Kostenloses WLAN Free Wifi Berlin"
+    ],
+    "decisions": [
+      {
+        "id": "d_2580f2e4",
+        "text": "Stellungnahme des Senats zum Bericht der Berliner Beauftragten für Datenschutz und Informationsfreiheit für das Jahr 2020 (Drs. 19/0069)",
+        "result": "zur Kenntnis genommen"
+      },
+      {
+        "id": "d_a6583fab",
+        "text": "Besprechung: Kostenloses WLAN an ausgewählten Orten: „Free Wifi Berlin“",
+        "result": "vertagt"
+      }
+    ],
+    "attendees": []
+  },
+  {
+    "id": "s_017",
+    "date": "2022-12-14T10:00:00Z",
+    "title": "17. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
+    "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-017-bp.pdf",
+    "type": "Beschlussprotokoll",
+    "topics": [
+      "Berliner Transparenzgesetz",
+      "E-Mail-Adressen für Lehrkräfte",
+      "E-Government-Gesetz Dashboard"
+    ],
+    "decisions": [
+      {
+        "id": "d_a7adbd90",
+        "text": "Absetzung und Vertagung des Antrags der Fraktion der FDP zum Berliner Transparenzgesetz (Drucksache 19/0371).",
+        "result": "vertagt"
+      },
+      {
+        "id": "d_bddb2387",
+        "text": "Vertagung des Besprechungspunkts zu den E-Mail-Adressen für Berliner Lehrkräfte zwecks Erstellung eines Wortprotokolls.",
+        "result": "vertagt"
+      }
+    ],
+    "attendees": []
+  },
+  {
+    "id": "s_016",
+    "date": "2022-11-30T10:00:00Z",
+    "title": "16. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
+    "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-016-bp.pdf",
+    "type": "Beschlussprotokoll",
+    "topics": [
+      "Reform der Berliner Verwaltung",
+      "Zukunft der Berliner Datenschutzbehörde",
+      "Digitalisierung von Bürgerdiensten"
+    ],
+    "decisions": [
+      {
+        "id": "d_fad9763b",
+        "text": "Besprechung zur Zukunft und den Herausforderungen der Berliner Datenschutzbehörde",
+        "result": "zur Kenntnis genommen"
+      },
+      {
+        "id": "d_aaceb358",
+        "text": "Stellungnahme des Senats zum Bericht der Datenschutzbeauftragten für das Jahr 2020 (Drucksache 19/0069)",
+        "result": "vertagt"
+      },
+      {
+        "id": "d_ce02f734",
+        "text": "Petition von Frau L. zu unzureichenden Befugnissen der Datenschutzbeauftragten",
+        "result": "vertagt"
+      }
+    ],
+    "attendees": []
+  },
+  {
+    "id": "s_015",
+    "date": "2022-11-16T10:00:00Z",
+    "title": "15. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
+    "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-015-bp.pdf",
+    "type": "Beschlussprotokoll",
+    "topics": [
+      "Einführung der E-Akte",
+      "Digitale Ausstattung von Schulen",
+      "WLAN-Ausbau an Schulen"
+    ],
+    "decisions": [
+      {
+        "id": "d_8bc68f93",
+        "text": "Vertagung der Besprechung zur digitalen Ausstattung von Schulen, Schülerinnen und Schülern sowie Lehrkräften.",
+        "result": "vertagt"
+      },
+      {
+        "id": "d_c35308e0",
+        "text": "Abschluss der Besprechung zum Stand des Ausbaus der WLAN-Infrastruktur an den Berliner Schulstandorten.",
+        "result": "zur Kenntnis genommen"
+      }
+    ],
+    "attendees": []
+  },
+  {
+    "id": "s_014",
+    "date": "2022-10-19T10:00:00Z",
+    "title": "14. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
+    "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-014-bp.pdf",
+    "type": "Beschlussprotokoll",
+    "topics": [
+      "Breitbandausbau in Berlin",
+      "Zahlungsmittel in Bürgerämtern"
+    ],
+    "decisions": [
+      {
+        "id": "d_d0a5eb12",
+        "text": "Vertagung des Besprechungspunkts zum Breitbandausbau in Berlin, bis das Wortprotokoll der Anhörung vorliegt und ausgewertet werden kann.",
+        "result": "vertagt"
+      },
+      {
+        "id": "d_ed90740d",
+        "text": "Einvernehmlicher Abschluss der Besprechungspunkte zum CityLab Berlin und den digitalen Innovationsnetzwerken des Landes Berlin.",
+        "result": "zur Kenntnis genommen"
+      },
+      {
+        "id": "d_12cdb621",
+        "text": "Absetzung des Besprechungspunkts zur Berliner Datenschutzbehörde von der Tagesordnung der 14. Sitzung.",
+        "result": "angenommen"
+      }
+    ],
+    "attendees": []
+  },
+  {
+    "id": "s_013",
+    "date": "2022-10-05T10:00:00Z",
+    "title": "13. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
+    "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-013-bp.pdf",
+    "type": "Beschlussprotokoll",
+    "topics": [
+      "Stadtportal berlin.de",
+      "Landeskrankenhausgesetz",
+      "Einführung der BundID",
+      "IT-Sicherheit der Infrastruktur"
+    ],
+    "decisions": [
+      {
+        "id": "d_85eda62a",
+        "text": "Empfehlung zur Annahme des Antrags zur Änderung des Landeskrankenhausgesetzes (Drucksache 19/0529).",
+        "result": "angenommen"
+      },
+      {
+        "id": "d_c465d16a",
+        "text": "Einvernehmliche Beendigung der Besprechung zur Neuaufstellung des Stadtportals berlin.de.",
+        "result": "zur Kenntnis genommen"
+      }
+    ],
+    "attendees": []
+  },
+  {
+    "id": "s_012",
+    "date": "2022-09-21T10:00:00Z",
+    "title": "12. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
+    "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-012-bp.pdf",
+    "type": "Beschlussprotokoll",
+    "topics": [
+      "Elektronische Wohnsitzanmeldung in Berlin",
+      "Urteil zur Vorratsdatenspeicherung",
+      "Digitalisierung der Berliner Krankenhäuser",
+      "Open-Source-Strategie für Berlin",
+      "Verfahrensverzeichnis für automatisierte Entscheidungen"
+    ],
+    "decisions": [
+      {
+        "id": "d_a1dfa9fc",
+        "text": "Empfehlung zur Ablehnung des Antrags der CDU (Drucksache 19/0207) zur Digitalisierung der Krankenhäuser.",
+        "result": "abgelehnt"
+      },
+      {
+        "id": "d_855242a5",
+        "text": "Empfehlung zur Annahme des Antrags der Koalitionsfraktionen (Drucksache 19/0480) für eine Open-Source-Strategie.",
+        "result": "angenommen"
+      },
+      {
+        "id": "d_cf170f91",
+        "text": "Empfehlung zur Ablehnung des Antrags der FDP (Drucksache 19/0406) für ein automatisiertes Verfahrensverzeichnis.",
+        "result": "abgelehnt"
+      },
+      {
+        "id": "d_f9789ce5",
+        "text": "Einstimmige Festlegung der Sitzungstermine für das Jahr 2023.",
+        "result": "angenommen"
+      }
+    ],
+    "attendees": []
+  },
+  {
+    "id": "s_011",
+    "date": "2022-09-07T10:00:00Z",
+    "title": "11. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
+    "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-011-bp.pdf",
+    "type": "Beschlussprotokoll",
+    "topics": [
+      "Umsetzung des Online-Zugangsgesetzes",
+      "Digitalisierung der Berliner Krankenhäuser",
+      "Vorlage des IT-Sicherheitsberichts",
+      "Digitalisierungs- und SmartCity-Strategie"
+    ],
+    "decisions": [
+      {
+        "id": "d_6b2e3af5",
+        "text": "Besprechung zur Umsetzung des Online-Zugangsgesetzes (OZG) im Land Berlin.",
+        "result": "zur Kenntnis genommen"
+      },
+      {
+        "id": "d_5ea853e9",
+        "text": "Antrag der CDU zur Korrektur datenschutzrechtlicher Restriktionen im Landeskrankenhausgesetz.",
+        "result": "vertagt"
+      },
+      {
+        "id": "d_1878efc9",
+        "text": "Empfehlung an das Plenum, den Antrag der FDP zur Vorlage des IT-Sicherheitsberichts für erledigt zu erklären.",
+        "result": "angenommen"
+      },
+      {
+        "id": "d_c9209190",
+        "text": "Besprechung zur neuen integrierten Digitalisierungs- und SmartCity-Strategie 'Gemeinsam Digital: Berlin'.",
+        "result": "vertagt"
+      }
+    ],
+    "attendees": []
+  },
+  {
+    "id": "s_010",
+    "date": "2022-06-22T10:00:00Z",
+    "title": "10. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
+    "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-010-bp.pdf",
+    "type": "Beschlussprotokoll",
+    "topics": [
+      "CityLAB Berlin und Innovationsnetzwerke",
+      "IRIS-Verfahren und Zuständigkeiten"
+    ],
+    "decisions": [
+      {
+        "id": "d_4a35195d",
+        "text": "Einvernehmliche Vereinbarung zur Anfertigung eines Wortprotokolls gemäß § 26 Abs. 7 Satz 4 GO Abghs für die Anhörung zum CityLAB.",
+        "result": "angenommen"
+      },
+      {
+        "id": "d_a896a466",
+        "text": "Vertagung der Besprechungspunkte zu CityLAB Berlin und den digitalen Innovationsnetzwerken zwecks Erstellung und Auswertung des Wortprotokolls.",
+        "result": "vertagt"
+      }
+    ],
+    "attendees": []
+  },
+  {
+    "id": "s_009",
+    "date": "2022-06-08T10:00:00Z",
+    "title": "9. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
+    "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-009-bp.pdf",
+    "type": "Beschlussprotokoll",
+    "topics": [
+      "Umsetzung des Online-Zugangsgesetzes",
+      "Verwaltungsstruktur des Chief Digital Officer",
+      "Veröffentlichung der Berliner Starkregenkarte"
+    ],
+    "decisions": [
+      {
+        "id": "d_41f44a88",
+        "text": "Besprechung zur Umsetzung des Online-Zugangsgesetzes (OZG) – Berlin geht voran und leistet seinen Beitrag",
+        "result": "vertagt"
+      },
+      {
+        "id": "d_682f86d1",
+        "text": "Besprechung zu Der Chief Digital Officer – eine neue Verwaltungsstruktur",
+        "result": "zur Kenntnis genommen"
+      }
+    ],
+    "attendees": []
+  },
+  {
+    "id": "s_008",
+    "date": "2022-05-18T10:00:00Z",
+    "title": "8. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
+    "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-008-bp.pdf",
+    "type": "Beschlussprotokoll",
+    "topics": [
+      "Digitale Sicherheit der Verwaltung",
+      "Jahresbericht der BlnBDI"
+    ],
+    "decisions": [
+      {
+        "id": "d_146d7867",
+        "text": "Empfehlung an das Plenum, den CDU-Antrag (Drucksache 19/0245) zur IT-Sicherheit in Behörden und Landesbetrieben abzulehnen.",
+        "result": "abgelehnt"
+      },
+      {
+        "id": "d_96a3458a",
+        "text": "Die Besprechung zur digitalen Sicherheit der Berliner Verwaltung wurde einvernehmlich abgeschlossen.",
+        "result": "zur Kenntnis genommen"
+      }
+    ],
+    "attendees": []
+  },
+  {
+    "id": "s_007",
+    "date": "2022-05-04T10:00:00Z",
+    "title": "7. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
+    "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-007-bp.pdf",
+    "type": "Beschlussprotokoll",
+    "topics": [
+      "Haushaltsberatungen Einzelplan 25",
+      "Einführung der E-Akte",
+      "Open Source in der Verwaltung",
+      "Migrationsreadiness der Bezirke",
+      "Internetnutzung im Strafvollzug"
+    ],
+    "decisions": [
+      {
+        "id": "d_ab5532de",
+        "text": "Empfehlung zur Annahme des Einzelplans 25 sowie der IKT-Titel aller Einzelpläne",
+        "result": "angenommen"
+      },
+      {
+        "id": "d_d751442d",
+        "text": "Änderungsantrag der FDP zur Kürzung der Mittel für Hackathons bei Veranstaltungen (Titel 54053)",
+        "result": "abgelehnt"
+      },
+      {
+        "id": "d_feb72c41",
+        "text": "Änderungsantrag der AfD zur Streichung der Internetkurse für Gefangene in der JVA Tegel (Titel 54010)",
+        "result": "abgelehnt"
+      },
+      {
+        "id": "d_c9619a33",
+        "text": "Änderungsantrag der CDU zur Einführung eines Innovationsgeldes für das ITDZ (Titel 54803)",
+        "result": "abgelehnt"
+      },
+      {
+        "id": "d_d4ae82fc",
+        "text": "Änderungsantrag der FDP zur Aufstockung der Mittel für die Migrationsreadiness (Titel 51112)",
+        "result": "abgelehnt"
+      }
+    ],
+    "attendees": []
+  },
+  {
+    "id": "s_006",
+    "date": "2022-04-06T10:00:00Z",
+    "title": "6. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
+    "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-006-bp.pdf",
+    "type": "Beschlussprotokoll",
+    "topics": [
+      "Registrierung ukrainischer Geflüchteter",
+      "Open Data für Berlin",
+      "Polizei-App für Berlin"
+    ],
+    "decisions": [
+      {
+        "id": "d_82c1bb4b",
+        "text": "Empfehlung zur Ablehnung des Antrags der Fraktion der CDU 'Eine Polizei-App für Berlin!' (Drucksache 19/0160)",
+        "result": "abgelehnt"
+      }
+    ],
+    "attendees": []
+  },
+  {
+    "id": "s_005",
+    "date": "2022-03-23T10:00:00Z",
+    "title": "5. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
+    "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-005-bp.pdf",
+    "type": "Beschlussprotokoll",
+    "topics": [
+      "Haushaltsplan 2022/2023",
+      "IKT-Migration zum ITDZ",
+      "Krisenvorsorge und Cybersicherheit"
+    ],
+    "decisions": [
+      {
+        "id": "d_a956b94f",
+        "text": "Vertagung der Beratung zum Haushaltsgesetz 2022/2023 (Einzelplan 25 und IKT-Titel) bis zur zweiten Lesung am 4. Mai 2022.",
+        "result": "vertagt"
+      },
+      {
+        "id": "d_b572ad6b",
+        "text": "Anforderung zahlreicher schriftlicher Berichte zu den in der Synopse aufgeworfenen Fragen bis zum 19. April 2022.",
+        "result": "angenommen"
+      }
+    ],
+    "attendees": []
+  },
+  {
+    "id": "s_004",
+    "date": "2022-03-09T10:00:00Z",
+    "title": "4. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
+    "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-004-bp.pdf",
+    "type": "Beschlussprotokoll",
+    "topics": [
+      "ITDZ als zentraler IT-Dienstleister",
+      "Die Berliner Gigabit Strategie",
+      "Verfahrensregeln für Haushaltsberatungen"
+    ],
+    "decisions": [
+      {
+        "id": "d_dee78b55",
+        "text": "Ausschluss der Öffentlichkeit für einen Teil der Beratung zu TOP 2 aus Sicherheitsgründen.",
+        "result": "angenommen"
+      },
+      {
+        "id": "d_a82869ea",
+        "text": "Antrag der CDU-Fraktion auf Vorverlegung des Sitzungsbeginns der Haushaltsberatung auf 8:00 Uhr.",
+        "result": "abgelehnt"
+      },
+      {
+        "id": "d_1afef731",
+        "text": "Antrag auf Vorverlegung des Sitzungsbeginns der Haushaltsberatung auf 9:00 Uhr.",
+        "result": "angenommen"
+      },
+      {
+        "id": "d_df6f177b",
+        "text": "Beschluss der vorgelegten Verfahrensregeln für die Haushaltsberatungen 2022/2023.",
+        "result": "angenommen"
+      }
+    ],
+    "attendees": []
+  },
+  {
+    "id": "s_003",
+    "date": "2022-02-23T10:00:00Z",
+    "title": "3. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
+    "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-003-bp.pdf",
+    "type": "Beschlussprotokoll",
+    "topics": [
+      "Richtlinien der Regierungspolitik",
+      "Blockchain-basierte digitale Schulzeugnisse",
+      "VPN-Ausfall im Landesnetz"
+    ],
+    "decisions": [
+      {
+        "id": "d_226c67bb",
+        "text": "Verzicht auf eine formelle Anhörung zu Tagesordnungspunkt 2 zugunsten einer direkten Aussprache.",
+        "result": "angenommen"
+      },
+      {
+        "id": "d_eda653c5",
+        "text": "Anfertigung eines Wortprotokolls für die Besprechung der Richtlinien der Regierungspolitik (TOP 2).",
+        "result": "angenommen"
+      },
+      {
+        "id": "d_c72efc93",
+        "text": "Abschluss der Besprechung zu den Richtlinien der Regierungspolitik (TOP 2).",
+        "result": "zur Kenntnis genommen"
+      }
+    ],
+    "attendees": []
+  },
+  {
+    "id": "s_002",
+    "date": "2022-02-09T10:00:00Z",
+    "title": "2. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
+    "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-002-bp.pdf",
+    "type": "Beschlussprotokoll",
+    "topics": [
+      "Digitalisierung der Schule",
+      "Datenabfragen durch die Polizei"
+    ],
+    "decisions": [
+      {
+        "id": "d_0c78e9b4",
+        "text": "Vorlage zur Kenntnisnahme: Stellungnahme des Senats zum Bericht der Datenschutzbeauftragten für das Jahr 2020 (Drucksache 19/0069)",
+        "result": "vertagt"
+      }
+    ],
+    "attendees": []
+  },
+  {
+    "id": "s_001",
+    "date": "2022-01-26T10:00:00Z",
+    "title": "1. Sitzung des Ausschusses für Digitalisierung und Datenschutz",
+    "pdfUrl": "https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-001-bp.pdf",
+    "type": "Beschlussprotokoll",
+    "topics": [
+      "Verfahrensregeln des Ausschusses",
+      "Vorstellung des CDO"
+    ],
+    "decisions": [
+      {
+        "id": "d_f2cf9012",
+        "text": "Wahl von Christian Wolf (FDP) zum Vorsitzenden des Ausschusses",
+        "result": "angenommen"
+      },
+      {
+        "id": "d_27081bbc",
+        "text": "Verlegung des regulären Sitzungsbeginns auf 9:30 Uhr",
+        "result": "angenommen"
+      },
+      {
+        "id": "d_39f148e1",
+        "text": "Änderung der Regelung zu Anhörungen in eine Soll-Vorschrift",
+        "result": "angenommen"
+      },
+      {
+        "id": "d_c4a3dd9c",
+        "text": "Annahme der geänderten Verfahrensregeln des Ausschusses",
+        "result": "angenommen"
+      },
+      {
+        "id": "d_0aff0b9f",
+        "text": "Beschluss des Terminplans für die Sitzungstermine 2022",
+        "result": "angenommen"
       }
     ],
     "attendees": []
