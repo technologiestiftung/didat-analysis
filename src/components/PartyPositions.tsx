@@ -96,7 +96,9 @@ export function PartyPositions({
 									<td className="px-4 py-3 font-medium whitespace-nowrap align-middle">
 										<DrawerTrigger asChild>
 											<button className="text-primary hover:underline text-left">
-												{new Date(sessionId).toLocaleDateString("de-DE")}
+												{session?.date
+													? new Date(session.date).toLocaleDateString("de-DE")
+													: sessionId}
 												<br />
 												<span className="text-xs font-normal text-muted-foreground mt-1 block">
 													Details öffnen

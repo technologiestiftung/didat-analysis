@@ -279,3 +279,4 @@ __pycache__/
 */**/build/
 .venv/
 .env
+.pdf_cache/

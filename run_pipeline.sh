@@ -8,3 +8,4 @@ python scrape_docs.py
 python parse_pdfs.py
 python analyze.py
 python aggregate.py
+python validate.py

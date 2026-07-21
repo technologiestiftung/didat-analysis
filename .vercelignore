@@ -8,3 +8,4 @@ parsed_texts.json
 analysis_results.json
 page_dump.html
 extracted_topics.json
+.pdf_cache

@@ -1,3 +1,4 @@
 PyMuPDF==1.23.21
-google-generativeai
+google-genai
 playwright==1.42.0
+requests

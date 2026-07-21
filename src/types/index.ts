@@ -1,10 +1,10 @@
 export interface Session {
-	id: string; // z.B. "2024-03-14"
+	id: string; // z.B. "s_001" (stable session number)
 	date: string; // ISO date string
 	title: string; // Offizieller Sitzungstitel
 	pdfUrl: string; // Link zum Originalprotokoll
 	type: "Einladung" | "Beschlussprotokoll";
-	topics: string[]; // Extrahierte Themen-IDs
+	topics: string[]; // Themennamen für Anzeige
 	decisions: Decision[];
 	attendees: Attendee[];
 }
