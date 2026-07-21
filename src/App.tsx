@@ -56,8 +56,7 @@ export default function App() {
 						rel="noreferrer"
 						className="text-primary hover:underline"
 					>
-						Source Code:
-						https://github.com/technologiestiftung/didat-analysis
+						Source Code
 					</a>
 				</div>
 			</footer>
