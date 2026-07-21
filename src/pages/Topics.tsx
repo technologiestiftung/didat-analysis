@@ -29,7 +29,7 @@ export function Topics() {
 		{ topicId: string; positions: PartyPosition[] }[]
 	>([]);
 	const [selectedCategory, setSelectedCategory] = useState<TopicCategory>(
-		"Bürgerdienste & Digitale Anträge"
+		"Bürgerdienste & Digitale Anträge",
 	);
 
 	useEffect(() => {
