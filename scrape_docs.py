@@ -34,8 +34,8 @@ def scrape_sessions():
         
         for row in rows:
             text = row.inner_text()
-            # Process sessions from Feb 2023 to present
-            if any(year in text for year in ["2023", "2024", "2025", "2026"]):
+            # Process sessions from 26.01.2022 to present
+            if any(year in text for year in ["2022", "2023", "2024", "2025", "2026"]):
                 match = re.search(r"(\d{1,2})\.(\d{1,2})\.(\d{4})", text)
                 if match:
                     d, m, y = match.groups()
@@ -46,7 +46,7 @@ def scrape_sessions():
                             year_int = 2025
                             
                         session_date = datetime(year_int, int(m), int(d))
-                        if session_date >= datetime(2023, 2, 12):
+                        if session_date >= datetime(2022, 1, 26):
                             links = row.query_selector_all("a")
                             pdf_urls = []
                             for link in links:
@@ -73,7 +73,7 @@ def scrape_sessions():
     with open(output_file, "w", encoding="utf-8") as f:
         json.dump(results, f, indent=2, ensure_ascii=False)
     
-    print(f"Scraped {len(results)} unique sessions from Feb 2023 to present. Saved to {output_file}.")
+    print(f"Scraped {len(results)} unique sessions from 26.01.2022 to present. Saved to {output_file}.")
 
 if __name__ == "__main__":
     scrape_sessions()
